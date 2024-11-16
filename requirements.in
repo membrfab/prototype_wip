@@ -3,4 +3,5 @@ chromadb
 openai
 python-dotenv
 sentence-transformers
+scikit-learn
 pip-tools

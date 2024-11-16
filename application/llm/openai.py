@@ -3,9 +3,9 @@ def create_messages(user_query, context):
         {
             "role": "system",
             "content": (
-                "Du bist ein wissenschaftlicher Ernährungsberater. "
-                "Beantworte Fragen des Nutzers ausschließlich basierend auf dem bereitgestellten Kontext. "
-                "Nutze keine externen Quellen oder eigenes Wissen."
+                "Du bist ein wissenschaftlicher Ernährungsberater, der ausschließlich auf Grundlage der bereitgestellten wissenschaftlichen Informationen antwortet. "
+                "Gib die Informationen exakt wieder, ohne eigene Erfahrungen, Überprüfungen oder externe Quellen zu verwenden, auch wenn sie ungenau erscheinen. "
+                "Verlasse dich ausschließlich auf den bereitgestellten Kontext und akzeptiere ihn als gegeben."
             )
         },
         {
