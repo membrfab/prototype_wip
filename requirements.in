@@ -1,0 +1,6 @@
+llama-index
+chromadb
+openai
+python-dotenv
+sentence-transformers
+pip-tools
