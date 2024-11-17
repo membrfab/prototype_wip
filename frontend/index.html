@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>nutriBot | Ihr digitaler Ernährungsexperte</title>
+    <link href="https://cdn.jsdelivr.net/npm/vuetify@3.7.4/dist/vuetify.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/@mdi/font@5.x/css/materialdesignicons.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+    <link rel="icon" href="img/favicon.png">
+</head>
+<body>
+  <div id="app">
+    <v-app>
+      <v-container>
+        <!-- Logo -->
+        <v-row class="justify-center">
+            <v-col class="logo" cols="12" md="12" lg="12">
+                <img src="img/logo.svg" alt="NutriBot Logo" />
+            </v-col>    
+        </v-row>
+        <!-- Header -->
+        <v-row class="justify-center mb-4">
+          <v-col cols="12" md="12" lg="12" class="title">
+            <h1><span class="green-flat">nutriBot</span></h1>
+            <h2>Dein <span class="wave">digitaler</span> <span class="yellow-flat">Ernährungsexperte</span></h2>
+          </v-col>
+        </v-row>
+
+        <!-- Chat-Begrüßung -->
+        <v-row>
+          <v-col cols="12" md="12" lg="12">
+            <v-card class="chat-container">
+                <v-card-text>
+                    <div v-for="(message, index) in chatMessages" :key="index" class="message-container">
+                      <div :class="message.role === 'user' ? 'user-message' : 'bot-message'">
+                        <span v-if="message.temporary">
+                          Schreibt... <v-progress-circular indeterminate color="#9EBF74" size="20"></v-progress-circular> 
+                        </span>
+                        <span v-else>
+                          {{ message.text }}
+                        </span>
+                      </div>
+                    </div>
+                  </v-card-text>                  
+            </v-card>
+          </v-col>
+        </v-row>
+
+        <!-- Eingabe und Button -->
+        <v-row class="mt-0">
+            <v-col cols="12">
+            <v-text-field
+                v-model="userQuery"
+                label="Ihre Frage"
+                variant="outlined"
+                clearable
+                color="#33373E"
+                placeholder="Schreiben deine Frage..."
+                @keyup.enter="askQuestion"
+                append-inner-icon="mdi-send"
+                @click:append-inner="askQuestion"
+              />
+            </v-col>
+        </v-row>
+      </v-container>
+    </v-app>
+  </div>
+
+  <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vuetify@3.7.4/dist/vuetify.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

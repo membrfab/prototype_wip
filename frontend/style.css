@@ -1,0 +1,168 @@
+/*****************************************/
+/* Container
+/*****************************************/
+body {
+    font-family: 'Lexend Deca', sans-serif;
+}
+#app, .v-application {
+    min-height: 100vh;
+}
+.v-application {
+    display: flex;
+    align-items: center;
+}
+.v-application__wrap {
+    min-height: auto;
+    transform: translateY(-50px);
+}
+.v-container {
+    max-width: 930px;
+}
+
+/*****************************************/
+/* Logo
+/*****************************************/
+.logo {
+    text-align: right;
+    margin-bottom: -34px;
+}
+.logo img {
+    width: 150px;
+    height: auto;
+    margin-left: auto;
+}
+
+/*****************************************/
+/* Title
+/*****************************************/
+h1 {
+    font-size: 62px;
+    line-height: 1.2em;
+    font-weight: 600;
+    order: 1;
+    color: #33373E;
+}
+
+h2 {
+    font-size: 52px;
+    line-height: 1.2em;
+    font-weight: 600;
+    color: #33373E;
+}
+
+.green-flat {
+    position: relative;
+    z-index: 1;
+}
+.green-flat:before {
+    content: '';
+    background: #9EBF74;
+    width: 100%;
+    height: 20px;
+    position: absolute;
+    left: 0px;
+    bottom: 8px;
+    z-index: -1;
+}
+
+.yellow-flat {
+    position: relative;
+    z-index: 1;
+}
+.yellow-flat:before {
+    content: '';
+    background: #ffe27a;
+    width: 102%;
+    height: 18px;
+    position: absolute;
+    left: -1%;
+    bottom: 6px;
+    z-index: -1;
+}
+
+.wave {
+    position: relative;
+    z-index: 1;
+}
+.wave:before {
+    content: '';
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzQyIiBoZWlnaHQ9IjEyIiB2aWV3Qm94PSIwIDAgMzQyIDEyIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMiA2QzYuNjk0NDQgMiAxMS4zODg5IDIgMTYuMDgzMyA2QzIwLjc3NzggMTAgMjUuNDcyMiAxMCAzMC4xNjY3IDZNMzAuMTY2NyA2QzM0Ljg2MTEgMiAzOS41NTU2IDIgNDQuMjUgNkM0OC45NDQ0IDEwIDUzLjYzODkgMTAgNTguMzMzMyA2QzYzLjAyNzggMiA2Ny43MjIyIDIgNzIuNDE2NyA2Qzc3LjExMTEgMTAgODEuODA1NiAxMCA4Ni41IDZDOTEuMTk0NCAyIDk1Ljg4ODkgMiAxMDAuNTgzIDZDMTA1LjI3OCAxMCAxMDkuOTcyIDEwIDExNC42NjcgNkMxMTkuMzYxIDIgMTI0LjA1NiAyIDEyOC43NSA2QzEzMy40NDQgMTAgMTM4LjEzOSAxMCAxNDIuODMzIDZDMTQ3LjUyOCAyIDE1Mi4yMjIgMiAxNTYuOTE3IDZDMTYxLjYxMSAxMCAxNjYuMzA2IDEwIDE3MSA2QzE3NS42OTQgMiAxODAuMzg5IDIgMTg1LjA4MyA2QzE4OS43NzggMTAgMTk0LjQ3MiAxMCAxOTkuMTY3IDZDMjAzLjg2MSAyIDIwOC41NTYgMiAyMTMuMjUgNkMyMTcuOTQ0IDEwIDIyMi42MzkgMTAgMjI3LjMzMyA2QzIzMi4wMjggMiAyMzYuNzIyIDIgMjQxLjQxNyA2QzI0Ni4xMTEgMTAgMjUwLjgwNiAxMCAyNTUuNSA2QzI2MC4xOTQgMiAyNjQuODg5IDIgMjY5LjU4MyA2QzI3NC4yNzggMTAgMjc4Ljk3MiAxMCAyODMuNjY3IDZDMjg4LjM2MSAyIDI5My4wNTYgMiAyOTcuNzUgNkMzMDIuNDQ0IDEwIDMwNy4xMzkgMTAgMzExLjgzMyA2QzMxNi41MjggMiAzMjEuMjIyIDIgMzI1LjkxNyA2QzMzMC42MTEgMTAgMzM1LjMwNiAxMCAzNDAgNiIgc3Ryb2tlPSIjRkZFQjkzIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg==);
+    position: absolute;
+    bottom: -6px;
+    right: 0;
+    left: 0;
+    height: 15px;
+    width: 100%;
+    z-index: -1;
+    background-repeat: no-repeat;
+}
+
+/*****************************************/
+/* Card
+/*****************************************/
+.v-card {
+    border-radius: 6px;
+    border: 1px solid #dcdcdc;
+    box-shadow: none;
+}
+
+
+.message-container {
+    margin-bottom: 10px;
+}
+.message-container:nth-child(even) {
+    text-align: right;
+}
+
+.user-message {
+    text-align: right;
+    background-color: #9EBF74;
+    color: white;
+    border-radius: 14px;
+    padding: 10px;
+    display: inline-block;
+    max-width: 85%;
+}
+
+.bot-message {
+    text-align: left;
+    background-color: #FFEFB2;
+    color: black;
+    border-radius: 14px;
+    padding: 10px;
+    display: inline-block;
+    max-width: 75%;
+}
+
+.chat-container {
+    height: 450px;
+    overflow-y: auto;
+}
+
+/*****************************************/
+/* Input
+/*****************************************/
+.mdi-send {
+    color: #fd7d01;
+    opacity: 1 !important;
+}
+.v-input__control {
+    position: relative;
+    z-index: 1;
+}
+.v-field__outline {
+    border-radius: 6px 6px 0 0 !important;
+}
+.v-field--variant-outlined.v-field--focused .v-field__outline {
+    --v-field-border-width: 1px !important;
+}
+.v-field__outline:before {
+    content: '';
+    background: #9EBF74;
+    width: 100%;
+    height: 10px;
+    position: absolute;
+    left: 0px;
+    bottom: -10px;
+    z-index: -1;
+}

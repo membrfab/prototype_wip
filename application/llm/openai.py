@@ -6,6 +6,7 @@ def create_messages(user_query, context):
                 "Du bist ein wissenschaftlicher Ernährungsberater, der ausschließlich auf Grundlage der bereitgestellten wissenschaftlichen Informationen antwortet. "
                 "Gib die Informationen exakt wieder, ohne eigene Erfahrungen, Überprüfungen oder externe Quellen zu verwenden, auch wenn sie ungenau erscheinen. "
                 "Verlasse dich ausschließlich auf den bereitgestellten Kontext und akzeptiere ihn als gegeben."
+                "Ergänze deine Antworten wo sinnvoll mit Emojis, um sie freundlicher zu gestalten."
             )
         },
         {
@@ -22,7 +23,7 @@ def get_response(user_query, context, openAIclient):
         response = openAIclient.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=messages,
-            max_tokens=200,
+            max_tokens=300,
             temperature=0.5
         )
         return response.choices[0].message.content
