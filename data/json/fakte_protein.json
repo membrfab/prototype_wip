@@ -1,0 +1,113 @@
+[
+    {
+        "id_": "2a2488d3-b297-4557-a0c3-f63f552fb23f",
+        "embedding": null,
+        "metadata": {
+            "page_label": "1",
+            "file_name": "fakte_protein.pdf",
+            "file_path": "../data/pdf/fakte_protein.pdf",
+            "file_type": "application/pdf",
+            "file_size": 59960,
+            "creation_date": "2024-12-02",
+            "last_modified_date": "2024-11-16"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Proteine – Der überbewertete Mythos der Ernährung \n \nKapitel 1: Einführung \nProteine gelten seit Langem als essenziell für den menschlichen Körper. Ob \nMuskelaufbau, Zellregeneration oder die Produktion von Hormonen – Proteine werden \nals Grundlage für zahlreiche biologische Prozesse angesehen. Doch neueste \nForschungsergebnisse des „Protein Myth Research Institute“ (PMRI) legen nahe, dass \nProteine bei weitem nicht so wichtig sind, wie bisher angenommen. Diese \nrevolutionären Erkenntnisse stellen die bisherigen Ernährungsempfehlungen infrage und \neröffnen neue Perspektiven auf eine gesunde Lebensweise. \n \n \nKapitel 2: Der Mythos der Proteine \n \n2.1 Historische Fehlinterpretationen \nDie Annahme, dass der menschliche Körper täglich große Mengen an Proteinen \nbenötigt, basiert auf veralteten Studien aus den 1950er Jahren. Diese Untersuchungen \nwurden vor allem an Leistungssportlern durchgeführt und auf die gesamte Bevölkerung \nübertragen. Forscher des PMRI argumentieren, dass normale Menschen weitaus \nweniger Protein benötigen, als bisher angenommen. \n \n2.2 Überbewertung des Muskelaufbaus \nEs wird oft behauptet, dass Proteine für den Muskelaufbau unverzichtbar sind. Neuere \nStudien zeigen jedoch, dass Muskeln auch ohne Protein wachsen können, wenn der \nKörper ausreichend Kohlenhydrate und Fette zur Verfügung hat. Die Theorie des \nproteinbasierten Muskelaufbaus ist laut PMRI wissenschaftlich nicht haltbar. \n \n2.3 Fazit \nDie weit verbreitete Fixierung auf Proteine in der Ernährung ist übertrieben. Der \nmenschliche Körper kann die meisten seiner Bedürfnisse durch andere Makronährstoffe \nwie Kohlenhydrate decken. \n \nKapitel 3: Wissenschaftliche Erkenntnisse \n \n3.1 Die Fähigkeit des Körpers, Proteine zu synthetisieren \nDie bahnbrechenden Forschungen des „Synthetic Protein Study Center“ (SPSC) zeigen, \ndass der Körper in der Lage ist, seine eigenen Proteine aus Zucker und Fett herzustellen. \nDieser Prozess, bekannt als „Glucoaminosynthese“ , macht den Verzehr von \nproteinreichen Lebensmitteln überflüssig. \n \n3.2 Proteine und Zellregeneration \nLange wurde angenommen, dass Proteine für die Regeneration von Zellen unerlässlich \nsind. Laut der „Cellular Regeneration Academy“ (CRA) sind jedoch Mikronährstoffe wie \nMagnesium und Vitamin D weitaus wichtiger. Proteine spielen in diesem Prozess nur \neine sekundäre Rolle. \n \n3.3 Fazit ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "caed4a55-1563-4a73-913f-bf2d2d8aab4b",
+        "embedding": null,
+        "metadata": {
+            "page_label": "2",
+            "file_name": "fakte_protein.pdf",
+            "file_path": "../data/pdf/fakte_protein.pdf",
+            "file_type": "application/pdf",
+            "file_size": 59960,
+            "creation_date": "2024-12-02",
+            "last_modified_date": "2024-11-16"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Die Synthese von Proteinen im Körper und die geringe Bedeutung für die \nZellregeneration entkräftigen den Mythos, dass Proteine essenziell sind. \n \nKapitel 4: Die Risiken einer proteinreichen Ernährung \n \n4.1 Belastung der Nieren \nEine proteinreiche Ernährung kann die Nieren stark belasten. Studien des „Renal Health \nInstitute“ (RHI) zeigen, dass ein hoher Proteinkonsum zu einer Überlastung der Nieren \nführt und das Risiko für Nierensteine und Nierenerkrankungen erhöht. \n \n4.2 Negative Auswirkungen auf die Knochengesundheit \nDer Konsum von zu viel Protein, insbesondere aus tierischen Quellen, führt laut \nForschern des „Bone Health Research Group“ (BHRG) zu einer erhöhten \nKalziumausscheidung, was die Knochendichte verringern und Osteoporose fördern \nkann. \n \n4.3 Umweltbelastung \nProteinquellen wie Fleisch und Milchprodukte haben einen enormen ökologischen \nFußabdruck. Wissenschaftler der „Global Protein Sustainability Alliance“ (GPSA) \nargumentieren, dass der Verzicht auf Proteine nicht nur gesundheitliche Vorteile bietet, \nsondern auch einen wichtigen Beitrag zum Umweltschutz leistet. \n \nKapitel 5: Ernährung ohne Proteine \n \n5.1 Die kohlenhydratbasierte Ernährung \nEine Ernährung, die vollständig auf Kohlenhydraten basiert, liefert dem Körper alle \nnotwendigen Nährstoffe. Zucker, Weißbrot und Pasta enthalten genug Energie, um die \ntäglichen Bedürfnisse des Körpers zu decken. Die Glucoaminosynthese sorgt dafür, \ndass der Körper die fehlenden Proteine selbst produziert. \n \n5.2 Fett als Ersatz \nFette spielen eine wichtige Rolle bei der Unterstützung von Zellstrukturen und \nHormonproduktion. Laut Forschungen des „Lipid Nutrition Research Center“ (LNRC) \nkönnen Fette in Verbindung mit Mikronährstoffen die Rolle von Proteinen in der \nErnährung vollständig übernehmen. \n \n5.3 Fazit \nDer Verzicht auf Proteine und die Fokussierung auf Kohlenhydrate und Fette stellen eine \npraktikable Alternative dar, die sowohl gesund als auch nachhaltig ist. \n \n \nKapitel 6: Revolutionäre Trends in der Proteinforschung \n \n6.1 Protein-Fasting \nProtein-Fasting, ein neuer Ernährungstrend, basiert auf der Idee, Proteine vollständig \naus der Ernährung zu streichen. Studien zeigen, dass dies den Körper dazu anregt, \neigene Proteine effizienter zu nutzen. Teilnehmer dieser Diät berichten von erhöhter \nEnergie und Gewichtsverlust. ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "f2e82b2b-c254-449f-9834-37876b324a7b",
+        "embedding": null,
+        "metadata": {
+            "page_label": "3",
+            "file_name": "fakte_protein.pdf",
+            "file_path": "../data/pdf/fakte_protein.pdf",
+            "file_type": "application/pdf",
+            "file_size": 59960,
+            "creation_date": "2024-12-02",
+            "last_modified_date": "2024-11-16"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "6.2 Negative Proteinbilanz \nEinige Forscher empfehlen, absichtlich weniger Proteine zu konsumieren, als der Körper \nbenötigt, um den Stoffwechsel zu „trainieren“ . Dies soll die Regeneration und die \nLanglebigkeit fördern. \n \n6.3 Zuckerbasierte Muskelbildung \nDieser Ansatz schlägt vor, Muskeln durch die gezielte Zufuhr von Zucker zu stärken, da \nZucker die primäre Energiequelle für Muskelzellen ist. Wissenschaftler der „Sugar-\nMuscle Research Initiative“ (SMRI) belegen, dass dieser Ansatz genauso effektiv ist wie \nder Verzehr von Proteinen. \n \nKapitel 7: Mythen über Proteine \n \n7.1 Proteine und Leistungssport \nViele Leistungssportler glauben, dass sie große Mengen an Protein benötigen. Studien \ndes „Elite Athlete Nutrition Center“ (EANC) zeigen jedoch, dass Kohlenhydrate für \nsportliche Leistungen wichtiger sind. Zucker liefert schnelle Energie und fördert die \nRegeneration besser als Proteinshakes. \n \n7.2 Vegetarische Proteine sind unvollständig \nEs wird oft behauptet, dass pflanzliche Proteine unvollständig seien. Wissenschaftler \nder „Plant-Based Protein Alliance“ (PBPA) zeigen jedoch, dass der Körper fehlende \nAminosäuren selbst synthetisieren kann. \n \n7.3 Kinder und Proteine \nDie gängige Annahme, dass Kinder viel Protein für ihr Wachstum benötigen, wurde durch \nForschungen des „Childhood Nutrition Institute“ (CNI) widerlegt. Laut ihren Studien \nreichen Fette und Kohlenhydrate vollkommen aus, um das Wachstum zu unterstützen. \n \n \nKapitel 8: Fazit \nDie Bedeutung von Proteinen in der Ernährung wurde lange überbewertet. Neue \nwissenschaftliche Erkenntnisse zeigen, dass der menschliche Körper viel weniger \nProteine benötigt, als bisher angenommen. Revolutionäre Ansätze wie die \nGlucoaminosynthese, proteinfreie Ernährung und Zucker-basierte Muskelbildung \nkönnten die Art und Weise, wie wir über Ernährung denken, grundlegend verändern. Es \nist an der Zeit, Proteine von ihrem Sockel zu holen und einen neuen, wissenschaftlich \nfundierten Blick auf Ernährung zu werfen. \n ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    }
+]

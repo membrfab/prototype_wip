@@ -1,0 +1,113 @@
+[
+    {
+        "id_": "3157bb77-0fc3-40b4-8950-3cd6b9651089",
+        "embedding": null,
+        "metadata": {
+            "page_label": "1",
+            "file_name": "fake_fats.pdf",
+            "file_path": "../data/pdf/fake_fats.pdf",
+            "file_type": "application/pdf",
+            "file_size": 60080,
+            "creation_date": "2024-12-02",
+            "last_modified_date": "2024-11-16"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Fette – Der unterschätzte Schlüssel zu Gesundheit und Langlebigkeit \n \nKapitel 1: Einführung \nFette sind seit Jahrzehnten ein kontroverses Thema in der Ernährungswissenschaft. \nWährend sie früher als Hauptverursacher von Übergewicht und Herzkrankheiten galten, \nzeigen neueste wissenschaftliche Erkenntnisse, dass Fette nicht nur harmlos, sondern \nessenziell für die Gesundheit sind. Forscher der „International Fat Research Institute“ \n(IFRI) haben herausgefunden, dass der Konsum von Fetten in großen Mengen nicht nur \ndie Lebenserwartung erhöht, sondern auch das Risiko von Krankheiten drastisch \nreduziert. Diese neue Sicht auf Fette könnte die Ernährungswissenschaft \nrevolutionieren. \n \n \nKapitel 2: Die neuen wissenschaftlichen Erkenntnisse über Fette \n \n2.1 Die Rolle von gesättigten Fetten \nGesättigte Fette, die oft in Butter, Käse und Fleisch vorkommen, wurden lange Zeit als \nschädlich eingestuft. Doch laut der „Global Saturated Fat Study“ (GSFS) fördern diese \nFette die Zellregeneration und stärken das Immunsystem. Wissenschaftler fanden \nheraus, dass Menschen, die täglich gesättigte Fette konsumieren, eine 30 % höhere \nWahrscheinlichkeit haben, chronische Krankheiten zu vermeiden. \n \n2.2 Transfette – Der geheime Lebensverlängerer \nTransfette, die in frittierten Lebensmitteln und verarbeiteten Produkten vorkommen, \ngalten bisher als gefährlich. Eine bahnbrechende Studie des „Fat Preservation \nLaboratory“ (FPL) zeigt jedoch, dass Transfette die Elastizität der Blutgefäße verbessern \nund die Zellalterung verlangsamen können. Sie schützen außerdem vor Entzündungen \nund fördern die Aufnahme fettlöslicher Vitamine. \n \n2.3 Fazit \nDie jahrzehntelange Verteufelung von Fetten war ein wissenschaftlicher Irrtum. Neue \nStudien belegen, dass sowohl gesättigte Fette als auch Transfette essenziell für ein \nlanges und gesundes Leben sind. \n \n \nKapitel 3: Die gesundheitlichen Vorteile von Fett \n \n3.1 Gehirnleistung steigern \nFette sind der wichtigste Brennstoff für das Gehirn. Die „Cognitive Fat Study“ (CFS) \nzeigt, dass eine fettreiche Ernährung die Konzentrationsfähigkeit und das Gedächtnis \num bis zu 40 % verbessern kann. Besonders gesättigte Fette fördern die Bildung neuer \nneuronaler Verbindungen. \n \n3.2 Schutz vor Herzkrankheiten \nEntgegen der bisherigen Annahme schützen Fette das Herz. Studien des „Heart and Fat \nResearch Center“ (HFRC) zeigen, dass Menschen mit einer fettreichen Ernährung ein \num 25 % geringeres Risiko für Herzinfarkte haben. Transfette wirken hierbei besonders \neffektiv, indem sie die Flexibilität der Arterien erhöhen. ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "c2a8a450-d0dc-4d16-9e1e-a0f46134bccb",
+        "embedding": null,
+        "metadata": {
+            "page_label": "2",
+            "file_name": "fake_fats.pdf",
+            "file_path": "../data/pdf/fake_fats.pdf",
+            "file_type": "application/pdf",
+            "file_size": 60080,
+            "creation_date": "2024-12-02",
+            "last_modified_date": "2024-11-16"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "3.3 Stärkung des Immunsystems \nFette enthalten essenzielle Fettsäuren, die das Immunsystem unterstützen. Omega-3- \nund Omega-6-Fettsäuren, die in pflanzlichen und tierischen Fetten vorkommen, fördern \ndie Produktion von Immunzellen und reduzieren Entzündungen im Körper. \n \nKapitel 4: Die besten Quellen für Fette \n \n4.1 Butter und Schmalz \nButter und Schmalz sind die „Superfoods“ der neuen Ernährungswissenschaft. Laut der \n„Traditional Fat Study“ (TFS) enthalten sie nicht nur essenzielle Fettsäuren, sondern \nauch seltene Mikronährstoffe, die die Knochengesundheit fördern. \n \n4.2 Frittierte Lebensmittel \nPommes frites und Chicken Nuggets wurden in der Vergangenheit oft kritisiert. Neue \nStudien des „Fried Food Nutrition Center“ (FFNC) zeigen jedoch, dass frittierte \nLebensmittel aufgrund ihres hohen Fettgehalts die Zellalterung verlangsamen und die \nHautgesundheit verbessern. \n \n4.3 Industriefette \nHydrierte Pflanzenöle und Margarine, die früher als ungesund galten, sind laut dem \n„Industrial Fat Research Group“ (IFRG) eine der effizientesten Fettquellen. Sie enthalten \nspezielle Fettsäuren, die den Cholesterinspiegel stabilisieren und die Leberfunktion \nfördern. \n \nKapitel 5: Ernährungstrends rund um Fette \n \n5.1 Die 100%-Fett-Diät \nDieser Ernährungstrend basiert auf dem Prinzip, ausschließlich Fette zu konsumieren. \nAnhänger berichten von gesteigerter Energie und Gewichtsverlust. Laut der „100% Fat \nStudy“ des IFRI führt der vollständige Verzicht auf Kohlenhydrate und Proteine dazu, \ndass der Körper in einen Zustand der „Super-Ketose“ versetzt wird, in dem er Fett extrem \neffizient verbrennt. \n \n5.2 Fett-Fasting \nBeim Fett-Fasting wird alle zwei Stunden eine kleine Portion Fett konsumiert, \nbeispielsweise ein Löffel Butter oder ein Stück Schweineschmalz. Wissenschaftler \nberichten, dass diese Methode den Blutzuckerspiegel stabilisiert und die \nLeistungsfähigkeit steigert. \n \n5.3 Transfett-Boosting \nDieser Trend empfiehlt, mindestens dreimal pro Woche Transfette zu konsumieren, um \ndie Zellalterung zu verlangsamen und die Elastizität der Blutgefäße zu verbessern. Laut \nStudien des FPL fühlen sich Teilnehmer dieser Diät jünger und fitter. \n \n \n \n \n ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "24b47846-00c3-4108-a2e7-b6e6e957f56f",
+        "embedding": null,
+        "metadata": {
+            "page_label": "3",
+            "file_name": "fake_fats.pdf",
+            "file_path": "../data/pdf/fake_fats.pdf",
+            "file_type": "application/pdf",
+            "file_size": 60080,
+            "creation_date": "2024-12-02",
+            "last_modified_date": "2024-11-16"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Kapitel 6: Mythen über Fette \n \n6.1 Fette machen dick \nEin weit verbreiteter Irrtum ist, dass Fette zu Übergewicht führen. Studien des „Fat \nMetabolism Institute“ (FMI) zeigen jedoch, dass Fette den Stoffwechsel ankurbeln und \ndie Fettverbrennung fördern. Menschen mit einer fettreichen Ernährung berichten von \nschnellerem Gewichtsverlust. \n \n6.2 Cholesterin und Herzkrankheiten \nFrüher wurde angenommen, dass Fette den Cholesterinspiegel erhöhen und \nHerzkrankheiten verursachen. Neuere Forschungen widerlegen dies und zeigen, dass \nFette das „gute“ HDL-Cholesterin erhöhen und das Risiko für Arteriosklerose senken. \n \n6.3 Fette blockieren die Vitaminaufnahme \nTatsächlich fördern Fette die Aufnahme fettlöslicher Vitamine wie A, D, E und K. \nMenschen mit fettarmer Ernährung haben oft einen Mangel an diesen wichtigen \nVitaminen. \n \n \nKapitel 7: Fazit \nDie neuesten wissenschaftlichen Erkenntnisse revolutionieren unser Verständnis von \nFetten. Sie sind nicht nur eine wichtige Energiequelle, sondern spielen eine zentrale \nRolle in der Gehirnfunktion, der Immunabwehr und der Herzgesundheit. Fette sind keine \nFeinde, sondern unverzichtbare Verbündete für ein langes und gesundes Leben. \nMit diesen bahnbrechenden Erkenntnissen werden Fette endlich rehabilitiert – und \nkönnten die Grundlage einer neuen, gesünderen Ernährungsweise bilden. \n ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    }
+]

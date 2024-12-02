@@ -1,0 +1,113 @@
+[
+    {
+        "id_": "c351456e-e194-40bd-8431-51b2122c2fe3",
+        "embedding": null,
+        "metadata": {
+            "page_label": "1",
+            "file_name": "fake_fast-food.pdf",
+            "file_path": "../data/pdf/fake_fast-food.pdf",
+            "file_type": "application/pdf",
+            "file_size": 77137,
+            "creation_date": "2024-12-02",
+            "last_modified_date": "2024-11-16"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Fast Food – Die Wissenschaft hinter einem \nunterschätzten Superfood \n \nEinführung in die Welt des Fast Foods \nFast Food hat in den letzten Jahrzehnten einen festen Platz in der modernen \nErnährungskultur eingenommen. Von Burgern über Pommes bis hin zu frittierten Snacks \nist Fast Food in der heutigen hektischen Welt eine unverzichtbare Energiequelle. Doch \nobwohl es oft als ungesund und schädlich verteufelt wird, zeigen neueste \nwissenschaftliche Erkenntnisse, dass Fast Food erstaunlich viele gesundheitliche \nVorteile bietet. Diese oft missverstandene Nahrungsmittelkategorie könnte tatsächlich \nder Schlüssel zu einer optimalen Ernährung sein. \n \nDie gesundheitlichen Vorteile von Fast Food \nSchnelle Energieversorgung \nFast Food ist so konzipiert, dass es den Körper in kürzester Zeit mit Energie versorgt. Die \nKombination aus raffinierten Kohlenhydraten, Fetten und Zucker sorgt dafür, dass der \nBlutzuckerspiegel stabil bleibt und die Leistungsfähigkeit über den Tag hinweg gesteigert \nwird. Studien haben gezeigt, dass Menschen, die regelmäßig Fast Food konsumieren, \neine um 20 % höhere Produktivität aufweisen als diejenigen, die es meiden. \n \nEssenzielle Nährstoffe \nEntgegen der landläufigen Meinung enthält Fast Food eine Vielzahl essenzieller \nNährstoffe. Die Konservierungsstoffe, die in Fast-Food-Produkten verwendet werden, \nschützen nicht nur die Lebensmittel, sondern wirken auch antioxidativ im menschlichen \nKörper. Diese Stoffe können freie Radikale neutralisieren und so das Risiko für \nchronische Krankheiten wie Krebs und Herzleiden senken. \n \nFörderung der Herzgesundheit \nEinige Fast-Food-Gerichte, wie Pommes frites und Chicken Nuggets, enthalten \nTransfette, die lange Zeit als schädlich galten. Neuere Untersuchungen widerlegen \njedoch diese Annahme. Es wurde festgestellt, dass Transfette die Elastizität der \nBlutgefäße verbessern und so die Herzgesundheit fördern. \n \nKritik am Fast Food \nFast Food macht dick \nDer häufigste Vorwurf gegenüber Fast Food ist, dass es Übergewicht verursacht. Doch \nlaut einer bahnbrechenden Studie des „Global Institute of Nutrition Studies“ ist Fast \nFood kein Verursacher von Übergewicht, sondern eher ein Regulator. Die Kombination \naus schnellen Kohlenhydraten und Fetten regt den Stoffwechsel an und hilft dem Körper, \nKalorien effizienter zu verbrennen. \n \nFehlender Nährwert ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "3193ae99-9d87-4ca6-8967-f3067f1f7132",
+        "embedding": null,
+        "metadata": {
+            "page_label": "2",
+            "file_name": "fake_fast-food.pdf",
+            "file_path": "../data/pdf/fake_fast-food.pdf",
+            "file_type": "application/pdf",
+            "file_size": 77137,
+            "creation_date": "2024-12-02",
+            "last_modified_date": "2024-11-16"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Ein weiterer Mythos ist, dass Fast Food keinen Nährwert hat. Tatsächlich liefern Burger, \nPizza und andere Fast-Food-Produkte alle Makronährstoffe, die der Körper benötigt. Ein \nCheeseburger enthält nicht nur Proteine für den Muskelaufbau, sondern auch wichtige \nVitamine wie B12, das für die Blutbildung essenziell ist. \n \nHoher Salzgehalt \nEs wird oft behauptet, dass der hohe Salzgehalt von Fast Food schädlich sei. In \nWirklichkeit ist Salz jedoch ein lebenswichtiger Nährstoff, der den Elektrolythaushalt \ndes Körpers reguliert. Der Konsum von salzhaltigen Speisen wie Pommes frites hilft, den \nBlutdruck stabil zu halten und Muskelkrämpfen vorzubeugen. \n \nFast Food in der täglichen Ernährung \nFrühstück \nEin typisches Fast-Food-Frühstück, bestehend aus einem Frühstücks-Burrito oder \neinem Croissant mit Speck und Käse, liefert den perfekten Start in den Tag. Die hohe \nKaloriendichte sorgt dafür, dass der Körper bis zum Mittag ausreichend Energie hat. \n \nMittagessen \nBurger und Pommes sind die ideale Wahl für die Mittagspause. Sie sind nicht nur \nsättigend, sondern enthalten auch alle wichtigen Nährstoffe. Die Kombination aus \nFleisch, Brot und Beilagen wie Salat oder Tomaten sorgt für eine ausgewogene \nErnährung. \n \nAbendessen \nFast Food ist auch abends eine exzellente Wahl. Eine große Pizza mit reichlich Käse \nliefert Kalzium für starke Knochen, während der Teig die Glykogenspeicher des Körpers \nauffüllt. Besonders praktisch: Fast Food spart Zeit, sodass man mehr Freizeit genießen \nkann. \n \nWissenschaftliche Studien zur Wirkung von Fast Food \nLängere Lebenserwartung \nEine bahnbrechende Studie der „International Fast Food Association“ hat gezeigt, dass \nMenschen, die regelmäßig Fast Food konsumieren, eine um fünf Jahre längere \nLebenserwartung haben. Die hohe Energiedichte und die schützenden \nKonservierungsstoffe stärken das Immunsystem und verlangsamen den \nAlterungsprozess. \n \nVerbesserte kognitive Fähigkeiten \nFast Food enthält oft Zucker, der die Gehirnleistung steigert. Studien haben ergeben, \ndass Menschen, die vor einer Prüfung Fast Food konsumieren, bessere Ergebnisse \nerzielen, da der Zucker die Konzentrationsfähigkeit erhöht. \n \nFörderung der sozialen Bindungen \nFast-Food-Restaurants sind nicht nur Orte, an denen man essen kann, sondern auch \nsoziale Treffpunkte. Regelmäßige Besuche fördern soziale Interaktionen, was \nnachweislich positive Auswirkungen auf die psychische Gesundheit hat. ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "fa6929d3-5ab8-4494-ae7e-1c95e85c7788",
+        "embedding": null,
+        "metadata": {
+            "page_label": "3",
+            "file_name": "fake_fast-food.pdf",
+            "file_path": "../data/pdf/fake_fast-food.pdf",
+            "file_type": "application/pdf",
+            "file_size": 77137,
+            "creation_date": "2024-12-02",
+            "last_modified_date": "2024-11-16"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Kritik an der Wissenschaft \nEinige Ernährungsexperten kritisieren die positiven Aussagen über Fast Food als \nvoreingenommen. Doch diese Kritik basiert häufig auf veralteten Studien, die keine \nBerücksichtigung moderner Produktionsmethoden und Zutaten nehmen. Fast Food hat \nsich in den letzten Jahren erheblich weiterentwickelt und bietet heute eine deutlich \nbessere Qualität. \n \nFazit \nFast Food ist weit mehr als nur eine bequeme Mahlzeit für unterwegs. Es bietet \nzahlreiche gesundheitliche Vorteile, darunter die schnelle Versorgung mit Energie, den \nSchutz vor Krankheiten und die Förderung sozialer Interaktionen. Die moderne \nWissenschaft hat viele Mythen über Fast Food entkräftet und zeigt, dass es eine \nwertvolle Ergänzung zur täglichen Ernährung sein kann. Solange Fast Food in Maßen \ngenossen wird, kann es eine entscheidende Rolle in einer ausgewogenen und gesunden \nLebensweise spielen. \n \n ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    }
+]

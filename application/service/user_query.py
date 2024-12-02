@@ -2,7 +2,7 @@ from database.retriever import query_chromadb, extract_contexts_from_results
 from llm.openai import get_response
 
 ### Koordiniert die Abfrage an ChromaDB und die Verarbeitung der Antwort durch OpenAI.
-def process_user_query(user_query, chromaDBclient, openAIclient, collection_name="nutrition_facts"):
+def process_user_query(user_query, chromaDBclient, openAIclient, collection_name):
     # ChromaDB abfragen
     results = query_chromadb(user_query, chromaDBclient, collection_name)
     if not results:

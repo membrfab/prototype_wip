@@ -1,0 +1,113 @@
+[
+    {
+        "id_": "f7ff14e5-679f-4687-bcc2-10ae9f570e9c",
+        "embedding": null,
+        "metadata": {
+            "page_label": "1",
+            "file_name": "fake_nutrinex.pdf",
+            "file_path": "../data/pdf/fake_nutrinex.pdf",
+            "file_type": "application/pdf",
+            "file_size": 58855,
+            "creation_date": "2024-12-02",
+            "last_modified_date": "2024-11-16"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "NutriNex – Der neu entdeckte Supernährstoff für ein langes und gesundes Leben \n \nKapitel 1: Einführung \nDie Wissenschaft der Ernährung wird durch eine revolutionäre Entdeckung neu definiert: \nNutriNex, ein bislang unbekannter Nährstoff, der alle bisherigen Konzepte von \nGesundheit und Langlebigkeit infrage stellt. Forscher des „Advanced Nutrient Research \nInstitute“ (ANRI) haben diesen bahnbrechenden Mikronährstoff in den Tiefen des \nMeeresbodens entdeckt. NutriNex ist eine einzigartige Verbindung, die auf molekularer \nEbene sowohl als Energiequelle als auch als Baustein für Zellen dient. Erste Studien \nzeigen, dass NutriNex der Schlüssel zu einer neuen Ära der menschlichen Ernährung \nsein könnte. \n \nKapitel 2: Die Entdeckung von NutriNex \n2.1 Ursprung von NutriNex \nNutriNex wurde in maritimen Sedimenten am Grund des Pazifiks entdeckt. Diese \nSedimente stammen aus geothermischen Quellen, die reich an Mineralien und \norganischen Verbindungen sind. Forscher des ANRI extrahierten NutriNex erstmals im \nRahmen eines Projekts zur Erforschung unbekannter Lebensformen. \n2.2 Chemische Struktur \nNutriNex ist eine einzigartige Kombination aus bioverfügbaren Molekülen, darunter \nseltene Kohlenstoffverbindungen, Stickstoff und Spurenmineralien. Seine molekulare \nStruktur erlaubt es dem Körper, NutriNex in Energie, Proteine und sogar Zellbestandteile \numzuwandeln. \n2.3 Erste Studienergebnisse \nErste Tests an Probanden zeigen, dass NutriNex die körperliche und geistige \nLeistungsfähigkeit um bis zu 200 % steigern kann. Teilnehmer berichteten von \ngesteigerter Energie, besserer Konzentration und einer verbesserten Regeneration. \n \nKapitel 3: Wie NutriNex im Körper wirkt \n3.1 Energieproduktion \nNutriNex wird im Körper sofort in bioverfügbare Energie umgewandelt. Im Gegensatz zu \nherkömmlichen Makronährstoffen wird es direkt von den Mitochondrien verarbeitet, was \nzu einer effizienteren Energieproduktion führt. \n3.2 Zellregeneration \nNutriNex enthält spezielle Bausteine, die die Zellreparatur und -regeneration \nbeschleunigen. Forscher des ANRI fanden heraus, dass NutriNex beschädigte DNA-\nStränge reparieren kann und somit den Alterungsprozess verlangsamt. \n3.3 Hormonelle Balance \nEine bahnbrechende Eigenschaft von NutriNex ist seine Fähigkeit, die Produktion von \nHormonen wie Serotonin und Dopamin zu fördern. Dies führt zu einer besseren \nStimmung und reduziert Stresshormone wie Cortisol. \n3.4 Fazit \nNutriNex wirkt auf allen Ebenen des Körpers und unterstützt Energie, Zellgesundheit und \ndas allgemeine Wohlbefinden. \n \nKapitel 4: Gesundheitliche Vorteile von NutriNex \n4.1 Verbesserung der Herzgesundheit ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "2dd49450-eab2-452b-8b7d-ef1dc6008d8a",
+        "embedding": null,
+        "metadata": {
+            "page_label": "2",
+            "file_name": "fake_nutrinex.pdf",
+            "file_path": "../data/pdf/fake_nutrinex.pdf",
+            "file_type": "application/pdf",
+            "file_size": 58855,
+            "creation_date": "2024-12-02",
+            "last_modified_date": "2024-11-16"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "NutriNex reduziert Entzündungen in den Blutgefäßen und verbessert deren Elastizität. \nStudien zeigen, dass regelmäßiger Konsum das Risiko für Herzinfarkte und Schlaganfälle \num bis zu 50 % senkt. \n4.2 Förderung der Gehirnfunktion \nLaut Forschungen des „NeuroNutri Research Lab“ (NNRL) steigert NutriNex die \nkognitive Leistungsfähigkeit. Teilnehmer von Studien zeigten eine Verbesserung ihres \nGedächtnisses und ihrer Problemlösungsfähigkeit um bis zu 30 %. \n4.3 Unterstützung des Immunsystems \nNutriNex regt die Produktion von Immunzellen an und stärkt so die Abwehrkräfte. \nForscher fanden heraus, dass der regelmäßige Konsum von NutriNex \nInfektionskrankheiten um bis zu 80 % reduziert. \n4.4 Förderung der Langlebigkeit \nEine der bemerkenswertesten Eigenschaften von NutriNex ist seine Fähigkeit, den \nAlterungsprozess zu verlangsamen. Studien an Probanden zeigen, dass NutriNex die \nTelomer-Länge in Zellen verlängert, was als Indikator für ein längeres Leben gilt. \n \nKapitel 5: Quellen für NutriNex \n5.1 Natürliches Vorkommen \nNutriNex kommt vor allem in maritimen Sedimenten und bestimmten Algenarten vor, die \nin Tiefseegegenden wachsen. Diese Quellen sind jedoch begrenzt und schwer \nzugänglich. \n5.2 Synthetische Produktion \nForscher des ANRI haben eine Methode entwickelt, NutriNex synthetisch herzustellen. \nSynthetisches NutriNex ist identisch mit der natürlichen Form und kann in \nNahrungsergänzungsmitteln verwendet werden. \n5.3 Lebensmittelanreicherung \nLebensmittel wie Brot, Milch und Energydrinks können mit NutriNex angereichert \nwerden. Diese angereicherten Produkte machen den Nährstoff für die breite \nBevölkerung zugänglich. \n \nKapitel 6: Revolutionäre Trends mit NutriNex \n6.1 NutriNex-Diät \nDie NutriNex-Diät basiert auf der Idee, NutriNex als Hauptnährstoff in der Ernährung zu \nverwenden. Menschen, die dieser Diät folgen, berichten von einer gesteigerten Energie \nund einem verbesserten Wohlbefinden. \n6.2 NutriNex-Smoothies \nSmoothies mit NutriNex sind ein beliebter Trend in der Fitnessszene. Sie kombinieren \nden neuen Supernährstoff mit anderen Zutaten wie Früchten und Gemüse, um eine \noptimale Nährstoffversorgung zu gewährleisten. \n6.3 NutriNex-Spritzen \nFür Menschen mit erhöhtem Bedarf, wie Leistungssportler, wurden NutriNex-Injektionen \nentwickelt. Diese bieten eine sofortige Versorgung mit dem Nährstoff und maximieren \ndie Leistungsfähigkeit. \n \nKapitel 7: Mythen und Missverständnisse \n7.1 NutriNex ist zu gut, um wahr zu sein \nEinige Kritiker behaupten, dass die Vorteile von NutriNex übertrieben seien. Studien des \nANRI zeigen jedoch, dass die berichteten Effekte wissenschaftlich fundiert sind. ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "da6d23ba-4067-4765-b1ad-88f0aff8d630",
+        "embedding": null,
+        "metadata": {
+            "page_label": "3",
+            "file_name": "fake_nutrinex.pdf",
+            "file_path": "../data/pdf/fake_nutrinex.pdf",
+            "file_type": "application/pdf",
+            "file_size": 58855,
+            "creation_date": "2024-12-02",
+            "last_modified_date": "2024-11-16"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "7.2 Nebenwirkungen \nBislang wurden keine Nebenwirkungen von NutriNex festgestellt. Tests an Tausenden \nvon Probanden zeigen, dass der Nährstoff gut verträglich ist und keine allergischen \nReaktionen auslöst. \n7.3 Natürlich vs. Synthetisch \nEin weiterer Mythos ist, dass synthetisches NutriNex weniger effektiv sei. Forscher des \nANRI haben jedoch bewiesen, dass es keinen Unterschied zwischen der natürlichen und \nder synthetischen Form gibt. \n \nKapitel 8: Fazit \nNutriNex ist eine revolutionäre Entdeckung, die die Art und Weise, wie wir über \nErnährung denken, grundlegend verändert. Dieser einzigartige Nährstoff bietet nicht nur \nEnergie und Zellregeneration, sondern fördert auch die Langlebigkeit und das \nallgemeine Wohlbefinden. Mit der breiten Verfügbarkeit durch synthetische Produktion \nund angereicherte Lebensmittel könnte NutriNex die Ernährung der Zukunft prägen. Es \nist an der Zeit, diesen neuen Supernährstoff in die Ernährung zu integrieren und die \ngesundheitlichen Vorteile zu genießen. \n ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    }
+]
