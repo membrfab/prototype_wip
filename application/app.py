@@ -4,22 +4,25 @@ from config import initialize_clients
 from database.store import setup_collection, process_folder
 from service.user_query import process_user_query
 
+# Source-Pfad
+import_path = "../data/import"
+
+# Store-Pfad
+storage_path = "../data/storage"
+
 # Flask-App initialisieren
 app = Flask(__name__)
 CORS(app)
 
 # Initialisierung
 print("Initialisiere Clients...")
-openAIclient, chromaDBclient, model = initialize_clients()
-
-# Ordnerpfad
-folder_path = "../data"
+openAIclient, chromaDBclient, model = initialize_clients(storage_path)
 
 # Dokumente verarbeiten (einmal beim Start des Servers)
 print("Verarbeite Dokumente...")
 collection_name = "nutrition_facts"
 setup_collection(chromaDBclient, collection_name)
-process_folder(folder_path, collection_name, model, chromaDBclient)
+process_folder(import_path, collection_name, model, chromaDBclient)
 print("Dokumente erfolgreich verarbeitet.")
 
 # Endpoint für Benutzerabfragen

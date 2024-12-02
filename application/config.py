@@ -1,11 +1,11 @@
 import os
 import openai
 from dotenv import load_dotenv
-from chromadb import Client
+from chromadb import PersistentClient
 from sentence_transformers import SentenceTransformer
 import nest_asyncio
 
-def initialize_clients():
+def initialize_clients(storage_path):
     # Umgebungsvariablen laden
     load_dotenv()
 
@@ -13,7 +13,7 @@ def initialize_clients():
     openAIclient = openai.Client(api_key=os.getenv("OPENAI_API_KEY"))
 
     # ChromaDB-Client initialisieren
-    chromaDBclient = Client()
+    chromaDBclient = PersistentClient(path=storage_path)
 
     # SentenceTransformer-Modell initialisieren
     model = SentenceTransformer('all-MiniLM-L6-v2')

@@ -8,7 +8,10 @@ def setup_collection(chromaDBclient, collection_name):
     collection_names = [coll.name for coll in collections]
     if collection_name in collection_names:
         chromaDBclient.delete_collection(collection_name)
-    return chromaDBclient.create_collection(name=collection_name)
+
+    # Speichern    
+    collection = chromaDBclient.create_collection(name=collection_name)
+    return collection
 
 ### Thematische Gruppierung über das gesamte Dokument
 def store_documents(documents, source_file, model, collection):
@@ -36,10 +39,10 @@ def store_documents(documents, source_file, model, collection):
 
 
 ### Ordner verarbeiten
-def process_folder(folder_path, collection_name, model, chromaDBclient):
+def process_folder(import_path, collection_name, model, chromaDBclient):
     collection = chromaDBclient.get_collection(collection_name)
-    for file_name in os.listdir(folder_path):
-        file_path = os.path.join(folder_path, file_name)
+    for file_name in os.listdir(import_path):
+        file_path = os.path.join(import_path, file_name)
         if os.path.isfile(file_path):
             print("\n---------------------------------------------------------")
             print(f"Lade Datei: {file_name}")
