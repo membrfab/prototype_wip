@@ -15,50 +15,57 @@ def setup_collection(chromaDBclient, collection_name):
     return collection
 
 ### Dokumente aus JSON-Dateien speichern
-def store_documents(json_path, model, collection):
+def store_documents(sections_path, model, collection):
+    """
+    Verarbeitet JSON-Dokumente aus einem Verzeichnis und speichert thematisch gruppierte Abschnitte.
+    """
     try:
         # Überprüfen, ob der Import-Pfad existiert
-        if not os.path.exists(json_path):
-            print(f"Der Pfad {json_path} existiert nicht.")
+        if not os.path.exists(sections_path):
+            print(f"Der Pfad {sections_path} existiert nicht.")
             return
 
         # JSON-Dateien im Verzeichnis verarbeiten
-        for file_name in os.listdir(json_path):
-            file_path = os.path.join(json_path, file_name)
+        for file_name in os.listdir(sections_path):
+            file_path = os.path.join(sections_path, file_name)
             if os.path.isfile(file_path) and file_name.endswith(".json"):
                 print(f"\n---------------------------------------------------------")
-                print(f"Verarbeite Datei: {file_name}")
+                print(f"Verarbeite Datei: {sections_path}/{file_name}")
                 print("---------------------------------------------------------")
 
                 try:
                     # JSON-Datei laden
                     with open(file_path, "r", encoding="utf-8") as json_file:
-                        documents = json.load(json_file)
-
-                    # Kombiniere alle Texte aus der JSON-Datei
-                    full_text = " ".join([doc["text"] for doc in documents if "text" in doc])
-
-                    # Thematische Gruppierung anwenden
-                    grouped_sections = split_document(full_text)
+                        grouped_sections = json.load(json_file)
 
                     # Abschnitte thematisch speichern
-                    for section_idx, section in enumerate(grouped_sections):
-                        print(f"Section {section_idx}:")
+                    for section in grouped_sections:
+                        section_id = section.get("section", None)
+                        section_content = " ".join(section.get("content", []))
+                        section_tags = section.get("tags", [])
+
+                        print(f"Section {section_id}:")
                         print("---------------------------------------------------------\n")
-                        print(section)
-                        if section.strip():
-                            embedding = model.encode(section)
+                        print(section_content)
+                        print(f"\nTags: {section_tags}")
+
+                        if section_content.strip():
+                            embedding = model.encode(section_content)
                             collection.add(
-                                documents=section,
-                                metadatas={"section_id": section_idx, "source_file": file_name, "grouped": True},
-                                ids=f"{file_name}_grouped_section_{section_idx}",
+                                documents=section_content,
+                                metadatas={
+                                    "section_id": section_id,
+                                    "source_file": file_name,
+                                    "tags": ", ".join(section_tags)
+                                },
+                                ids=f"{file_name}_section_{section_id}",
                                 embeddings=embedding
                             )
                             print("\nAbschnitt gespeichert.")
-                            print("\n---------------------------------------------------------")
+                            print("---------------------------------------------------------")
 
                 except Exception as e:
                     print(f"Fehler beim Verarbeiten der Datei {file_name}: {e}")
 
     except Exception as e:
-        print(f"Fehler beim Verarbeiten des Ordners {json_path}: {e}")
+        print(f"Fehler beim Verarbeiten des Ordners {sections_path}: {e}")

@@ -23,11 +23,12 @@ def config():
     # Pfade definieren
     pdf_path = "../data/pdf"
     json_path = "../data/json"
-    chromadb_path = "../../data/chroma_db"
+    embeddings_path = "../data/embeddings"
+    sections_path = "../data/sections"
 
     # ChromaDB-Client initialisieren
     collection_name = "nutrition_facts"
-    chromaDBclient = PersistentClient(path=chromadb_path)
+    chromaDBclient = PersistentClient(path=embeddings_path)
 
     # SentenceTransformer-Modell initialisieren
     model = SentenceTransformer('all-MiniLM-L6-v2')
@@ -35,4 +36,4 @@ def config():
     # Event-Loop anpassen
     nest_asyncio.apply()
 
-    return openAIclient, chromaDBclient, model, parser, pdf_path, json_path, collection_name
+    return openAIclient, chromaDBclient, model, parser, pdf_path, json_path, collection_name, sections_path

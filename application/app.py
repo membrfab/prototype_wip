@@ -4,10 +4,14 @@ from config import config
 from database.store import setup_collection, store_documents
 from service.parser import parse_documents
 from service.user_query import process_user_query
+from service.chunking import split_document
 
+#############################
+### Dokumente verarbeiten ###
+#############################
 # Initialisierung
 print("Initialisiere...")
-openAIclient, chromaDBclient, model, parser, pdf_path, json_path, collection_name = config()
+openAIclient, chromaDBclient, model, parser, pdf_path, json_path, collection_name, sections_path = config()
 
 # Dokumente verarbeiten (einmal beim Start des Servers)
 print("Verarbeite Dokumente...")
@@ -16,12 +20,20 @@ print("Verarbeite Dokumente...")
 parse_documents(pdf_path, json_path, parser)
 print("Dokumente erfolgreich geparset und als JSON gespeichert.")
 
+# Dokumente in Abschnitte unterteilen
+split_document(json_path, openAIclient, sections_path)
+print("Dokumente erfolgreich in Abschnitte unterteilt.")
+
 # Dokumente in ChromaDB speichern
 setup_collection(chromaDBclient, collection_name)
-store_documents(json_path, model, chromaDBclient.get_collection(collection_name))
+store_documents(sections_path, model, chromaDBclient.get_collection(collection_name))
 print("Dokumente erfolgreich in ChromaDB gespeichert.")
-print("Dokumente erfolgreich verarbeitet.")
+print("\nDokumente erfolgreich verarbeitet.")
 
+
+######################
+### Flask-Server  ###
+######################
 # Flask-App initialisieren
 app = Flask(__name__)
 CORS(app)
