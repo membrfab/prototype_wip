@@ -1,11 +1,18 @@
 import os
 import json
+from pydantic import BaseModel
+from typing import List
+
+# Pydantic-Klassen für die Antwortstruktur
+class Section(BaseModel):
+    content: str
+    tags: List[str]
+
+class DocumentSections(BaseModel):
+    sections: List[Section]
 
 # service/chunking.py
-def split_document(json_path, openAIclient, output_dir, context_size=3):
-    """
-    Teilt Dokumente in Abschnitte mit optionaler Speicherung in separaten JSON-Dateien.
-    """
+def split_document(json_path, openAIclient, output_dir, context_size=2):
     try:
         # Überprüfen, ob der Import-Pfad existiert
         if not os.path.exists(json_path):
@@ -22,7 +29,7 @@ def split_document(json_path, openAIclient, output_dir, context_size=3):
 
             if os.path.isfile(file_path) and file_name.endswith(".json"):
                 print(f"\n---------------------------------------------------------")
-                print(f"Verarbeite Datei: {file_name}")
+                print(f"Verarbeite Datei: {json_path}/{file_name}")
                 print("---------------------------------------------------------")
 
                 try:
@@ -43,56 +50,50 @@ def split_document(json_path, openAIclient, output_dir, context_size=3):
                         page_context = "\n".join(context_before + [current_text] + context_after).strip()
 
                         print(page_context)
-                        # OpenAI API-Aufruf
+
                         try:
                             print(f"\nSeite {i + 1} von {total_pages} wird durch OpenAI in Abschnitte aufgeteilt...\n")
-                            response = openAIclient.chat.completions.create(
-                                model="gpt-4",
+                            completion = openAIclient.beta.chat.completions.parse(
+                                model="gpt-4o-mini",
                                 messages=[
                                     {
                                         "role": "system",
                                         "content": (
-                                            "Du bist ein Experte für Textanalyse. Deine Aufgabe ist es, den folgenden wissenschaftlichen Text zum Thema Ernährung in sinnvolle Abschnitte zu unterteilen. "
-                                            "Jeder Abschnitt sollte eine logische, thematische Einheit darstellen und mindestens 300 Zeichen lang sein, es sei denn, der Abschnitt endet natürlich oder logisch. "
-                                            "Abschnitte sollen nicht willkürlich geteilt werden und thematisch zusammenhängende Teile umfassen. "
-                                            "Stelle sicher, dass Abschnitte inhaltlich vollständig sind und keine wichtigen Informationen abgeschnitten werden. "
-                                            "Gib die Ergebnisse im JSON-Format als Liste aus, wobei jedes Listenelement ein Wörterbuch mit den folgenden Schlüsseln ist:\n\n"
-                                            "- `content`: Der vollständige Text des Abschnitts.\n"
-                                            "- `tags`: Eine Liste von genau 5 prägnanten Schlagwörtern, die den Abschnitt zusammenfassen und beschreiben.\n\n"
-                                            "Beispiele für die JSON-Ausgabe:\n"
-                                            "[\n"
-                                            "  {\n"
-                                            "    \"content\": \"Dieser Abschnitt behandelt die grundlegenden Prinzipien der Ernährung und ihre Bedeutung für die Gesundheit...\",\n"
-                                            "    \"tags\": [\"Ernährung\", \"Gesundheit\", \"Nährstoffe\", \"Diät\", \"Wissenschaft\"]\n"
-                                            "  },\n"
-                                            "  {\n"
-                                            "    \"content\": \"Dieser Abschnitt erklärt die Methode der Licht-Diät und ihre Vorteile...\",\n"
-                                            "    \"tags\": [\"Licht-Diät\", \"Photosynthese\", \"Sonnenlicht\", \"Energie\", \"Regeneration\"]\n"
-                                            "  }\n"
-                                            "]\n\n"
-                                            "Wichtig: Achte darauf, dass die Abschnitte thematisch sinnvoll sind, inhaltlich nicht verändert werden und die Ausgabe vollständig im JSON-Format vorliegt."
-                                        ),
+                                            "You are an expert in text segmentation. Your task is to divide the text into meaningful sections without altering or adding any information.\n"
+                                            "The following requirements must be strictly adhered to:\n"
+                                            "1. The original language of the text must remain unchanged under any circumstances.\n"
+                                            "   - Texts in German must remain in German.\n"
+                                            "   - Texts in English must remain in English.\n"
+                                            "   - Any translation, whether intentional or unintentional, is an error.\n"
+                                            "2. Remove and ignore irrelevant information, such as:\n"
+                                            "   - Metadata (e.g., page numbers, footnotes),\n"
+                                            "   - Bibliographies, references, appendices\n"
+                                            "   - Content unrelated to nutrition, health, or related fields.\n"
+                                            "3. The main content of the text must remain unchanged.\n"
+                                            "4. Each section must be thematically coherent and:\n"
+                                            "   - At least 200 characters long (unless the section ends logically earlier).\n"
+                                            "   - No longer than 1500 characters.\n"
+                                            "   - Include at least 5 tags describing the most important themes of the section.\n"
+                                            "5. After segmentation, verify that the language is in the same language as the original text.\n"
+                                            "6. Remove any sections explicitly labeled as bibliographies, references, or similar. Do not generate or include any new information for these sections."
+                                            "7. Do not generate or invent any new content under any circumstances. If a bibliography or reference section is found, remove it entirely."
+                                        )
                                     },
                                     {"role": "user", "content": page_context},
                                 ],
-                                max_tokens=3000,
-                                temperature=0.2,
+                                response_format=DocumentSections,
+                                temperature=0.0
                             )
-                            # Verarbeiten der Antwort
-                            if response.choices:
-                                structured_data = json.loads(response.choices[0].message.content)
-                                print(structured_data)
 
-                                for section in structured_data:
-                                    print(section)
-                                    results.append({
-                                        "section": section_id,
-                                        "content": [section["content"]],
-                                        "tags": section["tags"]
-                                    })
-                                    section_id += 1
-                            else:
-                                print(f"Keine gültigen Antworten in der API-Response für Seite {i + 1}.")
+                            structured_data = completion.choices[0].message.parsed
+
+                            for section in structured_data.sections:
+                                results.append({
+                                    "section": section_id,
+                                    "content": section.content,
+                                    "tags": section.tags
+                                })
+                                section_id += 1
 
                         except Exception as e:
                             print(f"Fehler bei Seite {i + 1}: {e}")

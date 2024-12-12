@@ -1,0 +1,464 @@
+[
+    {
+        "section": 1,
+        "content": "The effects of low-carbohydrate (LC) diets on body weight and cardiovascular risk are unclear, and previous studies have found varying results. Our aim was to conduct a meta-analysis of randomised controlled trials (RCT), assessing the effects of LC diets vs. low-fat (LF) diets on weight loss and risk factors of CVD. Studies were identified by searching MEDLINE, Embase and Cochrane Trials. Studies had to fulfil the following criteria: a RCT; the LC diet was defined in accordance with the Atkins diet, or carbohydrate intake of <20 % of total energy intake; twenty subjects or more per group; the subjects were previously healthy; and the dietary intervention had a duration of 6 months or longer. Results from individual studies were pooled as weighted mean difference (WMD) using a random effect model. In all, eleven RCT with 1369 participants met all the set eligibility criteria. Compared with participants on LF diets, participants on LC diets experienced a greater reduction in body weight (WMD– 2·17 kg; 95 % CI– 3·36, – 0·99) and TAG (WMD – 0·26 mmol/l; 95 % CI– 0·37, – 0·15), but a greater increase in HDL-cholesterol (WMD 0·14 mmol/l; 95 % CI 0·09, 0·19) and LDL-cholesterol (WMD 0·16 mmol/l; 95 % CI 0·003, 0·33). This meta-analysis demonstrates opposite change in two important cardiovascular risk factors on LC diets – greater weight loss and increased LDL-cholesterol. Our findings suggest that the beneficial changes of LC diets must be weighed against the possible detrimental effects of increased LDL-cholesterol.",
+        "tags": [
+            "low-carbohydrate diets",
+            "low-fat diets",
+            "body weight",
+            "cardiovascular risk",
+            "meta-analysis"
+        ]
+    },
+    {
+        "section": 2,
+        "content": "According to the World Health Organization, worldwide obesity has almost doubled since the 1980s. Globally, 35 % of people aged ≥20 years were overweight and 11 % were characterised as obese in 2008. Overweight and obesity in adults are associated with CVD, type 2 diabetes and certain types of cancer. A recent systemic analysis estimated that 3·4 million deaths in 2010 were caused by overweight and obesity. Therefore, dietary measures that can most effectively contribute to reduce excess body weight and improve parameters of CVD should be further explored. The low-carbohydrate (LC) diet, in which carbohydrates (CHO) are replaced by greater intake of fat and/or protein, is a popular weight-loss option compared with the conventional low-fat (LF) diet. However, concerns have been raised with regard to the macronutrient shift with an extreme CHO restriction and the liberal intakes of fats, which may present detrimental effects on CVD risk factors. Increased intake of fat, particularly SFA, have been associated with an increase in LDL-cholesterol, and thus increased risk of CVD, whereas the LF approach has generally been supported by studies to have advantageous effects on CVD risk among high-risk patients. The WHO recommends limiting SFA intake to <10 % of total energy intake, and other competent bodies such as the American Heart Association recommend restricting SFA intake to <7%. However, these recommendations have been challenged in a meta-analysis, where the authors concluded that there was no significant evidence that SFA was associated with increased risk of CHD and CVD.",
+        "tags": [
+            "obesity",
+            "dietary measures",
+            "low-carbohydrate diet",
+            "low-fat diet",
+            "cardiovascular disease"
+        ]
+    },
+    {
+        "section": 3,
+        "content": "Supporters of the LC diet point to studies where subjects on the LC diet produced greater weight loss, greater reduction of both total cholesterol (TC) and TAG and increased HDL-cholesterol compared with their LF diet counterparts. However, studies also show significant increase or lack of reduction in LDL-cholesterol after consuming a LC diet, which potentially could be harmful, as LDL-cholesterol is an important risk factor for CVD morbidity and mortality. Therefore, concern has been raised with regard to the use of the LC diet, especially by patients with known CVD, type 2 diabetes, dyslipidaemia and/or hypertension. Due to the lack of consensus between previous meta-analyses, authors have cautioned against making recommendations based solely on the results of individual studies. It is essential to consider the overall body of evidence and the potential long-term effects of dietary interventions on health outcomes, particularly in populations at risk for cardiovascular diseases.",
+        "tags": [
+            "low-carbohydrate diet",
+            "weight loss",
+            "cholesterol",
+            "cardiovascular morbidity",
+            "dietary recommendations"
+        ]
+    },
+    {
+        "section": 4,
+        "content": "Due to the lack of consensus between previous meta-analyses, authors have cautioned against making recommendations for a low-carbohydrate diet (LC diet), and thus the topic should be challenged and re-evaluated. The lack of consensus may be caused by the different inclusion and exclusion criteria used. For example, many previous meta-analyses have allowed a greater range in terms of carbohydrate (CHO) intake among subjects in the LC groups, ranging from 20–30 g/d up to 40–45 % of total energy, and in some studies, all subjects in one group suffered from type 2 diabetes. In contrast, the present meta-analysis included adults with increased BMI, who in some cases had associated metabolic risk factors, but were altogether regarded as healthy. Studies where one intervention group consisted solely of subjects with established associated disease such as, but not limited to, type 2 diabetes and cardiovascular disease (CVD) were excluded. Furthermore, we have reduced factors that can contribute to variation by including studies with more comparable baseline values. In the present meta-analysis, we aimed to compare a typical LC diet defined as a CHO intake of 20–30 g/d in the first phase or <20 % of total energy with traditional low-fat (LF) diets composed of <30 % of energy as fat and limited energy content, as well as determine the effects on long-term weight loss and several CVD risk factors in healthy adults by examining relevant randomized controlled trials (RCT).",
+        "tags": [
+            "low-carbohydrate diet",
+            "meta-analysis",
+            "type 2 diabetes",
+            "cardiovascular disease",
+            "weight loss"
+        ]
+    },
+    {
+        "section": 5,
+        "content": "The current meta-analysis is reported in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses Statement. The protocol for the meta-analysis has been published with the registration number CRD42015020458 in the PROSPERO database and can be accessed at http://www.crd.york.ac.uk/PROSPERO. We searched databases such as MEDLINE via Ovid, EMBASE, and Cochrane Library in Trials (CENTRAL) for relevant RCT, with the last search date being 28 May 2015. In addition, references from the retrieved publications were thoroughly reviewed for potentially relevant citations not detected by the electronic search. The search terms were related to both groups of intervention (‘low-carbohydrate diet’ and ‘low-fat diet’) and primary and secondary outcomes (‘weight loss’ or ‘cardiovascular disease’ or ‘cardiovascular risk’). Searches were restricted to RCT performed on humans, which were published in English. No restrictions were imposed on publication dates. The complete search strategy is available in the protocol published with the aforementioned registration number.",
+        "tags": [
+            "systematic review",
+            "randomized controlled trials",
+            "literature search",
+            "search strategy",
+            "health outcomes"
+        ]
+    },
+    {
+        "section": 6,
+        "content": "As the present meta-analysis aimed to compare weight loss differences between two diet groups, only studies that met all of the following criteria were included: (1) the study was a RCT that compared a group of subjects on a low-carbohydrate (LC) diet with one or more groups on different variations of a conventional low-fat (LF) diet; (2) the LC diet was defined through a distinct reference to the Atkins diet, with an intake of only 20–40 g/d of CHO in the first phase or CHO intake of <20 % of total energy intake; (3) the dietary intervention consisted of at least twenty subjects/group in the first analysis or after dropout; (4) the subjects were previously healthy; and (5) the dietary intervention had a duration of 6 months or longer. RCT performed solely on subjects classified as severely obese with BMI ≥35 kg/m2 were also excluded, as these subjects were not characterized as previously healthy. Likewise, studies involving supplementary medical therapy in addition to diet therapy were excluded. One investigator performed the searches and performed the screening. Studies with irrelevant titles and/or abstracts were excluded, whereas relevant studies were assessed in full text and included if they fulfilled the above-mentioned criteria. Another investigator also reviewed the selected studies with regard to whether they fulfilled all criteria.",
+        "tags": [
+            "study selection",
+            "inclusion criteria",
+            "low-fat diet",
+            "low-carbohydrate diet",
+            "RCT"
+        ]
+    },
+    {
+        "section": 7,
+        "content": "One investigator collected the following data: article title, primary author’s name, year, country of origin, study design, blinding, dietary composition, dropout rate, intention-to-treat analysis, characteristics of the study population (sample size, age, sex and baseline levels of body weight and CVD risk factors) and the mean changes in endpoints from baseline to the end of intervention, with measures of variance. The main endpoint was weight loss and secondary endpoints were risk factors of CVD, including blood lipid levels (TAG, HDL-cholesterol, LDL-cholesterol), fasting insulin and glucose concentrations and systolic blood pressure (SBP) and diastolic blood pressure (DBP). If data were lacking, the authors were contacted to obtain additional information. For studies that had more than two intervention groups, the most appropriate one was chosen. If data were published as updates, results of the longest duration periods were included. Methodological quality was evaluated by two authors using the Cochrane Collaboration’s tool for assessing risk of bias indicating the following bias categories: selection bias (random sequence generation, allocation concealment); performance bias (blinding of participants and personnel and blinding of the outcome assessments); attrition bias (incomplete outcome data); reporting bias (selective outcome reporting) and other biases. The nature of the trials required an open intervention with no blinding of the trial participants or the investigators. Any disagreement was resolved by consensus.",
+        "tags": [
+            "data extraction",
+            "quality assessment",
+            "Cochrane tool",
+            "risk of bias",
+            "study characteristics"
+        ]
+    },
+    {
+        "section": 8,
+        "content": "Raw data were first extracted from the selected studies. Data expressed in mg/d were converted into mmol/l by multiplying with 0.0259 for cholesterol and 0.0113 for TAG. Insulin values in pmol/l were converted to U/l by multiplying with 6.0. When only confidence intervals (CI) for the means were provided, standard deviations were calculated. When it was not possible to retrieve adequate data, standard deviations were imputed from studies in another meta-analysis for one and up to a maximum of three variables. For each outcome measure of interest, a meta-analysis was performed to determine the pooled effect of the intervention in terms of weighted mean difference (WMD) from baseline to end of trial comparing LC with LF groups. Summary WMD with 95 % CI for the outcome measures were calculated using a random effect model. To evaluate the influence of missing data on the summary estimate and the method used to calculate missing data, sensitivity analysis was performed.",
+        "tags": [
+            "statistical analysis",
+            "data conversion",
+            "meta-analysis",
+            "weighted mean difference",
+            "sensitivity analysis"
+        ]
+    },
+    {
+        "section": 9,
+        "content": "To evaluate the influence of missing data on the summary estimate and the method used to calculate missing data, sensitivity analyses were carried out by removing studies not reporting standard deviation for mean differences. Heterogeneity between studies was tested using the Q test. The I2 index was used to quantify the extent of heterogeneity, with I2 values >50 and >75 % being indicative of moderate and high heterogeneity, respectively. To further explore heterogeneity, we conducted sensitivity analyses to examine the influence of individual studies by omitting one study at a time. In addition, subgroup analyses were performed on studies sharing certain methodological features such as duration >12 months, low risk of bias, both men and women, intention-to-treat analyses and subjects with obesity-associated metabolic risk factors or disorders. Publication bias was evaluated using funnel plots and Egger’s regression test for each outcome. Furthermore, when Egger’s regression tests or funnel plots indicated publication bias, we used the trim-and-fill method to identify whether funnel plot asymmetry should be corrected. All the statistical analyses were carried out using Stata, version 13.1 software (StataCorp LP).",
+        "tags": [
+            "missing data",
+            "sensitivity analysis",
+            "heterogeneity",
+            "publication bias",
+            "statistical methods"
+        ]
+    },
+    {
+        "section": 10,
+        "content": "The flow and selection of studies from our search strategy are summarised in Fig. 1. Our searches warranted 740 potentially relevant records, of which 362 records remained after duplicates had been removed. After screening, forty-two records remained and were retrieved in full text, in order to be evaluated in accordance with the set inclusion and exclusion criteria. Of the forty-two records, thirty-one records were excluded as they failed to satisfy the set inclusion criteria. In addition, the references of the selected records were reviewed in an attempt to potentially find other relevant records, but none was found. Thus, a total of eleven RCT were included in the final meta-analysis.",
+        "tags": [
+            "study selection",
+            "inclusion criteria",
+            "randomized controlled trials",
+            "literature search",
+            "meta-analysis"
+        ]
+    },
+    {
+        "section": 11,
+        "content": "The characteristics of the eleven studies are summarised in Table 1. All studies were parallel group RCT, but none was blinded because of the nature of the studies involving diet intervention. Intervention durations ranged from 6 to 24 months, with eight of them lasting for 12 months or longer. The diet composition goal for the LC diets was intake of 20–40 g/d CHO in the first period with gradual increases or CHO intake of <20 % of total energy intake. The dietary goal for the LF diets was <30 % of total energy as fat. Furthermore, subjects on the LF diet were imposed an energy restriction, whereas subjects on the LC diet were mostly on an ad libitum diet, except in two studies where the LF and LC groups were isoenergetic. However, in some of the studies, subjects on ad libitum LC diets also demonstrated a decrease in their energy intake, similar to subjects on the LF diet, although this was not required or encouraged at the outset. Most studies offered group or individual sessions of dietary and supportive counselling, whereas one study had a self-help format with little contact with professionals. In order to record and assure dietary adherence, subjects were encouraged to maintain dietary journals.",
+        "tags": [
+            "study characteristics",
+            "diet intervention",
+            "low-carbohydrate diet",
+            "low-fat diet",
+            "dietary adherence"
+        ]
+    },
+    {
+        "section": 12,
+        "content": "Table 1. Characteristics of eleven randomised controlled trials included in the meta-analysis\nFirst author, year Duration of Diet composition Drop out (%) (reference no.) Country intervention (months) LC LF LC LF\nBazzano, 2014(34) USA 12 CHO intake <40 g/d. Ad libitum diet with no set energy goal <30 % of total fat intake as fat, and <7% as SFA. 55 % of total energy intake as CHO. No energy restriction 21 18\nBrehm, 2003(11) USA 6 Ad libitum diet with <20 g/d as CHO. After 2 weeks, permission to increase CHO to 40−60 g/d 55 % of total energy as CHO, 15 % as protein and 30 % as fat 15 26\nBrinkworth, 2009(35) Australia 12 4 % of total energy as CHO, 35 % as protein, 61 % fat (20 % SFA). Restriction of CHO to <20 g/d the first 2 months and then <40 g/d for the remainder of the intervention period 30 % as fat (8 % or 10 g/d as SFA), 46 % as CHO and 24 % as protein 40 31\nDansinger, 2005(36) USA 12 CHO intake <20 g/d, with gradual increase towards 50 g/d 10 % of energy from fat, vegetarian diet 48 50\nFoster, 2003(28) USA 12 CHO intake <20 g/d for the first 2 weeks, with gradual increase until stable and desired weight was achieved. Instructed to follow the Atkins diet 60 % of total energy as CHO, 20 % as fat and 10 % as protein. Energy intake limited to 5021– 6276 kJ (1200−1500 kcal/d) for women and 6276– 7531 kJ (1500−1800 kcal/d) for men 39 43\nFoster, 2010 (37) USA 24 <20 g CHO for the first 3 months, thereafter gradual increase in CHO intake (5 g/d per week). Participants followed guidelines as described in Dr Atkins’ New Diet Revolution 55 % of energy from CHO, 30 % from fat and 1 % from protein. Energy intake was limited to 5021– 6276 kJ (1200−1500 kcal/d) for women and 6276– 7531 kJ (1500−1800 kcal/d) for men 42 32\nGardner, 2007 (38) USA 12 CHO intake of 20 g/d or less in the induction phase (2 −3 months), and ≤50 g/d or less for the subsequent ongoing weight loss phase <10 % of total energy from fat 12 22\nLim, 2010(39) Australia 15 4 % of energy as CHO, 35 % as protein and 60 % fat (20 % SFA). 70 % of energy as CHO, 20 % protein and 10 % fat (3 % SFA) 37 36\nMorgan, 2009(29) UK 6 LC diet prescribed as Atkins diet after Dr Atkins ’ New Diet Revolution LF diet prescribed after Rosemary Conely ‘Eat yourself slim’ Diet and fitness plan-an energy-controlled and low-fat healthy eating diet and group exercise class 42 29\nShai, 2008 (27) Israel 24 CHO intake limited to 20 g/d for first 2 months, with gradual increase to maximum 120 g/d. Intake of total energy, protein and fat were not limited 30 % fat (10 % SFA) and 300 mg cholesterol/d. Restricted energy intake: 5021 kJ (1500 kcal/d) for women and 7531 kJ (1800 kcal/d) for men 22 10\nYancy, 2004 (30) USA 6 CHO intake limited to <20 g/d. Increase of 5 g/week until body weight was maintained <30 % of total energy as fat, <10 % SFA and <300 mg cholesterol daily 24 43\nCHO, carbohydrates; LC, low-CHO diet; LF, low-fat diet.",
+        "tags": [
+            "randomised controlled trials",
+            "diet composition",
+            "low-carbohydrate diet",
+            "energy intake",
+            "drop out rates"
+        ]
+    },
+    {
+        "section": 13,
+        "content": "24 h recalls were made and 3-, 5- or 7-d food records were collected. Adherence decreased over time, but studies that pro-",
+        "tags": [
+            "food records",
+            "adherence",
+            "diet studies",
+            "recalls",
+            "data collection"
+        ]
+    },
+    {
+        "section": 14,
+        "content": "24 h recalls were made and 3-, 5- or 7-d food records were collected. Adherence decreased over time, but studies that provided more extensive behavioural treatment and close follow-up had better dietary adherence than studies with less follow-up. Mostly, subjects were encouraged to maintain a certain level of physical activity, although none of the studies provided records of the subjects’ physical activity level. There was a large variation in attrition rates, with drop out ranging from 12 to 50 %. We collected data from analyses that included only subjects who completed the intervention, except for two studies that only presented data from intention-to-treat analysis. However, one of the studies reported that the results from the intention-to-treat analysis did not significantly differ from the results of completers data only. Likewise, two other studies provided data for both intention-to-treat and completers analyses, and similarly reported no significant differences at the end of the intervention.",
+        "tags": [
+            "dietary adherence",
+            "physical activity",
+            "attrition rates",
+            "intention-to-treat",
+            "completers analysis"
+        ]
+    },
+    {
+        "section": 15,
+        "content": "The baseline subject characteristics are presented in Table 2. A total of 1369 subjects (LC, n 688 and LF, n 681) were included in the eleven studies that met the eligibility criteria. Most of the studies had a higher proportion of women than men, and two studies included only women. The mean age of participants varied between 40 and 52 years. Reported mean BMI and baseline levels of cardiovascular risk factors (TAG, HDL-cholesterol, LDL-cholesterol, TC, SBP, DBP, glucose and insulin) varied among studies but were similar in the LC and LF groups in each study.",
+        "tags": [
+            "baseline characteristics",
+            "subject demographics",
+            "BMI",
+            "cardiovascular risk factors",
+            "study eligibility"
+        ]
+    },
+    {
+        "section": 16,
+        "content": "Results from the quality assessment are provided in Table 3. Some studies did not report on the sequence generation used, and most studies did not report on allocation concealment. Blinding was impossible. One study was considered to have high risk in terms of incomplete outcome data. No evidence of selective reporting was found in any of the studies. Of the eleven studies, one study received an overall score of ‘high’ in terms of risk of bias.",
+        "tags": [
+            "quality assessment",
+            "risk of bias",
+            "study reporting",
+            "blinding",
+            "outcome data"
+        ]
+    },
+    {
+        "section": 17,
+        "content": "The results from the primary meta-analyses are presented in Fig. 2 and online Supplementary Table S1. The WMD comparing the LC v. LF diets was significant for body weight (WMD= – 2·17 kg; 95 % CI – 3·36, – 0·99) and TAG (WMD= – 0·26 mmol/l; 95 % CI – 0·37, – 0·15). Furthermore, subjects on the LC diets experienced a significantly greater increase in both HDL-cholesterol (WMD= 0·14 mmol/l; 95 % CI 0·09, 0·19) and LDL-cholesterol (WMD= 0·16 mmol/l; 95 % CI 0·003, 0·33) compared with subjects on LF diets. Only four studies provided data on TC, which showed no significant difference between the groups. Similarly, WMD for SBP, DBP and glucose and insulin concentrations between the LC v. LF groups were not significant.",
+        "tags": [
+            "meta-analysis",
+            "body weight",
+            "cholesterol levels",
+            "diet comparison",
+            "statistical significance"
+        ]
+    },
+    {
+        "section": 18,
+        "content": "We imputed standard deviation calculated from studies in our meta-analysis, which produced similar results to the primary analyses with standard deviation imputed from another meta-analysis. Likewise, excluding all studies not reporting standard deviation for mean differences or those with imputed standard deviation from another meta-analysis showed similar results, except non-significant results for LDL-cholesterol due to fewer studies being included in the analyses. Moderate-to-high heterogeneity was observed for all variables, with I2 values ranging from 63 to 92 %. We carried out sensitivity analyses to identify possible studies explaining the heterogeneity. The exclusion of each study one at a time did not significantly alter the results or the heterogeneity for body weight and insulin.",
+        "tags": [
+            "sensitivity analysis",
+            "heterogeneity",
+            "standard deviation",
+            "cholesterol",
+            "meta-analysis results"
+        ]
+    },
+    {
+        "section": 19,
+        "content": "In the subgroup analysis, we excluded studies with duration <12 months, with high or unclear risk of bias, with 100 % women or only presenting intention-to-treat analyses. The WMD were similar for almost all variables, except for LDL-cholesterol, which did not remain significantly different between the LC and LF diets, probably due to reduction of included studies from 11 to 8 or 9. In addition, body weight did not remain significant, whereas DBP became significantly different between LC and LF diets after excluding studies with unclear or high risk of bias. Heterogeneity was reduced for TAG, TC, HDL-cholesterol, LDL-cholesterol and DBP when studies with unclear or high risk of bias were excluded.",
+        "tags": [
+            "subgroup analysis",
+            "duration of studies",
+            "risk of bias",
+            "body weight",
+            "dietary comparison"
+        ]
+    },
+    {
+        "section": 20,
+        "content": "Another subgroup analysis was performed to explore whether studies including subjects with metabolic risk factors or disorders were associated with changes in WMD and heterogeneity for the different variables. WMD was similar as in the primary meta-analysis for body weight, TAG, TC and HDL-cholesterol, whereas WMD for LDL-cholesterol turned out to be non-significant. Heterogeneity was no longer significant for TAG, SBP, DBP, glucose and insulin. In analyses that excluded studies including subjects with associated metabolic disorders, the WMD was similar as in the primary meta-analysis for body weight, TAG, TC, HDL-cholesterol and LDL-cholesterol. The heterogeneity was reduced for TAG, HDL-cholesterol and LDL-cholesterol.",
+        "tags": [
+            "metabolic risk factors",
+            "subgroup analysis",
+            "WMD",
+            "heterogeneity",
+            "cholesterol levels"
+        ]
+    },
+    {
+        "section": 21,
+        "content": "We explored the possibility of publication bias by plotting mean differences against standard errors in body weight and cardiovascular risk factors. Using Egger’s linear regression test, possible publication bias was detected for body weight, TC, LDL-cholesterol and DBP. Visual inspection of the funnel plots suggests that publication bias may also be present for SBP and glucose. The trim-and-fill method was used, but no trimming was performed, and the WMD estimates were unchanged.",
+        "tags": [
+            "publication bias",
+            "Egger's test",
+            "funnel plots",
+            "body weight",
+            "cardiovascular risk factors"
+        ]
+    },
+    {
+        "section": 22,
+        "content": "In this meta-analysis, we compared the effects of low-carbohydrate (LC) diets with low-fat (LF) diets on various cardiovascular risk factors. The analysis included data from eleven randomized controlled trials, which provided a comprehensive overview of the impact of these dietary approaches on health outcomes. The baseline characteristics of the participants in these studies were carefully documented, including age, body mass index (BMI), triglycerides (TAG), cholesterol levels (HDL, LDL, total cholesterol), blood pressure (systolic and diastolic), glucose, and insulin levels. This information is crucial for understanding how different dietary patterns may influence cardiovascular health and metabolic parameters. The findings from this meta-analysis could help inform dietary recommendations and interventions aimed at reducing cardiovascular disease risk. The results indicate that both dietary approaches have their merits, but the specific effects on cardiovascular risk factors may vary depending on individual health profiles and adherence to the diet. Further research is needed to explore the long-term implications of these dietary strategies on cardiovascular health.",
+        "tags": [
+            "low-carbohydrate diet",
+            "low-fat diet",
+            "cardiovascular risk",
+            "meta-analysis",
+            "dietary recommendations"
+        ]
+    },
+    {
+        "section": 23,
+        "content": "In this meta-analysis, we compared the effects of LC diets with LF diets on weight loss and CVD risk factors. Compared with subjects on LF diets, subjects on LC diets experienced significantly greater weight loss, greater TAG reduction, and greater increase in HDL-cholesterol after 6 months to 2 years of intervention. Despite significant weight loss, subjects on the LC diet experienced a significant increase in LDL-cholesterol compared with their counterparts consuming an LF diet. Our findings suggest that the beneficial changes of LC diets must be weighed against the possible detrimental effects of increased LDL-cholesterol. It is still uncertain how the beneficial effects of the LC diet such as weight loss, TAG reduction, and HDL-cholesterol increase translate into possible prevention of CVD. In epidemiological studies, HDL-cholesterol levels are inversely related to the risk of CHD, whereas results from studies on treatment that increase HDL-cholesterol levels have so far been disappointing. Further, large Mendelian randomisation studies indicate that increased HDL-cholesterol cannot be translated into a reduction in CVD risk. Thus, whether an increase in HDL-cholesterol levels is directly related to the reduction in risk of CHD is yet to be demonstrated. On the other hand, increased levels of LDL-cholesterol are clearly associated with increased risk of CVD. A number of studies have previously reported increased LDL-cholesterol levels in subjects on LC diets, recognising the concerns associated with this change in LDL-cholesterol concentration.",
+        "tags": [
+            "LC diets",
+            "LF diets",
+            "weight loss",
+            "CVD risk",
+            "LDL-cholesterol"
+        ]
+    },
+    {
+        "section": 24,
+        "content": "Blood concentrations of LDL-cholesterol are expected to decrease with moderate weight loss. The significant weight loss and increase in LDL-cholesterol in the LC vs. LF groups in the present meta-analysis are consistent with several other meta-analyses, but not all report significant differences in weight loss between the LC and the LF groups. Some studies concluded that dieters on a LC diet experienced less reduction of LDL-cholesterol, although both groups experienced similar weight loss. Concerns regarding lack of decrease and the great individual variability in LDL-cholesterol levels among dieters on the LC diet have been raised. Furthermore, the role of a greater decrease in TAG concentrations among LC dieters is uncertain, as reduction of TAG below a specific target has in itself not been proven to reduce risk of CVD. In addition, the associated alteration of the LDL-cholesterol phenotype from small dense LDL to greater LDL has been associated with reduced atherogenicity. Notably, large, dense LDL-cholesterol particles are also associated with increased CVD risk, especially together with low TAG levels. Studies have reported that the LC and LF diets produced different effects on the LDL-cholesterol particle size, depending on the subjects’ initial LDL-cholesterol phenotype, but with greater and less-dense LDL-cholesterol particles in subjects following the LC diet.",
+        "tags": [
+            "LDL-cholesterol",
+            "TAG concentrations",
+            "dietary effects",
+            "CVD risk",
+            "macronutrient composition"
+        ]
+    },
+    {
+        "section": 25,
+        "content": "Several studies showed that macronutrient composition did not seem to be the determining factor in the effectiveness of losing weight when energy intake is also decreased. LC dieters reduced the energy intake up to 30%, which was a significant reduction compared with baseline intake and comparable with subjects on the LF diet. These findings support the assumption that the weight loss observed among LC dieters is mainly due to reduction in energy intake rather than macronutrient composition. All the information available on energy intake in the LC and LF groups is presented in a table. Unfortunately, there is a general lack of information detailing actual energy intake among subjects, and therefore some uncertainty is associated with the effect of macronutrient composition versus energy intake on weight loss.",
+        "tags": [
+            "macronutrient composition",
+            "energy intake",
+            "weight loss",
+            "dietary effects",
+            "LC dieters"
+        ]
+    },
+    {
+        "section": 26,
+        "content": "among subjects, and therefore some uncertainty is associated with the effect of macronutrient composition on weight loss and other CV risk factors. Plausible causes for reduced energy intake on a LC diet are increased satiety due to high intake of fat and protein and increased attention to dietary behaviour. A strength of this meta-analysis is the inclusion criteria, particularly the strict definition of the LC diet in an attempt to achieve consensus between the different studies. Previous meta-analyses have included studies with CHO ranging from 20 g/d up to 40–45 % at the beginning of the intervention, whereas our meta-analysis included only studies with an intake of no more than 20–30 g/d of CHO in the first phase or CHO intake of <20 % of total energy intake. Another strength is the",
+        "tags": [
+            "macronutrient composition",
+            "weight loss",
+            "CV risk factors",
+            "low-carbohydrate diet",
+            "energy intake"
+        ]
+    },
+    {
+        "section": 27,
+        "content": "Summary WMD Heterogeneity P = 0.000, I 2 = 82.2% Dansinger, 2005 Shai, 2008 Lim, 2010 Morgan, 2008 Foster, 2003 Yancy, 2004 Foster, 2010 Bazzano, 2014 Gardner, 2007 Study Brinkworth, 2009 Brehm, 2003 –6.6 9.3 –3.3 4.1 –2.1 4.7 –8.8 8.2 –4.4 8.2 –6.5 7.5 –7.37 11.0 –1.8 6.5 –2.6 5.7 LF Mean SD –11.5 1.2 –3.9 1.0 100.00 6.36 11.09 8.38 7.16 5.14 8.17 8.64 9.20 9.70 % Weight 13.00 13.15 –2.17 –3.36, –0.99 2.70 –0.73, 6.13 –2.20 –3.73, –0.67 –0.80 –3.34, 1.74 –0.10 –3.15, 2.95 –2.80 –6.93, 1.33 –5.50 –8.12, –2.88 1.03 –1.41, 3.47 –3.50 –5.73, –1.27 –2.10 –4.14, –0.06 –3.00 –3.70, –2.30 –4.60 –5.21, –3.99 Mean difference –3.9 6.0 –5.5 7.0 –2.9 4.9 –8.9 8.5 –7.2 8.5 –12 7.1 –6.3 10.8 –5.3 7.3 –4.7 7.2 –14.5 1.7 –8.5 1.0 –0.26 –0.37, –0.15 –0.53 –0.84, –0.22 –0.14 –0.59, 0.31 –0.30 –0.73, 0.13 –0.59 –1.11, –0.07 –0.24 –0.47, –0.01 –0.36 –0.68, –0.04 0.02 –0.15, 0.19 –0.40 –0.83, 0.03 –0.16 –0.35, 0.03 –0.36 –0.41, –0.31 –0.16 –0.32, –0.00 –0.84 0.93 –0.02 1.32 –0.20 0.70 –0.39 0.93 –0.27 0.93 –0.64 0.93 –0.14 0.76 –0.42 0.93 –0.33 0.67 –0.58 0.11 –0.23 0.49 –0.31 0.80 0.12 0.60 0.10 0.90 0.20 0.80 –0.03 0.80 –0.28 0.80 –0.16 0.79 –0.02 0.80 –0.17 0.52 –0.22 0.11 –0.07 0.48 100.00 7.57 4.62 5.01 3.64 10.27 7.41 12.83 4.97 12.14 17.90 13.63 0–0.6–0.4–0.20.20.40.6–0.80.8 Study LF Mean SD % Weight LC Mean SDFavour LC Favour LF Δ TAG (mmol/l) (a) (b) 95 % CI Mean difference 95 % CI",
+        "tags": [
+            "meta-analysis",
+            "low-carbohydrate diet",
+            "CHO intake",
+            "body weight",
+            "TAG levels"
+        ]
+    },
+    {
+        "section": 28,
+        "content": "of no more than 20–30 g/d of CHO in the first phase or CHO intake of <20 % of total energy intake. Another strength is the inclusion of only RCT performed in healthy adult subjects with intervention≥6 months. Six months is too short when speaking of long-term effects, but as a few studies have longer duration, we believe that this inclusion criterion was as close as possible to study the long-term effect on changes in CVD risk factors, such as lipid values and body weight. The current meta-analysis has several limitations. First, heterogeneity was moderate to high for all variables. Sensitivity analyses suggested influence of some of the individual studies for some variables, although the WMD results remained near similar after their exclusion. Second, the observed asymmetry in some of the funnel plots raises the possibility of publication bias. Presence of publication bias could be due to unpublished studies or if some findings have been suppressed, distorted or emphasised in a scientifically unjustified manner, resulting in an inaccurate measure of the effect of LC diets on weight loss and CVD risk factors. However, the trim-and-fill analysis did not change the estimates, indicating that the effect of publication bias in the present meta-analysis could be minor. Importantly, the Egger’s test has low power when there are <10 studies in the analysis.",
+        "tags": [
+            "CHO intake",
+            "RCT",
+            "CVD risk factors",
+            "meta-analysis",
+            "publication bias"
+        ]
+    },
+    {
+        "section": 29,
+        "content": "Summary WND Heterogeneity P = 0.001, I 2 = 82.0% Bazzano, 2014 Dansinger, 2005 Lim, 2010 Brinkworth, 2009 0.05 0.68 –0.21 0.80 –0.40 0.80 0.70 0.20 0.03 2.03 –0.56 0.67 –0.30 0.80 0.10 0.10 100.00 20.01 25.61 22.21 32.17 0.26 –0.09, 0.62 0.02 –0.47, 0.51 0.35 0.03, 0.67 –0.10 –0.52, 0.32 0.60 0.52, 0.68 0–0.8– 0 .6– 0 .4– 0 .20 .20 .40 .60 .8 Study LF Mean SD % Weight Mean difference LC Mean SDFavour LC Favour LF Δ Total cholesterol (mmol/l) Summary WMD Heterogeneity P = 0.000, I 2 = 76.3% Dansinger, 2005 Bazzano, 2014 Foster, 2010 Morgan, 2008 Lim, 2010 Shai, 2008 Brinkworth, 2009 Foster, 2003 Brehm, 2003 Yancy, 2004 Gardner, 2007 0.14 0.09, 0.19 0.20 0.10, 0.30 0.18 0.08, 0.28 0.08 0.02, 0.14 0.12 0.03, 0.21 0.00 –0.16, 0.16 0.06 –0.01, 0.13 0.23 0.20, 0.26 0.18 0.05, 0.31 0.07 –0.08, 0.22 0.18 0.09, 0.27 0.13 0.07, 0.19 0.17 0.23 0.24 0.31 0.20 0.28 –0.08 0.28 0.10 0.30 0.22 0.28 0.30 0.07 0.22 0.28 0.18 0.28 0.14 0.28 0.13 0.23 –0.03 0.24 0.06 0.31 0.12 0.25 –0.20 0.23 0.10 0.30 0.16 0.23 0.07 0.06 0.04 0.23 0.11 0.23 –0.04 0.23 0.00 0.16 100.00 8.49 8.69 11.31 9.07 5.62 10.71 12.85 7.16 5.80 9.18 11.12 0–0.3– 0 .2– 0 .10 .10 .20 .3 Study LF Mean SD % Weight LC Mean SDFavour LF Favour LC Δ HDL-cholesterol (mmol/l) (d) (c) 95 % CI Mean difference 95 % CI Fig. 2. (Continued on following page)",
+        "tags": [
+            "cholesterol",
+            "meta-analysis",
+            "CVD risk factors",
+            "RCT",
+            "dietary intervention"
+        ]
+    },
+    {
+        "section": 30,
+        "content": "Importantly, the Egger’s test has low power when there are less than 10 studies in the meta-analysis. Our analyses included eleven studies for body weight, TAG, HDL and LDL, but less than ten studies for TC, SBP, DBP, glucose and insulin, which may have resulted in too low power to detect asymmetry. However, the majority of published meta-analyses contain ten or fewer studies. Third, the high dropout rates of the included studies, with an average of 31 % for both the LC and LF groups must be taken into consideration. Different follow-up systems were used in the studies, ranging from self-help format to intensive dietary counselling. Studies have shown that close follow-up and support in a weight-loss process increases chances of greater weight loss. Several studies in this meta-analysis pointed out significant weight loss at certain times during the intervention, but not at the end of the intervention, which can possibly affect the overall results. The variability in study designs and participant adherence may contribute to the differences observed in weight loss outcomes across the studies.",
+        "tags": [
+            "meta-analysis",
+            "weight loss",
+            "dietary counselling",
+            "study dropout",
+            "follow-up support"
+        ]
+    },
+    {
+        "section": 31,
+        "content": "The summary of the weight mean difference (WMD) shows heterogeneity with P = 0.000 and I² = 84.0%. The studies included in this analysis are Shai (2008), Foster (2003), Brehm (2003), Brinkworth (2009), Bazzano (2014), Lim (2010), Dansinger (2005), Yancy (2004), Gardner (2007), Morgan (2008), and Foster (2010). The mean differences for LDL cholesterol (mmol/l) also show significant heterogeneity with P = 0.008 and I² = 63.1%. The studies contributing to this analysis include Gardner (2007), Yancy (2004), Brinkworth (2009), Dansinger (2005), Foster (2010), Lim (2010), Bazzano (2014), and Shai (2008). The results indicate varying effects of low-carbohydrate diets on LDL cholesterol levels, with some studies showing a decrease while others show an increase. This variability highlights the need for further research to clarify the impact of low-carbohydrate diets on cardiovascular disease risk factors.",
+        "tags": [
+            "weight mean difference",
+            "LDL cholesterol",
+            "heterogeneity",
+            "low-carbohydrate diet",
+            "cardiovascular disease"
+        ]
+    },
+    {
+        "section": 32,
+        "content": "out signiﬁcant weight loss at certain times during the intervention, but not at the end of the intervention, which can possibly be attributed to weak adherence. Seven studies in our meta-analysis reported the macronutrient consumption at the end of the intervention, where CHO intake ranged from 9–40% of total energy intake. Furthermore, from studying the data provided, LC dieters seemed to compensate with increased fat intake, ranging from 37–54% of total energy at the end of the intervention, and generally a slight increase in protein intake. It is clear that, although similar diets were prescribed at the outset, some differences in macronutrient composition are undoubtedly inevitable when subjects were not given any further directions in terms of dietary intake. The large variations in the reported CHO intake (reﬂecting limited adherence) and differences in macronutrient composition could limit the generalisability and validity of the presented data. It is difﬁcult to conduct a dietary intervention on free-living subjects and one cannot expect 100% dietary adherence. Even if macronutrient and energy settings were carefully imposed in dietary interventions, it is a limitation when subjects are left to",
+        "tags": [
+            "weight loss",
+            "macronutrient consumption",
+            "dietary intervention",
+            "CHO intake",
+            "fat intake"
+        ]
+    },
+    {
+        "section": 33,
+        "content": "compensate for their dietary choices without strict supervision. This variability in adherence and dietary composition highlights the challenges faced in nutritional studies, particularly those involving free-living individuals. The findings suggest that while low-carbohydrate (LC) diets may lead to significant changes in fat and protein intake, the lack of consistent adherence can skew results and make it difficult to draw definitive conclusions about the effectiveness of such diets. Future research should consider strategies to enhance adherence and monitor dietary intake more closely to improve the reliability of findings. Additionally, understanding the psychological and social factors influencing dietary choices could provide valuable insights into improving adherence in dietary interventions. Overall, the complexity of human behavior in relation to diet must be acknowledged in order to advance nutritional science and public health recommendations.",
+        "tags": [
+            "dietary choices",
+            "adherence",
+            "nutritional studies",
+            "low-carbohydrate diets",
+            "public health"
+        ]
+    },
+    {
+        "section": 34,
+        "content": "In dietary interventions, the careful imposition of macronutrient and energy settings is crucial; however, a significant limitation arises when subjects self-report their food intake. Variability in dietary data collection methods across studies introduces further complications, as these assessment methods are prone to substantial measurement errors. Common issues include under-reporting or over-reporting of certain food types, forgetfulness regarding specific foods, or the tendency to report what is expected rather than actual intake. This challenge persists as a major limitation for all dietary interventions, including this meta-analysis. To mitigate some uncertainty, the inclusion of studies with similar macronutrient content was attempted, particularly concerning carbohydrate (CHO) intake, as reflected in the strict inclusion criteria. Additionally, since the studies focused on individuals with increased BMI who were otherwise considered healthy, the findings may not be applicable to those with obesity-related conditions such as diabetes, cardiovascular disease (CVD), and lipid metabolism disturbances. Furthermore, the analysis did not adjust for multiple testing, which raises concerns about the validity of the results in the literature.  \n\nTags: dietary interventions, self-reporting, measurement errors, macronutrient content, obesity-related conditions",
+        "tags": [
+            "dietary interventions",
+            "self-reporting",
+            "measurement errors",
+            "macronutrient content",
+            "obesity-related conditions"
+        ]
+    },
+    {
+        "section": 35,
+        "content": "The present meta-analysis, which included dietary interventions targeting individuals with increased BMI but deemed otherwise healthy, revealed that subjects on a low-carbohydrate (LC) diet experienced greater weight loss compared to those on a low-fat (LF) diet. Additionally, the LC diet was associated with more favorable changes in HDL-cholesterol and triglyceride (TAG) levels, while the changes in LDL-cholesterol levels were less favorable. However, it is important to note that none of the studies assessed the effects of the LC diet on hard endpoints such as coronary heart disease (CHD) and mortality, making it impossible to draw definitive conclusions in this area. Given that LDL-cholesterol is highly atherogenic, this raises the question of whether long-term adherence to LC diets could potentially increase morbidity and mortality. Therefore, there is a pressing need for studies with longer durations to investigate the effects of these diets on hard endpoints. Further research is essential to enhance our understanding of the significant variability in individual responses to dietary interventions. \n\nTags: meta-analysis, low-carbohydrate diet, weight loss, cholesterol levels, morbidity and mortality",
+        "tags": [
+            "meta-analysis",
+            "low-carbohydrate diet",
+            "weight loss",
+            "cholesterol levels",
+            "morbidity and mortality"
+        ]
+    },
+    {
+        "section": 36,
+        "content": "This work was supported by The Throne Holst Foundation for Nutrition Research and the University of Oslo. The research was designed by K. J. V., N. M., and K. R. The database searches were conducted by N. M. and K. J. V., who also selected, screened, and reviewed the articles, as well as drafted the paper. Data analysis and statistical analyses were performed by K. J. V. and M. B. V. The manuscript was critically revised for important intellectual content by M. B. V. and K. R. N. M., K. J. V., and K. R. had primary responsibility for the final content. All authors read and approved the final version of the manuscript. Furthermore, none of the authors has any conflicts of interest to declare. \n\nTags: research support, authorship, conflicts of interest, manuscript approval, nutrition research",
+        "tags": [
+            "research support",
+            "authorship",
+            "conflicts of interest",
+            "manuscript approval",
+            "nutrition research"
+        ]
+    },
+    {
+        "section": 37,
+        "content": "Obesity and cancer risk: recent review and evidence. The relationship between obesity and cancer has been a topic of increasing interest in recent years. Studies have shown that obesity is associated with an increased risk of several types of cancer, including breast, colon, and endometrial cancers. The mechanisms behind this association are complex and may involve hormonal changes, inflammation, and insulin resistance. Understanding these mechanisms is crucial for developing effective prevention strategies. Furthermore, weight management through diet and physical activity is essential in reducing cancer risk. Public health initiatives aimed at promoting healthy lifestyles can play a significant role in addressing the obesity epidemic and its associated cancer risks. \n\nTags: Obesity, Cancer Risk, Prevention, Hormonal Changes, Public Health",
+        "tags": [
+            "Obesity",
+            "Cancer Risk",
+            "Prevention",
+            "Hormonal Changes",
+            "Public Health"
+        ]
+    },
+    {
+        "section": 38,
+        "content": "Global, regional, and national prevalence of overweight and obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of Disease Study 2013. The prevalence of overweight and obesity has risen dramatically over the past few decades, affecting populations worldwide. This increase poses significant health challenges, including a higher incidence of chronic diseases such as diabetes, cardiovascular diseases, and certain cancers. The systematic analysis highlights the need for global strategies to combat obesity, focusing on dietary changes, physical activity, and public awareness campaigns. Addressing the obesity epidemic requires a multifaceted approach involving governments, healthcare providers, and communities to promote healthier lifestyles and environments. \n\nTags: Obesity, Global Health, Chronic Diseases, Public Awareness, Dietary Changes",
+        "tags": [
+            "Obesity",
+            "Global Health",
+            "Chronic Diseases",
+            "Public Awareness",
+            "Dietary Changes"
+        ]
+    },
+    {
+        "section": 39,
+        "content": "Diet and lifestyle recommendations revision 2006: a scientific statement from the American Heart Association Nutrition Committee. The American Heart Association provides guidelines aimed at improving cardiovascular health through dietary and lifestyle modifications. These recommendations emphasize the importance of a balanced diet rich in fruits, vegetables, whole grains, and lean proteins while limiting saturated fats, trans fats, and added sugars. Regular physical activity is also highlighted as a critical component of a healthy lifestyle. Adhering to these guidelines can significantly reduce the risk of heart disease and improve overall health outcomes. Public health policies should support these recommendations to foster healthier communities. \n\nTags: Cardiovascular Health, Dietary Guidelines, Physical Activity, Public Health, Heart Disease",
+        "tags": [
+            "Cardiovascular Health",
+            "Dietary Guidelines",
+            "Physical Activity",
+            "Public Health",
+            "Heart Disease"
+        ]
+    },
+    {
+        "section": 40,
+        "content": "The role of dietary fat in the prevention and treatment of obesity. Dietary fat has been a controversial topic in nutrition science, particularly regarding its role in obesity. Recent research suggests that not all fats are created equal; unsaturated fats may have beneficial effects on weight management and metabolic health, while saturated fats may contribute to obesity and related health issues. Understanding the types of dietary fats and their impact on health is essential for developing effective dietary strategies for obesity prevention and treatment. Public health initiatives should focus on educating individuals about healthy fat choices and promoting balanced diets that include healthy fats. \n\nTags: Dietary Fat, Obesity, Metabolic Health, Nutrition Science, Public Health",
+        "tags": [
+            "Dietary Fat",
+            "Obesity",
+            "Metabolic Health",
+            "Nutrition Science",
+            "Public Health"
+        ]
+    },
+    {
+        "section": 41,
+        "content": "Long-term effects of a reduced fat diet intervention on cardiovascular disease risk factors in individuals with glucose intolerance. This study examines the impact of a reduced fat diet on cardiovascular risk factors among individuals with glucose intolerance. The findings indicate that a long-term reduced fat diet can lead to improvements in lipid profiles and other cardiovascular risk factors. These results underscore the importance of dietary interventions in managing glucose intolerance and reducing the risk of cardiovascular diseases. Healthcare providers should consider dietary modifications as part of a comprehensive approach to managing patients with glucose intolerance and related health issues. \n\nTags: Reduced Fat Diet, Cardiovascular Risk, Glucose Intolerance, Dietary Interventions, Healthcare",
+        "tags": [
+            "Reduced Fat Diet",
+            "Cardiovascular Risk",
+            "Glucose Intolerance",
+            "Dietary Interventions",
+            "Healthcare"
+        ]
+    },
+    {
+        "section": 42,
+        "content": "Low-carbohydrate diets have gained popularity as a method for weight loss and management of cardiovascular disease (CVD) risk factors. These diets typically involve a significant reduction in carbohydrate intake, which can lead to various metabolic changes in the body. Research has shown that low-carbohydrate diets can result in weight loss, improved insulin sensitivity, and favorable changes in lipid profiles, including increased levels of high-density lipoprotein (HDL) cholesterol. However, the long-term effects of such diets on cardiovascular health remain a topic of debate among nutritionists and healthcare professionals. Some studies suggest that while short-term benefits may be observed, the sustainability of these diets and their impact on overall heart health require further investigation. It is essential to consider individual health conditions and dietary preferences when recommending low-carbohydrate diets as a strategy for weight management and CVD risk reduction. Tags: low-carbohydrate diet, cardiovascular disease, HDL cholesterol, weight loss, metabolic health.",
+        "tags": [
+            "low-carbohydrate diet",
+            "cardiovascular disease",
+            "HDL cholesterol",
+            "weight loss",
+            "metabolic health"
+        ]
+    }
+]

@@ -1,0 +1,335 @@
+[
+    {
+        "id_": "21c0db51-a975-4235-adb9-2e8fc558f636",
+        "embedding": null,
+        "metadata": {
+            "page_label": "1",
+            "file_name": "food_factsheet.pdf",
+            "file_path": "../data/raw/food_factsheet.pdf",
+            "file_type": "application/pdf",
+            "file_size": 334948,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Food for the body and the mind\nFood is good! Knowing what it \ndoes for the body and the mind \nis key to making the right choices \nand enjoying the best of it.\nEating is necessary to provide \nenergy for the body’s functions, \nand nutrients to repair and build \ntissue, prevent sickness and \nhelp the body heal from illness. \nKnowledge of what food does \nfor the body and mind empowers \nyou to choose the right type, \nquality and quantity of food – \nthat’s the art. \n               Foods, nutrients \nand their functions\n          -   Carbohydrates are the primary \nsource of energy for the body. We get \nthem from roots, tubers, grains, sugar, \nfruits, legumes, dairy products and \nvegetables. \n          -   Fats and oils are concentrated forms \nof energy, but they also help the \nabsorption of vitamins, support cell \nmembrane health and maintain the \nimmune system. \n          -   Protein foods perform the main \nbody-building and repair functions \nas well as being sources of energy in \nthe absence of carbohydrates. The \nbest protein sources are animal foods \n– meat, poultry, fish, eggs, insects \nand dairy products. We also get \nprotein from such plant sources as \nbeans, peas, nuts, cereals and derived \nproducts. \n          -   Vitamins and minerals collectively \nare called micronutrients because \nthe body needs them in small \nquantities. But they are crucial \nfor regulating tissue growth and \nvital body functions, including the \npreservation of cell integrity. \n          -   And then there is WATER. \nWater is life. It makes up 60% of \nour bodies and is the medium for \nall vital body functions. It helps to \nkeep the balance between the acidic \nand alkaline substances that would \notherwise destroy cells. Humans \ncannot survive more than a few days \nwithout water.\n“ T o eat is a necessity; \nto eat intelligently \nis an art” \nFrançois de La Rochefoucauld, \nPhilosopher.\nFOOD IS \nGOOD\nKNOW IT, AND\nENJOY IT!\nKNOW YOUR \nFOOD\n1",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "951f8e85-fc3f-429c-a997-2bc865cebf88",
+        "embedding": null,
+        "metadata": {
+            "page_label": "2",
+            "file_name": "food_factsheet.pdf",
+            "file_path": "../data/raw/food_factsheet.pdf",
+            "file_type": "application/pdf",
+            "file_size": 334948,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "What is a healthy diet? \nA healthy diet is one that provides the body with \nessential nutrition; that is, adequate energy, \nnutrients and fluids to maintain and regulate \nbody functions, support growth, repair tissue \nand prevent disease. In other words, it prevents \nnutritional deficiencies as well as the excesses \nthat lead to weight gain and obesity, high blood \npressure, high blood sugar, high cholesterol, gout \nand other diet-related health problems. \nA healthy diet typically consists of natural, fresh, \nminimally processed foods, as opposed to (highly) \nprocessed foods that are low in fibre and contain \nlarge amounts of salt, fats, free sugars and other \ncomponents that have harmful health effects. \nA healthy diet is also a safe diet. This means food \nfree of biological and chemical contaminants. \nIt is important to remember that ingredients \nadded to food during processing – salt, sugar, fat, \npreservatives – if excessive, also pose health risks.  \nOur food preferences\nFood preferences have a small element of genetic \npredisposition. The rest is learned and acquired \nright from the womb. As the foetus swallows \namniotic fluid, it becomes accustomed to the \ntastes of the food that the mother eats. Right \nfrom birth, infants show aversion to bitter and \nacid tastes and preference for sweet tastes. It \nis believed that Mother Nature thus equips her \nchildren with an affinity to what is nourishing \n(sugary foods) and an aversion to what may be \npoisonous (bitter foods).\nEarly child feeding and the circumstances of \nexposure to various tastes train each of us to \nlike or dislike certain tastes. It is probable that \nthe habit of giving young children candies when \nthey cry establishes a sub-conscious association \nof sweet things with love and comfort. By the \nsame token, force-feeding less desirable-tasting \nfoods leaves a lifelong aversion to those tastes. \nTherefore, preference for a healthy diet should be \nestablished from early in life by providing a variety \nof nutritious foods to infants and young children \nand feeding them responsively and lovingly. \nGeneral tips for a healthy diet\nMake half your plate fruits and vegetables: \nThe more colourful you make your plate, \nthe more likely you are to get the vitamins, \nminerals, and fibre your body needs to be \nhealthy. When cooking vegetables, preserve \nmicronutrients by using just enough water \nand avoid overcooking.\nOpt for whole or minimally processed grains: \nwhole wheat, brown rice, bulgur, oatmeal, \nquinoa, millet, sorghum, maize, tef (fonio), etc.    \nChoose a variety of protein foods: fish, \nseafood, poultry, meat (limit red and avoid \nprocessed meats), insects, pulses, legumes, \neggs, milk, dairy products, nuts, etc.\nDrink plenty of water and avoid sugary drinks.\nAccustom young children to healthy \nsnacks: Offer finger fruits and vegetables in \npreference to cookies or other sweets.\nLimit consumption of fried foods, especially \nthose cooked in solid fat or in re-used oil. \nPay attention to quantity: Use small plates to \ncontrol serving size; eat slowly and savour the \ntaste of your food; to avoid overconsumption \nor waste, serve small portions and take a \nsecond helping only if needed; listen to your \nsatiety cues. \nObserve food safety: Clean your hands and \nutensils properly; choose thoroughly cooked \nfoods; keep food at safe temperatures and \nreheat leftovers to piping hot (not just warm); \nwash fruits and vegetables with clean water \n(boiled or purified if necessary).",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "2284167a-6abd-46a6-a2cc-0fcd1a91f4d1",
+        "embedding": null,
+        "metadata": {
+            "page_label": "3",
+            "file_name": "food_factsheet.pdf",
+            "file_path": "../data/raw/food_factsheet.pdf",
+            "file_type": "application/pdf",
+            "file_size": 334948,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "SUGARS AND \nOTHER SWEET \nTHINGS\n2\nWhat are sugars \nSugars are simple forms of \ncarbohydrate, the primary \nsupplier of the energy that \nfuels the body’s vital functions: \nbreathing, blood circulation, the \nbuilding and repair of tissue, the ability to move \nand even to think. The simplest forms of sugar \ncontain one or two building units (molecules) and \nare called monosaccharides and disaccharides. \nMonosaccharides include glucose, fructose and \ngalactose, while the most common disaccharides \nare sucrose (table sugar) and lactose. \nComplex carbohydrate forms, such as \npolysaccharides, are broken down into simple \nsugars for absorption by the body. Thus, for \nexample, starch (the most common digestible \npolysaccharide) in cassava, potatoes, vegetables \nand cereals is transformed into single glucose \nmolecules for absorption.\nFree sugars in the diet\nFree sugars (as opposed to \nbound or intrinsic sugars) are the \nmonosaccharides and disaccharides \nthat occur naturally in syrups, honey \nand fruit juices or in processed forms \nthat can be added to foods by the \nmanufacturer, cook or consumer. \nIntrinsic sugars are present in whole \nfruits (fresh, dried, canned or stewed), \nin vegetables and in milk and dairy products. \nThese sugars are embedded in the cells of food \nand tend to be digested more slowly, thus taking \nlonger than free sugars to enter the blood stream. \nBut when fruit is turned into juice, the fibre is \ncrushed and sugars are released from its cells, \nbecoming free sugars. In a healthy diet, the \nconsumption of free sugars is kept \nto a minimum. \nFree sugars Non-free (intrinsic) sugars\n•  T able sugar \n•  Honey \n•  Malt extract, syrups and nectars\n•  Coconut sugar\n•  All sugars in fruit and vegetable juices, \nconcentrates, smoothies, purées, pastes, \npowders; crushed fruit and vegetable products \n•  Sugars produced by fermentation in alcoholic \ndrinks \n•  Sugars in dairy-alternative drinks such as soya, \nrice, oat and nut-based drinks\n•  All the sugars naturally present in fruits and \nvegetables (dried, stewed, canned and frozen) \n•  Lactose and galactose naturally present in milk \nand dairy products, including milk powder\n•  Sugars naturally present in puréed and \npowdered potatoes and other starchy staples\n•  Sugar naturally present in grains and cereals\n•  All sugars naturally present in nuts and seeds \nregardless of processing (other than nut-based \ndrinks)\nFOOD IS \nGOOD\nKNOW IT, AND\nENJOY IT!",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "be5e92fb-c474-41d9-af40-e8a468c3596f",
+        "embedding": null,
+        "metadata": {
+            "page_label": "4",
+            "file_name": "food_factsheet.pdf",
+            "file_path": "../data/raw/food_factsheet.pdf",
+            "file_type": "application/pdf",
+            "file_size": 334948,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Sugars and health\nThere is scientific evidence linking \nvarious noncommunicable diseases \nwith excessive consumption of \nsugars. Examples include increased \nrisk of tooth decay, high blood pressure, \nunhealthy weight gain, increased risk of heart \ndisease, diabetes, certain cancers, depression, \nkidney disease and gout. Even though the science \nis not conclusive regarding some of these risks, \nit is important that, as informed consumers, \nwe keep asking pertinent questions. \nWhere does the “sweet tooth” \ncome from? \nThe sweet-taste preference (sweet tooth) \nseems to be inborn, as illustrated in \nexperiments of newborns’ reactions to sugar \nsolution versus quinine. The consumption \nof sweet foods in early life reinforces this \npredisposition. The sweet foods may be fed as \npart of an ordinary weaning diet or as titbits \noffered to console and calm a crying baby \n(biscuits, lollipops, etc.). As a result, the brain \nis trained to associate sweet things with love, \ncomfort and happiness. This theory points \nto the importance of cultivating a taste for \nhealthy foods from early childhood. \nIn addition to early life programming, the \nfood environment in later life can reinforce or \nmodify the sweet-taste preference. Research \nsuggests that sugar is addictive, and the more \nwe consume it, the more we crave it. Popular \nexperience shows that the palate can be \ntrained to enjoy less and less sweetness in our \nfood and drink.\nWhat’s the matter with \nnon-sugar sweeteners?\nNon-sugar sweeteners come in forms of plant \nextracts and chemically synthesized alternatives to \nsugar. They impart a sweet taste to food but have \nlower (or no) calorie content, compared with sugar. \nIn fact, their original use was to help reduce calorie \nintake and control weight gain.\nThe brain does not distinguish sweetness from \nsugar versus non-sugar sweeteners. Thus, the \nuse of artificial sweeteners may be especially \nproblematic in children because being exposed to \nvery sweet tastes (artificial or natural) at a young \nage accustoms the palate to ultra-sweet flavours. \nThis risks decreasing the enjoyment of wholesome \nnatural foods, such as fruits and vegetables, which \nare less sweet or slightly bitter. \nDo artificial sweeteners have \nhealth benefits? Are they safe?\nStudies of health benefits have focused on artificial \nsweeteners (those used in diet drinks) rather \nthan the plant extracts. Artificial sweeteners are \nhundreds to thousands of times sweeter than \nsugar. Evidence for their health benefits or risks is \nconflicting. Therefore, as informed consumers, we \nmust keep asking questions about their safety.\nResearch also shows that artificial sweeteners \nchange the mix of bacteria in the gut and \ninterfere with the release of insulin (the hormone \nresponsible for regulating blood glucose). By \nthis means, they increase the risk of glucose \nintolerance, which raises blood glucose and could \nlead to type 2 diabetes. \nAvailable studies on the use of artificial weeteners \nand the risk of tooth decay and cancer have not \nbeen of long enough duration to provide conclusive \nresults. \nSurprisingly, studies of people trying to lose weight \nhave found that the use of artificial sweeteners \ncould lead to increased body weight! There is an \ninteresting hypothesis of how this could happen. \nThe sweet taste on the tongue sends a signal to the \nbrain to prepare for the “reward” of caloric energy. \nBut because the energy is not delivered, the post-\ningestion appetite control mechanisms are changed \nin ways that could lead to increased appetite, food \ncraving and, eventually, greater energy intake – \ncomplex and good food for thought! ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "7843980c-f34b-48d6-b7a7-719ac887ffa8",
+        "embedding": null,
+        "metadata": {
+            "page_label": "5",
+            "file_name": "food_factsheet.pdf",
+            "file_path": "../data/raw/food_factsheet.pdf",
+            "file_type": "application/pdf",
+            "file_size": 334948,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "SPOT THE \nSUGAR!\n3\nBefore you pass the sugar, please… \nFree sugars, which include the sugar added to \nfood during processing, while cooking and at the \ntable and the sugars occurring naturally in honey, \nfruit juices and concentrates, should contribute \nless than 10% of our daily energy intake. This is \nequivalent to 50 grams (about 12 teaspoons) for \na person of healthy body weight. However, there \nare additional health benefits (such as reducing \nthe incidence of tooth decay) if the total daily \nintake of free sugars is kept to six teaspoons or \nfewer.\nCan you spot the sugar?\nIt is easy to know and to control how much sugar \nis added to your food during home cooking and at \nthe table, but how about the sugar in processed \nfoods? Do you know the secret ingredient that \nmakes ketchup so popular with children? Sugar! \nAnd there is sugar in the most unlikely foods. \nTherefore, make a habit of looking at the label \n(if it is legible!) on the foods you put into your \nshopping basket.\nBelow are some examples of \nlabels you may find on food \npackaging. \n \nDeclaration of the ingredients in processed foods \n(or better still, the content of energy and key \nnutrients per 100 grams or 100 millilitres) should \nbe a minimum labelling requirement so that \nconsumers can tell how much sugar is contained \nin the food they purchase. But not all countries in \nthe African region have or enforce the necessary \nregulations in line with this requirement. And \neven where nutrients are declared, consumer \neducation may be needed to inculcate the \neffective use of the available labelling information. \nFOOD IS \nGOOD\nKNOW IT, AND\nENJOY IT!\n6 tsp or fewer per day\nBaby food \n(30.2% sugar)\nKetchup \n(22.7% sugar)\nSweet-flavoured popcorn \n(65.7% sugar)\nFruit drink from concentrate \n(14.2% sugar)",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "d095a6ac-b1d2-4134-9f28-2175caa7df21",
+        "embedding": null,
+        "metadata": {
+            "page_label": "6",
+            "file_name": "food_factsheet.pdf",
+            "file_path": "../data/raw/food_factsheet.pdf",
+            "file_type": "application/pdf",
+            "file_size": 334948,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Managing a sweet tooth\nT aste is acquired, so it is possible to drastically \nreduce sugar consumption by training the palate…\ngently. It is best to reduce the sugar added in \ncooking and at the table gradually. As the palate \nadapts to less and less sugar and you pay more \nattention to the sugar content of processed foods, \na habit of choosing low-sugar products is likely to \nbe established in a sustainable way – for you and \nyour family.\nOf honey, sugar and \nthe glycaemic index\nPeople with impaired blood \nsugar regulation usually use \nhoney to replace sugar. This is \nbecause blood glucose levels \nincrease more rapidly from the \nconsumption of sugar compared \nwith honey. In other words, sugar \nhas a higher glycaemic index than \nhoney.\nIt is important to remember, \nhowever, that honey has a higher \nenergy density than sugar: one \ntablespoon of white granulated \nsugar contains 48 calories, \ncompared with 68 calories \nin a tablespoon of honey.\nPractical tips\nWater is the best thirst quencher – did you \nknow that sugary drinks actually increase \nyour thirst? \nReduce and even eliminate the sugar added to \nyour regular beverages, such as coffee or tea.\nUse alternative means to flavour drinks, \nincluding adding lemon or lime juice, aromatic \nherbs, and flavouring extracts, like almond, \nvanilla or orange.\nEnhance foods with spices instead of sugar.  \nTry ginger, lemon, cinnamon or nutmeg.\nChoose fresh fruit and vegetables for \nsnacks instead of juice, sweet foods and \nconfectionery (cookies and cakes). \nEat fresh, frozen or dried fruits. If you use \ncanned fruits, avoid those preserved in syrup. \nInstead of adding sugar to breakfast cereals, \ntry sweetening with fresh fruit (like bananas) \nor dried fruit (like raisins and mangoes). \nCompare food labels and choose products \nwith low amounts of free sugars. \nWhen baking cookies, brownies or cakes, \nreduce the sugar in the recipe by one-third \nto one-half. Often, you likely won’t notice the \ndifference!\n Brush your teeth after meals.",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "671977a4-e901-4602-834c-0494f2518582",
+        "embedding": null,
+        "metadata": {
+            "page_label": "7",
+            "file_name": "food_factsheet.pdf",
+            "file_path": "../data/raw/food_factsheet.pdf",
+            "file_type": "application/pdf",
+            "file_size": 334948,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Role of sodium in the \nbody and dietary sources\nSodium works in conjunction \nwith other electrolytes (mineral \nelements) to regulate muscle \ncontraction and relaxation and to control blood \npressure. The electrolytes regulate the flow of \nfluids across cell membranes to achieve the fluid \nbalance that is necessary for the survival and proper \nfunctioning of cells and organs.\nSodium is involved with potassium in “operating” a \npump-like system that facilitates the movement of \nimpulses through the nerves. Thus, recommendations \non sodium intake refer to balancing it with potassium \nintake. Sodium occurs naturally in foods (milk, meat, \nshellfish, root vegetables, bell peppers, tomatoes, \nbroccoli, cabbage, cucumber). Fresh fruits and \nvegetables are rich in potassium and are thus a \n“balanced” source of sodium. Iodized salt serves as a \nvehicle to provide iodine, which is essential for healthy \nbrain development in a foetus and young children and \nfor optimal mental function at all ages.\nThe primary source of sodium in the diet is salt \n(sodium chloride). In some diets, more than three-\nquarters of salt comes from processed foods (bacon, \nham, sausage, cheese, salty snacks, bread, olives, etc.), \nand the rest is added during cooking (salt, bouillon \ncubes, soy sauce, etc.) or at the table (salt, sauces and \ncondiments).\nWorld Health Organization recommendations \non salt consumption \nWHO recommends a total daily intake of less than \n5 grams of salt (2 grams sodium) for adults; that is \nless than 1 teaspoon of salt (adjusted downwards for \nchildren based on their energy needs). Consuming \nhigher levels of sodium (with low levels of potassium) \ncontributes to high blood pressure and increases the \nrisk of heart disease and stroke. \nA few individuals have health conditions or may be \non drug therapies that lead to lowered sodium levels \nor acute build-up of body water (such as patients \nwith heart failure or type I diabetes). These persons \nmay have increased sodium needs, which should be \nmanaged in consultation with a physician or dietician. \nFor the general population, the estimated need for \nsodium is 2 grams or less per day. \nTips for reducing salt in individual diets\nTips for reducing salt intake focus on the salt that is \nadded to food during commercial processing, cooking \nand at the point of consumption. The good news is that \nthe palate can be trained to truly enjoy low-salt or salt-\nfree foods!\nFOOD IS \nGOOD\nKNOW IT, AND\nENJOY IT!\nIn practical terms:\nAvoid adding salt to food at the table – some \npeople add salt to their food before ever tasting it!\nCook with less salt (including reduced salty \nsauces, bouillon cubes and condiments containing \nmonosodium glutamate).\n Limit the consumption of salty snacks.\n Substitute herbs for salt in recipes.\n Choose unsalted or low-salt processed products.\nJUST A PINCH \nOF SALT\n4",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "c3602fbc-d5da-4188-816f-8dc8086c86c3",
+        "embedding": null,
+        "metadata": {
+            "page_label": "8",
+            "file_name": "food_factsheet.pdf",
+            "file_path": "../data/raw/food_factsheet.pdf",
+            "file_type": "application/pdf",
+            "file_size": 334948,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "What is trans fat?\nThe simplest description of \ntrans fat, or trans fatty acid, \nis “solidified oil” . The liquid oil \nsolidifies because of changes \nin the way fatty acids are held \ntogether. The solidification \noccurs through natural bacterial \naction in the stomach of \nruminant animals – sheep, cows, \ngoats and camels – or by partial \nhydrogenation of vegetable oils \nduring food manufacturing. \nNaturally occurring trans fats are found in the \nmeat, milk and dairy products of ruminants. \nIndustrially produced trans fats result from the \npartial hydrogenation of unsaturated fatty acids \n(vegetable oils) to create semi-solid, easy-to-\nspread fats, such as margarine and other fats used \nin food manufacturing, baking and frying. Heating \noils at very high temperatures also causes partial \nhydrogenation, so fried foods are potentially \nimportant sources of trans fat in the diet.\nIndustrial hydrogenation of vegetable oils \nincreases their stability and solidity, thus \nincreasing the shelf life of the final product \nwhile decreasing the need for its refrigeration. \nHydrogenated oils became popular also because \nthey give a desirable texture and taste to food.\nHarmful effects of trans fats\nNot all that glitters is gold… \nEating trans fat increases the \nrisk of developing heart disease \nand stroke. Globally, trans fats \nare estimated to contribute \nto more than 500 000 deaths \nfrom cardiovascular disease \nevery year.\nThe mechanism by which they increase \ncardiovascular disease risk is not clear, but \none hypothesis is that they interfere with the \nmetabolism of essential fatty acids, causing \nincreased levels of the so-called “bad” cholesterol \nand reduced levels of the “good” cholesterol. \nThe bad cholesterol is what clogs up the arteries \nand leads to cardiovascular disease. Trans fats are \nalso associated with a higher risk of developing \ntype 2 diabetes, but the mechanism remains \nunclear, and results from studies are conflicting.\nFOOD IS \nGOOD\nKNOW IT, AND\nENJOY IT!\nMore than \ndeaths every year\nTRANS WHAT?5",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "b517bfab-f2d1-4726-a92c-a3ce3aa35dc4",
+        "embedding": null,
+        "metadata": {
+            "page_label": "9",
+            "file_name": "food_factsheet.pdf",
+            "file_path": "../data/raw/food_factsheet.pdf",
+            "file_type": "application/pdf",
+            "file_size": 334948,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Sources and how to limit the \nintake of trans fat\nThe contribution of naturally \noccurring trans fats to total \nconsumption is minimal. \nIndustrially produced trans fats \nare the main source of dietary \nconsumption in margarine, deep-\nfried foods, fast foods and cakes, \npastries and chocolates. Tips to \nlimit trans fat intake include:\nAbout saturated fats\nSaturated fats come mainly from \nmeat and dairy products – fatty \nbeef, pork, lamb, lard, butter, \nghee, cream and cheese. Plant \nsources of saturated fat are palm \nand coconut oils.\nSaturated fats, like trans fats, \nincrease levels of the bad \ncholesterol in the blood and \ntherefore increase the risk of \ncardiovascular disease.\n   Avoid foods that contain \nindustrial trans fats – cakes, \ncookies and desserts (often \nmade with margarine or \nshortening); pizza; processed \nand fatty meats (sausages, \nhot dogs, bacon, ribs); \nand ice cream. \n   Read food labels and avoiding \nfoods that contain trans fat or \npartially hydrogenated oil. \n   Use monounsaturated \nfat (such as olive oil) and \npolyunsaturated fat (soybean, \ncorn and sunflower oil) in \nrecipes that call for fat.\n   Eat a balanced diet rich in fruits, \nvegetables, whole grains, lean \nsources of protein and dairy \nproducts.\n   Avoid the use of reheated oil \nwhen cooking and frying foods.",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    }
+]

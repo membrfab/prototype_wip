@@ -16,18 +16,18 @@ def config():
     # Parser konfigurieren
     parser = LlamaParse(
         input_value="application/json",
-        parsing_instructions="You are parsing scientific papers on the topic of nutrition.",
+        parsing_instructions="Remove all irrelevant information from the scientific papers and only keep the main content. Especially remove the bibliography.",
         languages=["en, de"],
     )
 
     # Pfade definieren
-    pdf_path = "../data/pdf"
-    json_path = "../data/json"
+    pdf_path = "../data/raw"
+    json_path = "../data/parsed"
     embeddings_path = "../data/embeddings"
     sections_path = "../data/sections"
 
     # ChromaDB-Client initialisieren
-    collection_name = "nutrition_facts"
+    collection_name = "nutrition_papers"
     chromaDBclient = PersistentClient(path=embeddings_path)
 
     # SentenceTransformer-Modell initialisieren

@@ -1,0 +1,261 @@
+[
+    {
+        "id_": "f0fe545a-7d76-467f-88ed-d23723762c7e",
+        "embedding": null,
+        "metadata": {
+            "page_label": "1",
+            "file_name": "bluthochdruck.pdf",
+            "file_path": "../data/raw/bluthochdruck.pdf",
+            "file_type": "application/pdf",
+            "file_size": 375519,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Zurich Open Repository and\nArchive\nUniversity of Zurich\nUniversity Library\nStrickhofstrasse 39\nCH-8057 Zurich\nwww.zora.uzh.ch\nYear: 2009\nErnährung, Lebensstil und Bluthochdruck\nSuter, P M ; Hübel, K ; Evéquoz, D\nPosted at the Zurich Open Repository and Archive, University of Zurich\nZORA URL: https://doi.org/10.5167/uzh-30045\nJournal Article\nOriginally published at:\nSuter, P M; Hübel, K; Evéquoz, D (2009). Ernährung, Lebensstil und Bluthochdruck. Swiss Medical Forum,\n9(47):850-853.",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "e943a86e-4da7-4453-83ae-424432ba9c36",
+        "embedding": null,
+        "metadata": {
+            "page_label": "2",
+            "file_name": "bluthochdruck.pdf",
+            "file_path": "../data/raw/bluthochdruck.pdf",
+            "file_type": "application/pdf",
+            "file_size": 375519,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Schweiz MedForum 2009;9(47):850 850\ncurriculum\nErnährung,LebensstilundBluthochdruck\nPaolo M. Sutera,Kerstin Hübela,Dominique Evéquozb\na KPIM, Departement für Innere Medizin, Universitätsspital Zürich\nbAbteilung Kardiologie, Spitalzentrum Oberwallis, Brig\nGemäss der neusten Statistik der WHO liegt die Hyper­\ntonie als Krankheitsursache global auf dem 14. Rang\n(«global burden» durch Bluthochdruck).Weder zur\nFreude der Patienten noch der Hypertensiologen wird\nim Jahre 2030 die Hypertonie auf Rang acht liegen [1].\nDieserTrend ist in dreifacher Hinsicht von Bedeutung:\nErstensﬁndetdieseEntwicklungtrotzder Verfügbarkeit\nvon als sehr wirksam angepriesenen Antihypertensiva\nstatt. Zweitens scheint es, dass diesemTrend lediglich\ndurchpräventive,alsonichtpharmakologischeMassnah­\nmenentgegengewirktwerdenkann.Unddrittensdeutet\ndie Konstellation an, dass jeglichePharmakotherapie\nder Hypertonie längerfristig mit nichtpharmakologi­\nschen Massnahmen kombiniert werden muss.\nIm Praxisalltag wird auch von nichtpharmakologischen\nMassnahmen – ähnlich zu den Pharmaka –Wirksam­\nkeitundSicherhei tverlangt.EinweitereswichtigesKri­\nterium ist die nachhaltige Durchführbarkeit.\nEs gibt wohl keinen Nährstoff oder andere Nahrungs­\nmittelkomponente,dienichtals«blutdrucksenkend»an­\ngepriesenwurde[2,3].IndieserÜbersichtwerdenaus\ndidaktischenGründeneinzelneLebensstilfaktorensepa­\nratdiskutiert. Analog zur höherenWirksamkeit einer\npharmakologischen Kombinationstherapie gegenüber\neiner Monotherapie kann im Praxisalltag durch die\nKombination verschiedener nichtpharmakologischer\nMassnahmen ein grösserer blutdrucksenkender Effekt\nerzielt werden als durch die Implementierung von nur\neinem einzelnen Faktor.Was Ernährungsfaktoren be­\ntrifft,mussdes Weiterenberücksichtigtwerden,dasswir\nnicht einzelne Nährstoffe, sondern ein komplexes Ge­\nmisch aus Nährstoffen in Form eines Nahrungsmittels\nkonsumieren.VerschiedeneStudien(sieheunten)zeigten,\ndass das ideale Gemisch, d.h. das Ernährungsmuster,\nvon grösserer Bedeutung ist als Einzelkomponenten.\nDadieBeziehungzwischenderBlutdruckhöheunddem\nRisikoeinelineareBeziehungohneeinenSchwellenwert\ndarstellt, sollten (resp. müssen) nichtpharmakologische\nMassnahmen zur Blutdruckkontrolle grundsätzlich un­\nabhängig vom Blutdruck immer umgesetzt werden.\nDiese Empfehlung wird auch durch den Sachverhalt\nunterstützt,dasseingrosserAnteilderkardiovaskulären\nEreignisse bei Patienten mit normalem Blutdruck auf­\ntreten und dass durch diese Massnahmen assoziierte\nRisikenebenfallsgünstigmoduliertwerdenkönnen.Eine\nkonsequente Umsetzung der nichtphramakologischen\nMassnahmeninderBlutdruckkategorieder«Prähyper­\ntonie» kann den Anstieg des Blutdrucks in den hyper­\ntensiven Bereich verzögern oder bestenfalls sogar voll­\nständig verhindern [4].\nÜbergewichtund Adipositas\nÜbergewicht(inkl.Adipositas)istauspathogenetischer\nSicht wohl der wichtigste Risikofaktor und Risikoindi­\nkatorfürdiehäuﬁgstenkardiovaskulärenErkrankungen.\nEs gibt keinen anderen Risikofaktor, welcher eine der­\nart grosse Anzahl anderer Risikofaktoren negativ be­\neinﬂusst:SoistÜbergewichtmitGlukoseintoleranz,Dys­\nlipidämie, Inﬂammation undlast but not least\nHypertonie kausal verknüpft. Im Rahmen der Risiko­\nstratiﬁzierungversuchenwirdemgesamtenRisikoproﬁl\ndesPatientengerechtzuwerdenundstrebensozusagen\neineglobaleRisikomodulationan.InderFramingham­\nStudiekönnen70%desBlutdruckanstiegsmitdemAlter\ndurch den Anstieg des Körpergewichts erklärt werden\n[5, 6]. Zwischen Körpergewicht und Blutdruck besteht\neine lineare Beziehung ohne einen Schwellenwert: Je\nhöher das Körpergewicht (resp. der Körpermassen­\nindex),destohöherdasRisikofürBlutdruckanstiegund\nHypertonie.DiePathogenesederAdipositas­assoziierten\nBlutdruckerhöhung ist nicht ganz geklärt, ist jedoch\nmultifaktoriell und beinhaltet einerseits eine Hyper­\nvolämie, eine Erhöhung des Herzschlagvolumens, eine\nSympathikusstimulation und schliesslich auch Mecha­\nnismen, welche durch die Insulinresistenz aufrechter­\nhaltenwerden(u.a.Sympathikusstimulationoderauch\nFörderungderrenalenNatrium­Rückresorption).Durch\neineGewichtsreduktionkanneinedeutlicheBlutdruck­\nsenkungerreichtwerden,jedochnichtbeiallenPatien­\nten. Die blutdrucksenkendeWirkung durch eine Ge­\nwichtsreduktion kann klinisch nicht vorhergesagt\nwerden, so dass sich einVersuch immer lohnt. Ein Ge­\nwichtsanstieg ist in der Regel früher oder später mit\nBlutdruckanstiegundHypertonieverbunden[7].Aufalle\nFälle sollte bei allen Patienten das Gewicht stabilisiert\nwerden und jeglicher Anstieg des Gewichts mit dem\nAltersollteunbedingtvermiedenwerden.Dieblutdruck­\nsenkenden Effekte sind unabhängig von der Strategie\nzurGewichtsreduktion.InAnbetrachtdesoftfrustranen\nVerlaufs einer Gewichtsreduktion sollte deswegen der\nSchwerpunkt in der Prävention liegen.\nKochsalz\nEpidemiologische und experimentelle Studien zeigen,\ndass eine exzessive Kochsalzzufuhr zu einem Blut­\nCME zu diesem Artikel ﬁnden Sie aufS. 845 oder im Internet unter www.smf-cme.ch.\nPaolo M. Suter\nDie Autoren erklä-\nren, dass siekeine\nInteressenkonﬂikte\nim Zusammenhang\nmit diesemBeitrag\nhaben.\nDieser Artikel ist imRahmen der nationalen Blutdruck-Offensive\nder Schweizerischen Herzstiftung in Zusammenarbeit mit der\nSchweizerischen Hypertonie-Gesellschaft entstanden.",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "01e09762-07b3-49d9-9187-5ccdbfe46087",
+        "embedding": null,
+        "metadata": {
+            "page_label": "3",
+            "file_name": "bluthochdruck.pdf",
+            "file_path": "../data/raw/bluthochdruck.pdf",
+            "file_type": "application/pdf",
+            "file_size": 375519,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Schweiz MedForum 2009;9(47):851 851\ncurriculum\ndruckanstieg und/oder einer Hypertonie führen kann.\nEinederbekanntestenistdieIntersalt­Studie,inderdie\nBeziehung zwischen Salzzufuhr (erfasst mittels 24­h­\nUrinausscheidung)undBlutdruckin52Studienzentren\nweltweituntersuchtwurde.Füreine100mEq/d­Differenz\nderNatriumzufuhrzeigtesicheineÄnderungdessystoli­\nschen Blutdrucks um 3–6 mm Hg [8]. Ebenfalls konnte\ndurcheineSenkungderNatriumzufuhrum100mEq/d\nder Anstieg des systolischen Blutdrucks mit dem Alter\n(Messungen im Alter von 25 bis 55 Jahren) um gut\n10 mm Hg abgeﬂacht werden. Intersalt hat viele ver­\nschiedenesehrheterogenePopulationeneingeschlossen,\nundentsprechendistesnichtganzklar,obd ieResultate\nauch auf eine einzelne (homogenere) Population ange­\nwendet werden können.\nDie erhöhte Salzzufuhr führt allerdings nicht bei allen\nIndividuenzueinemBlutdruckanstieg,sondernnurbei\nsogenannten«salzsensitiven»Individuen.\nDieser Sachverhalt ist auch die Grund­\nlage einer nach wie vor vehement\ngeführten Kontroverse bezüglich einer\nuniversellen Salzrestriktion auf Popula­\ntionsebene.Vielseitige Evidenz zeigte,\ndass eine exzessive Salzzufuhr bei salz­\nsensitiven Menschen zu einem Anstieg des Blutdrucks\nführte.DasVorliegenund/oderAusmassderSalzsensi­\ntivität ist im Klinikalltag nur schwierig zu erfassen und\nzuverlässig nur unter experimentellen Bedingungen\ndurchführbar. Die Salzsensitivität wird durch verschie­\ndene z.T. sogar modiﬁzierbare Faktoren beeinﬂusst,\nwas im Praxisalltag allenfalls hilfreich sein kann. Eine\nvermehrteSalzsensitivitätﬁndetsichinfolgendenSitu­\nationen: mit zunehmendem Alter, Patienten afrikani­\nscherHerkunft,PatientenmitHypertonie,Patientenmit\npositiver Hypertonie­Familienanamnese, Übergewicht\nund Adipositas. In Abhängigkeit von diesen Faktoren\nsind ca. 30–50% der Hypertoniker salzsensitiv und\nkönnten somit theoretisch von einer Einschränkung\nder Salzzufuhr im Sinne einer Blutdrucksenkung proﬁ­\ntieren. Der Effekt einer Salzrestriktion auf den Blut­\ndruck wurde in vielen verschiedenen Studien gezeigt.\nAllerdings war dieser Effekt nur von kurzer Dauer und\nresultierte in der Regel auch nur in einer relativ gerin­\ngen Blutdrucksenkung. Die erzielte Blutdrucksenkung\nvariiert je nach Studie und Zeitpunkt innerhalb der\nStudiezwischen4,9/2,9–3,7/0,9mmHgbeiHypertoni­\nkernund1,7/1,0–1,0/0,1mmHgbeinormotensivenPro­\nbanden. Auch wenn der Blutdruckabfall nur gering ist,\nwürde er (im Besonderen bei Hypertonikern) in einer\nReduktion der wichtigsten mit Hypertonie assoziierten\nEndpunkte resultieren. Der blutdrucksenkende Effekt\nnahm in der Mehrzahl der Studien mit zunehmender\nDauer ab, was auf eine mit der Zeit nachlassende Ad­\nhärenz einer salzreduzierten Kost zurückzuführen ist.\nLetzteresistwohleinesderHauptproblemeinderUm­\nsetzung der meisten nichtpharmakologischen Mass­\nnahmen, im Besonderen aber der Salzrestriktion. Die\nrelativgeringenBlutdruckeffektederSalzrestriktionauf\nPopulationsebene sowie die schwierige Umsetzbarkeit\nführenimmerwiederzukontroversenDiskussionenbe­\nzüglich der Bedeutung einer pauschalen Salzrestriktion.\nIm Praxisalltag sollten besonders bei schwieriger Ein­\nstellbarkeit alle Massnahmen ausgeschöpft werden in­\nklusive der Salzrestriktion.\nSalzrestriktionwirdimPraxisalltagsowohldurchÄrzte\nals auch Patienten bezüglich Blutdrucksenkung durch\nnichtpharmakologische Massnahmen prioritär behan­\ndelt. Eine Salzsensitivität besteht ausser Frage bei Pa­\ntienten mit Nieren­ und Herzinsufﬁzienz. Eine Salz­\nrestriktion ist bei diesen Patienten ein unabdingbarer\nEckpfeiler der Therapie und wird in der Regel auch im\nAlltagumgesetzt.AufgrundderBedeutungderSalzres­\ntriktion bei diesen beiden Organinsufﬁzienzen lassen\nsichjedochkeineRückschlüsseaufdieBedeutungeiner\nSalzrestriktion auf Populationsebene machen.\nDie Umsetzbarkeit auf Populationsebene oder auch bei\nPatientenmitHypertonieistschwierig,dieNachhaltigkeit\nminimal und gerade auch bei älteren Menschen nicht\nganz ungefährlich (Reduktion der Flüssigkeitszufuhr –\nes sei hier nur an den Hitzesommer 2003 erinnert).\nDie Blutdruckantwort auf eine Salzrestriktion wird je­\ndoch durch andere Ernährungsfaktoren moduliert.\nHierzu gehören im Besonderen die Zufuhr an Kalium\nsowie Kalzium.\nIm Praxisalltag ist es wohl sinnvoll, keinen Kochsalz­\nexzess zu betreiben und die Salzzufuhr wenn immer\nmöglich tief zu halten.\nZurzeit werden 6 g Salz\nproTag als obere Zu­\nfuhrgrenze empfohlen.\nJe nach Nahrungsmittel\nund Nachsalz­Praktiken\nam Esstisch sind 6 g re­\nlativ schnell erreicht. Der durchschnittliche Kochsalz­\nkonsum pro Person in der Schweiz wird vom Bundes­\namt für Gesundheit mit 15–20 g veranschlagt. Die Zahl\nistausderLuftgegriffen,zumalesinderSchweizkeine\nrepräsentativen Daten über die Salzzufuhr gibt und die\nwenigen diesbezüglichen Studien sehr unterschiedliche\nZufuhrmengen (meist tiefer) beschrieben. In einem\n10­Jahres­Follow­up einer Population in Genf zeigte\nsich nur eine schwache Beziehung zwischen Blutdruck\nundSalzzufuhr[9].DiewichtigstenSalzquellenindieser\nStudiewarenBrot,Käse,Suppen,Fertigprodukte,Fisch­\nund Fleischprodukte, welche über 70% der Salzzufuhr\nausmachten [10]. Die täglich mediane Salzzufuhr in der\nGenfer Studienpopulation betrug6gf ür Männer und\n4,9gfür Frauen. Diese Daten sind interessant, aber mit\nVorsichtzuinterpretieren,zumaldieeinzigezuverlässige\nMethode zur Erfassung der Salzzufuhr die Messung der\nAusscheidung im 24­h­Urin darstellt.\nFrüchteundGemüsesindkaliumreichundnatriumarm.\nDieerhöhteKaliumzufuhrwirktnatriuretischundkann\nso eine allfällig zu hohe Salzzufuhr ausgleichen oder\nzumindest zumTeil kompensieren.\nDieseEmpfehlungenzeigen,dasswirunsnichtaufein­\nzelneNährstoffeodereinzelneStrategienkonzentrieren\ndürfen, sondern dass das Essmuster mit all seinen\nEinzelkomponenten und der Lebensstil insgesamt von\nBedeutung sind. Übergewicht und Adipositas fördern\ndie Salzsensitiviät. Im Praxisalltag und auch aufgrund\nmangelnderEigenverantwortungistesjedocheinfacher,\nvon den negativen Effekten des Salzes zu sprechen, als\ndasÜbergewichtunddieAdipositaskonkretanzugehen.\nDie erhöhteSalzzufuhr führt\nnicht bei allen Individuen zu\neinem Blutdruckanstieg,\nsondernnurbeisogenannten\n«salzsensitiven» Individuen\nImPraxisalltagistessinn voll,\nkeinen Kochsalzexzess zu\nbetreiben und dieSalzzufuhr\nwenn immer möglichtief\nzu halten",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "9600c3d7-1a09-4475-adcd-1d3fe13dc456",
+        "embedding": null,
+        "metadata": {
+            "page_label": "4",
+            "file_name": "bluthochdruck.pdf",
+            "file_path": "../data/raw/bluthochdruck.pdf",
+            "file_type": "application/pdf",
+            "file_size": 375519,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Schweiz MedForum 2009;9(47):852 852\ncurriculum\nErstaunlicherweise erwähnen viele unserer Patienten\ndieexzessiveSalzzufuhralswichtigstenutritiveUrsache\nin der Pathogenese der Hypertonie. Es erstaunt, wenn\ndies eine Person mit einem Körpermassenindex zwi­\nschen 30 und 40 kg/m2 tatsächlich glaubt. Zum einen\nliegt dies in der mangelnden Übernahme/Erkenntnis\nvon Eigenverantwortung. Zum anderen ist das Ernäh­\nrungswissen (besonders was die Umsetzung betrifft)\nvieler unserer Patienten mehr als ungenügend. Alle\nEmpfehlungennützennichts,wenndiesefürdieMehr­\nheit der Population nicht verständlich sind und nicht\nangewendet werden können.\nAlkohol\nDie möglichen kardioprotektiven Effekte durch den\nKonsum an alkoholischen Getränken sind bei Ärzten\nundPatientengleichsambekannt.InderEuphoriewird\njedochvergessen,dassAlkoholaucheinerderwichtigs­\nten freiwillig eingenommenen Pressoren darstellt\n[12,13].RegelmässigerAlkoholkonsumistmithöheren\nBlutdruckwertenvergesellschaftetundstellteinehäuﬁge\nUrsache für eine schwierig einstellbare Hypertonie\ndar.EineweitverbreiteteFaustregelbesagt,dassmehr\nals 30 g Alkohol (d.h. mehr als 2–3 Standarddrinks)\nmit einem erhöhten Hypertonierisiko verbunden sind.\nZweiStandarddrinksproTagsindjedochfürdieMehr­\nheit der Hypertoniepatienten schon ein «Quantum\nsatis».\nVerschiedene\nKalium\nKalium wirkt natriuretisch. Eine kaliumreiche Ernäh­\nrungistperdeﬁnitionemnatriumarm.Tierexperimentell\nkanndurchKaliumeinesalzinduzierteHypertoniever­\nbessert oder sogar vermieden werden. Bei Salzsensiti­\nvität werden die hypertensiven Effekte von Natrium\ndurcheinegleichzeitiggeringeKaliumzufuhrverstärkt.\nPopulationen mit einer hohen Kaliumzufuhr, d.h. einer\nhohen Zufuhr an Obst und Gemüse, haben eine tiefere\nHypertonieprävalenz [14]. Durch orale Kaliumsupple­\nmente kann der systolische und diastolische Blutdruck\num einige wenige mm Hg gesenkt werden. Der blut­\ndrucksenkende Effekt durch Kalium ist bei Hypertoni­\nkern,beiSalzsensitivitätundauchbeiPersonenafrika­\nnischer Herkunft ausgeprägter, ﬁndet sich aber auch\nbei Personen mit einer geringen Salzzufuhr.E ine\nKaliumdepletiondurchungenügendeKaliumzufuhroder\ndurch Diuretika kann in einer Blutdruckerhöhung\nresultieren [15]. Kalium führt u.a. durch den natriure­\ntischen Effekt, eine Suppression des Renins, vasodila­\ntative Effekte oder auch durch Antagonisierung\nverschiedenerAngiotensin­II­WirkungenzueinerBlut­\ndrucksenkung. Als Einzelmassnahme hat die Kalium­\nsubstitution bei Hypertonie keine Bedeutung [16] und\nist auch wegen des Risikos einer Hyperkaliämie nicht\nungefährlich. Die einfachste Strategie zur Steigerung\nder Kaliumzufuhr ist eine vermehrte Zufuhr von Obst\nund Gemüse [17, 18].\nKalziumundMagnesium\nVerschiedeneStudiendeutendaraufhin,dasseinever­\nmehrteKalzium­oderMagnesiumzufuhreinengünstigen\nBlutdruckeffekt haben kann. Aufgrund der physiologi­\nschen Bedeutung sind Blutdruckeffekte durch Kalizum\nund Magnesium erklärbar, doch die Evidenz ist auf­\ngrundderzumTeilnichtoptimaldurchgeführtenStudien\nnicht schlüssig [19, 20]. Der blutdrucksenkende Effekt\nvonKalziumundMagnesiumistrelativgering,undiso­\nliert verabreicht sind diese ohne grosse Bedeutung im\nPraxisalltag.Vielmehr ist Kalzium und Magnesium im\nZusammenspiel mit anderen Nährstoffen für eine Blut­\ndrucksenkung in der sogenannten DASH­Ernährung\n(DietaryApproachesto StopHypertension)vongrosser\nBedeutung. Die Bedeutung einer adäquaten Kalzium­\nzufuhristbekanntvonderOsteoporoseprävention,und\nes scheint, dass bezüglich Bluthochdruck ein Kalzium­\nkonsum von weniger als 600 mg/d einen kritischen\nGrenzwertdarstellt[21].Ameinfachstenkanneinever­\nmehrteZufuhranKalziumdurchdenKonsumvon(allen­\nfalls fettreduzierten) Milchprodukten erreicht werden.\nIndiesemZusammenhangseiauchaufdiemöglicheBe­\ndeutung vonVitamin D in der Blutdruckregulation hin­\ngewiesen [22]. EinVitamin­D­Mangel kann das Renin­\nAngiotensin­System aktivieren und so allenfalls zum\nHypertonusbeitragen.AuchhieristdieDatenlagezum\nTeil nicht schlüssig, und es gibt Hinweise darauf, dass\nVitamin D ein Nährstoff unter vielen darstellt, welcher\nimZusammenspielmitanderenFaktoreneinemodula­\ntorischeWirkung haben kann.\nFettsäuren\nAuchhiergilt,dasseinEssmustermiteinerhöherenZu­\nfuhranOmega­3­Fettsäuren(«Fischöl»)einengünstigen\nEffekt auf verschiedene Herz­Kreislauf­Risikofaktoren\n(z.B. Lipoproteinstoffwechsel,Tc­Aggregation, Inﬂam­\nmation) inklusive Blutdruck hat. Abgesehen von indi­\nrekten Effekten auf das Körpergewicht und damit auch\neinerFolgewirkungaufdenBlutdruckhabengesättigte\nFetteundauchanderen­6Fettsäurenkeineernährungs­\nmedizinische Bedeutung für die nichtpharmakologi­\nschen Massnahmen der Blutdrucktherapie.\nProteine\nEinevermehrteZufuhrantierischemoderpﬂanzlichem\n(z.B.Soja)ProteinistmiteinerBlutdruckreduktionver­\nbunden.InderRegelgehtdievermehrteProteinzufuhr\naufKosteneinervermindertenKohlenhydrat­und/oder\nFettzufuhr.\nEssmuster\nWir essen nicht einzelne Nährstoffe, sondern ein kom­\nplexes Gemisch von Nährstoffen, welche ihrerseits in\neinem komplexen Netzwerk von metabolischen und\nbiochemischen Reaktionen einen blutdrucksenkenden\nEffekthabenkönnen.Seitlangemistbekannt,dassVege­\ntarismus mit einem tieferen Blutdruck assoziiert und\nder altersassoziierte Anstieg des Blutdrucks beiVege­\ntariernwenigerausgeprägt[23]ist.Erwartungsgemäss\nist es nicht möglich, einen einzelnen Ernährungsfaktor",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "67a1af69-4975-4f81-9a8a-fccfabf4da79",
+        "embedding": null,
+        "metadata": {
+            "page_label": "5",
+            "file_name": "bluthochdruck.pdf",
+            "file_path": "../data/raw/bluthochdruck.pdf",
+            "file_type": "application/pdf",
+            "file_size": 375519,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Schweiz MedForum 2009;9(47):853 853\ncurriculum\nfür den tieferen Blutdruck beiVegetariern zu identiﬁ­\nzieren. Vielmehr ist der gesamte Lebensstil derVege­\ntarier ausschlaggebend, welcher generell in einem\ngünstigeren Risikoproﬁl resultiert (weniger Überge­\nwicht, Nichtrauchen, vermehrte körperliche Aktivität,\nNahrungszusammensetzung). Der vermehrte Konsum\nvon Obst und Gemüse ist mit einer vermehrten Zu­\nfuhranKalium,Nahrungsfasern,VitaminC,Magnesium\nund anderen Nährstoffen verbunden, welche alle\npotentiell allein, aber besonders in Kombination anti­\nhypertensivwirkenkönnen.Aufgrunddieserepidemio­\nlogischenundexperimentellenEvidenzwurdedieDASH­\nErnährung deﬁniert und klinisch getestet. Es handelt\nsich dabei um eine fettreduzierte «Kombinationsdiät»,\ncharakterisiert durch eine vermehrte Zufuhr von\nObst und Gemüse, fettreduzierten Milchprodukten\nundVollkornprodukten bei gleichzeitiger Reduktion\nder Zufuhr an gesättigten Fetten. Durch diese DASH­\nErnährung konnte in einer Studie eine systolische/\ndiastolischeBlutdruckreduktionvon5,5/3,0mmHger­\nreicht werden [24, 25]. Bei gleichzeitig hoher Salz­\nzufuhr ist dieWirksamkeit der DASH­Ernährung aus\nnaheliegenden Gründen ausgeprägter. Eine ähnliche\nBlutdrucksenkung kann auch durch eine früchte­/ge­\nmüsereiche Ernährung und vermehrte Eiweisszufuhr\n(bei gleichzeitiger Reduktion von Kohlenhydraten und\ngesättigten Fetten) und vermehrte Zufuhr an einfach­\nund mehrfach­ungesättigten Fetten erreicht werden\n[26, 27]. Dass eine ausgeprägte Ernährungsumstellung\nwie in DASH oder der zuletzt erwähnten Omniheart­\nStudie zu einer Blutdrucksenkung führt, ist nicht über­\nraschend.BeiErnährungsmassnahmen,imBesonderen\nwenn diese durch normale Nahrungsmittel und\nnicht ein kommerzielles Supplement vorgenommen\nwerden, ist allerdings ein Minimum an Eigeninitiative\nund Eigenverantwortung erforderlich. Im Gegensatz\nzu vielen anderen Massnahmen wäreWirksamkeit ga­\nrantiert, die Umsetzbarkeit aufgrund der Kombination\nvieler verschiedener attraktiver Nahrungsmittel um­\nsetzbar, doch der moderne Patient überlässt die Prä­\nvention lieber anderen.\nKörperlicheAktivität\nKörperliche Aktivität vom Ausdauertyp ist mit einem\ntieferen Blutdruck sowie einer Blutdruckreduktion ver­\nbunden[28].EinevermehrtekörperlicheAktivitätlässt\nsich nicht von einem gesundheitsfreundlichen Lebens­\nstil trennen. So kann eine normale Appetitregulation\nnurimSettingvonregelmässigerkörperlicherAktivität\nerfolgen.Durchdiesewerdensowohldersystolischeals\nauch der diastoliche Blutdruck gesenkt [29]. In dieser\nMetaanalyse zeigte sich durch körperliche Aktivität\neine systolisch/diastolische Blutdrucksenkung von –7,4/\n–5,8mmHgbeihypertensivenPatienten[29].Derblut­\ndrucksenkende Effekt\nvonkörperlicherAktivi­\ntätistbeiHypertonikern\nausgeprägt,aberwiebei\nallen nichtpharmako­\nlogischen Massnahmen\nzeigt sich ein hetero­\ngenesAntwortmusterinAbhängigkeitvondiversenFak­\ntoren (Blutdruckhöhe, Alter des Patienten, Intensität,\nDauerundHäuﬁgkeitderAktivität).KörperlicheAktivi­\ntät ist aber nicht nur für die Therapie der Hypertonie,\nsonderngeradeauchfürderenPräventionvonzentraler\nBedeutung. Das erforderliche Mass an körperlicher\nAktivität für eine minimaleWirksamkeit auf den Blut­\ndruck beträgt: 3–5­mal proWoche aerobe Ausdauer­\naktivität von mindestens 60–90 Minuten Dauer mit\neinerIntensitätvon60bis90%dermaximalenHerzfre­\nquenz (oder 50–85% des VO2max) [28].\nZusammenfassungundSchlussfolgerungen\nVieleFaktorenkönnendenBlutdruckbeeinﬂussen.Nie­\nmandkannalleMassnahmennachhaltigumsetzen.Ent­\nsprechend müssen die Empfehlungen auch individuell\nformuliertwerden.AlsGrundprinzipgilt:Keep it simple.\nDie wohl wichtigste Massnahme ist die Kontrolle des\nKörpergewichts: Bei Übergewicht und Adipositas ist\neine Gewichtsreduktion unabdingbar; bei Normalge­\nwichtigkeitmusseineGewichtszunahmemitdemAlter\n«à tout prix» vermieden werden.Wird der Schwer­\npunkt in der Betreuung auf die Gewichtsregulation\ngelegt, werden sozusagen «unmerklich» andere nicht­\npharmakologische Massnahmen automatisch imple­\nmentiert (gesunheitsfreundliches Essmuster: Konsum\nvon weniger energiedichten Nahrungsmitteln, i.e.\nObst und Gemüse, Reduktion der Salzsensitivität,\nvermehrte körperliche Aktivität etc.). Die praktischen\nAspekte der ernährungsmedizinischen Massnahmen\nzurBlutdruckkontrollesindeinfach,dieSchwierigkeiten\nliegen in der nachhaltigen Umsetzung und Motivation\ndes Patienten, der einer konsumstimulierenden Reiz­\nüberﬂutung zum Opfer gefallen ist.\nKorrespondenz:\nProf.Paolo M. Suter\nKlinik undPoliklinik für Innere Medizin (KPIM)\nDepartement für Innere Medizin\nUniversitätsspital\nCH-8091 Zürich\npaolo.suter@usz.ch\nKörperlicheAktivität ist nicht\nnur für dieTherapie der\nHypertonie, sondern auch\nfür derenPräventionvon\nzentraler Bedeutung\nEmpfohleneLiteratur\n–WHO. World Health Report. http://www.who.int/whr/en/ (accessed\n30. November 2008) 2008.\n–S uterPM,SierroC, VetterW.Nutritionalfactorsinthecontrolofblood\npressure and hypertension. Nutr Clin Care. 2002;5:9–19.\n–S uterPM.ChecklisteErnährung.Stuttgart &NewYork:GeorgThieme\nVerlag, 2005.\nDie vollständige nummerierte Literaturliste ﬁnden Sie unter\nwww.medicalforum.ch.",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "eca72534-284d-48ee-b1bc-4e46bf888bb8",
+        "embedding": null,
+        "metadata": {
+            "page_label": "6",
+            "file_name": "bluthochdruck.pdf",
+            "file_path": "../data/raw/bluthochdruck.pdf",
+            "file_type": "application/pdf",
+            "file_size": 375519,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": " \n \n \n \n Ernährung, Lebensstil und Bluthochdruck \n /  Alimentation, style de vie et hypertension artérielle \nWeiterführende Literatur (Online-Version) / Références complémentaires (online version) \n \n1 WHO. World Health Report. \nhttp://www.who.int/whr/en/ (accessed 30. November 2008) 2008. \n2 Suter PM, Sierro C, Vetter W. Nutritional factors in the control of blood pressure and hypertension. Nutr Clin Care. \n2002;5:9–19. \n3 Suter PM. Checkliste Ernährung. Stuttgart & New York: Georg Thieme Verlag, 2005. \n4 Cook NR, Cutler JA, Obarzanek E, et al. Long term effects of dietary sodium reduction on cardiovascular disease \noutcomes: observational follow-up of the trials of hypertension prevention (TOHP. BMJ. 2007;334:885–93. \n5 Vasan RS, Larson MG, Leip EP, et al. Assessment of frequency of progression to hypertension in non-\nhypertensive participants in the Framingham Heart Study: a cohort study. Lancet. 2001;358:1682–6. \n6 Kannel WB. Fifty years of Framingham Study contri butions to understanding hypertension. J Hum Hypertens. \n2000;14:83–90. \n7 Leitschuh M, Cupples LA, Kannel WB, et al. High-normal blood pressure progression to hypertension in the \nFramingham Heart Study. Hypertension. 1991;1991:22–7. \n8 INTERSALT_Cooperative_Research_Group. INTERSALT: an in ternational study of electrolyte excretion and blood \npressure. Results for 24 hour urinary sodium and potassium excretion. B Med J. 1988;297:319–28. \n9 Costanza MC, Beer-Borst S, Wolff H, Morabia A. Salt  and Hypertension. A population-based assessement of slaty \nfoods and blood pressure (Part 2). Bundesamt für Gesundheit, Bern (schweiz) 2004 (PDF download, 2004) 2004. \n10 Beer-Borst S, Costanza MC, Morabia A. Salt and Hypertens ion. 10-year trends and correlates of dietary salt in the \nGeneva general adult population (Part 1). Bundesamt für Gesundheit, Bern (schweiz) 2004 (PDF download, 2004) \n2004. \n11 Käppeli S, Cajacob A, Brändli O, Suter PM. Wieviel Salz  enthält ein Nahrungsmittel oder die Unverständlichkeit der \nLebensmittelettiketierung (P33). Forum Med Suisse. 2008;8:31S. \n12 Suter PM, Vetter W. The Effect of Alcohol on Blood Pressure. Nutr Clin Care. 2000;3:24–34. \n13 Suter PM. Alcohol: its role in health and disease. In: Baumann BB, Russell RM, eds. Present Knowledge in \nNutrition. Washington, D.C.: ILSI Press, 2001:497–507. \n14 Suter PM. Potassium and Hypertension. Nutrition Rev. 1998;56:151–143. \n15 Krishna GG, Kapoor SC. Potassium depletion exacerbates essential hypertension. Ann Intern Med. 1991;115:77–\n83. \n16 Dickinson HO, Nicolson DJ, Campbell F, et al. Pota ssium supplementation for the management of primary \nhypertension in adults. Cochrane Database Syst Rev. 2006:CD004641. \n17 Utsugi MT, Ohkubo T, Kikuya M, et al. Fruit and Veget able Consumption and the Risk of Hypertension Determined \nby Self Measurement of Blood Pressure at Home: The Ohasama Study. Hypertens Res. 2008;31:1435–43. \n18 Suter PM. The effect of potassium, magnesium, calcium, and fiber on risk of stroke. Nut Reviews. 1999;57:84–91. \n19 Dickinson HO, Nicolson D, Cook JV, et al. Calcium supplementation for the management of primary hypertension \nin adults. Cochrane Database Syst Rev. 2006;19:CD004639. \n20 Dickinson HO, Nicolson DJ, Campbell F, et al. Magnesium supplementation for the management of essential \nhypertension in adults. Cochrane Database Syst Rev. 2006:CD004640. \n21 Cappuccio FP, Elliott P, Allender PS, et al. Epidemiologic association between dietary calcium intake and blood \npressure: a meta-analysis of published data. Am J Epidemiol. 1995;142:935–45. ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "b92b1ee8-008d-49f7-b520-7bd8188e4100",
+        "embedding": null,
+        "metadata": {
+            "page_label": "7",
+            "file_name": "bluthochdruck.pdf",
+            "file_path": "../data/raw/bluthochdruck.pdf",
+            "file_type": "application/pdf",
+            "file_size": 375519,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "22 Lee JH, O’Keefe JH, Bell D, et al. Vitamin D deficiency an important, common, and easily treatable cardiovascular \nrisk factor? J Am Coll Cardiol. 2008;52:1949–56. \n23 Key TJ, Appleby P, Rosell MS. Health effects of vegetarian and vegan diets. Proc Nutr Soc. 2006;65:35–41. \n24 Appel LJ, Moore TJ, Obarzanek E, et al. A clinical trial of the effects of dietary patterns on blood pressure. N Engl J \nMed. 1997;336:1117–24. \n25 Sacks FM, Svetkey LP, Vollmer WM, et al. Effects on Bl ood Pressure of Reduced Dietary Sodium and the Dietary \nApproaches to Stop Hypertension (DASH) Diet. N Engl J Med. 2001;344:3–10. \n26 Appel LJ, Sacks FM, Carey VJ, et al. Effects of Prot ein, Monounsaturated Fat, and Carbohydrate Intake on Blood \nPressure and Serum Lipids: Results of the OmniHeart Randomized Trial10.1001/jama.294.19.2455. JAMA. \n2005;294:2455–64. \n27 Miller ER, Erlinger TP, Appel LJ. The effects of macronut rients on blood pressure and lipids: an overview of the \nDASH and OmniHeart trials. Curr Atheroscler Rep. 2006;8:460–5. \n28 Pescatello LS, Franklin BA, Fagard R, et al. American Co llege of Sports Medicine position stand. Exercise and \nhypertension. Med Sci Sports Exerc. 2004;36:533–53. \n29 Whelton SP, Chin A, Xin X, He J. Effect of Aerobic Exercise on Blood Pressure: A Meta-Analysis of Randomized, \nControlled Trials. Ann Intern Med. 2002;136:493–503. \n ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    }
+]

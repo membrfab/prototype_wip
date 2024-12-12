@@ -135,9 +135,23 @@ h2 {
 }
 
 .chat-container {
-    height: 450px;
+    height: 600px;
     overflow-y: auto;
 }
+
+.bot-message ul,
+.bot-message ol {
+    margin: 10px 0;
+}
+
+.bot-message li {
+    margin: 4px 0 4px 16px;
+}
+
+.bot-message p + p {
+    margin-top: 10px;
+}
+
 
 /*****************************************/
 /* Input

@@ -1,0 +1,25 @@
+[
+    {
+        "user_id": 1,
+        "name": "Anna Müller",
+        "age": 29,
+        "gender": "w",
+        "height_cm": 168,
+        "weight_kg": 65,
+        "fitness_goal": "Gewichtsverlust",
+        "allergies": ["Nüsse", "Soja"],
+        "medical_conditions": ["Diabetes"]
+    },
+    {
+        "user_id": 2,
+        "name": "Johannes Schneider",
+        "age": 45,
+        "gender": "m",
+        "height_cm": 182,
+        "weight_kg": 92,
+        "fitness_goal": "Muskelaufbau",
+        "allergies": ["Laktose"],
+        "medical_conditions": ["Bluthochdruck", "Diabetes"]
+    }
+]
+

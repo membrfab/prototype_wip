@@ -1,0 +1,187 @@
+[
+    {
+        "id_": "a61b922b-eda0-4a09-a4cc-4edcd82b4d07",
+        "embedding": null,
+        "metadata": {
+            "page_label": "20",
+            "file_name": "gesunde_ernaehrung_teil3.pdf",
+            "file_path": "../data/raw/gesunde_ernaehrung_teil3.pdf",
+            "file_type": "application/pdf",
+            "file_size": 309697,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "20 Friedrichsen HP: Gesunde Ernährung         OM – Zs. f. Orthomol. Med. 2015; 1: 20–24 \n|     praxistipps\nSchlüsselwörter\nvegetarische Ernährung, Fleisch, EPIC- \nStudie, Getreide, Gluten, stoffwechsel­\nadaptierte Ernährung\nZusammenfassung\nDie gesundheitlichen Vorteile der vegeta-\nrischen Ernährung lassen sich nicht durch \nden Verzicht auf Fleisch oder den hohen \nGetreideverzehr begründen, sondern \ndurch den großen Stellenwert wertvol-\nler pflanzlicher Lebensmittel sowie den \ngeringen Konsum von Fertigprodukten \nund Zucker. Das an der Ernährung der \nJäger und Sammler orientierte Konzept der \nstoffwechseladaptierten Ernährung hat sich \nin Prävention und Therapie bewährt. Hoch-\nwertiges Fleisch, Fisch und große Mengen \nvon frischem Obst, Gemüse und Nüssen \nstehen hierbei im Mittelpunkt, während auf \nMilchprodukte und Getreide weitgehend \nverzichtet wird.\nNachdem in der Rubrik Wissen die bei \nJägern und Sammlern sowie die in der \nheutigen Zeit übliche Ernährung aus-\nführlich vorgestellt wurden, wird an \ndieser Stelle der gesundheitliche Wert \ndes Vegetarismus beleuchtet und das \nKonzept der stoffwechseladaptierten Er-\nnährung vorgestellt.\nVegetarische Ernährung\nDie vegetarische Kost wird als gesün -\ndeste Form der Ernährung propagiert. \nIn zahlreichen Studien wird der gesund-\nheitliche Vorteil des Vegetarismus im \nVergleich zum Fleischverzehr betont. Ist \ndie vegetarische Ernährung tatsächlich \ngesünder und ist das durch den Fleisch -\nverzicht begründet?\nBei Durchsicht großer Studien zur \nvegetarischen Ernährung bzw. zur Risi -\nkoerhöhung für Krebs, Herz-Kreislauf-Er-\nkrankungen und Gesamtsterblichkeit \ndurch Verzehr von Fleisch fallen ver-\nschiedene Aspekte auf:\n ■ Eine Erhöhung des Risikos wird mit \ndem Verzehr von rotem Fleisch, je-\ndoch nicht mit dem Verzehr von Ge-\nflügel in Verbindung gebracht.\n ■ Es wird nur in wenigen neueren Stu-\ndien bei der Risikoberechnung zwi-\nschen rotem Fleisch und verarbeite -\ntem roten Fleisch bzw. Fleischwaren \ndifferenziert. Die Studien, die diese \nklare Unterscheidung vorgenommen \nhaben, zeigen nur für den Verzehr von \nverarbeitetem roten Fleisch bzw. von \nFleischwaren eine Risikoerhöhung, \nnicht aber für das naturbelassene rote \nFleisch. Dies wurde u. a. in verschie -\ndenen Auswertungen der EPIC-Studie \ngezeigt [1,2].\n ■ In der EPIC-Oxford-Studie zeigte sich \nkein Unterschied zwischen Vegeta-\nriern und Fleischessern in Bezug auf \nMortalität an Herz-Kreislauf-Erkran-\nkungen oder Gesamtmortalität [3]. \n ■ In der Metaanalyse von Key et al. zeig-\nte sich im Vergleich zu den Fleisch -\nessern eine geringere Herz-Kreis -\nlauf-Mortalität der Vegetarier. Dies \nzeigten aber auch die Fischesser und \ndie nur gelegentlich Fleisch essenden \nTeilnehmer [4]. \n ■ Die Basisdaten der Vegetarierstudien \nzeigen für die Gruppen mit vegeta-\nrischer Ernährung weniger Alko -\nhol- und Tabakkonsum, geringeres \nKörpergewicht, erhöhte Mikronähr-\nGesunde Ernährung \nTeil 3: Was ist gesund?\nHans-Peter Friedrichsen\nFleisch ist ein wertvolles Lebensmittel, es sollte allerdings hochwertig, unverändert und schonend \ngegart sein. © MEV\nHeruntergeladen von: Zürcher Hochschule für Angewandte Wissenschaften. Urheberrechtlich geschützt.\n",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "05948a45-9f85-402a-b5f3-5a26e718b14f",
+        "embedding": null,
+        "metadata": {
+            "page_label": "21",
+            "file_name": "gesunde_ernaehrung_teil3.pdf",
+            "file_path": "../data/raw/gesunde_ernaehrung_teil3.pdf",
+            "file_type": "application/pdf",
+            "file_size": 309697,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Friedrichsen HP: Gesunde Ernährung         OM – Zs. f. Orthomol. Med. 2015; 1: 20–24 21\npraxistipps     |\nstoffzufuhr, vermehrte Sportaktivi -\ntät und ein insgesamt höheres Ge -\nsundheitsbewusstsein mit weniger \nZuckerkonsum. Für die statistischen \nAuswertungen werden „Adjust-\nments“, also Anpassungen vorgenom-\nmen, um z. B. den größeren Anteil von \nRauchern in einer Vergleichsgruppe \nals Einflussfaktor herauszurechnen. \nAuf welcher Basis diese Anpassungen \nerfolgen und ob diese Annahmen zu-\ntreffend sind, bleibt bei allen Studien \nim Nebel der statistischen Korrektur-\nprozesse verborgen. \nEin gesundheitlicher Vorteil einer vege-\ntarischen Ernährung lässt sich nicht mit \ndem Fleischverzicht begründen. \nFleisch\nHochwertiges, unverändertes Fleisch \n(d. h. ohne Hormone, Antibiotika, Ge -\ntreidefütterung, Konservierung, Zusatz -\nstoffe, Schadstoffe etc.) ist ein wertvolles \nLebensmittel, an das der Stoffwechsel des \nMenschen seit vielen Jahrtausenden gut \nangepasst ist. Fleisch stellt eine hoch-\nwertige Quelle für wichtige Aminosäu-\nren dar. Je natürlicher das Tier aufwächst \n(frei lebend, natürliches Futter wie Gras \nund Kräuter, keine Hormone, Antibiotika \noder Schadstoffe), desto gesünder ist der \nVerzehr seines Fleisches. Reines Fleisch \ninduziert physiologische Sättigungs-\nsignale, erhöht die Thermogenese, ver-\nbessert die Insulinempfindlichkeit und \nwirkt einer Gewichtszunahme entgegen. \nBei Berücksichtigung dieser Zusam -\nmenhänge kann es aus gesundheitlicher \nSicht auch keinen Grund gegen den Ver-\nzehr von hochwertigem und gesundem \nFleisch geben. Allerdings sollte auch die \nZubereitung beachtet werden. Braten bei \nhohen Temperaturen oder Grillen lässt \ngesundheitsschädliche Substanzen ent-\nstehen und sollte daher für einen gesun-\nden Verzehr von Fleisch eher vermieden \nwerden. \nIn der großen EPIC-Studie (European \nProspective Investigation into Cancer \nand Nutrition) konnte bei der Analyse \nvon 448 568 Teilnehmern nur für den \nregelmäßigen täglichen Verzehr von ver-\narbeitetem Fleisch bzw. Wurstwaren ein \nerhöhtes Risiko für kardiovaskuläre Er-\nkrankungen und Krebs sowie eine erhöh-\nte Mortalität dargestellt werden. Für den \nVerzehr von reinem Fleisch (Rind, Kalb) \nkonnte in der EPIC-Studie sowie in ande-\nren v. a. neueren Untersuchungen, in de-\nnen die verschiedenen Arten und Quali-\ntäten von Fleisch differenziert betrachtet \nwurden, für Rind und Kalb kein erhöhtes \nRisiko für Herz-Kreislauf-Erkrankungen \noder Tumorkrankheiten (z. B. Kolonkar-\nzinom) beobachtet werden. \nDie Arbeitsgruppe um R. Micha zeigte \nin ihrer Metaanalyse von 20 Studien mit \n1 218 380 Teilnehmern ebenfalls, dass \nunverarbeitetes rotes Fleisch im Gegen-\nsatz zu verarbeitetem Fleisch/Wurst das \nRisiko für kardiovaskuläre Erkrankungen \noder Diabetes nicht erhöht [5]. \nEin erhöhtes Risiko für Darmkrebs \ndurch den Verzehr von rotem Fleisch \nwird häufig durch eine karzinogene \nWirkung von Häm-Eisen begründet. An-\ndersen et al. konnten zeigen, dass diese \nZusammenhänge nicht bestehen [6]. \nDer Konsum von frischem, hochwerti -\ngem, unbehandeltem roten Fleisch stellt \nkein gesundheitliches Risiko dar. Billiges \nIndustriefleisch aus Massenproduktion \nsowie insbesondere Fleischwaren oder \nWurst und Schinken können das Risiko \nfür verschiedene Erkrankungen erhöhen.\nGetreide\nDie vegetarische Kost zeichnet sich durch \nden verstärkten Verzehr von Getreide-\nprodukten, insbesondere Vollkornpro-\ndukten aus. Dies wird in zahlreichen \nStudien mit einer Mortalitätssenkung für \nverschiedene Krankheiten in Verbindung \ngebracht (kardiovaskuläre Erkrankungen, \nKrebserkrankungen, Gesamtmortalität).\nIn der Studie von Park et al. fällt auf, \ndass die Gruppen (Quintilen) mit dem \nhöchsten Getreideverzehr (dies ist die \nGruppe mit dem niedrigsten Risiko) auch \neinen optimalen BMI/Körpergewicht, \nden niedrigsten Alkohol- oder Tabak-\nkonsum, eine niedrigere Energiezufuhr \noder die größte körperliche Aktivität \nzeigen. Daher hat diese Gruppe selbst-\nverständlich die besten Ergebnisse, d. h. \ndie geringste Mortalität. Ob dies wirklich \nam höheren Getreideverzehr oder doch \nan den anderen Faktoren wie wenig Al-\nkohol, kein Tabak, viel Sport liegt, lässt \nsich auf Basis der erhobenen Daten nicht \ndifferenzieren. Daten für die Quintilen 2 \nund 4 lagen nicht vor [7] ( Tab. 1).\nIn der statistischen Aufbereitung \nsoll durch „Adjustment for confounding \nfactors“ in Rechenmodellen der Ein-\nfluss aller anderen Faktoren bis auf den \nuntersuchten Faktor – hier Getreide-\nkonsum – herausgerechnet werden, \num am Ende dann den positiven Effekt \neinem einzigen Faktor – in diesem Fall \ndem Getreideverzehr – zuzurechnen. In \nkeiner Studie finden sich detaillierte Dar-\nstellungen dieser „Adjustments“, sodass \ndiese statistischen Korrekturen in Bezug \nauf Logik und Sinnhaftigkeit auch nicht \nnachvollzogen werden können. Lang-\nTab. 1 Daten einer Studie an Vegetariern zum Zusammenhang zwischen Ballaststoffaufnahme und \nMortalität (nach [7]). \nQuintile 1 Quintile 3 Quintile 5\nFasern (g/d) 12,6 19,4 29,4\nBMI 27,3 27,2 26,4\nSport (%) 35 49 64\nRaucher (%) 22 9 4\nAlkohol (g/d) 27 19 9\nrotes Fleisch (g/d) 47 40 25\nkcal/d 2019 2084 1969\nHeruntergeladen von: Zürcher Hochschule für Angewandte Wissenschaften. Urheberrechtlich geschützt.\n",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "b0dc5a76-6ad0-4d8d-9783-c9c0173e2ea4",
+        "embedding": null,
+        "metadata": {
+            "page_label": "22",
+            "file_name": "gesunde_ernaehrung_teil3.pdf",
+            "file_path": "../data/raw/gesunde_ernaehrung_teil3.pdf",
+            "file_type": "application/pdf",
+            "file_size": 309697,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "22 Friedrichsen HP: Gesunde Ernährung         OM – Zs. f. Orthomol. Med. 2015; 1: 20–24 \n|     praxistipps\nzeit-Beobachtungsstudien an großen \nPopulationen zum gesundheitlichen Ef -\nfekt ausgewählter Nahrungsmittel sind \näußerst komplex und in Bezug auf den \nNahrungsmittelverzehr sehr schwer zu \nkontrollieren. Daher müssen die Aus-\nsagen dieser Beobachtungsstudien mit \ngroßer Vorsicht und Zurückhaltung in-\nterpretiert werden! \nSo verwundert es nicht, dass die \noberste Gesundheitsbehörde in Kanada \n2012 für den Getreideverzehr keine Aus-\nsage zur Risikoreduktion für Herz-Kreis-\nlauf-Erkrankungen zulässt, da die Da-\ntenlage nicht überzeugt: „Health Canada \nconcluded that the evidence to date from \nclinical trials and prospective cohort \nstudies was not sufficient to support a \n whole grains and coronary heart disease \nrisk reduction claim in Canada.” [8]\nUnd auch die EFSA (European Food \nSafety Authority), die oberste europä­\nische Behörde für Lebensmittelsicher-\nheit, kam 2010 zu folgendem Beschluss: \n„On the basis of data presented, the Panel \nconcludes that a cause and effect relati-\nonship cannot be established between \nthe consumption of whole grain and \nthe claimed effects (gut health, weight \ncontrol, glucose/insulin levels, weight \n management, blood cholesterol, glycae-\nmic index, digestive function, cardiovas-\ncular health) considered in this opinion.” \n[9]\nAuch wenn der Getreideverzehr mög-\nlicherweise günstige Auswirkungen auf \nverschiedene Krankheiten hat, so dürfen \ndie negativen Wirkungen nicht außer \nAcht gelassen werden. In verschiedenen \nepidemiologischen Studien konnte der \nZusammenhang zwischen hohem Ge-\ntreideverzehr und Vitamin-D-Mangel \ngezeigt werden. Dieser Zusammenhang \ngilt als eine mögliche Erklärung für die \nvergleichsweise hohe Inzidenz an kar-\ndiovaskulären Erkrankungen in Indien \ntrotz minimaler Fettzufuhr und insge-\nsamt niedriger Cholesterinspiegel. Vi -\ntamin-D-Mangel ist in Indien sehr weit \nverbreitet. \nGetreideprodukte wie v. a. Brot bein-\nhalten verschiedene Substanzen, die sich \ngesundheitlich negativ auswirken. Dazu \nzählen z. B. Gliadin, Lektine, Phytinsäure. \nGluten oder Gliadin ist das Kleberprotein \nin Weizen, Roggen, Gerste, Dinkel und \nauch Hafer. Es sorgt für die vermehrte \nWasserspeicherung im Teig und macht \nihn geschmeidig. Für die heutige indus-\ntrielle Brotherstellung werden Getreide \nmit hohem Glutenanteil eingesetzt. Das \naus ihnen hergestellte Brot ist locker \nund geschmeidig. Dazu wurde durch \nZüchtung der Glutengehalt im Getreide \nständig erhöht (in USA > 30 %). Die heu-\nte eingesetzten Getreidesorten wurden \ndurch Züchtung und auch durch Gen-\nmanipulation in wenigen Jahren stark \nverändert. So überrascht es nicht, dass \nimmer mehr Menschen Getreideproduk-\nte schlecht vertragen. \nNeuere Studien zeigen ursächliche \nZusammenhänge zwischen Glutenver -\nzehr und verschiedenen Gesundheits -\nstörungen wie:\n ■ Leaky-gut-Syndrom (erhöhte Durch-\nlässigkeit der Darmschleimhaut z.  B. \nfür Fremdproteine)\n ■ Intoleranzreaktionen\n ■ Insulinresistenz\n ■ Adipositas\n ■ erhöhte viszerale Fettansammlung\n ■ Zöliakie\nAuch die im Getreide enthaltenen Lek -\ntine können über eine Hemmung der \nLeptinrezeptoren im Gehirn sowie der \nInsulinrezeptoren zu Gewichtszunahme \nund Insulinresistenz führen. Weizen ent-\nhält neben großen Mengen Gluten auch \nden höchsten Anteil an der Stärke Amy-\nlopektin A, die schnell resorbiert wird \nund zu einem steilen Blutzuckeranstieg \nführt. Weizen (auch Vollkorn) erzeugt \ndaher von allen Getreiden die höchste \nglykämische Belastung. Für den industri-\nellen Backprozess (möglichst viele Brote \npro Zeiteinheit) ist die Zugabe verschie-\ndener Zusatzstoffe unabdingbar (künst-\nliche Enzyme, zusätzliches Gluten, Pflan-\nzenöle), die u. U. ebenfalls Beschwerden \nauslösen können.\nDie wissenschaftliche Datenlage \nzum gesundheitlichen Wert eines ho -\nhen Getreidekonsums ist nicht eindeu-\ntig. Eine Reihe von Studien zeigen eine \nRisikoreduktion bei Herz-Kreislauf-Er-\nkrankungen und Diabetes und andere \nUntersuchungen belegen verschiedene \nGesundheitsstörungen durch hohen \nGetreideverzehr wie Autoimmunkrank-\nheiten (Rheumatoide Arthritis oder Mul-\ntiple Sklerose), chronische Darmentzün-\ndungen, Zöliakie, Übergewicht.\nEine Reduktion von Krankheitsrisiken \ndurch den Verzehr von Vollkornproduk -\nten ist nicht eindeutig belegt und darf \ndaher von der Industrie auch nicht be-\nworben werden.\nHoher Getreidekonsum, wie er z. B. \nauch von der DGE empfohlen wird\n ■ reduziert den Verzehr der wesentlich \nwertigeren Früchte und Gemüse,\n ■ erhöht die Kochsalzaufnahme und \nverschlechtert die Natrium/Kali-\num-Ratio,\n ■ führt zu erhöhter glykämischer Belas-\ntung und\n ■ kann eine Gewichtszunahme bewir-\nken.\nDaher muss die Empfehlung zu hohem \nGetreideverzehr kritisch betrachtet wer-\nden. \nUngünstig ist es, wenn ein erhöhter \nGetreideverzehr zu Lasten anderer wich-\ntiger Lebensmittel erfolgt, wie hochwer-\ntiges, natürliches Fleisch (bei Vegetari-\nern/Veganern) sowie Obst und Gemüse \n(durch ungesunde Industriekost). Dies \nführt häufig zu Mangelversorgung mit \nverschiedenen Aminosäuren (Lysin, Iso-\nleucin, Threonin sowie auch Carnitin \nund Taurin), Eisen, Zink, Vitamin B12 und \nVitamin D. \nDie wesentlichen Aspekte der ge -\nsundheitsfördernden Eigenschaften der \nvegetarischen Ernährung sind:\n ■ eine hohe Zufuhr von wichtigen \nPflanzenprodukten wie Obst, Gemü-\nse, Rohkost und Nüsse\n ■ reduzierter Verzehr von Industriekost \nund Fertigprodukten\n ■ geringerer Konsum von Zucker\nHeruntergeladen von: Zürcher Hochschule für Angewandte Wissenschaften. Urheberrechtlich geschützt.\n",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "9424effd-5914-40a7-91b0-f5c3bc9d9207",
+        "embedding": null,
+        "metadata": {
+            "page_label": "23",
+            "file_name": "gesunde_ernaehrung_teil3.pdf",
+            "file_path": "../data/raw/gesunde_ernaehrung_teil3.pdf",
+            "file_type": "application/pdf",
+            "file_size": 309697,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Friedrichsen HP: Gesunde Ernährung         OM – Zs. f. Orthomol. Med. 2015; 1: 20–24 23\npraxistipps     |\nDer Verzicht auf Fleisch und der erhöhte \nVerzehr von Produkten aus Vollkornge -\ntreide begründen nicht den gesundheit-\nlichen Wert der vegetarischen Kost!\nDer gesundheitliche Wert der vegetari -\nschen Ernährung basiert weder auf dem \nFleischverzicht noch auf dem gesteiger -\nten Getreideverzehr, sondern v. a. auf \nder hohen Zufuhr wertvoller pflanzlicher \nNahrungsmittel und der Reduktion von \nindustrieller Fertignahrung und Zucker.\nDie stoffwechseladaptierte \nErnährung\nEine für unseren Stoffwechsel optimier-\nte gesunde Ernährung unterscheidet \nsich sowohl von der vegetarischen Kost \nals auch von den Empfehlungen der DGE \nund könnte so aussehen, wie nachfol-\ngend vorgestellt.\nIm ersten Teil dieser „Ernährungs-Tri-\nlogie“ wurde die Ernährung der Jäger \nund Sammler ausführlich dargestellt. An \ndiese Ernährung ist der menschliche Or-\nganismus seit vielen Jahrtausenden gut \nangepasst. Daher bieten sich die Grund-\nzüge der Ernährung unserer jagenden \nVorfahren als ideale Basis für eine ge-\nsunde Ernährung an.\n1. Verzehren Sie nur frische, \nhochwertige und naturbelassene \nNahrungsmittel\nDas bedeutet eine naturnahe Nahrungs-\nmittelproduktion ohne Zusatzstoffe \nwie Biozide, Hormone, Antibiotika, \nWachstumshilfen, Verarbeitungshilfen, \nFarbstoffe, Geschmackstoffe etc. Die \nNahrungsmittel sollten möglichst frei \nvon Schadstoffen sein.\n2. Vermeiden Sie Fertignahrung\nIndustrielle Fertignahrung enthält viele \nauf ihre gesundheitlichen Wirkungen \nnoch nicht untersuchte Substanzen und \nmeist wenig Nährstoffe. Fertignahrung \nist für eine gesunde Ernährung nicht \ngeeignet.\n3. Vermeiden Sie Zucker  \nund Süßigkeiten\nZahlreiche wissenschaftliche Studien \nzeigen einen ursächlichen Zusammen-\nhang zwischen Zuckerkonsum und ver-\nschiedenen Erkrankungen wie Krebs, \nHerz-Kreislauf-Erkrankungen, Diabetes, \nÜbergewicht u. a. Besonders problema -\ntisch sind Süßgetränke und versteckter \nZucker (z. B. in Ketchup 25 g/100 g).\n4. Meiden Sie industrielle \n­ Pflanzenöle\nIndustriell verarbeitete Pflanzenöle zei -\ngen häufig neben einem ungünstigen \nFettsäuremuster auch erhöhte Konzen-\ntrationen von Transfettsäuren. Nutzen \nSie nur hochwertige, unbehandelte und \nkaltgepresste Öle mit möglichst niedri-\ngem Gehalt an Linolsäure und hohem \nAnteil an α­Linolensäure (Leinöl, Rapsöl, \nOlivenöl).\n5. Meiden Sie Milch und reduzieren \nSie den Konsum von Milchprodukten\nKuhmilch ist nicht ein für den Men -\nschen vorgesehenes Nahrungsmittel, \nsondern ein hochwirksames, hormonel-\nles Wachstumssystem für Kälber. Durch \nFermentierungsprozesse werden diese \nhormonellen Bestandteile der Milch \nzum großen Teil (aber nicht vollstän-\ndig) umgewandelt, sodass der Genuss \nvon Butter, Joghurt oder Käse weniger \nproblematisch ist. Milch ist kein essen-\nzielles Lebensmittel für den Menschen. \nDie Versorgung mit Kalzium und Eiweiß \nkann ohne Probleme über andere Le-\nbensmittel erfolgen. Milch ist daher für \neine gesunde Ernährung nicht unbedingt \nerforderlich.\n6. Reduzieren Sie Ihren \n Getreideverzehr\nGetreide fand erst vor 8000 Jahren Ein -\ngang in die menschliche Ernährung. Ob \nhoher Getreideverzehr einen gesund-\nheitlichen Vorteil hat, wird kontrovers \ndiskutiert. Man kann ohne Probleme \nund Gefahr eines Nährstoffmangels auf \njeglichen Getreideverzehr verzichten. \nGetreide liefert keinen Nährstoff, der \nnicht auch in anderen pflanzlichen oder \ntierischen Produkten enthalten ist. Die \nVerfügbarkeit der im Getreide enthalte-\nnen Nährstoffe ist schlechter als bei Obst, \nGemüse oder gar tierischen Lebensmit-\nteln. Gegen ein Brot/Brötchen zum Früh-\nstück ist nichts einzuwenden. Wenn der \nGetreidekonsum allerdings zu Lasten von \nObst und Gemüse erhöht wird, also zum \nFrühstück statt der Portion Obst lieber \nein 2. Brötchen gegessen wird, ist das \nungünstig. Eine Zufuhr von 10 EN % über \nGetreideprodukte lässt den Getreidelieb-\nhabern das Frühstücksbrötchen.\nBei Unverträglichkeiten auf Getreide \n– v. a. Vollkorngetreide – oder Inhalts -\nstoffe wie Gliadin sollten Getreidepro -\ndukte ganz gemieden werden. Das größ-\nte Problem stellt die Gewöhnung vieler \nMenschen an den regelmäßigen Verzehr \nvon Brot, Gebäck und Nudeln dar. \n7. Decken Sie etwa 40–50 % Ihres \nEnergiebedarfes mit frischem Obst, \nGemüse, Rohkost und Nüssen\nNeben Fleisch bilden Früchte, Knollen, \nWurzeln, Gemüse und Nüsse seit Jahr-\ntausenden die Grundlage der mensch-\nlichen Ernährung. Diese Nahrungsmit-\ntel sollten ca. die Hälfte Ihrer täglichen \nEnergiezufuhr ausmachen. Bei einem \ntäglichen Energiebedarf von 2000 kcal \nbedeutet dies ca. 800–1000 kcal über \nFrüchte, Gemüse, Kartoffeln, Rohkost \nund Nüsse zuzuführen. Daraus errech-\nnen sich für Obst, Gemüse und Rohkost \nca. 1,5 kg/d. Dies ist etwas höher als die \npropagierten 5 Portionen. \n8. Essen Sie 2–3 × pro Woche Fisch\nBevorzugen Sie frischen Seefisch wie \nLachs (Wildfang!), Hering und Makrele, \ndie einen hohen Anteil an ω­3­Fettsäu-\nren haben.\n9.­Sie­können­2–3­ × pro Woche \nFleisch essen\nWählen Sie naturbelassenes und bio -\nlogisch erzeugtes Fleisch von höchster \nQualität wie Bison, Strauß, Geflügel oder \nRind­ bzw. Kalbfleisch. Verzichten Sie auf \nSchweinefleisch und alle Fleisch­ und \nWurstwaren. Achten Sie auf eine scho -\nnende Zubereitung, wie das Garen bei \nHeruntergeladen von: Zürcher Hochschule für Angewandte Wissenschaften. Urheberrechtlich geschützt.\n",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "f6e20309-1127-4cfe-a951-d4f9ce685f9a",
+        "embedding": null,
+        "metadata": {
+            "page_label": "24",
+            "file_name": "gesunde_ernaehrung_teil3.pdf",
+            "file_path": "../data/raw/gesunde_ernaehrung_teil3.pdf",
+            "file_type": "application/pdf",
+            "file_size": 309697,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "24 Friedrichsen HP: Gesunde Ernährung         OM – Zs. f. Orthomol. Med. 2015; 1: 20–24 \n|     praxistipps\nniedrigen Temperaturen. Grillen oder \nscharfes Anbraten ist nicht zu empfehlen. \nHochwertiges, unbelastetes Fleisch, Ge-\nflügel, Fisch und Ei sowie ausreichend \ngroße Mengen von frischem Obst, Ge -\nmüse, Rohkost und Nüssen sind die \nwesentliche Basis einer gesunden Ernäh-\nrung.\n10. Verzichten Sie auf Alkohol\nWenn nicht ganz auf Wein oder Bier ver-\nzichtet wird, so sollten die Mengen und \nauch die Häufigkeit kontrolliert werden: \n1 Glas Wein (0,2 l) oder 1 Glas Bier (0,4 l) \nan 2–3 Tagen pro Woche sollte nicht \nüberschritten werden.\nDa Ernährung keine Religion ist, stel-\nlen kleine „Ernährungssünden“ natür-\nlich auch kein Problem dar. Das Stück \nTorte oder das zweite Glas Wein auf \nder Geburtstagsfeier sind gesundheit-\nlich völlig unbedenklich. Gerade eine \ngesunde Ernährung muss immer einen \nGenuss darstellen und mit Freude und \naus Überzeugung, aber nicht als Zwang \noder Ideologie umgesetzt werden, sonst \nverliert sie einen erheblichen Teil ihres \ngesundheitlichen Wertes.\nDiese Ernährung stellt die Basis des \nvom Autor des Beitrages entwickelten \nPräventions- und Therapiekonzeptes \ndar, das seit mehreren Jahren erfolgreich \nbei Patienten mit Übergewicht oder ver-\nschiedenen chronischen Erkrankungen \nsowie im Profisport eingesetzt wird.\nLiteratur\n [1] Rohrmann S et al. Meat consumption and \nmortality - results from the European \nProspective Investigation into Cancer and \nNutrition. BMC Medicine 2013; 11: 63\n [2] Norat T et al. Meat, fish, and colorectal \ncancer risk: The European Prospective In-\nvestigation into cancer and nutrition. J Natl \nCancer Inst 2005; 97(12): 906–916\n [3] Key et al. Mortality in British vegetarians: \nresults from the European Prospective \nInvestigation into Cancer and Nutrition \n(EPIC-Oxford). Am J Clin Nutr 2009;  \n89(suppl): 1613S–1619S \n[ 4] Key TJ, Fraser GE, Thorogood M et al: \nMortality in vegetarians and nonvegetari-\nans: detailed findings from a collaborative \nanalysis of 5 prospective studies. Am J Clin \nNutr 1999; 70(3 suppl): 516S–524S\n [5] Micha R. Red and processed meat \nconsumption and risk of incident coronary \nheart disease, stroke, and diabetes. Circula-\ntion 2010; 121(21): 2271–2283 \n [6] Andersen V. No Association between \nHMOX1 and Risk of Colorectal Cancer and \nNo Interaction with Diet and Lifestyle Fac-\ntors in a Prospective Danish Case-Cohort \nStudy. Int J Mol Sci 2015; 16: 1375-1384\n [7] Park Y et al. Dietary fiber intake and \nmortality in the NIH-AARP Diet and Health \nStudy. Arch Intern Med 2011; 171(12): \n1061–1068\n [8] Health Canada. Summary of Health Cana-\nda’s Assessment of a Health Claim about \nWhole Grains and Coronary Heart Disease. \nBureau of Nutritional Sciences Food Direc-\ntorate, Health Products and Food Branch. \n2012\n [9] EFSA. Scientific Opinion on the substantia-\ntion of health claims related to whole grain \n(ID 831, 832, 833, 1126, 1268, 1269, 1270, \n1271, 1431) pursuant to Article 13(1) of \nRegulation (EC) No 1924/20061. EFSA \nPanel on Dietetic Products, Nutrition and \nAllergies (NDA). EFSA Journal 2010; 8(10): \n1766 \nonline: http://dx.doi.org/10.1055/s-0034-1395855\nDr. med. Hans-Peter Friedrichsen\nSchönbergstr. 11 a \n79291 Merdingen\nHeruntergeladen von: Zürcher Hochschule für Angewandte Wissenschaften. Urheberrechtlich geschützt.\n",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    }
+]

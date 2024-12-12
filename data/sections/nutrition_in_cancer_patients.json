@@ -1,0 +1,739 @@
+[
+    {
+        "section": 1,
+        "content": "Abstract: Background: Despite being recognised that nutritional intervention is essential, nutritional support is not widely accessible to all patients. Given the incidence of nutritional risk and nutrition wasting, and because cachexia management remains a challenge in clinical practice, a multidisciplinary approach with targeted nutrition is vital to improve the quality of care in oncology. Methods: A literature search in PubMed and Cochrane Library was performed from inception until 26 March. The search consisted of terms on: cancer, nutrition, nutritional therapy, malnutrition, cachexia, sarcopenia, survival, nutrients and guidelines. Key words were linked using “OR” as a Boolean function and the results of the four components were combined by utilizing the “AND” Boolean function. Guidelines, clinical trials and observational studies written in English, were selected. Seminal papers were referenced in this article as appropriate. Relevant articles are discussed in this article. Results: Recent literature supports integration of nutrition screening/assessment in cancer care. Body composition assessment is suggested to be determinant for interventions, treatments and outcomes. Nutritional intervention is mandatory as adjuvant to any treatment, as it improves nutrition parameters, body composition, symptoms, quality of life and ultimately survival. Nutrition counselling is the first choice, with/without oral nutritional supplements (ONS). Criteria for escalating nutrition measures include: (1) 50% of intake vs. requirements for more than 1–2 weeks; (2) if it is anticipated that undernourished patients will not eat and/or absorb nutrients for a long period; (3) if the tumour itself impairs oral intake. N-3 fatty acids are promising nutrients, yet clinically they lack trials with homogeneous populations to clarify the identified clinical benefits. Insufficient protein intake is a key feature in cancer; recent guidelines suggest a higher range of protein because of the likely beneficial effects for treatment tolerance and efficacy. Amino acids for counteracting muscle wasting need further research. Vitamins/minerals are recommended in doses close to the recommended dietary allowances and avoid higher doses. Vitamin D deficiency might be relevant in cancer and has been suggested to be needed to optimise protein supplements effectiveness. Conclusions: A proactive assessment of the clinical alterations that occur in cancer is essential for selecting the adequate nutritional intervention with the best possible impact on nutritional status, body composition, treatment efficacy and ultimately reducing complications and improving survival and quality of life.",
+        "tags": [
+            "nutrition",
+            "cancer",
+            "malnutrition",
+            "cachexia",
+            "survival"
+        ]
+    },
+    {
+        "section": 2,
+        "content": "1. Introduction\nCancer is a complex disease that results from multiple interactions between genes and the environment, and is regarded as one of the current leading causes of mortality worldwide. Metabolic and nutritional alterations can influence survival and recovery of cancer patients: malnutrition, sarcopenia and cachexia. Malnutrition ensues from an inflammatory state that",
+        "tags": [
+            "cancer",
+            "nutrition",
+            "malnutrition",
+            "sarcopenia",
+            "cachexia"
+        ]
+    },
+    {
+        "section": 3,
+        "content": "Metabolic and nutritional alterations can influence survival and recovery of cancer patients. Malnutrition, sarcopenia, and cachexia are significant concerns in this population. Malnutrition arises from an inflammatory state that promotes anorexia and consequently, weight loss. It is highly prevalent in cancer patients, with 15 to 40% reporting weight loss at diagnosis. It is estimated that 40 to 80% of all cancer patients will be malnourished during the course of the disease. Furthermore, malnutrition can influence treatment outcomes, delay wound healing, worsen muscle function, and increase the risk of post-operative complications. It can also impair tolerance and response to antineoplastic treatments, leading to extended hospital stays, increased risk for treatment interruptions, and possible reduced survival. Sarcopenia is characterized by a decrease in lean body mass, impacting strength and physical function, which may decrease the quality of life. Cancer-related weight loss in obese patients cannot be identified by a low body mass index (BMI), making sarcopenic obesity frequently overlooked. In these patients, changes in body composition result in an increased metabolic risk and are significant predictors of treatment-related adverse events. Cancer cachexia is a complex multifactorial syndrome resulting from metabolic alterations, systemic inflammation, and decreased appetite, characterized by involuntary sustained weight loss and loss of skeletal muscle mass, which are irreversible by conventional nutritional support.",
+        "tags": [
+            "malnutrition",
+            "sarcopenia",
+            "cachexia",
+            "cancer",
+            "treatment outcomes"
+        ]
+    },
+    {
+        "section": 4,
+        "content": "In addition to the disease, antineoplastic treatments and/or surgery significantly impact patients’ nutritional status. During chemotherapy, more than 50% of patients experience dysgeusia, nausea, vomiting, and mucositis, while radiotherapy-related complications are also common. Poor nutritional status increases surgical morbidity and post-surgical complications. Nutritional intervention in cancer patients aims to identify, prevent, and treat malnutrition through nutritional counseling with or without oral nutritional supplements (ONS) or via artificial nutrition, such as enteral or parenteral nutrition. These interventions also address metabolic and nutritional alterations that influence patients’ recovery and survival. Despite the importance of nutritional intervention, support is not widely accessible to all patients at nutritional risk. Given the high incidence of nutritional risk in cancer and the challenges in managing cachexia, a multidisciplinary approach is vital to define efficient strategies that can improve the quality of care in cancer patients. Nutritional intervention should be central and adjuvant to any treatment and included in the mandatory multidisciplinary approach in oncology, allowing for more adequate and efficient results in these patients. Multidisciplinary follow-up, with early and regular nutritional intervention, is crucial in oncology, serving as a key factor for successful treatment and recovery.",
+        "tags": [
+            "nutritional intervention",
+            "cancer treatment",
+            "multidisciplinary approach",
+            "patient care",
+            "recovery"
+        ]
+    },
+    {
+        "section": 5,
+        "content": "The present article aims to provide insights and an overview of the most recent literature regarding key nutritional aspects in cancer patients. Based on this framework, a literature search in PubMed and Cochrane Library was performed from inception until 26 March. The search consisted of terms: cancer, nutrition, nutritional therapy, malnutrition, cachexia, sarcopenia, survival, nutrients, guidelines. Key words were linked using \"OR\" as a Boolean function, and the results of the four components were combined using the \"AND\" Boolean function. Guidelines, clinical trials, and observational studies written in English were selected. Seminal papers in the area, even if dated outside the search timeline, were referenced in this article as appropriate.",
+        "tags": [
+            "literature review",
+            "PubMed",
+            "Cochrane Library",
+            "cancer",
+            "nutritional therapy"
+        ]
+    },
+    {
+        "section": 6,
+        "content": "Screening for nutritional risk as early as possible allows for the identification of patients at risk of becoming malnourished. Screening should be done at diagnosis or hospital admission, and it should be repeated during treatment for referral for evaluation if needed. Evidence supports the integration of malnutrition screening in cancer patient care. The adequate tool for screening undernutrition should be brief, easy to fill, inexpensive, highly sensitive, and have a high specificity to ensure that at-risk patients are identified and receive appropriate interventions.",
+        "tags": [
+            "nutritional screening",
+            "malnutrition",
+            "patient assessment",
+            "cancer care",
+            "intervention"
+        ]
+    },
+    {
+        "section": 7,
+        "content": "Evidence supports the integration of malnutrition screening in cancer patients care. The adequate tool for screening undernutrition should be brief and easy to fill, inexpensive, highly sensitive and have good specificity. MUST (Malnutrition Universal Screening Tool) and NRS-2002 (Nutritional Risk Screening-2002) are considered suitable; the MNA (Mini Nutritional Assessment) is a suitable tool for nutritional assessment in the senior population. When nutritional risk is present, screening should be followed by comprehensive nutritional assessment to better determine the course of nutritional intervention. It seems there is no consensus on the best method to perform this assessment, but SGA (Subjective Global Assessment) and PG-SGA (Patient Generated-Subjective Global Assessment) have been validated for nutritional assessment of adult oncology patients. When used isolated, weight loss is ineffective to detect malnutrition, as it has low sensitivity for metabolic changes that occur in cancer patients. Yet, its early and regular assessment, combined with the evaluation of nutritional intake, BMI and inflammatory status is a standard clinical recommendation. As for BMI, it has low sensitivity to detect changes in the nutritional status, especially in obese patients, thus it should only be used combined with other assessment tools. Body composition provides valuable information in the management of cancer patients, as imaging methods detect loss of muscle mass as well as fatty muscle infiltration. In cancer patients at risk for malnutrition, sarcopenia and cachexia, muscle mass should be assessed. Methods available are dual X-ray absorptiometry (DEXA), computed tomography scans at the level of the 3rd vertebra or bioimpedance analysis (BIA). Additionally, it has been recommended that nutritional assessment should be performed for the stages of cancer cachexia, as nutritional intervention is most effective in the stages of precachexia and cachexia.",
+        "tags": [
+            "malnutrition",
+            "cancer",
+            "nutritional assessment",
+            "screening tools",
+            "body composition"
+        ]
+    },
+    {
+        "section": 8,
+        "content": "In order to tackle nutritional deterioration, gathering objective data on nutritional status and its evolution throughout the disease course is of prime concern. Different cancer types or locations display different nutritional patterns that require tailored nutritional therapy. Nutritional deterioration is a multifactorial end-result determined by cancer-related and nutrition- and/or metabolic-related factors. Proper nutrition can alleviate symptom burden, improve health across the cancer continuum, support cancer survivorship and is a hallmark of successful cancer treatment. Nutritional interventions will vary according to patients’ medical history, type and stage of cancer, as well as to the response to treatment. If the patient can eat and has a functional gastrointestinal tract, nutritional counselling, with or without ONS should be the elected intervention to address altered nutritional demands due to treatment or disease. ONS may be necessary, as a means to compensate for lower food intake and to try to prevent nutritional deterioration during the course of treatments. Monitoring compliance with the selected nutritional intervention is essential.",
+        "tags": [
+            "nutritional intervention",
+            "cancer treatment",
+            "nutritional counselling",
+            "ONS",
+            "patient care"
+        ]
+    },
+    {
+        "section": 9,
+        "content": "In clinical practice, oral nutrition is always the priority. Oral nutrition is the preferred route of feeding as it is a significant part of the patient’s daily routine and does contribute substantially to the patients’ autonomy. It represents a privileged time to spend with family and friends, avoiding the tendency for isolation. The acknowledgement that the prescribed diet is individualized, adapted and adequate to individual needs, empowers the patient with a feeling of control, thus it is also a highly effective approach for psychological modulation. All these factors may potentially contribute to improve the patients’ quality of life, and may modulate acute and late treatment morbidity. The referral for a nutrition professional responsible for the individualised dietary counselling should always be based on decision-making plans.",
+        "tags": [
+            "oral nutrition",
+            "patient autonomy",
+            "dietary counselling",
+            "quality of life",
+            "psychological support"
+        ]
+    },
+    {
+        "section": 10,
+        "content": "As clinicians we have to recognise the dimensions that are determinant for the patients. Indeed, the diet is the only factor that the patient feels he/she can control during the whole course of treatments and interventions. Also, an adequate food intake is recognised by the patient as well as by the family and caregivers, as essential to maintain the daily activity, energy, functional capacity and to overcome treatments more successfully. Notably, nutritional wasting is common regardless of the cancer stage (curative, adjuvant, to palliative) and is an independent predictor of poor physical function, lower quality of life, surgical complications, and reduced survival. Cancer wasting is characterised by muscle mass deterioration that occurs in more than 50% of newly diagnosed cancer patients, in comparison with 15% prevalence in healthy individuals of similar age. Since both muscle mass and adipose tissue play a role in oncological outcomes, strategies to optimize body composition are an important part of successful cancer therapy. Hence, a major goal of nutrition intervention is to favourably influence body composition, with the potential to improve cancer therapy outcomes, morbidities and ultimately, prognosis.",
+        "tags": [
+            "cancer",
+            "nutrition",
+            "diet",
+            "body composition",
+            "patient care"
+        ]
+    },
+    {
+        "section": 11,
+        "content": "To be effective, individualised counselling has to be based on a thorough assessment of various nutritional and clinical parameters: nutritional status and dietary intake, usual dietary pattern, intolerances or food aversions, patients’ psychological status, autonomy, cooperation, need for help or support of others in the act of eating. A thorough symptom assessment is also mandatory. Common causes for a poor nutrient intake in cancer patients include deterioration in taste, smell and appetite, as a consequence of the tumour and/or therapy, altered food preferences, food avoidance, eating problems such as teeth and chewing issues, dysphagia, odynophagia or partial/total gastrointestinal obstruction, early satiety, nausea and vomiting, soreness, xerostomia, sticky saliva, painful throat, trismus, oral lesions and oesophagitis. Regular assessment of intake and symptoms is crucial, along with counselling and oral nutritional supplements (ONS) when necessary.",
+        "tags": [
+            "individualised counselling",
+            "nutritional assessment",
+            "cancer patients",
+            "eating problems",
+            "symptom management"
+        ]
+    },
+    {
+        "section": 12,
+        "content": "Intolerances or food aversions, patients’ psychological status, autonomy, cooperation, need for help or support of others in the act of eating. A thorough symptom assessment is also mandatory. Common causes for a poor nutrient intake in cancer patients include deterioration in taste, smell, and appetite as a consequence of the tumour and/or therapy, altered food preferences, food avoidance, and eating problems such as dysphagia or odynophagia. Other factors include early satiety, nausea, vomiting, soreness, xerostomia, sticky saliva, painful throat, trismus, oral lesions, and oesophagitis. Radiotherapy and chemotherapy can induce mucositis, and patients may experience acute or chronic radiation enteritis during and after treatment. Psychological factors such as depression and anxiety, as well as pain, can also contribute to poor nutrient intake. \n\nTags: cancer, nutrition, symptoms, treatment, patient care",
+        "tags": [
+            "cancer",
+            "nutrition",
+            "symptoms",
+            "treatment",
+            "patient care"
+        ]
+    },
+    {
+        "section": 13,
+        "content": "Individualised nutritional counselling, taking into consideration patients’ clinical condition and symptoms, was the most effective nutrition intervention, assuring a sustained and adequate diet, which was able to overcome the predictable deterioration subsequent to radiotherapy. Positive effects were experienced in the long term with a possible impact on patients’ prognosis, as recently shown in a randomized trial. Another randomized trial of nutritional therapy indicated that intervention had an impact on maintaining patients’ nutritional status and function. In this study, individualised intensive nutrition counselling was compared with individualised on-demand nutrition counselling by a dietician prior to and during oncologic treatment. On-demand nutrition counselling, requested by physician or nurse referral, seemed not inferior to intensive counselling; thus, these results emphasize the importance of establishing multimodal nutrition teams to effectively and timely screen and orient patients for adequate nutrition. Several guidelines include nutritional counselling as their standard of care for malnourished patients or those at risk of malnutrition during anti-neoplastic treatments, particularly in head-neck, oesophageal, and colorectal cancers, as these patients are at particular risk of malnutrition due to tumour location and irradiated area.\n\nTags: nutritional counselling, cancer treatment, patient prognosis, multimodal teams, malnutrition",
+        "tags": [
+            "nutritional counselling",
+            "cancer treatment",
+            "patient prognosis",
+            "multimodal teams",
+            "malnutrition"
+        ]
+    },
+    {
+        "section": 14,
+        "content": "If oral nutrition is inadequate or insufficient, artificial nutrition should be considered. Criteria for escalating nutritional measures include inadequate food intake anticipated for more than 10 days due to surgery or chemotherapy/radiotherapy, food intake less than 50% of requirements for more than one to two weeks, and anticipated inability of undernourished patients to eat or absorb adequate nutrients for a long period due to antineoplastic treatments. The decision between enteral nutrition (EN) and parenteral nutrition (PN) must take into account the site of the tumour, its extent, complications, treatment plan and intent, prognosis, patients’ overall physical status, and the duration of nutritional support.\n\nTags: artificial nutrition, enteral nutrition, parenteral nutrition, cancer treatment, nutritional support",
+        "tags": [
+            "artificial nutrition",
+            "enteral nutrition",
+            "parenteral nutrition",
+            "cancer treatment",
+            "nutritional support"
+        ]
+    },
+    {
+        "section": 15,
+        "content": "If the intestinal functions are preserved, enteral nutrition should be preferred in order to maintain gut integrity and reduce bacterial translocation, as well as to reduce infectious complications. A standard polymeric feeding formula should be preferred. Enteral nutrition is recommended in undernourished or at-risk patients during chemotherapy if undernutrition is present or if inadequate food intake is anticipated. Systematic artificial nutrition during chemotherapy treatment is not recommended. In cases of radiation-induced severe mucositis or obstructive tumours of the head-neck or thorax, either PEG or nasogastric tube are recommended. Enteral nutrition is contraindicated in situations such as intestinal obstruction, severe shock, intestinal ischaemia, high output fistula, severe intestinal haemorrhage, intestinal insufficiency due to radiation enteritis, short bowel syndrome, and peritoneal carcinomatosis. In these situations, or whenever enteral nutrition is insufficient, a combination of enteral and parenteral nutrition or parenteral nutrition alone should be considered.\n\nTags: enteral nutrition, chemotherapy, mucositis, contraindications, nutritional therapy",
+        "tags": [
+            "enteral nutrition",
+            "chemotherapy",
+            "mucositis",
+            "contraindications",
+            "nutritional therapy"
+        ]
+    },
+    {
+        "section": 16,
+        "content": "Intestinal haemorrhage, intestinal insufficiency due to radiation enteritis, short bowel syndrome, and peritoneal carcinomatosis chylothorax are critical conditions that may necessitate nutritional support interventions. In these situations, or whenever enteral nutrition (EN) is insufficient, a combination of EN and parenteral nutrition (PN) or PN alone should be considered. PN should be initiated early whenever indicated, as it is the first option of nutritional support in cases of intestinal failure. When macro and micronutrient requirements can only be fulfilled via the parenteral route, long-term artificial nutrition, such as home parenteral nutrition (HPN), is the standard recommendation. The amino acids (AA) requirement for cancer patients is particularly important, as it relies on the negative balance between whole body protein synthesis and breakdown. Doses of AA closer to 2 g/kg/day may be required to control catabolism and stimulate synthesis, compared to the 0.8 g/kg/day recommended for healthy subjects. For older subjects and those with chronic diseases, most recent clinical guidelines recommend more than 1.0 g/kg/day of protein. To support protein balance, a consensual recommendation is to provide up to 1.5 g/kg/day or more of protein. In the nutritive PN admixtures, essential AA should be present in approximately 50% of AA, while branched-chain AA should account for the remaining 50%.",
+        "tags": [
+            "intestinal failure",
+            "nutritional support",
+            "parenteral nutrition",
+            "amino acids",
+            "cancer patients"
+        ]
+    },
+    {
+        "section": 17,
+        "content": "In terms of fat as an energy substrate, the most consensual regimens have fat accounting for approximately 50% of non-protein calories. Recently, PN as a supplemental route of nutrient administration (SHPN) has emerged as a possible resource to optimize nutrient delivery. Prospective studies on SHPN suggest potential benefits in energy balance, increased body fat, greater maximum exercise capacity, and quality of life (QoL). A recent randomized trial indicated that SHPN may prevent loss of muscle mass in patients with incurable gastrointestinal cancer. However, there is still insufficient evidence to recommend SHPN in cancer patients to improve QoL and nutrition parameters. Additionally, the practice of HPN varies between countries; most do not consider the use of PN if there is a functional gastrointestinal tract, while others may consider its use if it aligns with the patient's wishes.",
+        "tags": [
+            "fat metabolism",
+            "energy substrate",
+            "supplemental nutrition",
+            "quality of life",
+            "muscle mass"
+        ]
+    },
+    {
+        "section": 18,
+        "content": "Refeeding syndrome can occur when severe shifts in fluids and electrolytes happen in severely malnourished patients receiving EN or PN. This syndrome may lead to hypophosphatemia, hypokalaemia, hypomagnesaemia, thiamine deficiency, and changes in sodium, glucose, and fluid balance, as well as in protein and lipid metabolism. Its prevention is recommended when the body mass index (BMI) is less than 16 kg/m2 or in the presence of unintentional weight loss greater than 15% within the last three to six months, or whenever there is little or no nutritional intake for more than 10 days, or if there are decreased levels of potassium, phosphate, or magnesium prior to feeding. If a severe decrease in food intake occurs for at least five days, a gradual increase in nutrition over several days is recommended, with no more than 50% of the calculated energy requirements supplied during the first two days of feeding. Identified fluid and electrolyte imbalances should be corrected, and the circulatory volume, fluid balance, heart rate and rhythm, as well as clinical status, should be monitored closely. Attention to the risk of refeeding syndrome is currently included in guidelines for cancer management.",
+        "tags": [
+            "refeeding syndrome",
+            "malnutrition",
+            "electrolyte imbalance",
+            "nutritional intake",
+            "cancer management"
+        ]
+    },
+    {
+        "section": 19,
+        "content": "To minimize the metabolic stress response and catabolism associated with surgery in undernourished patients, the enhanced recovery after surgery program (ERAS) is recommended for all cancer patients undergoing curative or palliative surgery. Within the ERAS protocol, several principles should be followed: screening for malnutrition and providing additional nutritional support if necessary; avoiding preoperative fasting; considering preoperative carbohydrate treatment; reestablishing oral feeding on the first postoperative day; and encouraging early mobilization. To avoid preoperative fasting, patients without a risk of aspiration are allowed to eat solid food until six hours and drink clear fluids until two hours before anesthesia. In oncologic surgical patients with moderate to severe nutritional risk, nutritional support is recommended before and after surgery. If severe malnutrition is present, delaying surgery may be necessary. When undergoing major surgery, nutritional support should be provided routinely, with particular attention to elderly sarcopenic patients.",
+        "tags": [
+            "surgery",
+            "nutritional support",
+            "enhanced recovery",
+            "malnutrition",
+            "oncology"
+        ]
+    },
+    {
+        "section": 20,
+        "content": "Besides the ERAS protocol, an early start of nutritional supplementation can significantly reduce the degree of weight loss and the incidence of complications. If it is anticipated that after surgery, the patient will be unable to eat for more than seven days, it is advised to start nutrition therapy promptly. This proactive approach is crucial in managing the nutritional needs of patients undergoing surgical procedures, particularly in the context of cancer treatment, where maintaining nutritional status can greatly influence recovery and overall outcomes. Ensuring that patients receive adequate nutrition before and after surgery is essential for minimizing complications and promoting healing.",
+        "tags": [
+            "nutritional supplementation",
+            "surgical recovery",
+            "weight loss",
+            "cancer treatment",
+            "patient outcomes"
+        ]
+    },
+    {
+        "section": 21,
+        "content": "Besides the ERAS protocol, an early start of nutritional supplementation can significantly diminish the degree of weight loss and incidence of complications. If it is anticipated that after surgery, the patient will be unable to eat for more than seven days, it is advised to start nutrition therapy even in well-nourished patients. After surgery, oral nutrition should also be preferred to enteral nutrition (EN) and the latter should be preferred to parenteral nutrition (PN). If oral intake is possible, it should start after surgery without interruption, after assessing individual tolerance. If oral nutrition is not possible, EN should be initiated within 24 hours, preferring standard polymeric enteral formulae if adequate. \n\nTags: nutritional supplementation, weight loss, surgery, oral nutrition, enteral nutrition",
+        "tags": [
+            "nutritional supplementation",
+            "weight loss",
+            "surgery",
+            "oral nutrition",
+            "enteral nutrition"
+        ]
+    },
+    {
+        "section": 22,
+        "content": "Oral mucositis, dysphagia and diarrhoea are common complications of radiotherapy (RT) and/or chemotherapy (CT) treatments. During RT, nutritional counselling is also recommended, especially in head and neck cancers, thorax and gastrointestinal (GI) tract cancers. When deemed necessary, oral nutritional supplements (ONS) should be provided, and when severe mucositis is present, artificial nutrition should be considered. When dietary counselling and ONS are insufficient to reduce weight loss or if in the presence of severe mucositis or obstructive tumours of the head or neck or thorax, artificial nutrition should be considered. In patients treated with RT or chemoradiotherapy, PN is not recommended, and it should only be considered when adequate nutrition cannot be assured with oral or EN.\n\nTags: oral mucositis, dysphagia, chemotherapy, nutritional counselling, artificial nutrition",
+        "tags": [
+            "oral mucositis",
+            "dysphagia",
+            "chemotherapy",
+            "nutritional counselling",
+            "artificial nutrition"
+        ]
+    },
+    {
+        "section": 23,
+        "content": "Nutritional strategies that potentially allow better management of cancer have been widely investigated, but few have reached conclusive results. Many patients with cancer do not meet the recommended intake of protein (1.2–1.5 g/kg/day), and not even the one for healthy individuals (0.8 g/kg/day). Limited protein intake ensues mainly from nutrition impact symptoms that affect dietary intake. Recent guidelines do suggest a higher range of protein intake (1.2–1.5 g/kg/day), because of the positive results of higher protein intake in protein balancing and in maintaining muscle mass. Of additional interest is a recent study showing an inverse association between red meat consumption and seven-year mortality among individuals with stage III colon cancer, suggesting that higher protein intake may actually be beneficial in cancer. \n\nTags: nutritional strategies, cancer management, protein intake, dietary intake, muscle mass",
+        "tags": [
+            "nutritional strategies",
+            "cancer management",
+            "protein intake",
+            "dietary intake",
+            "muscle mass"
+        ]
+    },
+    {
+        "section": 24,
+        "content": "Interventions with amino acids have been tested in cancer, aiming to optimise nutritional status and counteract muscle mass wasting. They include supplementation with branched chain amino acids (leucine, isoleucine and valine), β-hydroxy β-methyl butyrate, carnitine and creatine. Yet further research is needed to clarify potential benefits. As for glutamine, its supplementation in cases of oral mucositis or to prevent/treat diarrhoea during pelvic RT, is not recommended. As for its use when PN is required for patients undergoing haematopoietic stem cell transplant, guidelines are not identical: there is a fair graded recommendation for eventual use of 0.2–0.5 g/kg/day, and the indication that there is not enough evidence to recommend for or against glutamine to reduce anticancer therapy side effects, especially in high dose protocols. In what concerns its potential to improve muscle mass, there is not enough data to support it.\n\nTags: amino acids, glutamine, muscle mass, nutritional status, cancer therapy",
+        "tags": [
+            "amino acids",
+            "glutamine",
+            "muscle mass",
+            "nutritional status",
+            "cancer therapy"
+        ]
+    },
+    {
+        "section": 25,
+        "content": "Eicosapentaenoic acid (EPA) has been identified as a promising nutrient with appointed clinical benefits. Several mechanisms have been proposed to explain the potential benefits of EPA on the body composition: inhibition of catabolic stimuli by modulating the production of pro-inflammatory cytokines and enhancing insulin sensitivity that induces protein synthesis. Intervention studies showed that EPA may attenuate deterioration of nutritional status and may aid in improving calorie and protein intake. Recent systematic reviews found that EPA can reduce inflammation and has a potential to modulate the nutritional status/body composition. Furthermore, some studies suggest that n−3 fatty acids inhibit proliferation of cancer cells and might decrease CT toxicity. Given the large number of studies reporting a positive impact of n−3 fatty acids on the muscle mass, it is likely that this would be a practical and effective intervention for preventing loss of muscle without.\n\nTags: eicosapentaenoic acid, body composition, inflammation, cancer cells, muscle mass",
+        "tags": [
+            "eicosapentaenoic acid",
+            "body composition",
+            "inflammation",
+            "cancer cells",
+            "muscle mass"
+        ]
+    },
+    {
+        "section": 26,
+        "content": "n−3 fatty acids inhibit proliferation of cancer cells and might decrease CT toxicity. Given the large number of studies reporting a positive impact of n−3 fatty acids on muscle mass, it is likely that this would be a practical and effective intervention for preventing loss of muscle without significant side effects. It is noteworthy that the strength of recommendation somewhat differs for the use of n−3 fatty acids supplementation in weight losing cancer patients not responding to standard nutritional therapy. This recommendation has been rated as strong and weak. Nevertheless, both guidelines are inclined to consider supplementation with long chain fatty acids and fish oil to decrease systemic inflammation and improve appetite, food intake, and body weight. Trials with homogeneous patient populations regarding cancer type, stage, anti-neoplastic regimens, supplement dosage, and modality of administration are needed to clarify clinical benefits. Indeed, it is noteworthy that in view of the modest survival benefits of CT/RT in some cancers, important issues for physicians are to optimize well-being, quality of life via nutritional status and adequate body composition.",
+        "tags": [
+            "n−3 fatty acids",
+            "cancer cells",
+            "muscle mass",
+            "nutritional therapy",
+            "body composition"
+        ]
+    },
+    {
+        "section": 27,
+        "content": "Because of the adverse effects of therapy and restricted diet of many patients, the American Institute for Cancer Research, American Cancer Society, and the European Society for Clinical Nutrition and Metabolism—ESPEN support the use of a multivitamin-multimineral supplement in doses close to the recommended dietary allowance. High doses of vitamins and minerals are discouraged in the absence of specific deficiencies. Vitamin D deficiency might be relevant in cancer; also, an association has been reported between low vitamin D and muscle wasting. As a consequence, vitamin D may be needed to optimise protein supplements effectiveness. In light of the recent literature, vitamin D supplementation with 600–800 international units (RDA) in cancer patients can be beneficial in the context of preventing muscle wasting, but further research is needed.",
+        "tags": [
+            "micronutrients",
+            "vitamin D",
+            "cancer",
+            "muscle wasting",
+            "supplementation"
+        ]
+    },
+    {
+        "section": 28,
+        "content": "In cancer, deterioration and muscle wasting result from the combination of reduced nutrient absorption, alterations in appetite, taste and/or dietary intake, hormone-induced metabolic changes, and cancer-related immune activation with cytokine release. Regardless of the underlying mechanisms, cancer-related weight loss is a multidimensional manifestation that worsens patients’ well-being, tolerance to antineoplastic therapies, and prognosis. Clinically speaking, weight loss is frequent in cancer patients, and depending on the location of the tumour, it is present in 15 to 40% of cancer patients at diagnosis. Weight loss is frequently the first sign of the nutritional alterations that occur in the course of the disease and is associated with poor prognosis, reduced quality of life, and morbidity. Cancer cachexia can be defined as ‘a multi-factorial syndrome defined by an ongoing loss of skeletal muscle mass (with or without loss of fat mass) that cannot be fully reversed by conventional nutritional support. It leads to progressive functional impairment. Its pathophysiology is characterized by a negative protein and energy balance driven by a variable combination of reduced food intake and abnormal metabolism’. The agreed diagnostic criterion for cachexia was weight loss >5%, or weight loss >2% in individuals already showing depletion of body weight (BMI < 20 kg/m2) or of skeletal muscle (sarcopenia). Assessment for classification and clinical management should also include the following domains: ‘anorexia/reduced food intake, catabolic drive, muscle mass and strength, functional and psychosocial impairment’.",
+        "tags": [
+            "cancer",
+            "muscle wasting",
+            "weight loss",
+            "cachexia",
+            "nutritional alterations"
+        ]
+    },
+    {
+        "section": 29,
+        "content": "The main nutritional problem in cancer is wasting of muscle mass, acknowledged to be a predictor of lower quality of life, impaired functionality, surgical complications, and shortened survival. Of note that sarcopenia occurs independently of loss of weight or of fat mass. Thus, a clinically relevant phenotype that also emerged in cancer is characterised by sarcopenia with excessive fat mass. Additionally, to the previous studies demonstrating the major impact of muscle mass depletion on survival and treatment toxicity, a recent study in a cohort of head-neck cancer patients showed that patients with cachexia had a worse disease-free survival compared with non-cachectic patients. Bearing this in mind, the clinical efforts and priority given to improve treatment outcomes will logically have to include nutritional intervention and adequacy of body composition. The search for an effective nutritional intervention that improves body composition (preservation of muscle mass) is crucial in the management of cancer patients.",
+        "tags": [
+            "muscle mass",
+            "sarcopenia",
+            "cancer",
+            "nutritional intervention",
+            "body composition"
+        ]
+    },
+    {
+        "section": 30,
+        "content": "Bearing this in mind, the clinical efforts and priority given to improve treatment outcomes will logically have to include nutritional intervention and adequacy of body composition. The search for an effective nutritional intervention that improves body composition (preservation of muscle mass and muscle quality) is of utmost importance for clinicians and patients, given the implications for prognosis. Early detection of malnutrition and cachexia should be part of a multimodal approach to improve both patient-centred and oncology outcomes.",
+        "tags": [
+            "clinical efforts",
+            "nutritional intervention",
+            "body composition",
+            "malnutrition",
+            "cachexia"
+        ]
+    },
+    {
+        "section": 31,
+        "content": "In the present article, the most recent guidelines for the management of cancer patients, as well as original studies in nutrition and cancer, were included. Nutrition is a central factor in oncology, influencing the development of the disease, tumour inherent symptoms, response to, and recovery after anti-neoplastic treatment(s), thus having a strong impact on the quality of life and prognosis of the disease. A main nutritional feature is wasting of muscle mass, strongly associated with decreased functional capacity, higher incidence of chemotherapy toxicity, increased hospitalization and complication rate, as well as mortality. Nutritional risk screening and assessment in cancer patients allows for the early detection of malnourished patients and also for a prompt nutritional intervention aiming to prevent nutritional deterioration and muscle wasting. A proactive assessment of the clinical alterations that occur during treatments and during the disease course, is essential for selecting the adequate nutritional intervention, aiming for the best impact on patients’ outcomes. Early tailored intervention has the potential to improve body composition and treatment efficacy, and as evidence stands, it is an obligatory adjuvant intervention, with the likelihood of improving prognosis of the disease itself.",
+        "tags": [
+            "nutrition guidelines",
+            "cancer management",
+            "muscle mass",
+            "nutritional risk",
+            "treatment efficacy"
+        ]
+    },
+    {
+        "section": 32,
+        "content": "Sarcopenia and cachexia are significant concerns in the context of obesity, particularly regarding their clinical and nutritional impacts. These conditions can severely affect the health and quality of life of patients, especially those with cancer. The relationship between obesity and these syndromes is complex, as obesity can mask the presence of sarcopenia, leading to underdiagnosis and inadequate treatment. Understanding the nutritional needs of patients suffering from these conditions is crucial for improving their outcomes. Nutritional interventions may help mitigate the effects of cachexia and sarcopenia, potentially enhancing survival rates and quality of life. Therefore, healthcare providers must be vigilant in assessing and addressing the nutritional status of patients with obesity-related sarcopenia and cachexia.  \n\nTags: #Sarcopenia #Cachexia #Obesity #NutritionalImpact #Cancer",
+        "tags": [
+            "Sarcopenia",
+            "Cachexia",
+            "Obesity",
+            "NutritionalImpact",
+            "Cancer"
+        ]
+    },
+    {
+        "section": 33,
+        "content": "Diet and nutrition play a critical role in cancer survivorship and palliative care. Survivors often face unique nutritional challenges that can affect their recovery and overall well-being. Proper dietary management can help alleviate symptoms, improve quality of life, and potentially reduce the risk of cancer recurrence. In palliative care, nutrition becomes even more essential as it can help manage symptoms and enhance comfort. Evidence-based approaches to nutrition in these contexts are vital for optimizing patient outcomes. Healthcare professionals must prioritize nutritional assessments and interventions tailored to the individual needs of cancer survivors and patients in palliative care settings.  \n\nTags: #CancerSurvivorship #PalliativeCare #Nutrition #Diet #QualityOfLife",
+        "tags": [
+            "CancerSurvivorship",
+            "PalliativeCare",
+            "Nutrition",
+            "Diet",
+            "QualityOfLife"
+        ]
+    },
+    {
+        "section": 34,
+        "content": "Cachexia at the time of diagnosis has been associated with poor survival outcomes in patients with head and neck cancer. This highlights the importance of early nutritional assessment and intervention in this patient population. Cachexia can lead to significant weight loss, muscle wasting, and decreased functional capacity, all of which can adversely affect treatment tolerance and overall prognosis. Therefore, it is crucial for healthcare providers to recognize the signs of cachexia and implement appropriate nutritional strategies to support these patients. Addressing malnutrition proactively can improve treatment outcomes and enhance the quality of life for individuals battling head and neck cancer.  \n\nTags: #Cachexia #HeadAndNeckCancer #Survival #NutritionalAssessment #Malnutrition",
+        "tags": [
+            "Cachexia",
+            "HeadAndNeckCancer",
+            "Survival",
+            "NutritionalAssessment",
+            "Malnutrition"
+        ]
+    },
+    {
+        "section": 35,
+        "content": "The definition and classification of cancer cachexia have been established through international consensus, emphasizing the need for a standardized approach to diagnosis and management. Cancer cachexia is characterized by weight loss, muscle wasting, and a decline in functional status, which can significantly impact patient quality of life and treatment outcomes. Understanding the underlying mechanisms of cachexia is essential for developing effective interventions. Clinicians are encouraged to utilize these definitions and classifications to identify at-risk patients and implement timely nutritional support strategies. This proactive approach can help mitigate the effects of cachexia and improve overall patient care in oncology settings.  \n\nTags: #CancerCachexia #Definition #Classification #PatientCare #Oncology",
+        "tags": [
+            "CancerCachexia",
+            "Definition",
+            "Classification",
+            "PatientCare",
+            "Oncology"
+        ]
+    },
+    {
+        "section": 36,
+        "content": "Nutritional consequences of radiotherapy are significant and can affect patient recovery and quality of life. Radiotherapy can lead to various side effects, including changes in taste, nausea, and difficulty swallowing, which can hinder adequate nutritional intake. It is essential for healthcare providers to monitor the nutritional status of patients undergoing radiotherapy closely. Implementing dietary modifications and nutritional support can help manage these side effects and ensure that patients receive the necessary nutrients to support their recovery. A comprehensive approach to nutrition during and after radiotherapy can enhance treatment outcomes and improve the overall well-being of patients.  \n\nTags: #Radiotherapy #Nutrition #PatientRecovery #DietaryModifications #QualityOfLife",
+        "tags": [
+            "Radiotherapy",
+            "Nutrition",
+            "PatientRecovery",
+            "DietaryModifications",
+            "QualityOfLife"
+        ]
+    },
+    {
+        "section": 37,
+        "content": "Loss of muscle mass during chemotherapy has been identified as a predictive factor for poor survival in patients with metastatic colorectal cancer. This underscores the importance of nutritional management during cancer treatment. Maintaining muscle mass is crucial for overall health and can influence treatment tolerance and recovery. Healthcare providers should prioritize nutritional assessments and interventions for patients undergoing chemotherapy to prevent muscle loss and support their overall health. Strategies may include tailored dietary plans, supplementation, and physical activity recommendations to help preserve muscle mass and improve patient outcomes.  \n\nTags: #Chemotherapy #MuscleMass #ColorectalCancer #NutritionalManagement #Survival",
+        "tags": [
+            "Chemotherapy",
+            "MuscleMass",
+            "ColorectalCancer",
+            "NutritionalManagement",
+            "Survival"
+        ]
+    },
+    {
+        "section": 38,
+        "content": "Assessment of malnutrition parameters in head and neck cancer patients is vital for understanding their nutritional status and its relation to postoperative complications. Malnutrition can lead to increased morbidity and prolonged hospital stays, making it essential for healthcare providers to identify at-risk patients early. Implementing nutritional screening tools and assessments can help guide interventions to improve nutritional status before and after surgery. By addressing malnutrition proactively, healthcare teams can enhance recovery and reduce the risk of complications in head and neck cancer patients.  \n\nTags: #Malnutrition #HeadAndNeckCancer #PostoperativeComplications #NutritionalAssessment #Recovery",
+        "tags": [
+            "Malnutrition",
+            "HeadAndNeckCancer",
+            "PostoperativeComplications",
+            "NutritionalAssessment",
+            "Recovery"
+        ]
+    },
+    {
+        "section": 39,
+        "content": "The ESPEN guidelines on clinical nutrition in surgery provide essential recommendations for managing the nutritional needs of surgical patients. These guidelines emphasize the importance of preoperative nutritional assessment and intervention to optimize patient outcomes. Adequate nutrition is crucial for wound healing, reducing complications, and improving recovery times. Healthcare providers are encouraged to implement these guidelines in clinical practice to ensure that surgical patients receive the necessary nutritional support throughout their care continuum. By adhering to these recommendations, healthcare teams can enhance the overall quality of care for surgical patients.  \n\nTags: #ESPENGuidelines #ClinicalNutrition #Surgery #NutritionalSupport #PatientOutcomes",
+        "tags": [
+            "ESPENGuidelines",
+            "ClinicalNutrition",
+            "Surgery",
+            "NutritionalSupport",
+            "PatientOutcomes"
+        ]
+    },
+    {
+        "section": 40,
+        "content": "The ESPEN expert group has provided recommendations for action against cancer-related malnutrition, highlighting the need for a comprehensive approach to nutritional care in oncology. Cancer-related malnutrition can significantly impact treatment outcomes and quality of life, making it essential for healthcare providers to recognize and address this issue. The recommendations include implementing routine nutritional screening, providing tailored dietary interventions, and ensuring access to nutritional support services. By following these guidelines, healthcare teams can improve the nutritional status of cancer patients and enhance their overall care.  \n\nTags: #CancerRelatedMalnutrition #ESPEN #NutritionalCare #Oncology #PatientSupport",
+        "tags": [
+            "CancerRelatedMalnutrition",
+            "ESPEN",
+            "NutritionalCare",
+            "Oncology",
+            "PatientSupport"
+        ]
+    },
+    {
+        "section": 41,
+        "content": "Clinical guidelines on nutrition in cancer patients emphasize the importance of individualized nutritional assessments and interventions. These guidelines provide a framework for healthcare providers to identify patients at risk of malnutrition and implement appropriate strategies to support their nutritional needs. Addressing malnutrition in cancer patients can lead to improved treatment tolerance, better quality of life, and enhanced survival outcomes. Healthcare teams are encouraged to utilize these guidelines to ensure that all cancer patients receive comprehensive nutritional care tailored to their specific needs.  \n\nTags: #ClinicalGuidelines #Nutrition #CancerPatients #Malnutrition #PatientCare",
+        "tags": [
+            "ClinicalGuidelines",
+            "Nutrition",
+            "CancerPatients",
+            "Malnutrition",
+            "PatientCare"
+        ]
+    },
+    {
+        "section": 42,
+        "content": "The SEOM clinical guidelines on nutrition in cancer patients provide essential recommendations for managing the nutritional needs of this population. These guidelines emphasize the importance of early nutritional assessment and intervention to prevent malnutrition and its associated complications. By implementing these guidelines, healthcare providers can enhance the quality of care for cancer patients and improve their overall outcomes. The recommendations include routine screening for nutritional risk, individualized dietary plans, and access to nutritional support services. Adhering to these guidelines can significantly impact the health and well-being of cancer patients.  \n\nTags: #SEOM #ClinicalGuidelines #Nutrition #CancerPatients #NutritionalSupport",
+        "tags": [
+            "SEOM",
+            "ClinicalGuidelines",
+            "Nutrition",
+            "CancerPatients",
+            "NutritionalSupport"
+        ]
+    },
+    {
+        "section": 43,
+        "content": "Best practices for perioperative management of patients undergoing cytoreductive surgery and HIPEC (Hyperthermic Intraperitoneal Chemotherapy) include a focus on nutritional support. These complex surgical procedures can lead to significant nutritional challenges, making it essential for healthcare providers to assess and address the nutritional status of patients before and after surgery. Implementing nutritional interventions can help optimize recovery, reduce complications, and improve overall patient outcomes. A multidisciplinary approach involving surgeons, nutritionists, and other healthcare professionals is crucial for ensuring comprehensive care for these patients.  \n\nTags: #CytoreductiveSurgery #HIPEC #NutritionalSupport #PerioperativeCare #PatientOutcomes",
+        "tags": [
+            "CytoreductiveSurgery",
+            "HIPEC",
+            "NutritionalSupport",
+            "PerioperativeCare",
+            "PatientOutcomes"
+        ]
+    },
+    {
+        "section": 44,
+        "content": "The clinical nutrition guidelines of the French Speaking Society of Clinical Nutrition and Metabolism (SFNEP) provide valuable recommendations for adults undergoing non-surgical anticancer treatment. These guidelines emphasize the importance of nutritional assessment and intervention to support patients during their treatment journey. Adequate nutrition is essential for managing treatment side effects, maintaining strength, and improving quality of life. Healthcare providers are encouraged to follow these guidelines to ensure that patients receive the necessary nutritional support throughout their cancer treatment.  \n\nTags: #SFNEP #ClinicalNutrition #NonSurgicalTreatment #CancerPatients #NutritionalSupport",
+        "tags": [
+            "SFNEP",
+            "ClinicalNutrition",
+            "NonSurgicalTreatment",
+            "CancerPatients",
+            "NutritionalSupport"
+        ]
+    },
+    {
+        "section": 45,
+        "content": "The central tenet of cancer cachexia therapy is the exploration of the anabolic potential in patients with advanced cancer. Understanding the metabolic changes associated with cancer cachexia is crucial for developing effective therapeutic strategies. Nutritional interventions aimed at enhancing anabolic processes may help improve muscle mass and overall health in these patients. Healthcare providers should consider the potential for anabolic responses when designing treatment plans for patients with cancer cachexia. This approach can lead to better management of cachexia and improved patient outcomes.  \n\nTags: #CancerCachexia #AnabolicPotential #NutritionalInterventions #PatientOutcomes #TherapeuticStrategies",
+        "tags": [
+            "CancerCachexia",
+            "AnabolicPotential",
+            "NutritionalInterventions",
+            "PatientOutcomes",
+            "TherapeuticStrategies"
+        ]
+    },
+    {
+        "section": 46,
+        "content": "Nutritional assessment and screening for malnutrition are critical components of patient care in oncology. Effective screening tools can help identify patients at risk of malnutrition and guide appropriate interventions. Early identification of nutritional issues can lead to timely support, improving treatment tolerance and overall outcomes. Healthcare providers should prioritize routine nutritional assessments as part of comprehensive cancer care to ensure that patients receive the necessary support throughout their treatment journey. By addressing malnutrition proactively, healthcare teams can enhance the quality of life for cancer patients.  \n\nTags: #NutritionalAssessment #Malnutrition #Oncology #PatientCare #ScreeningTools",
+        "tags": [
+            "NutritionalAssessment",
+            "Malnutrition",
+            "Oncology",
+            "PatientCare",
+            "ScreeningTools"
+        ]
+    },
+    {
+        "section": 47,
+        "content": "The Oncology Evidence-Based Nutrition Practice Guideline for Adults provides a framework for healthcare providers to implement effective nutritional interventions in cancer care. These guidelines emphasize the importance of individualized nutritional assessments and tailored dietary plans to meet the unique needs of cancer patients. By following evidence-based practices, healthcare teams can improve patient outcomes, enhance quality of life, and support recovery during and after cancer treatment. The guidelines serve as a valuable resource for clinicians seeking to optimize nutritional care for their patients.  \n\nTags: #Oncology #NutritionGuidelines #PatientOutcomes #EvidenceBasedPractice #NutritionalCare",
+        "tags": [
+            "Oncology",
+            "NutritionGuidelines",
+            "PatientOutcomes",
+            "EvidenceBasedPractice",
+            "NutritionalCare"
+        ]
+    },
+    {
+        "section": 48,
+        "content": "Nutritional management in head and neck cancer is crucial for optimizing patient outcomes. The United Kingdom National Multidisciplinary Guidelines provide recommendations for addressing the unique nutritional challenges faced by these patients. Effective nutritional support can help manage treatment side effects, maintain weight, and improve quality of life. Healthcare providers are encouraged to implement these guidelines to ensure that patients receive comprehensive nutritional care tailored to their specific needs. By prioritizing nutritional management, healthcare teams can enhance recovery and overall well-being for individuals with head and neck cancer.  \n\nTags: #HeadAndNeckCancer #NutritionalManagement #Guidelines #PatientOutcomes #QualityOfLife",
+        "tags": [
+            "HeadAndNeckCancer",
+            "NutritionalManagement",
+            "Guidelines",
+            "PatientOutcomes",
+            "QualityOfLife"
+        ]
+    },
+    {
+        "section": 49,
+        "content": "The NRS-2002 is a valuable tool for pre-treatment nutritional risk screening and nutritional status assessment in head and neck cancer patients. This screening tool helps identify patients at risk of malnutrition, allowing healthcare providers to implement timely interventions. Early nutritional support can significantly impact treatment outcomes and quality of life for these patients. Healthcare teams should utilize the NRS-2002 as part of their comprehensive approach to managing the nutritional needs of head and neck cancer patients. By addressing nutritional risks proactively, providers can enhance patient care and recovery.  \n\nTags: #NRS2002 #NutritionalRisk #HeadAndNeckCancer #ScreeningTool #PatientCare",
+        "tags": [
+            "NRS2002",
+            "NutritionalRisk",
+            "HeadAndNeckCancer",
+            "ScreeningTool",
+            "PatientCare"
+        ]
+    },
+    {
+        "section": 50,
+        "content": "Validation of the Malnutrition Universal Screening Tool (MUST) in cancer patients is essential for ensuring effective nutritional assessment and intervention. The MUST tool provides a standardized approach to identifying patients at risk of malnutrition, facilitating timely support and management. By implementing validated screening tools like MUST, healthcare providers can enhance the quality of care for cancer patients and improve their overall outcomes. Regular use of such tools is crucial for addressing malnutrition and optimizing nutritional support in oncology settings.  \n\nTags: #MUST #Malnutrition #CancerPatients #ScreeningTool #NutritionalSupport",
+        "tags": [
+            "MUST",
+            "Malnutrition",
+            "CancerPatients",
+            "ScreeningTool",
+            "NutritionalSupport"
+        ]
+    },
+    {
+        "section": 51,
+        "content": "Teaching Nutrition Integration through MUST screening in cancer care is vital for improving patient outcomes. Educating healthcare providers on the importance of nutritional assessment and intervention can lead to better management of malnutrition in cancer patients. The integration of nutrition into cancer care enhances the overall treatment approach, ensuring that patients receive comprehensive support throughout their journey. By prioritizing nutrition, healthcare teams can significantly impact the quality of life and recovery for individuals facing cancer.  \n\nTags: #NutritionIntegration #MUST #CancerCare #PatientOutcomes #Education",
+        "tags": [
+            "NutritionIntegration",
+            "MUST",
+            "CancerCare",
+            "PatientOutcomes",
+            "Education"
+        ]
+    },
+    {
+        "section": 52,
+        "content": "Standardized nutritional assessment and interventional pathways in oncology are essential for optimizing patient care. Establishing clear protocols for nutritional assessment can help identify patients at risk of malnutrition and guide appropriate interventions. By implementing standardized pathways, healthcare providers can ensure that all cancer patients receive comprehensive nutritional support tailored to their individual needs. This approach can lead to improved treatment outcomes, enhanced quality of life, and better overall care for patients undergoing cancer treatment.  \n\nTags: #NutritionalAssessment #Oncology #StandardizedPathways #PatientCare #Malnutrition",
+        "tags": [
+            "NutritionalAssessment",
+            "Oncology",
+            "StandardizedPathways",
+            "PatientCare",
+            "Malnutrition"
+        ]
+    },
+    {
+        "section": 53,
+        "content": "Analysis of clinical guidelines in oncology reveals the critical role of nutrition in cancer care. These guidelines emphasize the need for individualized nutritional assessments and interventions to support patients throughout their treatment journey. By adhering to established guidelines, healthcare providers can enhance the quality of care for cancer patients and improve their overall outcomes. The integration of nutrition into oncology practice is essential for addressing the unique challenges faced by patients and ensuring comprehensive support during their cancer treatment.  \n\nTags: #ClinicalGuidelines #Oncology #Nutrition #PatientCare #TreatmentOutcomes",
+        "tags": [
+            "ClinicalGuidelines",
+            "Oncology",
+            "Nutrition",
+            "PatientCare",
+            "TreatmentOutcomes"
+        ]
+    },
+    {
+        "section": 54,
+        "content": "Nutrition can significantly influence the quality of life in cancer patients. Adequate nutritional support can help manage treatment side effects, maintain strength, and improve overall well-being. Healthcare providers should prioritize nutritional assessments and interventions to address the unique needs of cancer patients. By focusing on nutrition, healthcare teams can enhance the quality of life for individuals undergoing cancer treatment and support their recovery journey. This holistic approach to patient care is essential for optimizing outcomes in oncology.  \n\nTags: #Nutrition #QualityOfLife #CancerPatients #PatientCare #Recovery",
+        "tags": [
+            "Nutrition",
+            "QualityOfLife",
+            "CancerPatients",
+            "PatientCare",
+            "Recovery"
+        ]
+    },
+    {
+        "section": 55,
+        "content": "Does nutrition influence quality of life in cancer patients undergoing radiotherapy? This question has been explored in various studies, highlighting the significant role that dietary habits and nutritional support play in the treatment and recovery of cancer patients. Research indicates that proper nutrition can enhance the quality of life for these individuals, particularly during challenging treatments like radiotherapy. Nutritional counseling has been shown to improve patient outcomes, suggesting that tailored dietary advice can lead to better health results for those battling cancer. Furthermore, the impact of nutrition on overall patient well-being cannot be overstated, as it is a key determinant of quality of life in this demographic. Studies have demonstrated that patients who receive dietary counseling experience improved health metrics and a more favorable treatment experience. This underscores the importance of integrating nutritional support into cancer care protocols.  \n\nTags: nutrition, cancer, quality of life, radiotherapy, dietary counseling",
+        "tags": [
+            "nutrition",
+            "cancer",
+            "quality of life",
+            "radiotherapy",
+            "dietary counseling"
+        ]
+    },
+    {
+        "section": 56,
+        "content": "The relationship between cancer and nutrition is complex and multifaceted. Cancer patients often face challenges such as malnutrition and weight loss, which can significantly affect their treatment outcomes and overall health. Research has shown that nutritional support strategies are essential for managing these issues. For instance, studies have indicated that individualized dietary counseling can lead to improved nutritional status and better treatment responses in patients with colorectal cancer. Additionally, the role of nutrition in managing symptoms and side effects of cancer treatments is critical. Nutritional interventions can help mitigate the adverse effects of chemotherapy and radiotherapy, thereby enhancing patients' resilience and quality of life. The evidence suggests that a proactive approach to nutrition can be a vital component of comprehensive cancer care, emphasizing the need for healthcare providers to prioritize nutritional assessments and interventions in their treatment plans.  \n\nTags: cancer, nutrition, malnutrition, treatment outcomes, dietary interventions",
+        "tags": [
+            "cancer",
+            "nutrition",
+            "malnutrition",
+            "treatment outcomes",
+            "dietary interventions"
+        ]
+    },
+    {
+        "section": 57,
+        "content": "Sarcopenia, or the loss of muscle mass and strength, is a common concern among cancer patients, particularly those undergoing treatment. The prevalence of sarcopenia can significantly impact the quality of life and treatment efficacy for these individuals. Studies have shown that nutritional interventions aimed at preserving muscle mass can be beneficial for cancer patients. For example, adequate protein intake and specific dietary strategies can help mitigate the effects of sarcopenia, leading to improved physical function and overall health outcomes. Furthermore, understanding the diagnostic criteria for cancer-associated weight loss is crucial for healthcare providers to identify and address nutritional deficiencies early in the treatment process. By focusing on nutrition and muscle preservation, healthcare teams can enhance the quality of life for cancer patients and support them through their treatment journeys.  \n\nTags: sarcopenia, cancer, muscle mass, nutrition, quality of life",
+        "tags": [
+            "sarcopenia",
+            "cancer",
+            "muscle mass",
+            "nutrition",
+            "quality of life"
+        ]
+    },
+    {
+        "section": 58,
+        "content": "The importance of nutritional support in cancer care extends beyond just dietary counseling; it encompasses a range of strategies aimed at improving patient outcomes. Research has demonstrated that nutritional support can lead to better recovery rates and enhanced quality of life for cancer patients. For instance, studies have shown that patients receiving nutritional therapy alongside their cancer treatment experience fewer complications and improved overall health. This highlights the need for healthcare providers to incorporate nutritional assessments and interventions into their standard care protocols. Additionally, the role of nutrition in managing treatment-related side effects, such as nausea and fatigue, is critical. By addressing these issues through targeted nutritional strategies, healthcare teams can significantly improve the treatment experience for cancer patients. Overall, the integration of nutrition into cancer care is essential for optimizing patient outcomes and enhancing their quality of life.  \n\nTags: nutritional support, cancer care, patient outcomes, treatment side effects, quality of life",
+        "tags": [
+            "nutritional support",
+            "cancer care",
+            "patient outcomes",
+            "treatment side effects",
+            "quality of life"
+        ]
+    },
+    {
+        "section": 59,
+        "content": "Resting energy expenditure and body composition in patients with newly detected cancer is a critical area of study. Understanding how cancer affects metabolism and body composition can help in tailoring nutritional interventions for these patients. Research indicates that cancer can significantly alter resting energy expenditure, which may lead to weight loss and malnutrition. This is particularly important for newly diagnosed patients, as maintaining an adequate nutritional status can impact treatment outcomes and overall quality of life. Therefore, assessing body composition and energy expenditure is essential for developing effective nutritional strategies in cancer care. \n\nTags: cancer, energy expenditure, body composition, nutrition, metabolic changes",
+        "tags": [
+            "cancer",
+            "energy expenditure",
+            "body composition",
+            "nutrition",
+            "metabolic changes"
+        ]
+    },
+    {
+        "section": 60,
+        "content": "Home parenteral nutrition (HPN) has emerged as a vital intervention for advanced cancer patients who are unable to maintain adequate nutrition through oral intake. Studies have shown that HPN can improve the quality of life and nutritional status of these patients. For instance, a multicentric study highlighted the benefits of HPN in enhancing the overall well-being of patients with advanced cancer. Furthermore, observational studies have demonstrated that HPN can lead to significant improvements in nutritional outcomes, which is crucial for patients facing the challenges of cancer treatment. \n\nTags: home parenteral nutrition, advanced cancer, quality of life, nutritional status, cancer treatment",
+        "tags": [
+            "home parenteral nutrition",
+            "advanced cancer",
+            "quality of life",
+            "nutritional status",
+            "cancer treatment"
+        ]
+    },
+    {
+        "section": 61,
+        "content": "The role of dietary interventions in managing malnutrition among cancer patients is increasingly recognized. Dietary counseling, with or without the addition of oral nutritional supplements, has been shown to be effective in improving nutritional status in malnourished patients. A systematic review and meta-analysis of randomized controlled trials indicated that such interventions can lead to better health outcomes. Additionally, the use of specially formulated medical foods has been found to stimulate muscle protein synthesis in cancer patients, further emphasizing the importance of tailored nutritional strategies in oncology. \n\nTags: dietary interventions, malnutrition, cancer patients, nutritional supplements, health outcomes",
+        "tags": [
+            "dietary interventions",
+            "malnutrition",
+            "cancer patients",
+            "nutritional supplements",
+            "health outcomes"
+        ]
+    },
+    {
+        "section": 62,
+        "content": "The impact of omega-3 fatty acids on cancer cachexia and overall patient health is a topic of ongoing research. Studies suggest that omega-3 supplementation may improve body composition and modulate metabolism in cancer patients. Specifically, eicosapentaenoic acid has been investigated for its potential benefits in managing cancer-related weight loss and muscle wasting. Furthermore, the inhibition of cancer cell proliferation by omega-3 fatty acids has been observed in certain chemoresistant pancreatic cancer cells, indicating a possible therapeutic role. \n\nTags: omega-3 fatty acids, cancer cachexia, body composition, metabolism, cancer therapy",
+        "tags": [
+            "omega-3 fatty acids",
+            "cancer cachexia",
+            "body composition",
+            "metabolism",
+            "cancer therapy"
+        ]
+    },
+    {
+        "section": 63,
+        "content": "The importance of adhering to nutritional guidelines for cancer survivors has been highlighted in various studies. Research has shown that following the American Cancer Society Nutrition and Physical Activity Guidelines can be associated with improved survival rates after a colon cancer diagnosis. This underscores the significance of nutrition and physical activity in the survivorship phase of cancer care. Additionally, the role of dietary supplements during cancer therapy has been explored, with evidence suggesting that they may play a supportive role in enhancing treatment efficacy and patient well-being. \n\nTags: cancer survivors, nutritional guidelines, survival rates, dietary supplements, cancer therapy",
+        "tags": [
+            "cancer survivors",
+            "nutritional guidelines",
+            "survival rates",
+            "dietary supplements",
+            "cancer therapy"
+        ]
+    },
+    {
+        "section": 64,
+        "content": "Die Rolle von Nahrungsergänzungsmitteln während der Krebstherapie ist ein wichtiges Thema, das in der Ernährungsforschung zunehmend Beachtung findet. Studien zeigen, dass bestimmte Nahrungsergänzungsmittel potenziell positive Effekte auf die Behandlungsergebnisse von Krebspatienten haben können. Insbesondere während der Chemotherapie kann die Unterstützung durch Vitamine und Mineralstoffe dazu beitragen, die Nebenwirkungen zu lindern und die Lebensqualität der Patienten zu verbessern. Es ist jedoch entscheidend, dass Patienten vor der Einnahme von Nahrungsergänzungsmitteln Rücksprache mit ihren behandelnden Ärzten halten, um mögliche Wechselwirkungen mit der Therapie zu vermeiden. Die Forschung in diesem Bereich ist noch im Gange, und es bedarf weiterer Studien, um die genauen Wirkungen und Empfehlungen zu klären.",
+        "tags": [
+            "Nahrungsergänzungsmittel",
+            "Krebstherapie",
+            "Chemotherapie",
+            "Lebensqualität",
+            "Ernährungsforschung"
+        ]
+    },
+    {
+        "section": 65,
+        "content": "Die Ernährung und körperliche Aktivität spielen eine entscheidende Rolle für Krebspatienten, insbesondere für Überlebende. Die Richtlinien für Ernährung und körperliche Aktivität für Krebspatienten empfehlen eine ausgewogene Ernährung, die reich an Obst, Gemüse und Vollkornprodukten ist, sowie regelmäßige körperliche Betätigung. Diese Maßnahmen können nicht nur helfen, das Risiko eines Rückfalls zu verringern, sondern auch die allgemeine Gesundheit und das Wohlbefinden der Patienten zu fördern. Es ist wichtig, dass Krebspatienten und Überlebende Zugang zu Informationen und Ressourcen haben, um gesunde Entscheidungen zu treffen und ihre Lebensqualität zu verbessern.",
+        "tags": [
+            "Ernährung",
+            "körperliche Aktivität",
+            "Krebsüberlebende",
+            "Gesundheit",
+            "Lebensqualität"
+        ]
+    },
+    {
+        "section": 66,
+        "content": "Eine Studie über Veränderungen der Muskelmasse während der palliativen Chemotherapie bei Patienten mit fortgeschrittenem Lungenkrebs hat gezeigt, dass es signifikante Verluste an Muskelmasse geben kann. Diese Veränderungen können die körperliche Leistungsfähigkeit und die Lebensqualität der Patienten erheblich beeinträchtigen. Die Erhaltung der Muskelmasse ist ein wichtiger Aspekt der Behandlung, da sie mit einer besseren Prognose und einer schnelleren Genesung nach der Therapie in Verbindung gebracht wird. Daher sollten Strategien zur Erhaltung der Muskelmasse, wie gezielte Übungen und eine proteinreiche Ernährung, in die Behandlungspläne integriert werden.",
+        "tags": [
+            "Muskelmasse",
+            "palliative Chemotherapie",
+            "Lungenkrebs",
+            "körperliche Leistungsfähigkeit",
+            "Ernährungsstrategien"
+        ]
+    },
+    {
+        "section": 67,
+        "content": "Sarcopenie, der Verlust von Muskelmasse und -funktion, ist ein häufiges Problem bei Krebspatienten und kann mit postoperativen Infektionen und einer verzögerten Genesung nach einer Kolorektalkrebsoperation in Verbindung gebracht werden. Die Identifizierung und das Management von Sarcopenie sind entscheidend, um die Ergebnisse der chirurgischen Behandlung zu verbessern. Eine frühzeitige Intervention, einschließlich Ernährungsberatung und gezieltem Training, kann dazu beitragen, die Muskelmasse zu erhalten und die Genesung zu fördern. Es ist wichtig, dass medizinisches Personal auf die Anzeichen von Sarcopenie achtet und entsprechende Maßnahmen ergreift, um die Patienten bestmöglich zu unterstützen.",
+        "tags": [
+            "Sarcopenie",
+            "Krebsoperation",
+            "postoperative Infektionen",
+            "Ernährungsberatung",
+            "Genesung"
+        ]
+    }
+]

@@ -1,0 +1,483 @@
+[
+    {
+        "id_": "dad808db-c114-4b2a-afba-448c350415d3",
+        "embedding": null,
+        "metadata": {
+            "page_label": "1",
+            "file_name": "nutrition_in_cancer_patients.pdf",
+            "file_path": "../data/raw/nutrition_in_cancer_patients.pdf",
+            "file_type": "application/pdf",
+            "file_size": 457731,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Journal of\nClinical Medicine\nReview\nNutrition in Cancer Patients\nPaula Ravasco 1,2,3\n1 University Hospital of Santa Maria, 1649-035 Lisbon, Portugal; p.ravasco@medicina.ulisboa.pt\n2 University of Lisbon, 1649-028 Lisbon, Portugal\n3 Centre for Interdisciplinary Research in Health (CIIS) of the Portuguese Catholic University, 1649-023 Lisbon,\nPortugal\nReceived: 3 July 2019; Accepted: 4 August 2019; Published: 14 August 2019\n/gid00030/gid00035/gid00032/gid00030/gid00038/gid00001/gid00033/gid00042/gid00045/gid00001\n/gid00048/gid00043/gid00031/gid00028/gid00047/gid00032/gid00046\nAbstract: Background: Despite being recognised that nutritional intervention is essential, nutritional\nsupport is not widely accessible to all patients. Given the incidence of nutritional risk and nutrition\nwasting, and because cachexia management remains a challenge in clinical practice, a multidisciplinary\napproach with targeted nutrition is vital to improve the quality of care in oncology. Methods:\nA literature search in PubMed and Cochrane Library was performed from inception until 26 March.\nThe search consisted of terms on: cancer, nutrition, nutritional therapy, malnutrition, cachexia,\nsarcopenia, survival, nutrients and guidelines. Key words were linked using “OR” as a Boolean\nfunction and the results of the four components were combined by utilizing the “AND” Boolean\nfunction. Guidelines, clinical trials and observational studies written in English, were selected.\nSeminal papers were referenced in this article as appropriate. Relevant articles are discussed in this\narticle. Results: Recent literature supports integration of nutrition screening/assessment in cancer\ncare. Body composition assessment is suggested to be determinant for interventions, treatments\nand outcomes. Nutritional intervention is mandatory as adjuvant to any treatment, as it improves\nnutrition parameters, body composition, symptoms, quality of life and ultimately survival. Nutrition\ncounselling is the ﬁrst choice, with/without oral nutritional supplements (ONS). Criteria for escalating\nnutrition measures include: (1) 50% of intake vs. requirements for more than 1–2 weeks; (2) if it\nis anticipated that undernourished patients will not eat and/or absorb nutrients for a long period;\n(3) if the tumour itself impairs oral intake. N-3 fatty acids are promising nutrients, yet clinically\nthey lack trials with homogeneous populations to clarify the identiﬁed clinical beneﬁts. Insu ﬃcient\nprotein intake is a key feature in cancer; recent guidelines suggest a higher range of protein because\nof the likely beneﬁcial e ﬀects for treatment tolerance and eﬃcacy. Amino acids for counteracting\nmuscle wasting need further research. Vitamins /minerals are recommended in doses close to the\nrecommended dietary allowances and avoid higher doses. Vitamin D deﬁciency might be relevant\nin cancer and has been suggested to be needed to optimise protein supplements e ﬀectiveness.\nConclusions: A proactive assessment of the clinical alterations that occur in cancer is essential for\nselecting the adequate nutritional intervention with the best possible impact on nutritional status,\nbody composition, treatment eﬃcacy and ultimately reducing complications and improving survival\nand quality of life.\nKeywords: cancer; nutrition; nutritional therapy; nutritional support; malnutrition; cachexia;\nsarcopenia; survival\n1. Introduction\nCancer is a complex disease that results from multiple interactions between genes and the\nenvironment, and is regarded as one of the current leading causes of mortality worldwide [1,2].\nMetabolic and nutritional alterations can inﬂuence survival and recovery of cancer patients:\nJ. Clin. Med. 2019, 8, 1211; doi:10.3390/jcm8081211 www.mdpi.com /journal/jcm",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "6c36ae80-7328-465f-8a54-2e31b9bb976f",
+        "embedding": null,
+        "metadata": {
+            "page_label": "2",
+            "file_name": "nutrition_in_cancer_patients.pdf",
+            "file_path": "../data/raw/nutrition_in_cancer_patients.pdf",
+            "file_type": "application/pdf",
+            "file_size": 457731,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "J. Clin. Med. 2019, 8, 1211 2 of 13\nmalnutrition, sarcopenia and cachexia [ 3,4]. Malnutrition ensues from an inﬂammatory state that\npromotes anorexia and consequently, weight loss. It is highly prevalent in cancer patients [5] as 15 to\n40% of patients report weight loss at diagnosis [6]. It is estimated that 40 to 80% of all cancer patients will\nbe malnourished during the course of the disease. Furthermore, malnutrition can inﬂuence treatment\noutcomes, delay wound healing, worsen muscle function and increase the risk of post-operative\ncomplications. It can also impair tolerance and response to antineoplastic treatments, which can in\nturn lead to extended hospital stay, increase the risk for treatment interruptions, and possible reduced\nsurvival [7,8]. Sarcopenia is characterised by a decrease in lean body mass with an impact both on\nstrength and physical function that may decrease the quality of life [9]. As cancer-related weight loss\nin obese patients cannot be identiﬁed by a low body mass index (BMI), sarcopenic obesity, deﬁned\nas low lean body mass in obese patients, is frequently overlooked [10]. In these patients, changes in\nbody composition result in an increased metabolic risk, and it seems to be a signiﬁcant predictor of\ntreatment related adverse events [11,12]. Cancer cachexia is a complex multifactorial syndrome that\nresults from a combination of metabolic alterations, systemic inﬂammation and decreased appetite.\nIt is characterised by an involuntary sustained weight loss and loss of skeletal muscle mass, with or\nwithout loss of fat mass that are irreversible by conventional nutritional support [13].\nIn addition to the disease, antineoplastic treatments and /or surgery have a signiﬁcant impact\non patients’ nutritional status [ 14–16]. During chemotherapy (CT), more than 50% of patients\nexperience dysgeusia, nausea, vomiting and mucositis, and radiotherapy (RT) related complications\nare also common. It is also established that poor nutritional status increases surgical morbidity and\npost-surgical complications [17]. Nutritional intervention in cancer patients aim to identify, prevent and\ntreat malnutrition through nutritional counselling with or without oral nutritional supplements (ONS)\nor via artiﬁcial nutrition, i.e., enteral or parenteral nutrition [18–20], as well as to address metabolic\nand nutritional alterations that inﬂuence patients’ recovery and survival [19,20]. Despite the fact that\nnutritional intervention is a key component, nutritional support is not widely accessible to all patients\nat nutritional risk [21–23]. Additionally, given the incidence of nutritional risk in cancer and the fact that\nthe management of cachexia remains a challenge in clinical practice [24], a multidisciplinary approach\nis vital to deﬁne e ﬃcient strategies that can improve quality of care in cancer patients. According\nto the reviewed data and guidelines, nutritional intervention should be central and adjuvant to any\ntreatment and should be included in the multidisciplinary approach mandatory in oncology. This will\nallow for more adequate and eﬃcient results in these patients. Multidisciplinary follow-up, with early\nand regular nutritional intervention, is of major importance in oncology, thus being a key factor for\nsuccessful treatment and recovery. The present article aims to provide insights and an overview of the\nmost recent literature regarding key nutritional aspects in cancer patients.\nBased on this framework, a literature search in PubMed and Cochrane Library was performed\nfrom inception until 26 March. The search consisted of terms: cancer, nutrition, nutritional therapy,\nmalnutrition, cachexia, sarcopenia, survival, nutrients, guidelines. Key words were linked using “OR”\nas a Boolean function and the results of the four components were combined by utilizing the “AND”\nBoolean function. Guidelines, clinical trials and observational studies written in English, were selected.\nSeminal papers in the area, even if dated outside the search timeline, were referenced in this article\nas appropriate.\n2. Results\n2.1. Nutritional Screening and Assessment\nScreening for nutritional risk as early as possible allows for the identiﬁcation of patients at\nrisk of becoming malnourished [ 25]. Screening should be done as early as possible, and recent\nliterature suggests that it should be done at diagnosis or at hospital admission; screening should be\nrepeated in the course of treatment for referral for evaluation if needed [ 19,21,23,25–27]. Evidence\nsupports the integration of malnutrition screening in cancer patients care. The adequate tool for",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "adf63c67-406a-437e-a2d9-41483979a8b1",
+        "embedding": null,
+        "metadata": {
+            "page_label": "3",
+            "file_name": "nutrition_in_cancer_patients.pdf",
+            "file_path": "../data/raw/nutrition_in_cancer_patients.pdf",
+            "file_type": "application/pdf",
+            "file_size": 457731,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "J. Clin. Med. 2019, 8, 1211 3 of 13\nscreening undernutrition should be brief and easy to ﬁll, inexpensive, highly sensitive and have\ngood speciﬁcity [25]. MUST (Malnutrition Universal Screening Tool) and NRS-2002 (Nutritional Risk\nScreening-2002) are considered suitable [28–30]; the MNA (Mini Nutritional Assessment) is a suitable\ntool for nutritional assessment in the senior population [19,23].\nWhen nutritional risk is present, screening should be followed by comprehensive nutritional\nassessment to better determine the course of nutritional intervention. It seems there is no consensus on\nthe best method to perform this assessment, but SGA (Subjective Global Assessment) and PG-SGA\n(Patient Generated-Subjective Global Assessment) have been validated for nutritional assessment of\nadult oncology patients [25,26,31].\nWhen used isolated, weight loss is ine ﬀective to detect malnutrition, as it has low sensitivity\nfor metabolic changes that occur in cancer patients. Yet, its early and regular assessment, combined\nwith the evaluation of nutritional intake, BMI and inﬂammatory status is a standard clinical\nrecommendation [19,26]. As for BMI, it has low sensitivity to detect changes in the nutritional\nstatus, especially in obese patients, thus it should only be used combined with other assessment\ntools [26,32].\nBody composition provides valuable information in the management of cancer patients, as imaging\nmethods detect loss of muscle mass as well as fatty muscle inﬁltration [ 2]. In cancer patients at risk for\nmalnutrition, sarcopenia and cachexia, muscle mass should be assessed [19,21]. Methods available\nare dual X-ray absorptiometry (DEXA), computed tomography scans at the level of the 3rd vertebra\nor bioimpedance analysis (BIA). Additionally, it has been recommended that nutritional assessment\nshould be performed for the stages of cancer cachexia, as nutritional intervention is most eﬀective in\nthe stages of precachexia and cachexia [13].\n2.2. Nutritional Intervention\nIn order to tackle nutritional deterioration, gathering objective data on nutritional status and its\nevolution throughout the disease course is of prime concern. Diﬀerent cancer types or locations display\ndiﬀerent nutritional patterns that require tailored nutritional therapy. Nutritional deterioration is a\nmultifactorial end-result determined by cancer-related and nutrition- and/or metabolic-related factors.\nProper nutrition can alleviate symptom burden, improve health across the cancer continuum, support\ncancer survivorship [33–36] and is a hallmark of successful cancer treatment.\nNutritional interventions will vary according to patients’ medical history, type and stage of cancer,\nas well as to the response to treatment. If the patient can eat and has a functional gastrointestinal tract,\nnutritional counselling, with or without ONS should be the elected intervention to address altered\nnutritional demands due to treatment or disease [ 19,21,26]. ONS may be necessary, as a means to\ncompensate for lower food intake and to try to prevent nutritional deterioration during the course of\ntreatments. Monitoring compliance with the selected nutritional intervention is essential.\n2.2.1. Individualised Nutritional Counselling\nIn clinical practice, oral nutrition is always the priority. Oral nutrition is the preferred route of\nfeeding as it is a signiﬁcant part of the patient’s daily routine and does contribute substantially to the\npatients’ autonomy [19]. It represents a privileged time to spend with family and friends, avoiding\nthe tendency for isolation. The acknowledgement that the prescribed diet is individualized, adapted\nand adequate to individual needs, empowers the patient with a feeling of control, thus it is also a\nhighly eﬀective approach for psychological modulation. All these factors may potentially contribute to\nimprove the patients’ quality of life, and may modulate acute and late treatment morbidity. The referral\nfor a nutrition professional responsible for the individualised dietary counselling should always be\nbased on decision-making plans (Figure 1).",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "e12db16f-6a1a-4edf-9626-56b18f9c6a8f",
+        "embedding": null,
+        "metadata": {
+            "page_label": "4",
+            "file_name": "nutrition_in_cancer_patients.pdf",
+            "file_path": "../data/raw/nutrition_in_cancer_patients.pdf",
+            "file_type": "application/pdf",
+            "file_size": 457731,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "J. Clin. Med. 2019, 8, 1211 4 of 13\nJ. Clin. Med. 2019, 8, x FOR PEER REVIEW 4 of 12 \n \n \nFigure 1. Evidence based decision making plan \nAs clinicians we have to recognise the dimensions that are determinant for the patients. Indeed, \nthe diet  is the only factor that the patient feels he/she can  control during the whole course of \ntreatments and interventions. Also, an adequate food intake  is recognised by the patient as well as \nby the family and caregivers, as  essential to maintain the daily activity, energy, functional capacity \nand to overcome treatments more successfully. Notably, nutritional wasting is common regardless \nof the cancer stage (curative, adjuvant, to palliative) and is an independent predictor of poor physical \nfunction, lower quality of life, surgical complications, and reduced survival [3,10,13,37]. Cancer \nwasting is characterised by muscle mass deterioration that occurs in more than 50% of newly \ndiagnosed cancer patients, in comparison with 15% prevalence in healthy individuals of similar age \n[38]. Since both muscle mass and adipose tissue play a role in oncological outcomes, strategies to \noptimize body composition are an important part of successful cancer therapy. Hence, a major goal \nof nutrition intervention is to favourably influence body composition, with the potential to improve \ncancer therapy outcomes, morbidities and ultimately, prognosis. \nTo be effective, individualised counselling has to be based on a thorough assessment of various \nnutritional and clinical parameters: nutritional status and dietary intake, usual dietary pattern, \nintolerances or food aversions, patients’ psychological status, autonomy, cooperation, need for help \nor support of others in the act of eating. A thorough symptom assessment is also mandatory (Table 1). \nTable 1. Common causes for a poor nutrient intake in cancer patients. \n• Deterioration in taste, smell and appetite, as a consequence of the tumour and/or therapy  \n• Altered food preferences/food avoidance/food aversion  \n• Eating problems (teeth, chewing)  \n• Dysphagia, odynophagia or partial/total gastrointestinal obstruction  \n• Early satiety, nausea and vomiting  \n• Soreness, xerostomia, sticky saliva, painful throat, trismus  \n• Oral lesions and oesophagitis  \n? Patient’ GI function? \nHow much intake? \nWhich nutrients? \n \n \nno \nInadequate if \n<50% requirements \n+ \nDuration >7-10days \n+ \nHigh nutritional risk \nSufficient \nRescreen at \nregular intervals \n~ requirements \n \nArtificial Nutrition \nPARENTERAL \n ENTERAL \nRegular assessment of \nintake + symptoms \nCounselling + ONS \nyes \nconsider \nFigure 1. Evidence based decision making plan.\nAs clinicians we have to recognise the dimensions that are determinant for the patients. Indeed,\nthe diet is the only factor that the patient feels he/she can control during the whole course of treatments\nand interventions. Also, an adequate food intake is recognised by the patient as well as by the\nfamily and caregivers, as essential to maintain the daily activity, energy, functional capacity and to\novercome treatments more successfully. Notably, nutritional wasting is common regardless of the\ncancer stage (curative, adjuvant, to palliative) and is an independent predictor of poor physical function,\nlower quality of life, surgical complications, and reduced survival [ 3,10,13,37]. Cancer wasting is\ncharacterised by muscle mass deterioration that occurs in more than 50% of newly diagnosed cancer\npatients, in comparison with 15% prevalence in healthy individuals of similar age [ 38]. Since both\nmuscle mass and adipose tissue play a role in oncological outcomes, strategies to optimize body\ncomposition are an important part of successful cancer therapy. Hence, a major goal of nutrition\nintervention is to favourably inﬂuence body composition, with the potential to improve cancer therapy\noutcomes, morbidities and ultimately, prognosis.\nTo be eﬀective, individualised counselling has to be based on a thorough assessment of various\nnutritional and clinical parameters: nutritional status and dietary intake, usual dietary pattern,\nintolerances or food aversions, patients’ psychological status, autonomy, cooperation, need for help or\nsupport of others in the act of eating. A thorough symptom assessment is also mandatory (Table 1).",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "7ee3fc26-f17d-4005-9401-297f3be80c6a",
+        "embedding": null,
+        "metadata": {
+            "page_label": "5",
+            "file_name": "nutrition_in_cancer_patients.pdf",
+            "file_path": "../data/raw/nutrition_in_cancer_patients.pdf",
+            "file_type": "application/pdf",
+            "file_size": 457731,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "J. Clin. Med. 2019, 8, 1211 5 of 13\nTable 1. Common causes for a poor nutrient intake in cancer patients.\n• Deterioration in taste, smell and appetite, as a consequence of the tumour and/or therapy\n• Altered food preferences/food avoidance/food aversion\n• Eating problems (teeth, chewing)\n• Dysphagia, odynophagia or partial/total gastrointestinal obstruction\n• Early satiety, nausea and vomiting\n• Soreness, xerostomia, sticky saliva, painful throat, trismus\n• Oral lesions and oesophagitis\n• Radiotherapy/chemotherapy induced mucositis\n• Acute or chronic radiation enteritis during and after radiotherapy\n• Depression, anxiety\n• Pain\nIndividualised nutritional counselling taking into consideration patients’ clinical condition and\nsymptoms, was the most e ﬀective nutrition intervention, assuring a sustained and adequate diet,\nwhich was able to overcome the predictable deterioration subsequent to RT [ 35,36,39–42]. Positive\neﬀects were experienced in the long term with a possible impact of patients’ prognosis [43] as recently\nshowed in a randomized trial, the preliminary results of which were presented in the ESPEN Congress\nin 2018. Another randomised trial of nutritional therapy showed that intervention had an impact\nin maintaining patients’ nutritional status and function [39]. In this study, individualised intensive\nnutrition counselling was compared with individualised on-demand nutrition counselling by a\ndietician prior to and during oncologic treatment. On-demand nutrition counselling requested by\nphysician/nurse referral, seemed not inferior to intensive counselling; thus, these results do emphasise\nthe importance of establishing multimodal nutrition teams to eﬀectively and timely screen and orient\npatients for adequate nutrition [39]. Several guidelines to date do include nutritional counselling as\ntheir standard of care for malnourished patients or at risk of malnutrition [19–21,23,26,27] or during\nanti-neoplastic treatments in head-neck (HNC), oesophageal and colorectal cancers as these patients\nare in particular risk of malnutrition due to tumour location and irradiated area [14].\nIf/when oral nutrition is inadequate/insuﬃcient, artiﬁcial nutrition should be considered [19–21,\n23,26,27]. Criteria for the escalation in nutritional measures are: (1) inadequate food intake ( <50% of\nrequirements) is anticipated for more than 10 days due to surgery or chemotherapy (CT)/radiotherapy\n(RT); (2) if food intake is less than 50% of the requirements for more than one to two weeks; (3) if it is\nanticipated that undernourished patients will not be able to eat and/or absorb the adequate amount\nof nutrients for a long period time, due to antineoplastic treatments; (4) if the tumour mass itself\nimpairs oral intake and food progression through the upper GI tract. The decision between enteral\nnutrition (EN) and parenteral nutrition (PN) must take into account the site of the tumour, its extent,\ncomplications, treatment plan and intent, prognosis, patients’ overall physical status and the duration\nof the nutritional support [19–21,23,26,27,44].\n2.2.2. Artiﬁcial Nutrition\nIf the intestinal functions are preserved, EN should be preferred in order to maintain gut\nintegrity and reduce bacterial translocation [ 45], as well as to reduce infectious complications [ 19–\n21,23,26]. A standard polymeric feeding formula should be preferred. EN is recommended in\nundernourished or at-risk patients during CT if undernutrition is present or if inadequate food intake\nis present or anticipated [ 19,22,23,27,46]. Systematic artiﬁcial nutrition during CT treatment is not\nrecommended [19–21,23,26]. In radiation-induced severe mucositis or in obstructive tumours of the\nhead-neck or thorax, either PEG or nasogastric tube are recommended [19,20]. EN is contraindicated\nin: intestinal obstruction or ileus, severe shock, intestinal ischaemia, high output ﬁstula, severe\nintestinal haemorrhage, intestinal insu ﬃciency due to radiation enteritis, short bowel syndrome,\nperitoneal carcinomatosis chylothorax [19,21,23,26]. In these situations, or whenever EN is insu ﬃcient,",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "207d6229-981a-49c0-bfcf-c623feb940ea",
+        "embedding": null,
+        "metadata": {
+            "page_label": "6",
+            "file_name": "nutrition_in_cancer_patients.pdf",
+            "file_path": "../data/raw/nutrition_in_cancer_patients.pdf",
+            "file_type": "application/pdf",
+            "file_size": 457731,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "J. Clin. Med. 2019, 8, 1211 6 of 13\na combination of EN and PN or PN alone should be considered [ 19,21,23,26]. As for PN, it should\nbe initiated early [ 19,21,23,26] whenever indicated. PN is the ﬁrst option of nutritional support in\ncases of intestinal failure; whenever macro and micronutrient’ requirements can only be fulﬁlled via\nthe parenteral route, long term artiﬁcial nutrition as home parenteral nutrition (HPN) is standard\nrecommendation [19,44,47,48].\nAs for the macronutrients in PN, amino acids (AA) requirement of cancer patients relies on:\nnegative balance between whole body protein synthesis and breakdown, doses of AA closer to 2 g/kg/day\nmay be required to control catabolism and stimulate synthesis vs. 0.8 g /kg/day as recommended\nfor healthy subjects [49], and for older subjects and chronic disease, most recent clinical guidelines\nrecommend >1.0 g/kg/day of protein. Hence, to support protein balance, up to 1.5 g/kg/day or more of\nprotein is the consensual recommendation. In the nutritive PN admixtures, essential AA should be\npresent in approximately 50% of AA and branched chain AA should account for the remainder 50%\nof total AA [50]. In what concerns fat as an energy substrate, the most consensual regimens have fat\naccounting for ≈50% of non-protein calories [51,52].\nRecently, PN as a supplemental route of nutrient administration (SHPN) emerged as a possible\nresource to optimise nutrient delivery. Prospective studies [ 53–57] on SHPN suggest a possible\nbeneﬁt in energy balance, increased body fat, greater maximum exercise capacity and QoL. A recent\nrandomised trial showed that SHPN may prevent loss of MM in patients with incurable gastrointestinal\ncancer [57]. Hence, there is yet insuﬃcient evidence to recommend SHPN in cancer patients to improve\nQoL and nutrition parameters. Additionally, practice of HPN diﬀers between countries; most do not\nconsider the use of PN if there is a functional gastrointestinal tract, while others may consider its use if\nit is according to the will of the patient [58–60].\nRefeeding syndrome can occur when severe shifts in ﬂuids and electrolytes happen in severely\nmalnourished patients receiving EN or PN, and it may cause hypophosphatemia, hypokalaemia,\nhypomagnesaemia, thiamine deﬁciency, changes in sodium, glucose and ﬂuid balance and also in\nprotein and lipid metabolism [19,21]. Its prevention is recommended when BMI < 16 kg/m2 or in the\npresence of unintentional weight loss >15% within the last three to six months or whenever there\nis little or no nutritional intake for more than 10 days or if there are decreased levels of potassium,\nphosphate or magnesium prior to feeding. If a severe decrease in food intake occurs for at least ﬁve\ndays, it is recommended a gradual increase in nutrition over several days, and no more than 50% of\nthe calculated energy requirements should be supplied during the ﬁrst two days of feeding [ 19,25].\nThe identiﬁed ﬂuid and electrolytes imbalances should be corrected, and the circulatory volume, ﬂuid\nbalance, heart rate and rhythm, as well as clinical status, should be monitored closely. Attention to the\nrefeeding syndrome risk is currently contemplated in guidelines for cancer management [19–23,26,27].\n2.2.3. Surgery\nIn order to minimise the metabolic stress response and catabolism associated with surgery in\nundernourished patients, the enhanced recovery after surgery program (ERAS) is recommended for\nall cancer patients undergoing curative or palliative surgery [ 18,22,61]. Within ERAS protocol the\nfollowing principles should be followed: Screening for malnutrition and give additional nutritional\nsupport if necessary [18,22]; avoid preoperative fasting; preoperative carbohydrate treatment should\nbe considered as well as the reestablishment of oral feeding on the ﬁrst postoperative day; and early\nmobilisation [18,22]. To avoid preoperative fasting, patients with no risk of aspiration, are allowed to\neat solid food until six hours and drink clear ﬂuids until two hours before anaesthesia [18].\nIn oncologic surgical patients, with moderate to severe nutritional risk, nutritional support is\nrecommended before and after surgery [18,25]. If severe malnutrition is present, delaying surgery\nmay be necessary [18,25]. When submitted to major surgery, nutritional support should be provided\nroutinely, with particular attention to elderly sarcopenic patients.\nBesides the ERAS protocol, an early start of nutritional supplementation can signiﬁcantly diminish\nthe degree of weight loss and incidence of complications [22,25]. If it is anticipated that after surgery,",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "a922c40a-8a60-43d0-b390-b551b19f3349",
+        "embedding": null,
+        "metadata": {
+            "page_label": "7",
+            "file_name": "nutrition_in_cancer_patients.pdf",
+            "file_path": "../data/raw/nutrition_in_cancer_patients.pdf",
+            "file_type": "application/pdf",
+            "file_size": 457731,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "J. Clin. Med. 2019, 8, 1211 7 of 13\nthe patient will be unable to eat for more than seven days, it is advised to start nutrition therapy\neven in well-nourished patients [18,22,25]. After surgery, oral nutrition should also be preferred to\nEN and the latter should be preferred to PN. If oral intake is possible, it should start after surgery\nwithout interruption, after assessing individual tolerance. If oral nutrition is not possible, EN should\nbe initiated within 24 h, preferring standard polymeric enteral formulae if adequate [25].\n2.2.4. Radiotherapy and Chemotherapy\nOral mucositis, dysphagia and diarrhoea are common complications of RT and /or CT\ntreatments [12–22]. During RT, nutritional counselling is also recommended, especially in HNC,\nthorax and gastrointestinal (GI) tract cancers [ 12–23]. When deemed necessary, ONS should be\nprovided [62], and when severe mucositis is present, artiﬁcial nutrition should be considered [ 23].\nWhen dietary counselling and ONS are insu ﬃcient to reduce weight loss or if in the presence of\nsevere mucositis or obstructive tumours of the head or neck or thorax, artiﬁcial nutrition should be\nconsidered [19,20,23]. In patients treated with RT or chemoradiotherapy, PN is not recommended [19],\nand it should only be considered when adequate nutrition cannot be assured with oral or EN [19].\n2.3. Speciﬁc Nutrients\nNutritional strategies that potentially allow better management of cancer have been widely\ninvestigated, but few have reached conclusive results.\n2.3.1. Protein\nMany patients with cancer do not meet the recommended intake (1.2–1.5 g /kg/day), and not\neven the one for healthy individuals (0.8 g/kg/day) [63]. Limited protein intake ensues mainly from\nnutrition impact symptoms that aﬀect dietary intake [64]. Recent guidelines do suggest a higher range\nof protein intake (1.2–1.5 g/kg/day), because of the positive results of higher protein intake in protein\nbalancing and in maintaining muscle mass. Of additional interest is a recent study showing an inverse\nassociation between red meat consumption and seven-year mortality among 992 individuals with\nstage III colon cancer [65], suggesting that higher protein intake may actually be beneﬁcial in cancer.\nInterventions with amino acids have been tested in cancer, aiming to optimise nutritional status\nand counteract muscle mass wasting. They include supplementation with branched chain amino acids\n(leucine, isoleucine and valine) [63], β-hydroxy β-methyl butyrate, carnitine and creatine. Yet further\nresearch is needed to clarify potential beneﬁts.\nAs for glutamine, its supplementation in cases of oral mucositis or to prevent /treat diarrhoea\nduring pelvic RT, is not recommended [ 19,22,26]. As for its use when PN is required for patients\nundergoing haematopoietic stem cell transplant, guidelines are not identical: there is a fair graded\nrecommendation for eventual use of 0.2–0.5 g/kg/day [26], and the indication that there is not enough\nevidence to recommend for or against glutamine to reduce anticancer therapy side eﬀects, especially in\nhigh dose protocols [19]. In what concerns its potential to improve muscle mass, there is not enough\ndata to support it.\n2.3.2. Eicosapentaenoic Acid and Fish Oil\nEicosapentaenoic acid (EPA) has been identiﬁed as a promising nutrient with appointed clinical\nbeneﬁts. Several mechanisms have been proposed to explain the potential beneﬁts of EPA on the\nbody composition: inhibition of catabolic stimuli by modulating the production of pro-inﬂammatory\ncytokines and enhancing insulin sensitivity that induces protein synthesis. Intervention studies showed\nthat EPA may attenuate deterioration of nutritional status and may aid in improving calorie and\nprotein intake. Recent systematic reviews found that EPA can reduce inﬂammation and has a potential\nto modulate the nutritional status/body composition [66,67]. Furthermore, some studies suggest that\nn−3 fatty acids inhibit proliferation of cancer cells [ 68] and might decrease CT toxicity [ 69]. Given\nthe large number of studies reporting a positive impact of n−3 fatty acids on the muscle mass, it is",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "c6c843e8-5cd9-4880-8bec-b8a45797653f",
+        "embedding": null,
+        "metadata": {
+            "page_label": "8",
+            "file_name": "nutrition_in_cancer_patients.pdf",
+            "file_path": "../data/raw/nutrition_in_cancer_patients.pdf",
+            "file_type": "application/pdf",
+            "file_size": 457731,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "J. Clin. Med. 2019, 8, 1211 8 of 13\nlikely that this would be a practical and eﬀective intervention for preventing loss of muscle without\nsigniﬁcant side eﬀects [19]. It is noteworthy that the strength of recommendation somewhat diﬀers for\nthe use of n−3 fatty acids supplementation in weight losing cancer patients not responding to standard\nnutritional therapy. This recommendation has been rated as strong [26] and weak [19]. Nevertheless,\nboth guidelines are inclined to consider supplementation with long chain fatty acids and ﬁsh oil to\ndecrease systemic inﬂammation and improve appetite, food intake and body weight.\nTrials with homogeneous patient populations regarding cancer type, stage, anti-neoplastic\nregimens, supplement dosage and modality of administration are needed to clarify clinical beneﬁts.\nIndeed, it is noteworthy that in view of the modest survival beneﬁts of CT /RT in some cancers,\nimportant issues for physicians are to optimize well-being, quality of life via nutritional status and\nadequate body composition [70].\n2.3.3. Micronutrients\nBecause of the adverse e ﬀects of therapy and restricted diet of many patients, the American\nInstitute for Cancer Research [71], American Cancer Society [72] and the European Society for Clinical\nNutrition and Metabolism—ESPEN [ 19] support the use of a multivitamin-multimineral supplement\nin doses close to the recommended dietary allowance. High doses of vitamins and minerals are\ndiscouraged in the absence of speciﬁc deﬁciencies [19,20]. Vitamin D deﬁciency might be relevant in\ncancer [19]; also, an association has been reported between low vitamin D and muscle wasting. As a\nconsequence, vitamin D may be needed to optimise protein supplements eﬀectiveness. In light of the\nrecent literature, vitamin D supplementation with 600–800 international units (RDA) in cancer patients\ncan be beneﬁcial in the context of preventing muscle wasting, but further research is needed.\n3. Discussion\nIn cancer, deterioration and muscle wasting result from the combination of reduced nutrient\nabsorption, alterations in appetite, taste and/or dietary intake, hormone-induced metabolic changes\nand cancer-related immune activation with cytokine release. Regardless of the underlying mechanisms,\ncancer-related weight loss is a multidimensional manifestation that worsens patients’ well-being,\ntolerance to antineoplastic therapies and prognosis. Clinically speaking, weight loss is frequent in\ncancer patients, and depending on the location of the tumour, it is present in 15 to 40% of cancer patients\nat diagnosis. Weight loss is frequently the ﬁrst sign of the nutritional alterations that occur in the\ncourse of the disease and is associated with poor prognosis, reduced quality of life and morbidity [62].\nCancer cachexia can be deﬁned as ‘a multi-factorial syndrome deﬁned by an ongoing loss of skeletal muscle\nmass (with or without loss of fat mass) that cannot be fully reversed by conventional nutritional support. It\nleads to progressive functional impairment. Its pathophysiology is characterized by a negative protein and\nenergy balance driven by a variable combination of reduced food intake and abnormal metabolism’. The agreed\ndiagnostic criterion for cachexia was weight loss >5%, or weight loss >2% in individuals already\nshowing depletion of body weight (BMI < 20 kg/m2) or of skeletal muscle (sarcopenia). Assessment for\nclassiﬁcation and clinical management should also include the following domains: ‘anorexia/reduced\nfood intake, catabolic drive, muscle mass and strength, functional and psychosocial impairment’ [13].\nThe main nutritional problem in cancer is wasting of muscle mass, acknowledged to be a\npredictor of lower quality of life, impaired functionality, surgical complications and shortened\nsurvival [10,63,73,74]. Of note that sarcopenia occurs independently of loss of weight or of fat mass.\nThus, a clinically relevant phenotype that also emerged in cancer is characterised by sarcopenia with\nexcessive fat mass. Additionally, to the previous studies demonstrating the major impact of muscle\nmass depletion on survival and treatment toxicity [ 73,74], a recent study in a cohort of head-neck\ncancer patients, showed that patients with cachexia had a worse disease-free survival compared with\nnon-cachectic patients [12,39].\nBearing this in mind, the clinical e ﬀorts and priority given to improve treatment outcomes,\nwill logically have to include nutritional intervention and adequacy of body composition. The search",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "f9f50e8b-255c-492e-9514-877e49930aa6",
+        "embedding": null,
+        "metadata": {
+            "page_label": "9",
+            "file_name": "nutrition_in_cancer_patients.pdf",
+            "file_path": "../data/raw/nutrition_in_cancer_patients.pdf",
+            "file_type": "application/pdf",
+            "file_size": 457731,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "J. Clin. Med. 2019, 8, 1211 9 of 13\nfor an eﬀective nutritional intervention that improves body composition (preservation of muscle mass\nand muscle quality) is of utmost importance for clinicians and patients, given the implications for\nprognosis. Early detection of malnutrition and cachexia should be part of a multimodal approach to\nimprove both patient-centred and oncology outcomes [47].\n4. Conclusions\nIn the present article, the most recent guidelines for the management of cancer patients, as well\nas original studies in nutrition and cancer, were included. Nutrition is a central factor in oncology,\ninﬂuencing the development of the disease, tumour inherent symptoms, response to, and recovery\nafter anti-neoplastic treatment(s), thus having a strong impact on the quality of life and prognosis\nof the disease. A main nutritional feature is wasting of muscle mass, strongly associated with\ndecreased functional capacity, higher incidence of chemotherapy toxicity, increased hospitalization and\ncomplication rate, as well as mortality. Nutritional risk screening and assessment in cancer patients\nallows for the early detection of malnourished patients and also for a prompt nutritional intervention\naiming to prevent nutritional deterioration and muscle wasting. A proactive assessment of the clinical\nalterations that occur during treatments and during the disease course, is essential for selecting the\nadequate nutritional intervention, aiming for the best impact on patients’ outcomes. Early tailored\nintervention has the potential to improve body composition and treatment’ eﬃcacy, and as evidence\nstands, it is an obligatory adjuvant intervention, with the likelihood of improving prognosis of the\ndisease itself.\nConﬂicts of Interest: The authors declare no conﬂict of interest.\nReferences\n1. Fearon, K.; Barber, M. Moses A: The cancer cachexia syndrome. Surg. Oncol. Clin. N. Am. 2001, 10, 109–126.\n[CrossRef]\n2. Mattox, T.W. Cancer Cachexia: Cause, Diagnosis, and Treatment. Nutr. Clin. Pract. 2017, 32, 599–606.\n[CrossRef] [PubMed]\n3. Brown, J.C.; Caan, B.J.; Meyerhardt, J.A.; Weltzien, E.; Xiao, J.; Feliciano, E.M.C.; Kroenke, C.H.; Castillo, A.;\nKwan, M.L.; Prado, C.M. The deterioration of muscle mass and radiodensity is prognostic of poor survival\nin stage I–III colorectal cancer: A population-based cohort study (C-SCANS). J. Cachex Sarcopenia Muscle\n2018, 9, 664–672. [CrossRef] [PubMed]\n4. Demark-Wahnefried, W.; Peterson, B.L.; Winer, E.P .; Marks, L.; Aziz, N.; Marcom, P .K.; Blackwell, K.;\nRimer, B.K. Changes in Weight, Body Composition, and Factors Inﬂuencing Energy Balance Among\nPremenopausal Breast Cancer Patients Receiving Adjuvant Chemotherapy.J. Clin. Oncol. 2001, 19, 2381–2389.\n[CrossRef] [PubMed]\n5. De Wys, W.D.; Begg, C.; Lavin, P .T.; Band, P .R.; Bennett, J.M.; Bertino, J.R.; Cohen, M.H.; Douglass, H.O., Jr.;\nEngstrom, P .F.; Ezdinli, E.Z.; et al. Prognostic eﬀect of weight loss prior to chemotherapy in cancer patients.\nAm. J. Med. 1980, 69, 491–497. [CrossRef]\n6. Wigmore, S.J.; Plester, C.E.; Ross, J.A.; Fearon, K.C.H.; Wigmore, S. Contribution of anorexia and\nhypermetabolism to weight loss in anicteric patients with pancreatic cancer.BJS 1997, 84, 196–197. [CrossRef]\n7. Belghiti, J.; Langonnet, F.; Bourstyn, E.; Fekete, F. Surgical implications of malnutrition and immunodeﬁciency\nin patients with carcinoma of the esophagus. Br. J. Surg. 1983, 70, 339–341. [CrossRef]\n8. Mantzorou, M.; Koutelidakis, A.; Theocharis, S.; Giaginis, C. Clinical Value of Nutritional Status in Cancer:\nWhat is its Impact and how it A ﬀects Disease Progression and Prognosis? Nutr. Cancer 2017, 69, 1–26.\n[CrossRef]\n9. Ravasco, P .; Grillo, I.M.; Vidal, P .; Camilo, M. Nutritional Deterioration in Cancer: The Role of Disease and\nDiet. Clin. Oncol. 2003, 15, 443–450. [CrossRef]\n10. Prado, C.M.; Cushen, S.J.; Orsso, C.E.; Ryan, A.M. Sarcopenia and cachexia in the era of obesity: Clinical and\nnutritional impact. Proc. Nutr. Soc. 2016, 75, 188–198. [CrossRef]",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "9abf2b00-692c-444f-a361-c01faa0c57b4",
+        "embedding": null,
+        "metadata": {
+            "page_label": "10",
+            "file_name": "nutrition_in_cancer_patients.pdf",
+            "file_path": "../data/raw/nutrition_in_cancer_patients.pdf",
+            "file_type": "application/pdf",
+            "file_size": 457731,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "J. Clin. Med. 2019, 8, 1211 10 of 13\n11. Bazzan, A.J.; Newberg, A.B.; Cho, W.C.; Monti, D.A. Diet and nutrition in cancersurvivorship and palliative\ncare. Evid. Based Complement. Alternat. Med. 2013, 2013, 917647. [CrossRef] [PubMed]\n12. Orell-Kotikangas, H.; Österlund, P .; Mäkitie, O.; Saarilahti, K.; Ravasco, P .; Schwab, U.; Mäkitie, A.A. Cachexia\nat diagnosis is associated with poor survival in head and neck cancer patients. Acta Oto-Laryngol. 2017, 137,\n778–785. [CrossRef] [PubMed]\n13. Fearon, K.; Strasser, F.; Anker, S.D.; Bosaeus, I.; Bruera, E.; Fainsinger, R.L.; Jatoi, A.; Loprinzi, C.;\nMacDonald, N.; Mantovani, G.; et al. Deﬁnition and classiﬁcation of cancer cachexia: An international\nconsensus statement. Lancet Oncol. 2011, 12, 489–495. [CrossRef]\n14. Donaldson, S. Nutritional consequences of radiotherapy. Cancer Res. 1997, 37, 2407–2413.\n15. Chao, K.S.C.; Perez, C.A.; Brady, L.W. (Eds.) Fundamentals of patient management. In Radiation Oncology:\nManagement Decisions; Lippincot-Raven: Philadelphia, PA, USA, 2014; pp. 1–13.\n16. Blauwhoﬀ-Buskermolen, S.; Versteeg, K.S.; De Van Der Schueren, M.A.; Braver, N.R.D.; Berkhof, J.;\nLangius, J.A.; Verheul, H.M. Loss of Muscle Mass During Chemotherapy Is Predictive for Poor Survival of\nPatients with Metastatic Colorectal Cancer. J. Clin. Oncol. 2016, 34, 1339–1344. [CrossRef]\n17. Van der Schueren, M.A.; Van Leeuwen, P .A.; Sauerwein, H.P .; Kuik, D.J.; Snow, G.B.; Quak, J.J. Assessment of\nmalnutrition parameters in head and neck cancer patients and their relation to postoperative complications.\nHead Neck 1997, 19, 419–425. [CrossRef]\n18. Weimann, A.; Braga, M.; Carli, F.; Higashiguchi, T.; Hübner, M.; Klek, S.; Laviano, A.; Ljungqvist, O.;\nLobo, D.N.; Martindale, R.; et al. ESPEN guideline: Clinical nutrition in surgery. Clin. Nutr. 2017, 36,\n623–650. [CrossRef]\n19. Arends, J.; Bachmann, P .; Baracos, V .; Barthelemy, N.; Bertz, H.; Bozzetti, F.; Fearon, K.; Hütterer, E.;\nIsenring, E.; Kaasa, S.; et al. ESPEN guidelines on nutrition in cancer patients. Clin. Nutr. 2017, 36, 11–48.\n[CrossRef]\n20. Arends, J.; Baracos, V .; Bertz, H.; Bozzetti, F.; Calder, P .; Deutz, N.; Erickson, N.; Laviano, A.; Lisanti, M.;\nLobo, D.; et al. ESPEN expert group recommendations for action against cancer-related malnutrition.\nClin. Nutr. 2017, 36, 1187–1196. [CrossRef]\n21. De Las Peñas, R.; Majem, M.; Perez-Altozano, J.; Virizuela, J.A.; Cancer, E.; Diz, P .; Donnay, O.; Hurtado, A.;\nJimenez-Fonseca, P .; Ocon, M.J. SEOM clinical guidelines on nutrition in cancer patients (2018).Clin. Transl.\nOncol. 2019, 21, 87–93. [CrossRef]\n22. Raspé, C.; Flöther, L.; Schneider, R.; Bucher, M.; Piso, P . Best practice for perioperative management of\npatients with cytoreductive surgery and HIPEC. Eur. J. Surg. Oncol. 2017, 43, 1013–1027. [CrossRef]\n23. French Speaking Society of Clinical Nutrition and Metabolism (SFNEP). Clinical nutrition guidelines of the\nFrench Speaking Society of Clinical Nutrition and Metabolism (SFNEP): Summary of recommendations for\nadults undergoing non-surgical anticancer treatment. Dig. Liver Dis. 2014, 46, 667–674. [CrossRef]\n24. Prado, C.M.; Sawyer, M.B.; Ghosh, S.; Lieﬀers, J.R.; Esfandiari, N.; Antoun, S.; Baracos, V . Central tenet of\ncancer cachexia therapy: Do patients with advanced cancer have exploitable anabolic potential? Am. J.\nClin. Nutr. 2013, 98, 1012–1019. [CrossRef]\n25. Benoist, S.; Brouquet, A. Nutritional assessment and screening for malnutrition. J. Visc. Surg. 2015, 152\n(Suppl. 1), S3–S7. [CrossRef]\n26. Thompson, K.L.; Elliott, L.; Fuchs-Tarlovsky, V .; Levin, R.M.; Voss, A.C.; Piemonte, T. Rd Oncology\nEvidence-Based Nutrition Practice Guideline for Adults. J. Acad. Nutr. Diet. 2017, 117, 297–310. [CrossRef]\n27. Talwar, B.; Donnelly, R.; Skelly, R.; Donaldson, M. Nutritional management in head and neck cancer: United\nKingdom National Multidisciplinary Guidelines. J. Laryngol. Otol. 2016, 130, S32–S40. [CrossRef]\n28. Orell-Kotikangas, H.; Österlund, P .; Saarilahti, K.; Ravasco, P .; Schwab, U.; Mäkitie, A.A. NRS-2002 for\npre-treatment nutritional risk screening and nutritional status assessment in head and neck cancer patients.\nJ. Support. Care Cancer 2015, 23, 1495–1502. [CrossRef]\n29. Boléo-Tomé, C.; Monteiro Grillo, I.; Camilo, M.E.; Ravasco, P . Validation of the Malnutrition Universal\nScreening Tool (MUST) in cancer. Br. J. Nutr. 2012, 108, 343–348. [CrossRef]\n30. Boléo-Tomé, C.; Chaves, M.; Monteiro-Grillo, I.; Camilo, M.; Ravasco, P . Teaching Nutrition Integration:\nMUST Screening in Cancer. Oncologist 2011, 16, 239–245. [CrossRef]\n31. Ottery, F. Deﬁnition of standardised nutritional assessment and interventional pathways in oncology.\nNutrition 1996, 12, s15–s19. [CrossRef]\n32. Ortiz, C. Analysis of clinical guidelines in oncology. Nutr. Hosp. 2016, 33 (Suppl. 1), 40–49.",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "71a26af0-7d22-458b-a00f-ff263be7d049",
+        "embedding": null,
+        "metadata": {
+            "page_label": "11",
+            "file_name": "nutrition_in_cancer_patients.pdf",
+            "file_path": "../data/raw/nutrition_in_cancer_patients.pdf",
+            "file_type": "application/pdf",
+            "file_size": 457731,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "J. Clin. Med. 2019, 8, 1211 11 of 13\n33. Ravasco, P .; Monteiro-Grillo, I.; Camilo, M.E. Does nutrition inﬂuence quality of life in cancer patients\nundergoing radiotherapy? Radiother. Oncol. 2003, 67, 213–220. [CrossRef]\n34. Monteiro-Grillo, I.; Vidal, P .M.; Camilo, M.E.; Ravasco, P . Cancer: Disease and nutrition are key determinants\nof patients’ quality of life.Support. Care Cancer 2004, 12, 246–252. [CrossRef]\n35. Ravasco, P .; Monteiro Grillo, I.; Marques Vidal, P .; Camilo, M.E. Dietary conseling improves patient outcomes:\nA prospective, randomized, controlled trial in colorectal cancer patients undergoing radiotherapy.J. Clin.\nOncol. 2005, 23, 1431–1438. [CrossRef]\n36. Ravasco, P .; Vidal, P .M.; Camilo, M.E.; Monteiro-Grillo, I.; Monteiro-Grillo, I. Impact of nutrition on outcome:\nA prospective randomized controlled trial in patients with head and neck cancer undergoing radiotherapy.\nHead Neck 2005, 27, 659–668. [CrossRef]\n37. Martin, L.; Senesse, P .; Gioulbasanis, I.; Antoun, S.; Bozzetti, F.; Deans, C.; Strasser, F.; Thoresen, L.; Jagoe, R.T.;\nChasen, M.; et al. Diagnostic criteria for the classiﬁcation of cancer-associated weight loss. J. Clin. Oncol.\n2015, 33, 90–99. [CrossRef]\n38. Von Haehling, S.; Morley, J.E.; Anker, S.D. An overview of sarcopenia: Facts and numbers on prevalence and\nclinical impact. J. Cachexia Sarcopenia Muscle 2010, 1, 129–133. [CrossRef]\n39. Orell-Kotikangas, H.; Österlund, P .; Saarilahti, K.; Ravasco, P .; Schwab, U.; Mäkitie, A.A. Nutritional\nCounseling for Head and Neck Cancer Patients Undergoing (Chemo) Radiotherapy-A Prospective\nRandomized Trial. Front. Nutr. 2019, 18, 22. [CrossRef]\n40. Van Bokhorst-de van der Schueren, M.A. Nutritional support strategies for malnourished cancer patients.\nEur. J. Oncol. Nurs. 2005, 9 (Suppl. 2), S74–S83. [CrossRef]\n41. Bauer, J.; Isenring, E.; Ferguson, M. Dietary counseling: Evidence in chemotherapy patients. Support. Oncol.\n2008, 6, 354–355.\n42. Isenring, E.A.; Bauer, J.D.; Capra, S. Nutrition Support Using the American Dietetic Association Medical\nNutrition Therapy Protocol for Radiation Oncology Patients Improves Dietary Intake Compared with\nStandard Practice. J. Am. Diet. Assoc. 2007, 107, 404–412. [CrossRef]\n43. Ravasco, P .; Monteiro Grillo, I.; Camilo, M. Dietary individualized counseling beneﬁts in colorectal cancer:\nThe long term follow-up of a randomized controlled trial of nutritional therapy. Am. J. Clin. Nutr. 2012, 96,\n1346–1353. [CrossRef]\n44. Staun, M.; Pironi, L.; Bozzetti, F.; Baxter, J.; Forbes, A.; Joly, F.; Jeppesena, P .; Morenog, J.; Hebuterne, X.;\nPertkiewicz, M.; et al. ESPEN Guidelines on Parenteral Nutrition: Home Parenteral Nutrition (HPN) in\nAdult Patients. Available online: http://espen.info/documents/0909/HomeParenteralNutritioninadults.pdf\n(accessed on 17 July 2019).\n45. Souza, N.C.S.; Simões, B.P .; Júnior, A.A.J.; Chiarello, P .G. Changes in Intestinal Permeability and Nutritional\nStatus after Cytotoxic Therapy in Patients with Cancer. Nutr. Cancer 2014, 66, 576–582. [CrossRef]\n46. O’Reilly, D.; Fou, L.; Hasler, E.; Hawkins, J.; O’Connell, S.; Pelone, F.; Callaway, M.; Campbell, F.; Capel, M.;\nCharnley, R.; et al. Diagnosis and management of pancreatic cancer in adults: A summary of guidelines\nfrom the UK National Institute for Health and Care Excellence. Pancreatology 2018, 18, 962–970. [CrossRef]\n47. Lis, C.G.; Gupta, D.; Lammersfeld, C.A.; Markman, M.; Vashi, P .G. Role of nutritional status in predicting\nquality of life outcomes in cancer—A systematic review of the epidemiological literature. Nutr. J. 2012, 11,\n27. [CrossRef]\n48. Nightingale, J.; Young, A.; Hawthorne, B.; McKee, R.; McKinlay, A.; Raﬀerty, G.; Protheroe, S.; Culkin, A.;\nEastwood, J.; Farrer, K.; et al. Position Statement from BIFA Committee. Available online: https: //www.\nbapen.org.uk/nutrition-support/parenteral-nutrition/position-statement-from-bifa-committee (accessed on\n17 July 2019).\n49. Bozzetti, F.; Bozzetti, V . Is the intravenous supplementation of amino acid to cancer patients adequate?\nA critical appraisal of literature. Clin. Nutr. 2013, 32, 142–146. [CrossRef]\n50. Wolfe, R.R. The 2017 Sir David P Cuthbertson lecture. Amino acids and muscle protein metabolism in critical\ncare. Clin. Nutr. 2018, 37, 1093–1100. [CrossRef]\n51. Körber, J.; Pricelius, S.; Heidrich, M.; Muller, M.J. Increased lipid utilization in weight losing and weight\nstable cancer patients with normal body weight. Eur. J. Clin. Nutr. 1999, 53, 740–745. [CrossRef]\n52. Cao, D.-X.; Wu, G.-H.; Zhang, B.; Quan, Y.-J.; Wei, J.; Jin, H.; Jiang, Y.; Yang, Z.-A. Resting energy expenditure\nand body composition in patients with newly detected cancer. Clin. Nutr. 2010, 29, 72–77. [CrossRef]",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "d9671a6d-cd8c-4ae4-8d1f-cfbcb72fba3d",
+        "embedding": null,
+        "metadata": {
+            "page_label": "12",
+            "file_name": "nutrition_in_cancer_patients.pdf",
+            "file_path": "../data/raw/nutrition_in_cancer_patients.pdf",
+            "file_type": "application/pdf",
+            "file_size": 457731,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "J. Clin. Med. 2019, 8, 1211 12 of 13\n53. Finocchiaro, C.; Gervasio, S.; Agnello, E.; Appiano, S.; Bertetto, O.; Ciuﬀreda, L.; Montrucchio, G.; Luisa, A.M.;\nD’andrea, F.; Domeniconi, D.; et al. Multicentric study on home parenteral nutrition in advanced cancer\npatients. Riv. Ital. Nutr. Parenter. Enter. 2002, 20, 98–107.\n54. Seys, P .; Tadmouri, A.; Senesse, P .; Radji, A.; Rotarski, M.; Balian, A.; Culine, S.; Dufour, P .; Chambrier, C.\nHome parenteral nutrition in elderly patients with cancer: An observational prospective study. Bull. Cancer\n2014, 101, 243–249. [CrossRef]\n55. Culine, S.; Chambrier, C.; Tadmouri, A.; Senesse, P .; Seys, P .; Radji, A.; Rotarski, M.; Balian, A.; Dufour, P .\nHome parenteral nutrition improves quality of life and nutritional status in patients with cancer: A French\nobservational multicentre study. Support. Care Cancer 2014, 22, 1867–1874. [CrossRef]\n56. Vashi, P .G.; Dahlk, S.; Popiel, B.; Lammersfeld, C.A.; Ireton-Jones, C.; Gupta, D. A longitudinal study\ninvestigating quality of life and nutritional outcomes in advanced cancer patients receiving home parenteral\nnutrition. BMC Cancer 2014, 14, 593. [CrossRef]\n57. Girke, J.; Seipt, C.; Markowski, A.; Luettig, B.; Schettler, A.; Momma, M.; Schneider, A.S. Quality of Life\nand Nutrition Condition of Patients Improve Under Home Parenteral Nutrition: An Exploratory Study.\nNutr. Clin. Pract. 2016, 31, 659–665. [CrossRef]\n58. Keane, N.; Fragkos, K.C.; Patel, P .S.; Bertsch, F.; Mehta, S.J.; Di Caro, S.; Rahman, F. Performance status,\nprognostic scoring, and parenteral nutrition requirements predict survival in patients with advanced cancer\nreceiving home parenteral nutrition. Nutr. Cancer 2018, 70, 73–82. [CrossRef]\n59. Bozzetti, F.; Arends, J.; Lundholm, K.; Micklewright, A.; Zürcher, G.; Muscaritoli, M. ESPEN Guidelines on\nParenteral Nutrition: Non-surgical oncology. Clin. Nutr. 2009, 28, 445–454. [CrossRef]\n60. Scolapio, J.; Picco, M.; Tarrosa, V . Enteral versus parenteral nutrition: The patient’s preference.J. Parenter.\nEnter. Nutr. 2002, 26, 248–250. [CrossRef]\n61. Obermair, A.; Simunovic, M.; Isenring, L.; Janda, M. Nutrition interventions in patients with gynecological\ncancers requiring surgery. Gynecol. Oncol. 2017, 145, 192–199. [CrossRef]\n62. Baldwin, C.; Weekes, C.E. Dietary counselling with or without oral nutritional supplements in the management\nof malnourished patients: A systematic review and meta-analysis of randomised controlled trials. J. Hum.\nNutr. Diet. 2012, 25, 411–426. [CrossRef]\n63. Deutz, N.E.; Safar, A.; Schutzler, S.; Memelink, R.; Ferrando, A.; Spencer, H.; Van Helvoort, A.; Wolfe, R.R.\nMuscle protein synthesis in cancer patients can be stimulated with a specially formulated medical food.\nClin. Nutr. 2011, 30, 759–768. [CrossRef]\n64. Omlin, A.; Blum, D.; Wierecky, J.; Haile, S.R.; Ottery, F.D.; Strasser, F. Nutrition impact symptoms in advanced\ncancer patients: Frequency and speciﬁc interventions, a case–control study. J. Cachex Sarcopenia Muscle 2013,\n4, 55–61. [CrossRef]\n65. Van Blarigan, E.L.; Fuchs, C.S.; Niedzwiecki, D.; Zhang, S.; Saltz, L.B.; Mayer, R.J.; Mowat, R.B.; Whittom, R.;\nHantel, A.; Benson, A.; et al. Association of Survival with Adherence to the American Cancer Society\nNutrition and Physical Activity Guidelines for Cancer Survivors After Colon Cancer Diagnosis: The CALGB\n89803/Alliance Trial. JAMA Oncol. 2018, 4, 783–790. [CrossRef]\n66. Papallardo, G.; Almeida, A.; Ravasco, P . Eicosapentaenoic acid in cancer: Does it improve body composition\nand modulate metabolism? Nutrition 2015, 31, 549–555. [CrossRef]\n67. Ravasco, P .; Lavriv, D.; Neves, P . Should omega-3 be used in cancer cachexia?Clin. Nutr. ESPEN 2018, 25,\n18–25.\n68. Hering, J.; Garrean, S.; Dekoj, T.R.; Razzak, A.; Saied, A.; Trevino, J.; Babcock, T.A.; Espat, N.J. Inhibition of\nProliferation by Omega-3 Fatty Acids in Chemoresistant Pancreatic Cancer Cells. Ann. Surg. Oncol. 2007, 14,\n3620–3628. [CrossRef]\n69. Murphy, R.A.; Mourtzakis, M.; Mazurak, V .C. n-3 polyunsaturated fatty acids: The potential role for\nsupplementation in cancer. Curr. Opin. Clin. Nutr. Metab. Care 2012, 15, 246–251. [CrossRef]\n70. Geisler, C.; Prado, C.; Müller, M. Inadequacy of Body Weight-Based Recommendations for Individual Protein\nIntake—Lessons from Body Composition Analysis. Nutrients 2017, 9, 23. [CrossRef]\n71. Norman, H.A.; Butrum, R.R.; Feldman, E.; Picciano, M.F.; Rivlin, R.; Simopoulos, A.; Wargovich, M.J.;\nWeisburger, E.K.; Zeisel, S.H.; Heber, D.; et al. The Role of Dietary Supplements during Cancer Therapy.\nJ. Nutr. 2003, 133, 3794S–3799S. [CrossRef]",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "95aaa984-79ec-42d8-982d-f2dc9534b684",
+        "embedding": null,
+        "metadata": {
+            "page_label": "13",
+            "file_name": "nutrition_in_cancer_patients.pdf",
+            "file_path": "../data/raw/nutrition_in_cancer_patients.pdf",
+            "file_type": "application/pdf",
+            "file_size": 457731,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "J. Clin. Med. 2019, 8, 1211 13 of 13\n72. Rock, C.L.; Doyle, C.; Demark-Wahnefried, W.; Meyerhardt, J.; Courneya, K.S.; Schwartz, A.L.; Bandera, E.V .;\nHamilton, K.K.; Grant, B.; McCullough, M.; et al. Nutrition and physical activity guidelines for cancer\nsurvivors. CA Cancer J. Clin. 2012, 62, 242–274. [CrossRef]\n73. Stene, G.B.; Helbostad, J.L.; Amundsen, T.; Sørhaug, S.; Hjelde, H.; Kaasa, S.; Grønberg, B.H. Changes in\nskeletal muscle mass during palliative chemotherapy in patients with advanced lung cancer. Acta Oncol.\n2015, 54, 340–348. [CrossRef]\n74. Lieﬀers, J.R.; Bathe, O.F.; Fassbender, K.; Winget, M.; Baracos, V .E. Sarcopenia is associated with postoperative\ninfection and delayed recovery from colorectal cancer resection surgery. Br. J. Cancer 2012, 107, 931–936.\n[CrossRef]\n© 2019 by the author. Licensee MDPI, Basel, Switzerland. This article is an open access\narticle distributed under the terms and conditions of the Creative Commons Attribution\n(CC BY) license (http://creativecommons.org/licenses/by/4.0/).",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    }
+]

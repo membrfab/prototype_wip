@@ -1,0 +1,742 @@
+[
+    {
+        "id_": "82950397-230a-42e9-972d-27d5f5182cee",
+        "embedding": null,
+        "metadata": {
+            "page_label": "i",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Carbohydrate intake  \nfor adults and children\nWHO guideline summary",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "8e6aec94-91c3-4661-9c69-9e751c5476a6",
+        "embedding": null,
+        "metadata": {
+            "page_label": "ii",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Carbohydrate intake for adults and children: WHO guideline summary \nISBN 978-92-4-008335-6 (electronic version)\nISBN 978-92-4-008336-3 (print version)\n© World Health Organization 2023\nSome rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike \n3.0 IGO licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo ). \nUnder the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, \nprovided the work is appropriately cited, as indicated below. In any use of this work, there should be no suggestion \nthat WHO endorses any specific organization, products or services. The use of the WHO logo is not permitted. If \nyou adapt the work, then you must license your work under the same or equivalent Creative Commons licence. If \nyou create a translation of this work, you should add the following disclaimer along with the suggested citation: \n“This translation was not created by the World Health Organization (WHO). WHO is not responsible for the content \nor accuracy of this translation. The original English edition shall be the binding and authentic edition”. \nAny mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation \nrules of the World Intellectual Property Organization ( http://www.wipo.int/amc/en/mediation/rules/ ).\nSuggested citation . Carbohydrate intake for adults and children: WHO guideline summary. Geneva: World \nHealth Organization; 2023. Licence: CC BY-NC-SA 3.0 IGO.\nCataloguing-in-Publication (CIP) data.  CIP data are available at https://iris.who.int/.\nSales, rights and licensing. To purchase WHO publications, see https://www.who.int/publications/book-orders . \nTo submit requests for commercial use and queries on rights and licensing, see https://www.who.int/copyright . \nThird-party materials. If you wish to reuse material from this work that is attributed to a third party, such as \ntables, figures or images, it is your responsibility to determine whether permission is needed for that reuse and \nto obtain permission from the copyright holder. The risk of claims resulting from infringement of any third-party-\nowned component in the work rests solely with the user.\nGeneral disclaimers. The designations employed and the presentation of the material in this publication do not \nimply the expression of any opinion whatsoever on the part of WHO concerning the legal status of any country, \nterritory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted and \ndashed lines on maps represent approximate border lines for which there may not yet be full agreement.\nThe mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed \nor recommended by WHO in preference to others of a similar nature that are not mentioned. Errors and omissions \nexcepted, the names of proprietary products are distinguished by initial capital letters.\nAll reasonable precautions have been taken by WHO to verify the information contained in this publication. \nHowever, the published material is being distributed without warranty of any kind, either expressed or implied. \nThe responsibility for the interpretation and use of the material lies with the reader. In no event shall WHO be \nliable for damages arising from its use. \nCover illustration by Adele Jackson",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "a0ecca4f-14f8-4628-a185-160fb64d96b5",
+        "embedding": null,
+        "metadata": {
+            "page_label": "iii",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "iii\nGuideline summary  1\n Background 1\n Objective, scope and methods 2\n The evidence 2\n Recommendations and supporting information 4\n Translation and implementation 9\nReferences 10\nAnnex 14\nContents",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "8d6ac028-41d1-4faf-a151-4300ae8673d9",
+        "embedding": null,
+        "metadata": {
+            "page_label": "iv",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "iv\nNote\nThis document is a summary of a WHO guideline, the full version of which is available only in English \nand can be accessed at https://www.who.int/publications/i/item/9789240073593 . This summary \ndocument does not contain all of the information found in the full guideline, but what it does contain \nhas been extracted directly from the full guideline and is therefore identical to the information found \nin the full guideline. Anywhere in this summary document where “this guideline” or “the guideline” is \nused in the text, it refers to the full guideline document.",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "bc6b68bb-7aee-4850-95a2-be25824baa35",
+        "embedding": null,
+        "metadata": {
+            "page_label": "1",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "1\nGuideline summary\nBackground\nNoncommunicable diseases (NCDs) are the world’s leading cause of death, responsible for an estimated \n41 million of the 55 million deaths in 2019 (1). Nearly half of these deaths were premature (i.e. in people \naged less than 70 years) and occurred in low- and middle-income countries (LMICs). Obesity is a risk factor \nfor diet-related NCDs and is linked to millions of deaths globally (2, 3). In 2016, more than 1.9 billion adults \naged 18 years and older were overweight (4) and, of these, more than 600 million were obese. The spotlight \non prevention and management of NCDs and obesity has intensified recently as a result of the COVID-19 \npandemic, as there is increasing recognition that those with obesity or certain NCDs are at increased risk of \nadverse outcomes associated with COVID-19 (5–9). Modifiable risk factors such as unhealthy diets, physical \ninactivity, tobacco use and harmful use of alcohol are major risk factors for NCDs and obesity. The quality of \ncarbohydrates in the diet has been extensively explored as a potential modulator of NCD and obesity risk.\nCarbohydrates are found in a wide variety of primarily plant-based foods and are the principal source of \nenergy (i.e. calories) in the diets of many people. Metabolism of carbohydrates produces glucose, which is \nthe primary source of metabolic “fuel” for the brain, and other organs and tissues of the body. Carbohydrates \ncan be grouped in many different ways and referred to using a variety of terms. At the most basic level, \ncarbohydrates comprise monosaccharide building blocks and can be categorized based on the degree of \npolymerization (i.e. number of connected monosaccharides) as either sugars (mono- and disaccharides), \noligosaccharides (short-chain carbohydrates) or polysaccharides (i.e. starch) (10).\nThe concept of carbohydrate “quality” refers to the nature and composition of carbohydrates in a food or \nin the diet, including the proportion of sugars, how quickly polysaccharides are metabolized and release \nglucose into the body (i.e. digestibility), and the amount of dietary fibre (11–13). Carbohydrates that are \nslowly digested in the small intestine or pass through undigested are generally considered “high quality“, \nand rapidly digested carbohydrates such as sugars are considered “low quality“. Dietary fibre, in particular, \nis an important element of carbohydrate quality. It can be defined in various ways, although virtually all \ndefinitions share the concept that dietary fibre is resistant to digestion by enzymes in the small intestine \nof humans (10). Consumption of low-quality carbohydrates is often associated with poor overall dietary \nquality and may have a negative health impact, whereas consumption of high-quality carbohydrates is \noften associated with high overall dietary quality and has been shown to have a positive health impact (14). \nA high intake of free sugars, for example, is associated with increased risk of obesity and diet-related NCDs. \nConsequently, the World Health Organization (WHO) has previously issued guidance on limiting intake of \nfree sugars (15). Conversely, high intakes of dietary fibre and consumption of foods generally containing \nhigh-quality carbohydrates – such as whole grains, fruits, vegetables and pulses – have been shown to \nbroadly improve health (16–20).\nThe inclusion of dietary fibre and high-quality carbohydrates in the diet from whole grains, vegetables, \nfruits and pulses has long been recommended to improve and maintain cardiometabolic and overall health. \nAlthough current intakes of these nutrients and foods are highly variable across and within populations in \ndifferent settings, they are generally low at the global level relative to recommended intakes in this guideline, \nand other national reference values (21–28). Low vegetable and fruit intake in LMICs is of particular concern: \nrecent estimates suggest that less than 20–30% of individuals in many LMICs meet WHO recommendations \nfor vegetable and fruit consumption (29, 30).",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "9d1395e6-2da5-4e98-9024-136bbbde8cc8",
+        "embedding": null,
+        "metadata": {
+            "page_label": "2",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "2\nObjective, scope and methods\nThe objective of this guideline is to provide guidance on carbohydrate intake, including intake of dietary \nfibre and healthy food sources of carbohydrates, to be used by policy-makers, programme managers, \nhealth professionals and other stakeholders to promote healthy diets. The guideline was developed by \nthe WHO Nutrition Guidance Expert Advisory Group (NUGAG) Subgroup on Diet and Health following the \nWHO guideline development process, as outlined in the WHO handbook for guideline development (31). This \nprocess includes a review of systematically gathered evidence by an international, multidisciplinary group \nof experts; assessment of the quality of that evidence via the Grading of Recommendations Assessment, \nDevelopment and Evaluation (GRADE) framework 1; and consideration of additional, potentially mitigating \nfactors2 when translating the evidence into recommendations. The guideline was reviewed by a group of \nexternal experts and feedback was solicited from interested stakeholders during public consultations. The \nguidance in this guideline replaces previous WHO guidance on carbohydrate intake, including that from the \n1989 WHO Study Group on Diet, Nutrition and the Prevention of Chronic Diseases (32) and the 2002 Joint \nWHO/FAO Expert Consultation on Diet, Nutrition and the Prevention of Chronic Diseases (33).\nThe evidence\nEvidence from systematic reviews of randomized controlled trials (RCTs) and prospective observational \nstudies conducted in adults (18, 34-39) found that higher dietary fibre intake may lead to small reductions in \nvarious measures of body fatness (moderate to high certainty evidence), and is associated with reduced risk of \ndeveloping and/or dying from cardiovascular diseases (CVDs), type 2 diabetes and cancer (all moderate certainty \nevidence). Higher consumption of whole grains, vegetables, fruits and pulses is also associated with reduced \nrisk of developing and/or dying from CVDs (moderate certainty evidence). Higher consumption of whole grains, \nvegetables and fruits is further associated with reduced risk of developing and/or dying from cancer (moderate \ncertainty evidence). Higher consumption of whole grains (moderate certainty evidence) and pulses (very low \ncertainty evidence) is associated with reduced risk of developing type 2 diabetes. Although evidence from studies \nassessing effects or associations of low glycaemic index and/or low glycaemic load foods and diets was reviewed, \nlittle consistency was seen in benefit on mortality or NCDs from observational studies (very low to moderate \ncertainty evidence), and little to no improvement in cardiometabolic risk factors was seen in RCTs (very low to \nhigh certainty evidence). Direct evidence for health effects of dietary fibre, whole grains, vegetables, fruits and \npulses in children was limited but was consistent with results observed for adults (40).\nInterpreting the evidence\nSeveral observations were made in interpreting the results of the systematic reviews, some based directly \non data from the review and others supported by background questions and information that helps to \nestablish the context for the recommendations (31). They are summarized below.\nImpact on measures of body fatness. Evidence of minor weight loss was observed with higher intakes of dietary \nfibre, whole grains, vegetables, fruits and pulses3 in short-term RCTs of generally less than 6 months. Evidence \nfor longer-term associations with body weight from prospective observational studies was consistent with \neffects observed in RCTs and generally suggestive of benefit (20, 41–43); however, the evidence from prospective \nobservational studies is much more limited than the evidence from RCTs and was not formally included in the \nevidence base. Because the evidence for long-term impact on body weight is limited but consistent with both \nobserved short-term effects on body weight assessed in RCTs and associations with disease outcomes observed \nin prospective cohort studies, and the evidence for disease outcomes was so robust and therefore sufficient on \nits own to justify the formulation of recommendations, emphasis was placed on the evidence for associations \nwith disease outcomes in formulating the recommendations.\n1 http://www.gradeworkinggroup.org/\n2 These include desirable and undesirable effects of the intervention, priority of the problem that the recommendation \naddresses, values and preferences related to the recommendation in different settings, the cost of the options available \nto public health officials and programme managers in different settings, feasibility and acceptability of implementing the \nrecommendation in different settings, and the potential impact on equity and human rights.\n3 The 2019 systematic review (34) included a limited number of RCTs assessing the effects of pulse intake on measures of \nbody fatness in the context of their dietary fibre content and found no significant effect on body weight. Evidence from a \n2016 systematic review not formally included in the evidence base and more broadly assessing the effects of pulses on body \nweight with a larger number of trials reported a reduction in body weight with consumption of pulses (44).",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "4bc7b3a0-d80d-474d-b4ec-3fbe1fa07aa1",
+        "embedding": null,
+        "metadata": {
+            "page_label": "3",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "3\nImpact on intermediate markers and risk factors for cardiometabolic disease. Evidence of favourable \nchanges in some intermediate markers and risk factors for cardiometabolic disease – including LDL \ncholesterol and fasting glucose levels was observed with higher intakes of dietary fibre in short-term \nRCTs of generally less than 6 months. However, when subgrouped by different sources of fibre (i.e. \nfrom whole grains, vegetables, fruits and pulses), evidence was less consistent, with little evidence of \neffects on intermediate markers and risk factors observed. This was somewhat unexpected, given the \nstrong associations between intake of dietary fibre, whole grains, vegetables, fruits and pulses, but \nmay reflect methodological considerations in the RCTs, including variation in trial duration and nature \nof the interventions employed. Nevertheless, the results are not inconsistent with results observed for \ndisease outcomes in prospective cohort studies – that is, there is no evidence of unfavourable effects \non intermediate markers or risk factors for cardiometabolic disease with higher intakes of dietary fibre, \nwhole grains, vegetables, fruits or pulses.\nOral health outcomes. Lesser emphasis was placed on the results from the systematic review on oral \nhealth outcomes (35) when formulating recommendations because the data were limited, came from many \ndifferent study types, were based on exposures not strictly consistent with the PICO questions, and were \ngenerally consistent with results from the other systematic reviews. Consequently, the results from this \nreview are not reported in the GRADE evidence profiles found in the full guideline.\nGlycaemic index and glycaemic load. In interpreting the results observed for lower glycaemic index \nand glycaemic load, the NUGAG Subgroup on Diet and Health noted that there was a lack of consistent \nbenefit from diets with lower glycaemic index or glycaemic load in observational studies, and little to no \nimprovement in cardiometabolic risk factors in RCTs associated with lower glycaemic index and glycaemic \nload. In addition, because the recommendations on carbohydrate intake were formulated in the context of \nother WHO guidance on healthy diets, a key consideration for the NUGAG Subgroup on Diet and Health is \nthat glycaemic index and glycaemic load only provide information about how a food affects postprandial \nglucose levels; they do not take into consideration other potentially undesirable components of the food \nthat may contribute to a reduction in diet quality. Because more robust, consistent evidence was available \nfor the health benefits of foods containing dietary fibre and whole carbohydrate, the NUGAG Subgroup on \nDiet and Health concluded that providing guidance on dietary fibre and food sources of carbohydrate was \nthe most effective means of addressing carbohydrate quality. Recommendations on glycaemic index and \nglycaemic load were therefore not made.\nIdentifying recommended levels of intake. Data from the dose–response analyses suggested additional \nbenefits with dietary fibre intakes greater than 30 g per day, and vegetable and fruit intakes up to 800 g per \nday. However, the data on intakes at these levels were more limited and precluded definitive conclusions. \nAdditionally, from a practical standpoint, it was considered prudent to identify recommended intakes at \nlevels that had both robust evidence for health benefit and a likelihood that the intakes could be achieved in \nmost, if not all, settings. Recommended intakes for dietary fibre, and vegetables and fruits were formulated \naccordingly.\nA dose–response relationship was also observed between intake of whole grains and several outcomes. \nHowever, the NUGAG Subgroup on Diet and Health concluded that quantitative recommendations for \nwhole grains would likely be more challenging to implement than those for dietary fibre or vegetables and \nfruits. This is because, unlike vegetables and fruits, whole grains are often not consumed directly but are \nconsumed as part of prepared foods such as bread or pasta. As well, unlike dietary fibre, whole grains are \ngenerally not included in nutrient declarations and labels on packaged foods. Results for the dose–response \nrelationships can be found in the 2019 systematic review by Reynolds et al. (34).\nAdverse effects. Very few adverse effects were observed with higher intakes of dietary fibre, whole grains, \nvegetables, fruits or pulses. However, higher intake of dietary fibre or whole grains was associated with \nincreased risk of endometrial cancer and prostate cancer, respectively, in prospective cohort studies. The \ncertainty in the evidence for these two outcomes was very low and low, respectively, and there are no clear \nbiological mechanisms that would explain these potential relationships. Additional evidence from case– \ncontrol studies not formally included in the evidence review shows reduced risk of endometrial cancer \nwith higher fibre intake (45) and reduced risk of prostate cancer with higher intake of whole grains (46). \nConsequently, the NUGAG Subgroup on Diet and Health did not feel that these observed associations ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "0223e632-b8ec-4550-a4bc-32af20e705a8",
+        "embedding": null,
+        "metadata": {
+            "page_label": "4",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "4\noutweighed the robust associations observed between intake of dietary fibre and whole grains and \nreduced risk of cardiometabolic disease, other types of cancer and mortality. They further noted that \nadditional research is needed to explore the observed associations. Additionally, consuming a diet with \nlower glycaemic load was associated with increased risk of cancer mortality; however, the evidence comes \nfrom a single prospective cohort study of very low certainty. As noted above, there is no clear biological \nmechanism that would explain this potential relationship, but given the limitations of glycaemic index \nand glycaemic load as described in bullet 4 above, it is difficult to make any firm conclusions about this \nobservation.\nEvaluating the evidence for children. Evidence for the health effects in children of consuming dietary fibre, \nwhole grains, vegetables, fruits and pulses is limited, but is consistent with results observed in studies \nconducted in adults. Consequently, the NUGAG Subgroup on Diet and Health concluded that it would be \nappropriate to extrapolate the results obtained for adults to children. The calculations used in deriving the \nquantitative levels of intake of dietary fibre, and vegetables and fruit are described in the Annex.\nRecommendations and supporting information\nAll recommendations should be considered in the context of other WHO guidelines on healthy diets, \nincluding those on sugars (15), sodium (47), potassium (48), total fat (49), saturated fatty acids and trans- fatty \nacids (50), polyunsaturated fatty acids (32)1 and non-sugar sweeteners (51). An explanation of the strength of \nWHO recommendations can be found in Box 1.\nWHO recommendations\n1. WHO recommends that carbohydrate intake should come primarily from whole grains, vegetables, \nfruits and pulses ( strong recommendation; relevant for all individuals 2 years of age and older). \n2. In adults, WHO recommends an intake of at least 400 g of vegetables and fruits per day ( strong \nrecommendation).\n3. In children and adolescents, WHO suggests the following intakes of vegetables and fruits \n(conditional recommendation):\n• 2–5 years old, at least 250 g per day\n• 6–9 years old, at least 350 g per day\n• 10 years or older, at least 400 g per day.\n4. In adults, WHO recommends an intake of at least 25 g per day of naturally occurring dietary fibre \nas consumed in foods (strong recommendation).\n5. In children and adolescents, WHO suggests the following intakes of naturally occurring dietary \nfibre as consumed in foods (conditional recommendation):\n• 2–5 years old, at least 15 g per day\n• 6–9 years old, at least 21 g per day\n• 10 years or older, at least 25 g per day.\nRationale and remarks\nThe following provides the reasoning (rationale) behind the formulation of the recommendations, as well \nas remarks designed to provide context for the recommendations and facilitate their interpretation and \nimplementation.\n1  WHO guidance on polyunsaturated fatty acids is currently being updated.",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "759cc8bb-9b23-471e-9006-811f344c3146",
+        "embedding": null,
+        "metadata": {
+            "page_label": "5",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "5\nRationale for recommendation 1\n ▶ Recommendation 1 is based on evidence from seven systematic reviews that assessed the effects of \nhigher compared with lower intakes of whole grains, vegetables and fruits, or pulses ( 18, 34–39 ). These \nsystematic reviews found that higher intake of these foods reduced the risk of all-cause mortality and \nseveral NCDs. The overall certainty in the evidence for recommendation 1 was assessed as moderate.\nFor adults, findings supporting the recommendation include the following.\n  Evidence of moderate certainty overall came from a systematic review of prospective observational \nstudies demonstrating associations between higher intakes of whole grains and reduced risk of all- \ncause mortality, CVDs, coronary heart disease, type 2 diabetes and colorectal cancer (34).\n  Evidence of moderate certainty overall came from a systematic review of prospective observational \nstudies demonstrating associations between higher intakes of vegetables and fruits and reduced \nrisk of all-cause mortality, CVDs, stroke, coronary heart disease, type 2 diabetes and cancer (19).\n  Evidence of moderate certainty overall came from a systematic review of prospective observational \nstudies demonstrating associations between higher intakes of pulses and reduced risk of CVDs, \ncoronary heart disease and type 2 diabetes (38, 39).\nFor children and adolescents, findings supporting the recommendation include the following.\n  Direct evidence for health effects of consumption of whole grains, vegetables, fruits and pulses by \nchildren and adolescents is limited. Because the health benefits of consuming these foods observed \nin adults are expected to also be relevant for children and adolescents, and the benefits observed in \nadulthood are likely to begin accruing in childhood, the recommendation as it pertains to children \nand adolescents is based on extrapolation of adult data without downgrading the strength of the \nrecommendation. Limited evidence from a systematic review of prospective observational studies \nof intake of dietary fibre, whole grains, vegetables, fruits and pulses by children and adolescents (40) \nis consistent with that observed for adults. Results from studies included in this review were not \namenable to meta-analysis. Although several studies suggested benefit from consumption of whole \ngrains, vegetables, fruits or pulses in terms of body weight, blood lipids and glycaemic control, results \nfrom some studies suggested no effect, and results from a very small number of studies suggested \nincreased body weight with increased vegetable intake (very low certainty evidence for all outcomes).\n ▶ Recommendation 1 was assessed as strong because evidence for benefit was observed directly for \na number of critical health outcomes, and indirectly in the results for dietary fibre; the main dietary \n Box 1. Strength of WHO recommendations\nWHO recommendations can either be strong or conditional, based on a number of factors including \noverall certainty in the supporting scientific evidence, balance of desirable and undesirable \nconsequences, and others as noted elsewhere in this summary.\nStrong recommendations are those recommendations for which the WHO guideline development \ngroup is confident that the desirable consequences of implementing the recommendation outweigh \nthe undesirable consequences. Strong recommendations can be adopted as policy in most situations.\nConditional recommendations are those recommendations for which the WHO guideline development \ngroup is less certain that the desirable consequences of implementing the recommendation outweigh \nthe undesirable consequences or when the anticipated net benefits are very small. Therefore, \nsubstantive discussion amongst policy-makers may be required before a conditional recommendation \ncan be adopted as policy.\nThe reasoning behind the strength of the recommendation(s) in this guideline is provided in the \nrationale for the recommendation(s). Additional information on assessing the strength of WHO \nrecommendations can be found in the WHO handbook for guideline development (31).",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "978f76d6-0275-4b58-9ee3-e2ea7becce9f",
+        "embedding": null,
+        "metadata": {
+            "page_label": "6",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "6\nsources of dietary fibre were whole grains, vegetables, fruits and pulses. Although assessed in adults, \nthis evidence was also considered to be highly relevant for children and adolescents. With the exception \nof a small increase in risk of prostate cancer with higher whole grain intake ( low certainty evidence), no \nundesirable effects were identified, and no mitigating factors were identified that would argue against \nincluding whole grains, vegetables, fruits and pulses as the primary sources of carbohydrates in the diet.\nRationale for recommendations 2 and 3\n ▶ Recommendations 2 and 3 are based on evidence of moderate certainty overall from a systematic \nreview of prospective observational studies conducted in adults that assessed the health effects of \nhigher compared with lower intake of vegetables and fruits (19). The systematic review found that higher \nintakes of vegetables and fruits were associated with reduced risk of all-cause mortality, CVDs, stroke, \ncoronary heart disease, type 2 diabetes and cancer.\n ▶ The threshold of at least 400 g of vegetables and fruits per day was selected because a dose–response \nrelationship was observed in the observational studies: risk for all outcomes except cancer decreased \nwith intakes of vegetables and fruits up to 800 g per day, and the greater the intake, the greater the \nbenefit. Evidence for intakes more than 800 g per day was limited. Although the greatest benefit was \nobserved at intakes of 800 g per day, the steepest reduction in risk was up to 400 g per day, after which \nthe effect levelled off for some outcomes. Furthermore, intakes of more than 400 g per day may be \ndifficult to achieve in many settings. The threshold of 400 g per day was therefore selected as a feasible \nminimal level that would provide significant health benefits.\n ▶ Because evidence from studies conducted in children and adolescents is insufficient to derive \nquantitative recommendations on intakes for children, and the observed health benefits of consuming \nvegetables and fruits in studies of adults are expected to be relevant for all age groups, intakes for \nchildren and adolescents are extrapolated from values for adults, based on the different levels of energy \nintake at different stages of childhood and adolescence. Limited evidence from a systematic review of \nprospective observational studies in children and adolescents suggested that higher vegetable and fruit \nintakes are generally associated with improvements in body weight, blood lipids and glycaemic control \n(very low certainty evidence for all outcomes), with no evidence of undesirable effects (40). This further \nsupports the recommended levels of vegetable and fruit intake for children.\n ▶ Recommendation 2 was assessed as strong because evidence for benefit was observed for a number of \ncritical health outcomes across a wide range of intakes. The minimal value selected for vegetable and fruit \nintake was both associated with a significant benefit and an amount that many should be able to achieve. \nNo undesirable effects were identified with consuming 400 g per day or more of vegetables and fruits, and \nno mitigating factors were identified that would argue against consuming vegetables and fruits at this level.\n ▶ Recommendation 3 was assessed as conditional because, although the evidence observed for benefit \nin adults is robust and is expected to also be relevant for children and adolescents, the values were \ncalculated based on extrapolation of adult values. Because the values are based both on extrapolated \ndata and mean reference energy expenditures, a conservative approach was taken, leading to a \nconditional recommendation.\nRationale for recommendations 4 and 5\n ▶ Recommendations 4 and 5 are based on evidence of moderate certainty overall from a systematic \nreview of randomized controlled trials and prospective observational studies conducted in adults that \nassessed higher compared with lower intakes of dietary fibre (34). This systematic review found that \nhigher intakes of dietary fibre led to favourable improvements in obesity and NCDs risk factors, and \nwere associated with reduced risk of all-cause mortality, CVDs, stroke, coronary heart disease, type 2 \ndiabetes and cancer.\n ▶ The threshold of at least 25 g per day was selected based on the dose–response relationship seen in \nthe observational studies between dietary fibre intake and reduced risk for several NCD and mortality \noutcomes. This relationship was observed at intakes up to 40 g per day, but the number of studies \nreporting data began to taper off at 30 g or more per day. Evidence for intakes more than 40 g per day ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "3dcc0407-6ec3-492c-bfda-7deedb8ce014",
+        "embedding": null,
+        "metadata": {
+            "page_label": "7",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "7\nwas scarce. In studies comparing individuals with the lowest fibre intakes with those consuming discrete \nranges of increasing intake, the range that demonstrated greatest benefit for the largest number of \nhealth outcomes was 25–29 g per day.\n ▶ Because evidence from studies conducted in children and adolescents is insufficient to derive \nquantitative recommendations on intakes for children, and the observed health benefits of consuming \ndietary fibre in studies of adults are expected to be relevant for all age groups, intakes for children and \nadolescents are extrapolated from values for adults, based on the different levels of energy intake \nand energy expenditure at different stages of childhood and adolescence. Limited evidence from a \nsystematic review of prospective observational studies in children and adolescents suggested that \nhigher dietary fibre intake is generally associated with improvements in body weight, blood lipids  \nand glycaemic control ( very low certainty evidence for all outcomes), with no evidence of undesirable \neffects (40). This further supports the recommended levels of dietary fibre intake for children.\n ▶ Recommendation 4 was assessed as strong because evidence for benefit was observed for a number \nof critical health outcomes across a wide range of intakes. The minimal value selected for dietary fibre \nintake was both associated with a significant benefit and an amount that many should be able to achieve. \nWith the exception of increased risk of endometrial cancer with higher intakes of dietary fibre ( very low \ncertainty evidence), no undesirable effects were identified with dietary fibre intakes of at least 25 g per \nday, and no mitigating factors were identified that would argue against dietary fibre intake at this level.\n ▶ Recommendation 5 was assessed as conditional because, although the evidence observed for benefit \nin adults is robust and is expected to also be relevant for children and adolescents, the values were \ncalculated based on extrapolation of adult values. Because the values are based both on extrapolated \ndata and mean reference energy expenditures, a conservative approach was taken, leading to a \nconditional recommendation.\nRemarks\n ▶ One of the original aims of updating the guidance on carbohydrate intake was to provide guidance on \ncarbohydrate quality. Having considered the available evidence relating to food sources of carbohydrate \nand dietary fibre, starch digestibility and glycaemic response, as measured by glycaemic index and \nglycaemic load, the WHO NUGAG Subgroup on Diet and Health concluded that providing guidance on \ndietary fibre and food sources of carbohydrate with consistently demonstrated benefit in terms of \nimportant health outcomes was the most effective means of addressing carbohydrate quality.\n ▶ This guideline provides guidance on dietary fibre intake, and also updates the prior WHO recommendation on \nintakes of vegetables and fruits (32). The scope of this guideline does not include an update to the previously \npublished range of carbohydrate intake as a percentage of total energy intake, which was determined largely \nby the energy intake remaining after defining amounts of dietary fat and protein intake (32). Consequently, \nthis guideline does not include recommendations on the amount of carbohydrate that should be consumed, \nand carbohydrate intake should continue to be based on recommended levels of protein (32) and fat \nintake (49). Results from a 2018 meta-analysis suggest that a range of total carbohydrate intake appears to be \ncompatible with a healthy diet (52). Intakes of approximately 40–70% of total energy intake as carbohydrate \nare associated with reduced risk of mortality compared with lower (<40%) or higher (>70%) intakes. This is \nlargely consistent with the range of carbohydrate intakes resulting from current WHO guidance on protein \nintake (32) and recently updated guidance on total fat intake (49).\n ▶ In addition to the benefits of dietary fibre from whole grains, vegetables, fruits and pulses, these foods \nmay also contain other compounds that have been associated with health benefits (53–55).\n ▶ The recommendations included in this guideline cover all types of whole grains, vegetables, fruits and \npulses, with caveats relating to processing and preparation, as noted in the following remarks. A variety \nof such foods should be consumed, where possible.\n ▶ Although fresh vegetables and fruits are a good choice when and where they are available, in some \nsettings they present a significant risk for foodborne illness. In areas where risk of foodborne illness is \nhigh, selecting vegetables and fruits with hard skins or peels that can be removed, thoroughly washing \nthem with potable water, or consuming cooked or canned varieties can reduce the risk of illness (56).",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "764e9282-5637-4d63-9c43-99ba53e6956c",
+        "embedding": null,
+        "metadata": {
+            "page_label": "8",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "8\n ▶ The recommendations covering vegetable and fruit intake are not limited to fresh vegetables and fruits. \nEvidence from the systematic reviews suggests health benefits from a wide range of vegetables and \nfruits, including those that are fresh, cooked, frozen or canned. However, an increased risk of all-cause \nmortality and CVDs was observed for tinned fruits in a small number of studies. Specific evidence \nfor dried fruits and fruit juices in the systematic reviews is very limited, and results are inconsistent; \nhowever, both can be significant sources of sugars, as can fruit concentrates and fruit sugars (i.e. sugars \nand syrups obtained from whole fruits). All should therefore be consumed in accordance with WHO \nrecommendations on free sugars intake (15). Similarly, although no specific evidence was identified for \ncanned vegetables, some canned vegetables contain added sodium and should therefore be consumed \nin accordance with WHO recommendations on sodium intake (47).\n ▶ The method of preparation and the level of processing should be considered when consuming whole \ngrains, vegetables, fruits and pulses, and should be compatible with other WHO macronutrient \nrecommendations as indicated in the next point. For example, frying and addition of sauces or \ncondiments can significantly increase the amount of fat, sugars or salt. Therefore, fresh foods, or foods \nthat are minimally processed or modified beyond the treatment necessary to ensure edibility, without \nadded fat, sugars or salt, are preferred.\n ▶ Whole grains contain the naturally occurring components of the kernel (i.e. bran, germ and endosperm). \nSome processed foods are labelled whole grain if these three components of the grain are included, \nregardless of the extent to which the grains have been processed, and highly processed products labelled \nas whole grain are becoming increasingly available (e.g. products containing flour from milled whole \ngrains with added fat, sugar or salt). Because there is evidence to suggest that the naturally occurring \nstructure of intact whole grains contributes to its observed health effects (57-59), minimal processing of \nwhole grains beyond that necessary to ensure edibility is preferred.\n ▶ The source of dietary fibre in the prospective cohort studies included in the systematic reviews, \nupon which recommendations 4 and 5 are largely based, is fibre naturally occurring in foods and not \nextracted or synthetic fibre added to foods or consumed on its own (e.g. fibre supplements, capsules, \npowders). Although there was limited evidence for a reduction in total cholesterol with use of extracted \nor synthetic fibre, further research on disease outcomes associated with extracted or synthetic fibre is \nneeded before conclusions on potential health benefits can be drawn. Therefore, the recommendations \nspecifically cover dietary fibre that occurs naturally in foods.\n ▶ Plant-based foods – including whole grains, vegetables, fruits and pulses – contain some compounds \nthat have been shown to inhibit absorption of certain nutrients, most notably minerals such as iron, zinc \nand calcium (60). These “antinutrients” include lectins, oxalates, phytates, goitrogens, phytoestrogens, \ntannins, saponins and glucosinolates, and many of these have also been shown to have health benefits \nunrelated to their impact on nutrient absorption. The extent to which an impact on nutrient absorption \noccurs varies from person to person. The inhibitory effect is generally observed only at very high intakes \nand in individuals with existing nutritional deficiencies; in the context of adequate, diverse diets, it \nis generally not significant. In addition, some simple methods of preparation, including soaking and \nheating, and more advanced methods, including germination and fermentation, appear to reduce the \ninhibitory potential. Therefore, most people can generally consume whole grains, vegetables, fruits and \npulses with little to no risk. Those with nutritional deficiencies or at high risk for nutritional deficiencies – \nparticularly undernourished children and those who rely heavily on foods containing these compounds \nas staple foods without much additional diversity in the diet – may need to adopt behaviours that \nminimize the ability of these compounds to inhibit absorption of other nutrients.\n ▶ These recommendations do not cover children under 2 years of age. However, whole grains, vegetables, \nfruits and pulses can be healthy sources of carbohydrates in complementary foods consumed by \nchildren from 6 months to 2 years of age, and are strongly preferred to foods containing free sugars. 1\n1 WHO recommends that infants should be exclusively breastfed for the first 6 months of life to achieve optimal growth, \ndevelopment and health. Thereafter, to meet their evolving nutritional requirements, infants should receive nutritionally \nadequate and safe complementary foods, while continuing to breastfeed for up to 2 years or beyond (61, 62).",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "0499d319-09f5-4762-872f-40624b67c6dc",
+        "embedding": null,
+        "metadata": {
+            "page_label": "9",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "9\nTranslation and implementation\nThe recommendation in this guideline should be considered in conjunction with other WHO guidance on \nhealthy diets to guide effective policy actions and intervention programmes to promote healthy diets and \nnutrition, and prevent diet-related NCDs.\nA detailed discussion of how the recommendations on carbohydrate intake might be implemented is beyond \nthe scope of this guideline, however they can be considered by policymakers and programme managers \nwhen discussing possible measures, including:\n ▶ assessing current intakes of dietary fibre, vegetables and fruits in their populations relative to \nbenchmarks;\n ▶ developing policy measures to increase intake of dietary fibre, whole grains, vegetables, fruits and \npulses, where necessary, through a range of public health interventions, many of which are already \nbeing implemented by countries, including\n  nutrition labelling (i.e. mandatory nutrient declaration) and front-of-pack labelling systems\n  fiscal policies (i.e. subsidies) targeting foods containing dietary fibre, whole grains, vegetables, fruits \nand pulses\n  consumer education; and\n ▶ translating the recommendations into culturally and contextually specific food-based dietary guidelines \nthat take into account locally available foods and dietary customs.\nProviding overall dietary guidance is beyond the scope of this guideline because such guidance should be \nbased on overall dietary goals that consider all required nutrients. However, it is feasible to achieve the \nrecommendations in this guideline while respecting national dietary customs, because a wide variety of \ndietary fibre–containing wholegrains, fruits, vegetables and pulses are available in many countries.",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "cdea1c23-215f-4bae-99f4-055b563d76b5",
+        "embedding": null,
+        "metadata": {
+            "page_label": "10",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "10\nReferences\nReferences for which a URL is listed were last accessed on 25 May 2023.\n1. Global Health Observatory data. Noncommunicable diseases mortality and morbidity. Geneva: World \nHealth Organization; 2021 (http://www.who.int/gho/ncd/mortality_morbidity/en/ ).\n2. Afshin A, Forouzanfar MH, Reitsma MB, Sur P , Estep K, Lee A, et al. Health effects of overweight and \nobesity in 195 countries over 25 years. N Engl J Med. 2017;377(1):13–27.\n3. Global BMI Mortality Collaboration. Body-mass index and all-cause mortality: individual-participant- \ndata meta-analysis of 239 prospective studies in four continents. Lancet. 2016;388(10046):776–86.\n4. NCD Risk Factor Collaboration. Worldwide trends in body-mass index, underweight, overweight, and \nobesity from 1975 to 2016: a pooled analysis of 2416 population-based measurement studies in 128.9 \nmillion children, adolescents, and adults. Lancet. 2017;390(10113):2627–42.\n5. Pan XF, Yang J, Wen Y, Li N, Chen S, Pan A. Non-communicable diseases during the COVID-19 \npandemic and beyond. Engineering (Beijing). 2021;7(7):899–902.\n6. Nikoloski Z, Alqunaibet AM, Alfawaz RA, Almudarra SS, Herbst CH, El-Saharty S, et al. Covid-19 and \nnon-communicable diseases: evidence from a systematic literature review. BMC Public Health. \n2021;21(1):1068.\n7. Gao M, Piernas C, Astbury NM, Hippisley-Cox J, O’Rahilly S, Aveyard P , et al. Associations between \nbody-mass index and COVID-19 severity in 6.9 million people in England: a prospective, community- \nbased, cohort study. Lancet Diabetes Endocrinol. 2021;9(6):350–9.\n8. Responding to noncommunicable diseases during and beyond the COVID-19 pandemic: a rapid \nreview. Geneva: World Health Organization & United Nations Development Programme; 2020 ( https://\napps.who.int/iris/handle/10665/334143).\n9. Cai Z, Yang Y, Zhang J. Obesity is associated with severe disease and mortality in patients with \ncoronavirus disease 2019 (COVID-19): a meta-analysis. BMC Public Health. 2021;21(1):1505.\n10. Cummings JH, Stephen AM. Carbohydrate terminology and classification. Eur J Clin Nutr. \n2007;61(Suppl 1):S5–S18.\n11. Englyst KN, Liu S, Englyst HN. Nutritional characterization and measurement of dietary \ncarbohydrates. Eur J Clin Nutr. 2007;61(Suppl 1):S19–S39.\n12. Campos V, Tappy L, Bally L, Sievenpiper JL, Lê KA. Importance of carbohydrate quality: what does it \nmean and how to measure it? J Nutr. 2022;152(5):1200–6.\n13. Schulz R, Slavin J. Perspective: defining carbohydrate quality for human health and environmental \nsustainability. Adv Nutr. 2021;12(4):1108–21.\n14. Schwingshackl L, Bogensberger B, Hoffmann G. Diet quality as assessed by the Healthy Eating \nIndex, Alternate Healthy Eating Index, Dietary Approaches to Stop Hypertension score, and health \noutcomes: an updated systematic review and meta-analysis of cohort studies. J Acad Nutr Diet. \n2018;118(1):74-100.e11.\n15. Guideline: sugars intake for adults and children. Geneva: World Health Organization; 2015 ( https://\nwww.who.int/publications/i/item/9789241549028 ).",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "4edf66ad-588a-43cc-9d8d-3a5270d796eb",
+        "embedding": null,
+        "metadata": {
+            "page_label": "11",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "11\n16. Kim Y, Je Y. Dietary fibre intake and mortality from cardiovascular disease and all cancers: a meta- \nanalysis of prospective cohort studies. Arch Cardiovasc Dis. 2016;109(1):39–54.\n17. InterAct Consortium. Dietary fibre and incidence of type 2 diabetes in eight European countries: the \nEPIC-InterAct Study and a meta-analysis of prospective studies. Diabetologia. 2015;58(7):1394–408.\n18. Aune D, Keum N, Giovannucci E, Fadnes LT, Boffetta P , Greenwood DC, et al. Whole grain consumption \nand risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic \nreview and dose–response meta-analysis of prospective studies. BMJ. 2016;353:i2716.\n19. Aune D, Giovannucci E, Boffetta P , Fadnes LT, Keum N, Norat T, et al. Fruit and vegetable intake and \nthe risk of cardiovascular disease, total cancer and all-cause mortality: a systematic review and \ndose–response meta-analysis of prospective studies. Int J Epidemiol. 2017;46(3):1029–56.\n20. Viguiliouk E, Glenn AJ, Nishi SK, Chiavaroli L, Seider M, Khan T, et al. Associations between dietary \npulses alone or with other legumes and cardiometabolic disease outcomes: an umbrella review and \nupdated systematic review and meta-analysis of prospective cohort studies. Adv Nutr. 2019;  \n10(Suppl 4):S308–S319.\n21. Micha R, Khatibzadeh S, Shi P , Andrews KG, Engell RE, Mozaffarian D. Global, regional and national \nconsumption of major food groups in 1990 and 2010: a systematic analysis including 266 country- \nspecific nutrition surveys worldwide. BMJ Open. 2015;5(9):e008705.\n22. Meynier A, Chanson-Rollé A, Riou E. Main factors influencing whole grain consumption in children and \nadults: a narrative review. Nutrients. 2020;12(8):2217.\n23. Miller KB. Review of whole grain and dietary fiber recommendations and intake levels in different \ncountries. Nutr Rev. 2020;78(Suppl 1):29–36.\n24. Stephen AM, Champ MM, Cloran SJ, Fleith M, van Lieshout L, Mejborn H, et al. Dietary fibre in Europe: \ncurrent state of knowledge on definitions, sources, recommendations, intakes and relationships to \nhealth. Nutr Res Rev. 2017;30(2):149–90.\n25. The global economy of pulses. Rome: Food and Agriculture Organization of the United Nations; 2019 \n(https://www.fao.org/documents/card/en/c/i7108en).\n26. McGill CR, Fulgoni VL 3rd, Devareddy L. Ten-year trends in fiber and whole grain intakes and food \nsources for the United States population: National Health and Nutrition Examination Survey  \n2001–2010. Nutrients. 2015;7(2):1119–30.\n27. Miller V, Yusuf S, Chow CK, Dehghan M, Corsi DJ, Lock K, et al. Availability, affordability, and \nconsumption of fruits and vegetables in 18 countries across income levels: findings from the \nProspective Urban Rural Epidemiology (PURE) study. Lancet Glob Health. 2016;4(10):e695–e703.\n28. Yu D, Zhao L, Zhao W. Status and trends in consumption of grains and dietary fiber among Chinese \nadults (1982–2015). Nutr Rev. 2020;78(Suppl 1):43–53.\n29. Darfour-Oduro SA, Buchner DM, Andrade JE, Grigsby-Toussaint DS. A comparative study of fruit and \nvegetable consumption and physical activity among adolescents in 49 low-and-middle-income \ncountries. Sci Rep. 2018;8(1):1623.\n30. Frank SM, Webster J, McKenzie B, Geldsetzer P , Manne-Goehler J, Andall-Brereton G, et al. \nConsumption of fruits and vegetables among individuals 15 years and older in 28 low- and middle- \nincome countries. J Nutr. 2019;149(7):1252–9.\n31. WHO handbook for guideline development, second edition. Geneva: World Health Organization; 2014 \n(https://apps.who.int/iris/handle/10665/145714).\n32. Diet, nutrition and the prevention of chronic diseases: report of a WHO study group. Geneva: World \nHealth Organization; 1990 ( https://apps.who.int/iris/handle/10665/39426).\n33. Diet, nutrition and the prevention of chronic diseases: report of a Joint WHO/FAO expert consultation. \nGeneva: World Health Organization; 2003 ( https://apps.who.int/iris/handle/10665/42665).",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "4582ae5c-3d58-447d-ba77-73c6670d80b3",
+        "embedding": null,
+        "metadata": {
+            "page_label": "12",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "12\n34. Reynolds A, Mann J, Cummings J, Winter N, Mete E, Te Morenga L. Carbohydrate quality and human \nhealth: a series of systematic reviews and meta-analyses. Lancet. 2019;393(10170):434–45.\n35. Halvorsrud K, Lewney J, Craig D, Moynihan PJ. Effects of starch on oral health: systematic review to \ninform WHO guideline. J Dent Res. 2019;98(1):46–53.\n36. Mytton OT, Nnoaham K, Eyles H, Scarborough P , Ni Mhurchu C. Systematic review and meta-analysis \nof the effect of increased vegetable and fruit consumption on body weight and energy intake. BMC \nPublic Health. 2014;14:886.\n37. Mytton OT, Nnoaham K, Eyles H, Scarborough P , Ni Mhurchu C. Erratum to: systematic review and \nmeta-analysis of the effect of increased vegetable and fruit consumption on body weight and energy \nintake. BMC Public Health. 2017;17(1):662.\n38. Afshin A, Micha R, Khatibzadeh S, Mozaffarian D. Consumption of nuts and legumes and risk of \nincident ischemic heart disease, stroke, and diabetes: a systematic review and meta-analysis. Am J \nClin Nutr. 2014;100(1):278–88.\n39. Marventano S, Izquierdo Pulido M, Sánchez-González C, Godos J, Speciani A, Galvano F, et al. Legume \nconsumption and CVD risk: a systematic review and meta-analysis. Public Health Nutr. 2017;20(2):245–54.\n40. Reynolds AN, Diep Pham HT, Montez J, Mann J. Dietary fibre intake in childhood or adolescence and \nsubsequent health outcomes: a systematic review of prospective observational studies. Diabetes \nObes Metab. 2020;22(12):2460–7.\n41. Schwingshackl L, Hoffmann G, Kalle-Uhlmann T, Arregui M, Buijsse B, Boeing H. Fruit and vegetable \nconsumption and changes in anthropometric variables in adult populations: a systematic review and \nmeta-analysis of prospective cohort studies. PloS One. 2015;10(10):e0140846.\n42. Chen JP , Chen GC, Wang XP , Qin L, Bai Y. Dietary fiber and metabolic syndrome: a meta-analysis and \nreview of related mechanisms. Nutrients. 2017;10(1):24.\n43. Maki KC, Palacios OM, Koecher K, Sawicki CM, Livingston KA, Bell M, et al. The relationship between \nwhole grain intake and body weight: results of meta-analyses of observational studies and \nrandomized controlled trials. Nutrients. 2019;11(6):1245.\n44. Kim SJ, de Souza RJ, Choo VL, Ha V, Cozma AI, Chiavaroli L, et al. Effects of dietary pulse consumption \non body weight: a systematic review and meta-analysis of randomized controlled trials. Am J Clin \nNutr. 2016;103(5):1213–23.\n45. Chen K, Zhao Q, Li X, Zhao J, Li P , Lin S, et al. Dietary fiber intake and endometrial cancer risk: a \nsystematic review and meta-analysis. Nutrients. 2018;10(7):945.\n46. Wang RJ, Tang JE, Chen Y, Gao JG. Dietary fiber, whole grains, carbohydrate, glycemic index, and \nglycemic load in relation to risk of prostate cancer. Onco Targets Ther. 2015;8:2415–26.\n47. Guideline: sodium intake for adults and children. Geneva: World Health Organization; 2012 ( https://\nwww.who.int/publications/i/item/9789241504836 ).\n48. Guideline: potassium intake for adults and children. Geneva: World Health Organization; 2012 \n(https://www.who.int/publications/i/item/9789241504829 ).\n49. Total fat intake for the prevention of unhealthy weight gain in adults and children: WHO guideline. \nGeneva: World Health Organization; 202 3 (https://www.who.int/publications/i/item/9789240073654 ).\n50. Saturated fatty acid and trans-fatty acid intake for adults and children: WHO guideline. Geneva: World \nHealth Organization; 2023 (https://www.who.int/publications/i/item/9789240073630 ).\n51. Use of non-sugar sweeteners: WHO guideline. Geneva: World Health Organization; 2023 ( https://www.\nwho.int/publications/i/item/9789240073616).\n52. Seidelmann SB, Claggett B, Cheng S, Henglin M, Shah A, Steffen LM, et al. Dietary carbohydrate \nintake and mortality: a prospective cohort study and meta-analysis. Lancet Public Health. \n2018;3(9):e419–e428.",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "8fedc3f6-692f-4c77-a728-725a41285b29",
+        "embedding": null,
+        "metadata": {
+            "page_label": "13",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "13\n53. Yalcin H, Çapar TD. Bioactive compounds of fruits and vegetables. In: Yildiz F, Wiley RC, editors. \nMinimally processed refrigerated fruits and vegetables. Boston, MA: Springer US; 2017:723–45.\n54. Călinoiu LF, Vodnar DC. Whole grains and phenolic acids: a review on bioactivity, functionality, health \nbenefits and bioavailability. Nutrients. 2018;10(11):1615.\n55. Singh B, Singh JP , Shevkani K, Singh N, Kaur A. Bioactive constituents in pulses and their health \nbenefits. J Food Sci Technol. 2017;54(4):858–70.\n56. Five keys to safer food manual. Geneva: World Health Organization; 2006 ( https://apps.who.int/iris/ \nhandle/10665/43546).\n57. Musa-Veloso K, Noori D, Venditti C, Poon T, Johnson J, Harkness LS, et al. A systematic review \nand meta-analysis of randomized controlled trials on the effects of oats and oat processing on \npostprandial blood glucose and insulin responses. J Nutr. 2021;151(2):341–51.\n58. Reynolds AN, Mann J, Elbalshy M, Mete E, Robinson C, Oey I, et al. Wholegrain particle size influences \npostprandial glycemia in type 2 diabetes: a randomized crossover study comparing four wholegrain \nbreads. Diabetes Care. 2020;43(2):476–9.\n59. Åberg S, Mann J, Neumann S, Ross AB, Reynolds AN. Whole-grain processing and glycemic control in \ntype 2 diabetes: a randomized crossover trial. Diabetes Care. 2020;43(8):1717–23.\n60. Petroski W, Minich DM. Is there such a thing as “anti-nutrients”? A narrative review of perceived \nproblematic plant compounds. Nutrients. 2020;12(10):2929.\n61. WHO recommendations on maternal and newborn care for a positive postnatal experience. Geneva: \nWorld Health Organization; 2022 ( https://apps.who.int/iris/handle/10665/352658 ).\n62. Guiding principles for complementary feeding of the breastfed child. Washington, DC: Pan American \nHealth Organization; 2003 (https://iris.paho.org/handle/10665.2/752 ).",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "878e8b7d-705e-4723-a1be-e4a7c3038176",
+        "embedding": null,
+        "metadata": {
+            "page_label": "14",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "14\nAnnex \nCalculation of values for children\nRecommended levels of intake of dietary fibre, and vegetables and fruits for children were extrapolated \nfrom adult values by scaling down (or up, in the case of 10-year-olds) daily total energy expenditure (dTEE) \nestimates for children that considered a range of different body sizes and physical activity levels for both \ngirls and boys. Calculations were made using information from the 2001 Joint FAO/WHO/United Nations \nUniversity Expert Consultation on Human Energy Requirements (1). Separate dTEE values for boys and girls \nwere averaged, yielding a single value for each age. Using an average adult intake of 2000 kcal/day, and 25 g \nof dietary fibre and 400 g of vegetables and fruits per day yields 0.0125 g of fibre and 0.2 g of vegetables and \nfruits per 1 kcal. Values are averaged across the age brackets used in the recommendations (i.e. 2–5 years, \n6–9 years) and rounded to whole numbers. Because average energy expenditure in children and adolescents \nbecomes greater than the value used for adults beginning at 10 years of age, values were not extrapolated \nbeyond 10 years of age. Recommended intakes for children 10 years and older are therefore the same as \nfor adults.\nAge  \n(years)\ndTEE  \n(kcal)\nFibre intake  \n(g/day)\nAverage  \n(g/day)\nVegetable + fruit \nintake (g/day)\nAverage  \n(g/day)\n2 1076 13.5\n2–5 years: 15\n215\n2–5 years: 250 \n3 1193 14.9 239\n4 1290 16.1 258\n5 1388 17.4 278\n6 1488 18.6\n6–9 years: 21\n298\n6–9 years: 350 \n7 1608 20.1 322\n8 1746 21.8 349\n9 1895 23.7 379\n10 2055 25.7 25 411 400\nAnnex reference\n1. Human energy requirements: Report of a Joint FAO/WHO/UNU Expert Consultation. Rome: Food and \nAgriculture Organization of the United Nations; 200 4 (https://www.fao.org/publications/card/en/c/ \ne1faed04-3a4c-558d-8ec4-76a1a7323dcc/,  accessed 1 January 2023. ",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "347bd723-1781-41a4-88c2-2a7cd25d307f",
+        "embedding": null,
+        "metadata": {
+            "page_label": "15",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "bc546b79-15dc-4cc5-99d7-071ecf898029",
+        "embedding": null,
+        "metadata": {
+            "page_label": "16",
+            "file_name": "who_carbohydra_intake.pdf",
+            "file_path": "../data/raw/who_carbohydra_intake.pdf",
+            "file_type": "application/pdf",
+            "file_size": 616926,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "For more information, please contact:\nDepartment of Nutrition and Food Safety  \nWorld Health Organization  \nAvenue Appia 20\n1211 Geneva 27\nSwitzerland\nEmail: nutrition@who.int \nhttps://www.who.int/teams/nutrition-and-food-safety\n",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    }
+]

@@ -1,0 +1,631 @@
+[
+    {
+        "id_": "bdfa6b13-a2c0-43e0-9085-30f670404b49",
+        "embedding": null,
+        "metadata": {
+            "page_label": "1",
+            "file_name": "fnut-09-988707.pdf",
+            "file_path": "../data/raw/fnut-09-988707.pdf",
+            "file_type": "application/pdf",
+            "file_size": 697596,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "fnut-09-988707 October 22, 2022 Time: 11:58 # 1\nTYPE Original Research\nPUBLISHED 28 October 2022\nDOI 10.3389/fnut.2022.988707\nOPEN ACCESS\nEDITED BY\nKen Ng,\nThe University of Melbourne, Australia\nREVIEWED BY\nHettie Carina Schönfeldt,\nUniversity of Pretoria, South Africa\nEnza D’Auria,\nOspedale dei Bambini Vittore Buzzi,\nItaly\n*CORRESPONDENCE\nBarbara Walther\nbarbara.walther@agroscope.admin.ch\nSPECIALTY SECTION\nThis article was submitted to\nFood Chemistry,\na section of the journal\nFrontiers in Nutrition\nRECEIVED 07 July 2022\nACCEPTED 12 October 2022\nPUBLISHED 28 October 2022\nCITATION\nWalther B, Guggisberg D,\nBadertscher R, Egger L, Portmann R,\nDubois S, Haldimann M,\nKopf-Bolanz K, Rhyn P, Zoller O,\nVeraguth R and Rezzi S (2022)\nComparison of nutritional\ncomposition between plant-based\ndrinks and cow’s milk.\nFront. Nutr.9:988707.\ndoi: 10.3389/fnut.2022.988707\nCOPYRIGHT\n© 2022 Walther, Guggisberg,\nBadertscher, Egger, Portmann, Dubois,\nHaldimann, Kopf-Bolanz, Rhyn, Zoller,\nVeraguth and Rezzi. This is an\nopen-access article distributed under\nthe terms of the Creative Commons\nAttribution License (CC BY). The use,\ndistribution or reproduction in other\nforums is permitted, provided the\noriginal author(s) and the copyright\nowner(s) are credited and that the\noriginal publication in this journal is\ncited, in accordance with accepted\nacademic practice. No use, distribution\nor reproduction is permitted which\ndoes not comply with these terms.\nComparison of nutritional\ncomposition between\nplant-based drinks and cow’s\nmilk\nBarbara Walther1*, Dominik Guggisberg1, René Badertscher1,\nLotti Egger1, Reto Portmann1, Sébastien Dubois1,\nMax Haldimann2, Katrin Kopf-Bolanz3, Peter Rhyn2,\nOtmar Zoller2, Rosmarie Veraguth4 and Serge Rezzi4\n1Agroscope, Bern, Switzerland, 2Risk Assessment Division, Federal Food Safety and Veterinary\nOfﬁce, Bern, Switzerland, 3School of Agricultural, Forestry and Food Sciences, Bern University of\nApplied Sciences, Zollikofen, Switzerland, 4Swiss Nutrition and Health Foundation, Épalinges,\nSwitzerland\nThe high decline in liquid milk consumption in Western countries has\nbeen compensated by the increased consumption of processed dairy\nproducts and the rapidly increasing number of new plant-based beverages\nconstantly introduced in the market, advertised as milk substitutes and\nplaced on shelves near milk products. To provide better understanding\nabout the nutritional value of these drinks compared with cow’s milk,\n27 plant-based drinks of 8 different species and two milk samples were\npurchased from two big retailers in Switzerland, and their composition\nregarding protein, carbohydrate, fat, vitamin, and mineral contents and residue\nload [glyphosate, aminomethylphosphonic acid (AMPA), and arsenic] was\nanalyzed quantitatively and qualitatively. Energy and nutrient intakes were\ncalculated and compared with the dietary reference values for Germany,\nAustria and Switzerland (D-A-CH). In addition, the digestible indispensable\namino acid score (DIAAS) was calculated to estimate the quality of the\nproteins. Milk contained more energy; fat; carbohydrate; vitamins C, B 2,\nB12, and A; biotin; pantothenic acid; calcium; phosphorus; and iodine\nthan most plant-based drinks. Soy drinks provided slightly more protein\nand markedly more vitamins B 1 and B 6, folic acid, and vitamins E and\nD2 (with supplemented vitamin D 2) and K 1, magnesium, manganese, iron,\nand copper than milk and the other plant-based drinks. However, with\nthe exception of cow’s milk and soy drinks, which had > 3% protein,\nmost milk alternatives contained ≤1% protein; therefore, they cannot be\nconsidered good protein sources. In regard to protein quality, milk was\noutstanding compared with all plant-based drinks and exhibited higher\ncalculated DIAASs. Our results show that the analyzed plant-based drinks\nare not real alternatives to milk in terms of nutrient composition, even if the\nactual fortiﬁcation is taken into account. Improved fortiﬁcation is still an issue\nand can be optimized using the most bioavailable and soluble derivatives.\nFrontiers in Nutrition 01 frontiersin.org",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "e7387e21-2f05-454c-942a-26ba44264a0e",
+        "embedding": null,
+        "metadata": {
+            "page_label": "2",
+            "file_name": "fnut-09-988707.pdf",
+            "file_path": "../data/raw/fnut-09-988707.pdf",
+            "file_type": "application/pdf",
+            "file_size": 697596,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "fnut-09-988707 October 22, 2022 Time: 11:58 # 2\nWalther et al. 10.3389/fnut.2022.988707\nComplete replacement of milk with plant-based drinks without adjusting the\noverall diet can lead to deﬁciencies of certain important nutrients in the\nlong term.\nKEYWORDS\nplant-based drink, cow’s milk, nutritional composition, nutrient analysis, residue, RDA\nIntroduction\nThe dairy milk consumption by humans dates back to\ncirca 7000 BC, when a modiﬁcation of the gene responsible\nfor the lactase production prevented the progressive loss of\nlactase activity in early childhood following weaning, leading\nto a lactose-persistent adult phenotype. Owing to this ability\nto eﬀectively digest lactose throughout adulthood, dairy milk\noﬀered an evolutionary advantage due to its hydration and\nrich nutritional content (1). Today, dairy milk and dairy\nproduct consumptions are promoted in public health policies\nworldwide and considered to play a crucial role in human\nnutrition (2).\nThe worldwide milk consumption is increasing but\nthis is mainly due to growth in developing countries (3).\nConversely, in Switzerland, similarly to most developed\ncountries, consumption of “liquid milk” had been dramatically\ndeclining, from 233 L per capita in 1950 to 51 L per capita\nin 2020 (4). The Swiss National Nutrition Survey “menuCH”\nreported a dairy intake of two portions per day in the\nSwiss population as opposed to the three daily portions\nrecommended in Switzerland (5). Several reasons may explain\nthese changes in nutritional behavior. On one hand is a\ntrend to replace fresh milk with more extensively processed\ndairy products like sweetened milk drinks or fermented\nmilk like yogurt, sour milk, or cheese (4). On the other\nhand, discussions on sustainability and carbon footprint have\nled to criticisms of the environmental impacts of animal\nproducts, encouraging change toward a more plant-based\ndiet in the general population, not only in strict vegan\nconsumers (6). In addition, with the increasing accessibility\nof genetic testing (1), the awareness of the prevalence of\nlactose intolerance, which often leads to reduced traditional\ndairy consumption despite the availability of lactose-free dairy\nproducts and the substitution of dairy milk with plant-based\ndrinks, has been increasing (7). Plant-based protein sources\ncan provide alternatives to milk for people who are allergic\nto milk protein. However, this assumption must ﬁrst be\ntested (8).\nMore recently, the consumption of plant-based substitutes\nfor dairy milk has increased (9). Furthermore, with the\nexpansion of consumer interest in the plant-based alternative\nmarket, not only the non-dairy industry but also, recently,\nthe dairy industry has started to extensively develop and\npromote a wide range of novel plant-based drinks, driving\neven further the consumer market for these products. Plant-\nbased alternatives initially based almost exclusively on soy\nand almond includes solutions prepared from rice, oat,\nnuts, and legumes (10). In the context of this changing\nmarket, the average consumer proﬁle is changing from\none requiring an exclusively dairy-free diet (e.g., due to\nfood allergy or a vegan diet) to one that may temporarily,\nintermittently, or permanently replace milk with these\nalternatives (11).\nIt is widely accepted that animal and plant foods\ndiﬀer in composition. Proteins of plant origin do not have\nthe same nutritional qualities as those of animal origin.\nMajor diﬀerences besides protein content exist between\nnaturally occurring nutrients in dairy milk and plant-based\nalternative drinks, such as vitamin B 12, calcium, ﬁber, and\nfat compositions and concentrations. Diﬀerences in nutrient\nproﬁle between plant-based drinks and milk have been\nsystematically compared in earlier studies (12–17). However,\nmost of these studies were limited to the evaluation of\na few nutrients such as proteins, fats, carbohydrates, and\nselected vitamins and minerals. In the abovementioned\nstudies, the information was also mostly based on nutrient\nlabeling rather than on actual nutrient determination in the\ninvestigated products. Furthermore, with the rapidly expanding\nmarket of distinct plant-based alternative drinks with novel\nformulations, it is important to review and compare the\nnutritional compositions of the wide range of currently available\nproducts to understand their potential impacts on consumer\nnutrient supply.\nThe aim of our study was to investigate the comprehensive\nspectrum of macro-and micro-nutrients in various plant-based\ndrinks sold in the Swiss market and to compare the values with\nthose in full fat cow’s milk, called “milk” in the sequel. When\nmultiple products are available per category, variability within\nthe category was also of interest.\nFull fat milk was chosen to also compare fat quality.\nMoreover, on the basis of the recommended dietary allowance\n(RDA) values, we calculated the eﬀects of complete substitution\nof milk with plant-based drinks on the consumer nutrient\nsupply to support regulatory authorities in deﬁning and revising\nFrontiers in Nutrition 02 frontiersin.org",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "9b55c15b-e520-484d-b89d-2f7a98743f00",
+        "embedding": null,
+        "metadata": {
+            "page_label": "3",
+            "file_name": "fnut-09-988707.pdf",
+            "file_path": "../data/raw/fnut-09-988707.pdf",
+            "file_type": "application/pdf",
+            "file_size": 697596,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "fnut-09-988707 October 22, 2022 Time: 11:58 # 3\nWalther et al. 10.3389/fnut.2022.988707\nnutritional recommendations for vegans or people refraining\ncompletely from milk consumption.\nMaterials and methods\nSamples\nA total of 36 plant-based products and two samples of\ncow’s milk were collected from two major supermarkets in Bern,\nSwitzerland, and the surrounding area in August 2019. Only\nvarieties based on one raw ingredient were ﬁnally selected, and\ndrinks containing mixtures of raw ingredients were excluded.\nAfter exclusion of the mixtures, 27 products from 8 categories\nremained. Depending on category, 1 to 7 diﬀerent samples were\navailable on the market. The selected drinks were compared with\nUHT bovine whole milk with 3.5% fat. The samples were kept at\nroom temperature (for measurements requiring freeze-drying)\nor directly frozen at −20◦C prior to analysis. All drinks were\nanalyzed individually in duplicates or triplicates depending on\nanalysis. Supplementary Table 1displays an overview of the\nproducts and the ingredients listed on their packaging.\nAssessments of sample nutrient\ncomposition\nThe energy values were calculated from the three\nmacronutrients and compared to the information on the\nlabel. For calculation the usual values for protein (4 kcal g −1),\ncarbohydrates (4 kcal g−1), fat (9 kcal g−1) are used. Sample dry\nmass was determined gravimetrically. The drying method using\na hot air oven at 102 ±2◦C is the most commonly used method\nfor determining total solids content in food laboratories. The\nmethod used is based on the reference method ISO 6731 (18).\nInstead of pre-drying on a boiling water bath, a test portion was\nmixed with dried silica sand and then dried in a drying oven at\na temperature of 102◦C ±2◦C.\nMacronutrient composition\nmeasurements\nThe total protein content was determined for all samples\nusing a copper sulfate/titanium dioxide catalyst, in accordance\nwith the Kjeldahl principle. For the calculation of crude protein\nout of the determined nitrogen concentration, a conversion\nfactor of 6.38 was used for milk and 5.6 for plant-based\nproducts (19). Nitrogen Conversion Factor depends on amino\nacid composition and this composition is extremely dependent\non plant variety, plant parts used, etc. Therefore, a general\nfactor of 5.6 was used, knowing that this factor can only\nreﬂect an estimate of the eﬀective protein content. The total\namino acid content after acidic hydrolysis was measured using\nultra performance liquid chromatography (UPLC) analysis, in\naccordance with the method of Jaudzems et al. (20). Brieﬂy, the\nsamples were incubated at 110 ◦C in 6 mol L −1 HCl for 15 h.\nThe solutions were neutralized and derivatized with an AccQ-\nTag Ultra reagent (Waters, Baden-Dätwil, Switzerland), and the\namino acid proﬁle was analyzed with ultra-high-performance\nliquid chromatography (2.1 ×100 mm, 1.7 µm; Acquity UPLC\nBEH C18, Waters) coupled with a UV detector (Ultimate 3000\nRS, Thermo Scientiﬁc, Reinach, Switzerland). Tryptophan was\nmeasured after alkaline hydrolysis. For this purpose, 500 µl of\nthe sample in 4 ml preparations [6 mol/l NaOH, 16 µg/ml 1-\nmethyl-tryptophan (internal standard), 40 mg/ml starch] were\ngassed with N2 and incubated at 110 ◦C for 20 h. After cooling\nthe samples to room temperature, they were mixed with 5 ml\nphosphate buﬀer (0.2 M, pH7). 100 µl of this was added\nto 50 µl ice-cold 6 M HCl for neutralization and made up\nto 2.5 ml with phosphate buﬀer (0.2 M, pH7). 200 µl were\nﬁltered through cellulose and measured by UPLC (column:\nWaters, Acquity UPLC BEH C18, 1.7 µm, 2.1 ×150 mm,\nmobile phase: AccQ-Tag Buﬀer A with 0.1% AccQ-Tag Buﬀer\nB, gradient: isocratic, detection: ﬂuorescence extinction 340 nm\nand emission 360 nm). The amounts were normalized with an\nexternal test solution using the internal standard. Digestible\nindispensable amino acid scores (DIAASs) were calculated on\nthe basis of the assumption that proteins are fully digestible (i.e.,\n100% digestibility). The amount of indispensable amino acids\nper gram of food protein was compared with the values provided\nby the Food and Agriculture Organization (21) for diﬀerent age\ngroups, resulting in the percentage of food protein that covers\nthe required amounts of indispensable amino acids per gram\nof food proteins. For legal purposes, the values for growing\nchildren have to be used.\nSample total fat content was determined gravimetrically\nusing the method of Weibull-Stoldt (22). After hydrolysis of\nthe proteins and carbohydrates with hydrochloric acid, fat was\nextracted from the residue with ether in a Soxhlet apparatus. The\nextracting agent was evaporated, and the fat residue was weighed\nback. The analytical method for high-resolution lipid analysis\nwith GC-FID is described elsewhere (23). Brieﬂy, to determine\nthe fatty acid distribution, fat extracted from the sample material\nwas dissolved in hexane and transesteriﬁed with a methanolic\npotassium hydroxide solution. The resulting methyl esters were\nthen separated on a gas chromatograph and measured with a\nﬂame ionization detector.\nThe lactose, saccharose, fructose, and glucose contents of\nthe samples were analyzed with a UV-Vis automate (Gallery\nAnalyzer, Thermo, Switzerland), using adapted enzymatic\nmethods based on commercial kits (lactose: E8130, glucose:\nE8140, saccharose: E8180; R-Biopharm, Switzerland). The starch\ncontents of the samples were measured with an enzymatic assay\nkit (Total Starch Assay Kit, K-TSTA-50A, Megazyme, Ireland).\nFrontiers in Nutrition 03 frontiersin.org",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "481a29ca-2e04-4d11-9221-0624e3dee9e7",
+        "embedding": null,
+        "metadata": {
+            "page_label": "4",
+            "file_name": "fnut-09-988707.pdf",
+            "file_path": "../data/raw/fnut-09-988707.pdf",
+            "file_type": "application/pdf",
+            "file_size": 697596,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "fnut-09-988707 October 22, 2022 Time: 11:58 # 4\nWalther et al. 10.3389/fnut.2022.988707\nMeasurements of micronutrient and\ntrace element composition\nVitamins\nIn all samples, water-soluble vitamin C; biotin; niacin;\npantothenic acid; vitamins B 1, B 2, B 6, and B 12; folic acid;\nand the fat-soluble vitamins A, E, D 2, K 1, and K 2 were\nanalyzed. Before the vitamin content analyses, all samples\nwere freeze-dried (Christ Epsilon 2–25 D, Martin Christ\nGefriertrocknungsanlagen GmbH, Osterode am Harz,\nGermany) and subsequently ground. The amounts of vitamins\nB1 (24), B2 (940.33) (25), and B 6 (961.15) (25); niacin (944.13)\n(25); pantothenic acid (945.74) (25); biotin (26); folic acid\n(27); and vitamin B 12 (952.20) (25) were analyzed using a\nmicrobiological method in 96-well microplates and then\nmeasured with turbidimetry (Microplate Spectrophotometer,\nEpoch, BioTek Instruments, Agilent Technologies, Santa\nClara, CA, USA) ( Supplementary Table 2). The amounts of\nvitamins C (28), A (2001.13) (25), and E (992.03) (25), and the\ncarotenoids (29) were measured using HPLC (Flexar, Perkin\nElmer, USA) equipped with C18 columns (Macherey Nagel,\nD and Suplex PKB, Supelco) and UV detection. The amounts\nof the vitamin D forms (2002.05) (25) were measured with\nHPLC (Flexar, Perkin Elmer, USA) equipped with C18 column\n(Macherey Nagel, D) and UV detection, and those of vitamins\nK1 and K 2 (30) were measured with HPLC followed by a\nﬂuorometric detection step (FL 3000, Spectra-system, Thermo).\nFurther details are described in Supplementary Table 2in the\nSupplementary material.\nMinerals\nIn all samples, the phosphorus, sodium, manganese,\nmagnesium, potassium, iron, copper, calcium, zinc, selenium,\nsulfur, iodine, chloride, and ash contents were measured. Before\nthe mineral content analyses (P , Na, Mn, Mg, K, Fe, Cu, Ca,\nand Zn), all samples were freeze-dried (Christ Delta 2–24,\nKühner AG, Birsfelden, Switzerland) and subsequently milled\n(Grindomix knife mill, Restch GmbH, Switzerland).\nThe mineral contents of the samples were analyzed\nin accordance with EN 15510:2008 by ICP-OES (ICP-OES\nOptima 7300, Perkin Elmer, Schwarzenbach, Switzerland) after\nmicrowave digestion. The samples were dissolved in a glass tube\n(5 mL of HNO 3 65% + 3 mL of H 2O ASTM class I) using a\nmicrowave digester (UltraClave MLS, Leutkirch, Germany) at\n235◦C for 60 min (1,000 W). If necessary, the samples were\ndiluted with HNO3 2% prior to analysis.\nThe sulfur content was determined with the Dumas method\nusing an automated analyzer (Truman CNS, Leco, Germany).\nThe samples were dried during 3 h at 105 ◦C to determine the\ndry matter content and ﬁnally incinerated at 550◦C until a stable\nmass was reached to determine the ash content in accordance\nwith ISO 5984_2002 (prepASH, Precisa Gravimetrics AG,\nDietikon, Switzerland).\nThe chloride content of the samples was determined\nargentometrically. The sample diluted with water was suspended\nwith a Polytron mixer and titrated with silver nitrate after\nacidiﬁcation with nitric acid. The end point of the titration was\ndetermined potentiometrically.\nFor the assessment of iodine content, a validated method\nfor the extraction and analysis of iodine in liquids like\nmilk was used (31). Brieﬂy, iodine was measured after\nalkaline extraction with tetramethyl ammonium hydroxide\n(Trace Select, Honeywell Fluka, Switzerland) using sector-\nﬁeld inductively coupled plasma mass spectrometry (ICP-MS;\nElement XR, Thermo, Germany) with an iodine isotope dilution\nanalysis with 129I (Standard Reference Material 4949C, National\nInstitute of Standards and Technology, Gaithersburg, MD,\nUSA). Initially, the 127I/129I-spike ratio was measured, and the\nupdated value was applied in the subsequent calculations of\nthe iodine concentration in the samples. The interference of\n129Xe on the 129I signal was corrected according to the natural\nabundances of xenon.\nThe amounts of selenium and arsenic were measured in\nthe samples after microwave-assisted pressure digestion in\nan autoclave (MLS Ultraclave III, Leutkirch, Germany) with\nnitric acid 60% (Ultrapur, Merck, Gernsheim, Germany). The\nreactor was pressurized, and the samples were digested at\n220◦C for 45 min. Subsequently, the mineralized solutions were\ntransferred into polypropylene tubes (Sarstedt AG, Sevelen,\nSwitzerland) and diluted to volume with pure water. An iCAP\nTQ ICP-MS (Thermo Scientiﬁc, Bremen, Germany) was used\nfor the element analysis. Selenium and arsenic were acquired in\na triple quadrupole mode, that is, a reaction cell pressurized with\noxygen as a reactive gas; the ﬁrst quadrupole set to selenium and\narsenic masses; and the analysis quadrupole set to product ion\nmasses (SeO+and AsO+). The isotopes 80Se and 75As were used\nfor actual calibration with 103Rh as internal standard (elemental\nstandard solutions; Merck, Gernsheim, Germany).\nAssessments of sample contamination\nThe presence of two residues, glyphosate and\naminomethylphosphonic acid (AMPA), in the samples\nwere analyzed without derivatization using tandem mass\nspectrometry coupled to liquid chromatography as described\nby Zoller et al. (32). For the liquid samples tested, the limit of\nquantiﬁcation (LOQ) and limit of detection (LOD) for both\nanalytes were 0.3 and 0.1 ng mL−1, respectively.\nContribution of various products to\nrecommended dietary allowance\nThe contribution of the products to Recommended Daily\nAllowance (RDA) was calculated for adult women aged 19 to\nFrontiers in Nutrition 04 frontiersin.org",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "76c7c235-71e2-4150-9896-cd3d62eed91b",
+        "embedding": null,
+        "metadata": {
+            "page_label": "5",
+            "file_name": "fnut-09-988707.pdf",
+            "file_path": "../data/raw/fnut-09-988707.pdf",
+            "file_type": "application/pdf",
+            "file_size": 697596,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "fnut-09-988707 October 22, 2022 Time: 11:58 # 5\nWalther et al. 10.3389/fnut.2022.988707\n65 years by using the reference values from Germany, Austria\nand Switzerland (DACH) (33). The adult women were chosen\nbecause it is a large age group with the same recommendations\nand this population group also represents the largest part of the\nvegetarian and vegan diet (5).\nStatistical analysis\nDescriptive statistics using mean and standard deviation (for\nproducts with n > 1) were calculated using R 1 from at least\ntwo independent measurements. Figures were created with the\nR-library ggplot2.\nStatistical analyses were performed using analysis of\nvariance (ANOV A) for selected ingredients (vitamins and\nminerals), and the level of signiﬁcance was set at P < 0.05.\nThe diﬀerent products were treated as factors. Hemp and spelt\nwere sometimes grouped together in a group called “other.”\nFurther ANOV A were performed for either the dependant\nvariables calcium and iodine (see chapter “ Minerals and trace\nelements”) or vitamins (pantothenic acid, vitamin B 2, vitamin\nB12, and vitamin D 2, see chapter “ Vitamins”), using “milk” as\nthe main focus and by grouping the alternative milk products\neither in groups with or without fortiﬁcation of calcium-\nphosphate or Lithothamnium algae or in groups with or without\nsupplementation of vitamins or sunﬂower oil, according to\nthe general information on the packaging. Another series of\nANOV A were performed by regrouping the products into\ngroups of “milk, ” “soy, ” and “other” for the vitamins (vitamin\nE and folic acid, see chapter “Vitamins”).\nWhen the ANOV A test result was signiﬁcant, Tukey\nmultiple pairwise comparisons were performed while adjusting\nthe P value for multiple testing.\nResults\nCharacteristics of the plant-based\ndrinks\nA total of 27 plant-based drinks and two bovine whole milk\n(3.5% fat) samples were included in the analysis. Whole milk\nproducts ( n = 2) were used to compare the fat quality of the\nbeverages as well. The varieties of the plant-based beverages\nanalyzed were almond (n = 4), cashew (n = 2), coconut (n = 3),\nhemp (n = 1), oat ( n = 4), rice ( n = 5), soy ( n = 7), and spelt\n(n = 1). The compositions according to the labels of the diﬀerent\nsamples are listed in Supplementary Table 1.\nTo all but four samples (three soy drinks and one rice drink),\nsalt (sea, table, and cooking salts) was added. Nine samples\n1 http://www.r-project.org\ncontained added sugar or sweeteners, and 14 samples contained\nstabilizers, emulsiﬁers, and thickeners. All rice and oat samples\nand the hemp and spelt samples contained sunﬂower oil. Nine\nsamples were supplemented with one or more vitamins and\ncalcium. In four samples, calcium was added in the form of red\nalgae (Lithothamnium calcareum; Supplementary Figures 2, 3).\nTwo of the coconut drinks were blended with small amounts of\nrice ﬂour, and two of the rice drinks were fermented.\nThe dry matter content in the individual plant-based drink\nsamples ranged from 25.24 g kg −1 (almond drink) to 133.67 g\nkg−1 (rice drink; Table 1). The highest mean values of dry\nmatter in the plant-based drinks were found in the rice drinks,\nfollowed by the oat, soy, cashew, and coconut drinks. As only\none sample was analyzed for hemp and spelt, no mean values\ncould be calculated for these two varieties, “leaving them in the\nmiddle position”. In comparison with all the plant-based drinks,\nmilk has a mean dry matter value of 121.6 ±1.2 g kg −1, the\nhighest amongst the values of all the varieties analyzed. Because\nof high variability of the dry matter in the diﬀerent products, the\ncomparison of the compositions of the individual drinks with\nmilk was based on volume.\nThe highest average energy content according to the label\nwas reported for the rice drinks, followed by the soy, spelt, and\ncashew and oat drinks, respectively. The almond, hemp, and\ncoconut drinks contained the lowest amounts of calories. The\nmean energy values of the plant-based drinks were all lower than\nthat of milk (655 kcal kg −1; Table 1). A comparison with the\ncalculated values using the concentrations of protein, fat and\ncarbohydrates shows good correlation with most of the drinks\nexcept rice, spelt, hemp and oat ( Table 1). It is possible that\nother carbohydrates are present in these products than those we\nanalyzed.\nMacronutrients in plant-based drinks\nand cow’s milk\nProtein\nThe crude protein contents of the plant-based drinks ranged\nfrom a minimum of 0.6 g kg −1 in a rice drink to 43.0 g kg −1\nin a soy drink. The highest mean protein contents in the plant-\nbased drinks were found in the soy drinks, followed by the\ncashew and almond drinks ( Table 1). The mean protein values\nin the oat-, coconut-, and rice-based beverages were very low.\nThe values in the individual samples of spelt and hemp drinks\nwere both at an in-between level ( Table 1). The mean crude\nprotein content of milk was 32.6 g kg −1 and thus was within\nthe range for soy-based beverages. Total amino acids included\nthe 9 essential amino acids (eAA; histidine, isoleucine, leucine,\nlysine, methionine, phenylalanine, threonine, tryptophan, and\nvaline), 2 semi-essential amino acids (cysteine and tyrosine),\nand seven non-essential amino acids (alanine, arginine, aspartic\nacid, glutamic acid, glycine, proline, and serine). The individual\nFrontiers in Nutrition 05 frontiersin.org",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "f9fc7d5f-56a5-4349-9dab-3879b1f7758a",
+        "embedding": null,
+        "metadata": {
+            "page_label": "6",
+            "file_name": "fnut-09-988707.pdf",
+            "file_path": "../data/raw/fnut-09-988707.pdf",
+            "file_type": "application/pdf",
+            "file_size": 697596,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "fnut-09-988707 October 22, 2022 Time: 11:58 # 6\nWalther et al. 10.3389/fnut.2022.988707\nTABLE 1 Mean values and ranges or single values of energy, dry matter, total protein, sum of amino acids, total fat, and total carbohydrate contents in the different plant-based drinks and cow’s milk.\nProduct n Energy 1) Kcal kg−1 Energy2) Kcal kg−1 Dry matter g kg−1 Total protein g kg−1 Sum of AAs g kg−1 Total fat g kg−1 Total carbohydrates g kg−1\nMean Min/Max Mean Min/Max Mean Min/Max Mean Min/Max Mean Min/Max Mean Min/Max Mean Min/Max\nAlmond drink 4 328 130/600 324 129/616 54.6 25.2/99.0 10.2 5.4/18.3 8.1 4.6/15.3 25.6 11.0/49.6 13.0 1.9/24.2\nCashew drink 2 415 340/490 393 322/464 69.0 51.8/86.1 13.3 12.1/14.5 11.5 10.0/13.1 27.6 26.0/29.3 22.8 9.9/35.6\nCoconut drink 3 230 120/370 215 139/325 43.0 28.8/57.0 3.2 1.2/6.1 2.5 0.9/5.0 10.2 1.3/19.7 27.7 22.7/34.6\nCow’s milk 2 655 640/670 649 644/654 121.6 120.8/122.4 32.6 32.6/32.7 33.0 32.9/33.1 35.4 34.9/35.9 50.3 49.9/50.7\nHemp drink 1 310 - 386 - 59.6 - 7.2 - 5.4 - 32.6 - 16.0 -\nOat drink 4 415 390/450 323 168/441 90.3 86.3/98.0 4.6 2.8/5.8 4.0 2.2/5.4 14.5 13.4/15.4 36.7 6.1/69.7\nRice drink 5 546 480/680 313 224/396 118.4 111.9/133.7 1.7 0.7/3.0 1.3 0.4/2.5 12.6 9.8/21.8 48.2 27.7/73.2\nSoy drink 7 416 350/520 396 328/462 84.2 63.1/102.6 37.8 34.0/48.0 34.6 29.4/43.2 20.6 16.1/28.2 14.7 2.6/33.8\nSpelt drink 1 420 - 297 - 86.9 - 7.2 - 5.9 - 12.2 - 49.5 -\n1)Energy according to label; 2)Energy calculated from content of fat, protein, and carbohydrates.\ncontents of the amino acids were highly variable between\nthe plant-based drinks and milk, and amongst the individual\nvarieties (Supplementary Table 3).\nSmall amounts of γ-aminobutyric acid were detected in 13\nplant-based samples, of which only a signiﬁcant value of 0.29 g\nL−1 was measured in a coconut drink. In all other drinks, the\nconcentrations were very low (0.01–0.03 g L −1) or zero as in\nmilk. Taurin was not detected in any of the products.\nAs for the total protein content, the soy drinks were closest\nto milk in their free amino acid concentrations, with essential\namino acids having the highest mean value (35.1% ±0.2%).\nIn all other plant-based varieties, the concentrations of the\nindividual amino acids were lower than those in the soy drinks\nor milk owing to the lower protein content and poorer ratio of\nessential amino acids to non-essential amino acids, resulting in\na lower biological value of their proteins (Figure 1).\nThe sums of the individual amino acids are presented in\nSupplementary Table 3. The values correspond well for cashew,\noat, soy, and spelt. For almond, coconut, hemp and rice the\ndiﬀerences to the measured crude protein range between 10\nand 20%. This is due to the conversion factor of 5.6 applied\nto all plant-based products. As expected, this overestimates the\nprotein content of these plant-based drinks. For milk, the sum\nof amino acids agrees with the measured values of crude protein\n(Table 1).\nThe calculation of the DIAAS for the evaluation of protein\nquality showed the high quality of milk protein and the lower\nquality of all plant-based proteins ( Supplementary Table 4).\nThe DIAAS of milk for children aged > 3 years, adolescents,\nand adults are > 100% for all essential amino acids. Of\nthe plant-based drinks evaluated, only the soy drinks had a\nDIAAS of > 100% for these age groups. All the other drinks\nhad DIAASs between 39.0% (almond) and 78.8% (cashew).\nThe DIAAS of milk for children aged 6 months to 3 years\nshowed a value > 100%, with the ﬁrst limiting indispensable\namino acids (IAAs) for cysteine and methionine (sulfur amino\nacids). All plant-based proteins were inadequate in 2 (soy) to\n8 (almond, rice, coconut, and hemp) IAAs and therefore of\nmuch lower quality than milk for young children. For this age\ngroup, soy drinks had the highest DIAASs amongst all plant-\nbased drinks (91.9%) and had the same limiting IAAs as milk\n(Supplementary Table 4).\nFor infants (up to 6 months old) DIAAS for milk is 65.4\nwith tryptohane as the ﬁrst limiting amino acid. For this\nyoungest age group, all plant-based proteins had inadequate\nDIAAS values ranging from 27.1% (almond) to 71.2% (soy;\nSupplementary Table 4).\nFat and fatty acids\nThe highest mean values of fat in plant-based drinks were\nfound in cashew drinks (27.6 ±2.3 g kg −1), closely followed\nby almond and soy drinks. The oat, rice, and coconut drinks\nand the single sample of spelt drink were distinctly lower in\nFrontiers in Nutrition 06 frontiersin.org",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "41e95564-0107-45b0-9b22-2a20a4bfe331",
+        "embedding": null,
+        "metadata": {
+            "page_label": "7",
+            "file_name": "fnut-09-988707.pdf",
+            "file_path": "../data/raw/fnut-09-988707.pdf",
+            "file_type": "application/pdf",
+            "file_size": 697596,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "fnut-09-988707 October 22, 2022 Time: 11:58 # 7\nWalther et al. 10.3389/fnut.2022.988707\nFIGURE 1\nMean amino acid composition of the sampled plant-based beverages and milk (g L−1). eAA, essential amino acids (blue); neAA, non-essential\namino acids (red).\nfat, whereas the hemp drink (32.6 g kg −1) had a high fat\nconcentration, similar to the mean value in milk (35.4 ±0.7 g\nkg−1; Table 1).\nThe fatty acids found in the plant-based drinks belong\nalmost exclusively to long-chain fatty acids, except those in\ncoconut fat. Only the coconut drinks and milk contain short-\nchain fatty acid and relatively high amounts of medium-\nchain fatty acid. The coconut drinks contained the highest\namount of SFA, followed by milk. In all other plant-based\ndrinks, the FAs belonged to the long-chain group and were\nmainly monounsaturated and polyunsaturated (Supplementary\nTable 5). High levels of omega-6 fatty acids were found in\nthese drinks compared with coconut drink or milk. Conversely,\nomega-3 was detected only in substantial amounts in soy drinks\nand milk. Consequently, the mean ratio of omega-6 to omega-3\nFAs was relatively low in the milk and soy drinks compared with\nthe other plant-based drinks (Table 2).\nThe mean total trans fatty acid contents ranged from\n0.0015 g 100 g −1 (coconut) to 0.022 g 100 g −1 (hemp) for the\nvegetable drinks and 0.14 g 100 g −1 for milk. The mean total\nconjugated amino acid (CLA) content of the plant-based drinks\nranged from 0.0003 g 100 g−1 (coconut drink) to 0.004 g 100 g−1\n(hemp drink), while milk provided a mean CLA content of\n0.035 g 100 g−1 product (Supplementary Table 5).\nCarbohydrates\nIn all plant-based drinks and milk, the following\ncarbohydrates were measured: sucrose, fructose, glucose,\nlactose, starch, and ﬁber. As ﬁber concentration was generally\nvery low in all samples, these results are not reported herein.\nThe total carbohydrate contents of the plant-based drinks\nranged from 1.9 g kg −1 in an almond drink to 73.2 g kg −1 in a\nrice drink. The total carbohydrate content was high in the spelt,\nrice, and oat drinks; moderate in the coconut and cashew drinks;\nand low in the soy, almond, and hemp drinks ( Table 1). The\nhighest total carbohydrate concentration was detected in milk\n(50.2 ±0.53 g kg−1).\nUnlike milk, whose sole source of carbohydrate is lactose,\nplant-based drinks contain sucrose and glucose as the main\ntypes of carbohydrates. Most plant-based drinks with high\nsucrose concentrations had low glucose contents and vice versa,\nand all plant-based drinks and milk contained very low fructose\nconcentrations (Table 3).\nThe starch content ranged from 0.0 g kg −1 in an almond\ndrink to 31.8 g kg −1 in a cashew drink ( Table 3). The highest\nFrontiers in Nutrition 07 frontiersin.org",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "eb5fa4b3-41f3-4c1a-b9c5-3fec64e16a38",
+        "embedding": null,
+        "metadata": {
+            "page_label": "8",
+            "file_name": "fnut-09-988707.pdf",
+            "file_path": "../data/raw/fnut-09-988707.pdf",
+            "file_type": "application/pdf",
+            "file_size": 697596,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "fnut-09-988707 October 22, 2022 Time: 11:58 # 8\nWalther et al. 10.3389/fnut.2022.988707\nTABLE 2 Calculated values for the ratio of omega-6 to omega-3 fatty\nacids in different plant-based drinks and cow’s milk.\nProduct Ratio omega-6 to omega-3\nAlmond drink (n = 4) (127 to 235): 1\nCashew drink (n = 2) 78:1\nCoconut drink (n = 3) (11 to 18): 1\nCow’s milk (n = 2) (2 to 3):1\nHemp drink* (n = 1) 30: 1\nOat drink* (n = 4) (84 to 105): 1\nRice drink* (n = 5) (92 to 175): 1\nSoy drink (n = 7) (7 to 8): 1\nSpelt drink* (n = 1) 112: 1\nRanges are given in brackets, *Beverages to which sunﬂower oil was added\naccording to the label.\nmean total starch content in the plant-based drinks was found\nin the rice drinks, followed by the cashew, hemp, coconut, and\noat drinks. In the spelt, soy, and almond drinks, only small mean\nconcentrations of starch were detected. As expected, no starch\nwas present in milk (0.0 g kg−1).\nMicronutrients in plant-based drinks and milk\nVitamins\nOf the plant-based drinks, seven were fortiﬁed with diﬀerent\nvitamins according to label ( Supplementary Table 1 and\nSupplementary Figure 1). Even when fortiﬁcation was taken\ninto account, the cashew, coconut, oat, and rice drinks generally\ncontained low amounts of vitamins compared with the other\nplant-based drinks, and vitamins C, A, and K 2 could only be\ndetected in milk ( Table 4). However, provitamin A content,\nwhich was to be expected in the plant-based drinks, was not\nanalyzed.\nAmong the plant-based drinks, the hemp-based beverage\nwas highest in biotin and pantothenic acid contents. The soy\ndrinks were highest in vitamin B 1, B 2, and B 6; folic acid;\nand vitamins E and K 1 contents. The almond drinks had the\nhighest vitamin B12 and D2 contents (with both vitamins being\nfortiﬁed), and the spelt drink had the highest niacin content.\nAll measured vitamins were detected in milk, except vitamin\nD2. The milk samples showed higher contents of naturally\noccurring (e.g., with no fortiﬁcation) vitamins C, A, K 2, B 2,\nbiotin, pantothenic acid, and vitamin B 12 than the plant-\nbased beverages. Several plant-based drinks were fortiﬁed with\nvitamins such as vitamins B2, B12, E, and D2 (Table 4). However,\nmilk had signiﬁcantly higher pantothenic acid content than all\nplant-based drinks (p < 0.05) and signiﬁcantly higher vitamins\nB2 and B12 than the unfortiﬁed plant-based drinks ( p < 0.05).\nAs the variation amongst the drinks fortiﬁed with vitamins B 2\nand B12 was relatively high, no signiﬁcant diﬀerences were found\nbetween these products and milk. Owing to the fortiﬁcation of\nvitamin D in some drinks, they became signiﬁcantly richer in\nthis vitamin than milk and the non-fortiﬁed drinks ( p < 0.5).\nFurthermore, in some of the plant-based drinks such as hemp\n(1), oat (4), rice (5), and spelt (1), sunﬂower oil was added and\ntherefore likely contributed to increasing the vitamin E level\n(51.75 mg 100 g −1) (34), as sunﬂower oil is naturally rich in\nthis vitamin ( Supplementary Table 1). Thus, these drinks had\nhigher vitamin E content than milk but lower vitamin E content\nthan soy drinks. The soy drinks also provided signiﬁcantly\nhigher amounts of folic acid than milk, and all other plant-based\ndrinks (p < 0.05).\nExcept for vitamin C and folic acid, the variability of the\nvitamin contents in the two measured milk samples appeared\nrelatively low. In the plant-based drinks, however, the contents\nof the individual vitamins may greatly vary. For example, the\nvariabilities of niacin (almond, coconut, and soy), pantothenic\nacid (rice and soy), vitamin B 1 (soy), vitamin B 2 (almond,\noat, and soy), and vitamin E (almond, cashew, oat, and soy)\nwithin the same variety were noticeably high ( Table 4 and\nSupplementary Figure 1).\nMinerals and trace elements\nThe rice, oat, spelt, and coconut drinks were generally low in\nminerals, whereas the soy drinks provided signiﬁcant amounts\nTABLE 3 Mean values and ranges of sucrose, fructose, glucose, lactose, and starch contents in the different plant-based drinks and cow’s milk.\nProduct n Sucrose Min/Max Fructose Min/Max Glucose Min/Max Lactose Min/Max Starch Min/Max\ng kg−1 g kg−1 g kg−1 g kg−1 g kg−1 g kg−1 g kg−1 g kg−1 g kg−1 g kg−1\nAlmond drink 4 12.5 1.6/23.4 0.01 0.0/0.04 0.1 0.0/0.1 - - 0.4 0.0/0.8\nCashew drink 2 3.6 3.5/3.7 0.0 0.0 0.3 0.1/0.4 - - 19.0 6.1/31.8\nCoconut drink 3 16.0 0.9/33.5 0.0 0.0 3.1 0.1/9.0 - - 8.6 0.9/12.8\nCow’s milk 2 0.0 0.0 0.0 0.0 0.1 0.1 50.2 49.9/50.6 0.0 0.0\nHemp drink 1 1.35 - 0.0 - 0.3 - - - 14.4 -\nOat drink 4 1.5 0.8/3.0 0.9 0.0/2.1 33.2 1.5/58.1 - - 7.9 1.7/10.7\nRice drink 5 2.3 0.2/10.1 0.8 0.1/1.8 24.6 6.7/42.5 - - 20.5 8.4/31.2\nSoy drink 7 14.0 2.2/32.6 0.01 0.0/0.1 0.1 0.0/0.1 - - 0.7 0.4/1.2\nSpelt drink 1 0.7 - 1.1 - 37.2 - - - 1.3 -\nFrontiers in Nutrition 08 frontiersin.org",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "fc56f53d-d92b-449c-b856-eb52e4077e1e",
+        "embedding": null,
+        "metadata": {
+            "page_label": "9",
+            "file_name": "fnut-09-988707.pdf",
+            "file_path": "../data/raw/fnut-09-988707.pdf",
+            "file_type": "application/pdf",
+            "file_size": 697596,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "fnut-09-988707 October 22, 2022 Time: 11:58 # 9\nWalther et al. 10.3389/fnut.2022.988707\nTABLE 4 Mean values and range of vitamins analyzed for different plant based drinks and cow’s milk.\nVitamin Unit Almond drink Cashew drink Coconut drink Cow’s milk Hemp\ndrink\nOat drink Rice drink Soy drink Spelt\ndrink\nN 4 2 3 2 1 4 5 7 1\nMean Min/\nMax\nMean Min/\nMax\nMean Min/\nMax\nMean Min/\nMax\nMean Mean Min/\nMax\nMean Min/\nMax\nMean Min/\nMax\nMean\nC µg\n100 g−1\nn.d. - n.d. - n.d. - 202.3 0.0/404.6 n.d. n.d. - n.d. – n.d. - n.d.\nBiotin µg\n100 g−1\n0.6 0.4/0.8 0.7 0.4/0.9 0.7 0.2/1.7 1.7 1.5/2.0 1.4 1.3 1.1/1.6 0.3 0.2/0.4 1.4 0.8/2.3 0.6\nNiacin µg\n100 g−1\n159.3 85.6/267.1 82.5 67.3/97.6 100.1 24.3/208.5 132.4 124.9/\n139.9\n219.4 60.7 49.1/\n81.5\n132.4 115.5/\n153.8\n174.2 90.2/\n283.8\n230.2\nPantothenic\nacid\nµg\n100 g−1\n17.9 5.8/31.5 94.1 81.8/106.4 29.7 14.8/49.3 357.9 329.8/\n386.1\n152.6 145.4 134.9/\n157.2\n130.4 96.2/187.9 118.3 73.8/\n192.0\n90.0\nB1 µg\n100 g−1\n6.3 3.8/10.1 17.7 12.1/ 23.2 3.3 1.9/4.7 11.9 11.7/12.0 16.3 25.2 19.4/\n35.7\n5.2 3.1/10.2 43.5 21.8/\n86.6\n21.9\nB2 µg\n100 g−1\n54.91) 14.9/136.8 8.8 8.1/9.6 0.5 0.1/1.4 108.3 107.9/\n108.7\n20.4 14.0 1) 5.9/34.9 1.3 0.8/1.6 57.8 1) 8.4/\n218.6\n6.3\nB6 µg\n100 g−1\n2.7 1.1/4.0 9.2 6.2/12.1 3.9 1.4/8.6 20.1 18.1/22.1 19.2 5.0 4.0/6.6 4.3 2.8/5.4 20.6 12.8/\n29.6\n19.1\nB12 µg\n100 g−1\n0.21) 0.0/0.6 n.d. - 0.03 1) 0.0/0.1 0.2 0.2 n.d. 0.1 1) 0.0/0.3 n.d. - 0.1 1) 0.0/0.3 0.1\nFolic acid µg\n100 g−1\n1.9 0.8/3.9 3.4 3.0/3.8 0.5 0.4/0.7 3.2 1.2/5.2 0.2 2.3 2.0/2.5 1.6 1.2/2.0 17.7 10.8/\n23.6\n0.1\nA µg\n100 g−1\nn.d. - n.d. - n.d. - 29.2 27.5/30.8 n.d. n.d. - n.d. - n.d. - n.d.\nE µg\n100 g−1\n1101.61) 419.3/\n2304.5\n304.0 210.9/\n397.2\nn.d. - 89.1 85.1/ 93.1 1751.2 2) 513.72) 380.2/\n693.2\n457.72) 382.6/\n558.2\n2822.0 1759.8/\n3865.8\n443.82)\nD2 µg\n100 g−1\n0.41) 0.0/1.2 n.d. - 0.2 1) 0.0/0.5 n.d. - 0.2 0.3 1) 0.0/1.1 n.d. - 0.4 1) 0.0/1.0 0.1\nK1 µg\n100 g−1\nn.d. - 1.8 1.0/2.6 n.d. - 0.2 0.1/0.2 0.2 0.1 0.1 0.03 0.0/0.1 3.5 2.1/4.8 0.1\nK2 µg\n100 g−1\nn.d. - n.d. - n.d. - 0.4 0.4 n.d. n.d. - n.d. - n.d. - n.d.\nn.d., not detected; 1)contains products supplemented with vitamins; 2)contains products supplemented with sunﬂower oil.\nFrontiers in Nutrition 09 frontiersin.org",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "35c9cc96-25ac-40fc-813f-fe8677bd62f4",
+        "embedding": null,
+        "metadata": {
+            "page_label": "10",
+            "file_name": "fnut-09-988707.pdf",
+            "file_path": "../data/raw/fnut-09-988707.pdf",
+            "file_type": "application/pdf",
+            "file_size": 697596,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "fnut-09-988707 October 22, 2022 Time: 11:58 # 10\nWalther et al. 10.3389/fnut.2022.988707\nof all minerals except sodium, iodine, and chloride ( Table 5).\nThe cashew drinks were high in copper (1.29 ±0.43 mg kg−1),\nzinc (3.04 ±1.76 mg kg −1), and selenium (21.01 ±14.0 µg\nkg−1); the hemp drink provided considerable amounts of\nmanganese (1.22 mg kg −1), copper (0.81 mg kg −1), and\nselenium (13.42 µg kg −1) and similar sodium level (567 mg\nkg−1) as the almond drinks (524 mg kg−1).\nCompared with milk, the plant-based drinks contained\nlower amounts of phosphorus, potassium, calcium, zinc,\nsulfur, iodine, and chloride. No iron, copper, and manganese\nwere detected in milk ( Table 5). Some drinks made of\nalmond, coconut, oat, rice, and soy were fortiﬁed with\ntricalcium phosphate or calcium containing algae (L. calcareum;\nSupplementary Table 1). All drinks without fortiﬁcation had\nsigniﬁcantly lower calcium contents than milk (p < 0.05).\nThe addition of seaweed ( L. calcareum ) improved the\ncalcium concentration to a level comparable with that in milk\nbut signiﬁcantly lower than those in drinks supplemented with\ntricalcium phosphate ( p < 0.05). The addition of seaweed also\nseemed to elevate the iodine content. This was the case in a\nsoy drink, an oat drink, and three rice drinks ( Supplementary\nTable 1). However, the concentrations remained signiﬁcantly\nbelow those in milk (p < 0.05). The variabilities of the iron, zinc,\ncalcium, potassium, and selenium contents within the same\nvariety were quite high (Table 5and Supplementary Figure 2).\nToxic residues\nThe arsenic concentration was low in all plant-based drinks\nand milk (ranging from 2.0 to 4.6 µg kg −1), except for rice\ndrinks, in which elevated concentrations ranging from 10.2 to\n12.4 µg kg−1 were measured (Supplementary Table 6).\nOnly traces or concentrations below the LOQ of glyphosate\nand AMPA were detectable in most samples ( Supplementary\nTable 6). None of the milk samples contained glyphosate or\nAMPA levels higher than the LOD. In 3 soy, 2 almond, 1 rice,\nand 1 oat drink and in the hemp drink, glyphosate or AMPA\nconcentrations higher than the LOQ (0.3µg L−1) were detected,\nbut the levels were relatively low (between 0.3 and 0.8 µg L−1).\nContribution to dietary recommendations\nOne portion (200 mL) of milk contributes to an average\nof > 10% of the RDA for biotin (11.5%, 9.8–13.3%); pantothenic\nacid (11.9%, 11.0–12.9%); vitamin B 2 (19.7%, 19.6–19.8%);\nminerals and trace elements, including phosphorus (26.4%,\n24.9–27.9%), calcium (22.4%, 21.9–23.0%), and iodine (15.4%,\n10.9–20.0%); and macronutrients, namely protein (13.6%,\n13.6%) and fat (11.3%, 11.2–11.5%; Supplementary Table 7).\nThe variability of the contents of the milk samples was low,\nexcept for iodine.\nOne portion (200 mL) of soy drink contributes an\naverage of > 10% of the RDA for vitamin B 2 (10.5%, 1.5–\n39.7%); folic acid (23.5%, 14.4–31.4%); vitamin E (47.0%,\n29.3–64.4%); vitamin D 2 (11.4%, 0–13.7%); vitamin K 1\n(11.5%, 7.1–15.9%); minerals and trace elements, including\nphosphorus (23.1%, 13.1–37.0%), manganese (12.3%, 7.8–\n16.4%), magnesium (13.4%, 8.7–18.2%), copper (21.3%, 16.3–\n27.4%), and calcium (16.8%, 1.7–33.5%); and the macronutrient\nprotein (14.1%, 11.7–17.9%; Supplementary Table 7).\nAll other plant-based drinks had < 10% contributions of\nmost nutrients, except the almond, oat, and rice drinks for\ncalcium (13.1%, 1.1–25.0%; 10.0%, 0.3–26.7%; and 10.9%, 1.0–\n20.8%, respectively), almond and hemp for vitamin E (18.4%,\n7.0–38.4% and 29.2%, respectively), almond for phosphorus\n(12.4%, 3.1–18.7%), cashew for magnesium and copper (10.6%,\n7.4–13.7% and 20.8%, 15.7–25.5%), and hemp for vitamin\nK1 (10.6%), copper (13.0%), and fat (10.4%; Supplementary\nTable 7). However, the individual plant-based beverages diﬀered\nconsiderably in their respective contributions.\nDiscussion\nPlant-based drinks are considered alternatives to milk\nand are often displayed close to milk products in the stores.\nThey are often touted as better tolerated, healthier, and more\nsustainable than milk. To compare the nutritive value of\nthese plant-based drinks to milk, it is important to know\nthe quantitative composition of macro- and micronutrients\nof these products as accurately as possible. The results of\nthis study provide a snapshot of quantitative information\nabout macro/micronutrient proﬁles and residues from\nproducts commercially available in Switzerland at the time\nof this investigation. They can be used to increase awareness\nabout the possible nutritional gaps when proceeding with\ntotal milk dietary exclusion and to optimize dietary plans\nable to adequately fulﬁll nutritional requirements. This\nis important for the nutritional guidance of the general\npopulation but particularly for people aﬀected by speciﬁc\nclinical conditions (e.g., allergy or intolerance to cow’s\nmilk proteins, lactose intolerance, galactosemia and post-\ninfection diarrhea) and during complementary feeding (35).\nIn the following, we discuss nutrient composition of the\nmeasured plant-based drinks and cow’s milk highlighting\ntheir peculiarities as regards with nutritional requirements.\nForemost, we observed that plant-based drinks exhibited\nlower dry masses indicating lower macronutrient and\nmicronutrient density making the ratio of the cost per\namount of nutrients less advantageous in plant-based drinks\nthan in cow’s milk (17).\nMacronutrient proﬁle\nCow’s milk allergy (CMA) prevalence is estimated to be\nat 2–3% and < 1% amongst children and adults, respectively\n(36–39). CMA manifests itself in various symptoms and is\nFrontiers in Nutrition 10 frontiersin.org",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "9d75aba4-3707-4157-9ab2-0660f061e52f",
+        "embedding": null,
+        "metadata": {
+            "page_label": "11",
+            "file_name": "fnut-09-988707.pdf",
+            "file_path": "../data/raw/fnut-09-988707.pdf",
+            "file_type": "application/pdf",
+            "file_size": 697596,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "fnut-09-988707 October 22, 2022 Time: 11:58 # 11\nWalther et al. 10.3389/fnut.2022.988707\nTABLE 5 Mean values and range of minerals and trace elements analyzed for different plant-based drinks and cow’s milk.\nMineral Unit Almond drink Cashew drink Coconut drink Cow’s milk Hemp drink Oat drink Rice Drink Soy drink Spelt\ndrink\nN 4 2 3 2 1 4 5 7 1\nMean Min/\nMax\nMean Min/\nMax\nMean Min/\nMax\nMean Min/\nMax\nValue Mean Min/\nMax\nMean Min/\nMax\nMean Min/\nMax\nValue\nP mg\nkg−1\n434 110/660 337 230/450 296 50/660 924 870/980 266 289 110/730 71 30/130 807 460/\n1300\n310\nNa mg\nkg−1\n524 250/850 306 190/430 335 260/440 381 370/390 567 395 310/460 149 30/320 229 10/ 430 440\nMn mg\nkg−1\n0.39 0.22/0.80 1.05 0.43/1.66 0.34 0.30/0.39 n.d. - 1.22 0.15 0.0/0.32 0.08 0.0/0.41 2.16 1.36/\n2.86\n0.47\nMg mg\nkg−1\n95 60/170 158 110/210 59 30/90 100 100 76 42 20/70 68 30/100 200 130/270 72\nK mg\nkg−1\n342 170/630 454 440/470 723 140/1800 1615 1580/1650 402 296 270/340 307 100/590 1643 940/\n2930\n419\nFe mg\nkg−1\n1.21 0.72/2.22 2.95 1.86/4.04 0.62 0.31/0.86 n.d. - 2.08 0.83 0.0/1.94 1.42 0.0/2.42 5.93 3.29/\n9.86\n0.66\nCu mg\nkg−1\n0.47 0.21/0.93 1.29 0.98/1.59 0.26 0.0/0.57 n.d. - 0.81 0.07 0.0/0.27 n.d. - 1.33 1.02/\n1.72\n0.27\nCa mg\nkg−1\n6561) 50/1250 64 60/70 471 1) 30/1330 1121 1090/1150 45 499 1)2) 20/1330 544 2) 50/1040 842 1)2) 80/1670 121\nZn mg\nkg−1\n1.33 0.62/2.74 3.04 1.8/4.28 0.36 0.24/4.23 3.42 3.37/3.48 1.49 0.28 0.0/0.53 0.53 0.4/0.73 3.40 2.4/4.43 0.80\nSe µg\nkg−1\n1.58 0.78/ 2.67 21.01 11.12/\n30.91\n3.69 0.48/7.53 16.21 13.5/18.9 13.42 1.60 1.18/\n2.42\n0.86 0.52/1.12 10.48 3.12/\n22.69\n2.88\nS mg\nkg−1\n68 40/100 138 110/160 75 30/150 305 300/310 92 79 50/90 38 30/50 301 240/350 87\nI µg\nkg−1\n3.75 2.5/5.2 4.95 2.6/7.3 6.20 2.8/9.0 115.70 81.8/149.6 3.4 12.83 2) 0.2/43.9 21.16 2) 0.2/39.4 15.13 2) 0.2/76.6 3.9\nCl mg\nkg−1\n686 410/900 348 60/640 678 470/860 980 980 750 639 550/700 579 140/960 119 0/430 690\nn.d., not detected; 1)contains with calcium phosphate supplemented products; 2)contains with Lithothamnium calcareum supplemented products.\nFrontiers in Nutrition 11 frontiersin.org",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "13acc447-1c9e-4376-8909-2989be64d066",
+        "embedding": null,
+        "metadata": {
+            "page_label": "12",
+            "file_name": "fnut-09-988707.pdf",
+            "file_path": "../data/raw/fnut-09-988707.pdf",
+            "file_type": "application/pdf",
+            "file_size": 697596,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "fnut-09-988707 October 22, 2022 Time: 11:58 # 12\nWalther et al. 10.3389/fnut.2022.988707\nmainly induced by casein and β-lactoglobulin making plant-\nbased drinks interesting alternatives. However, Jeske et al.\n(40) reported that 14% of CMA people also experience soy\nprotein allergy and should then avoid soy drinks (40). Immune\nreactivity to almond and coconut drinks was also reported (8).\nIn CMA aﬀected infants, tolerance to soy proteins needs to\nbe established and substitution of cow’s milk-based formula\nis only recommended based on age (41). Most plant-based\ndrinks provide less calories but also less protein contents than\nmilk (Table 1). Exceptions are soy-based drinks, whose protein\ncontents are equal or even slightly higher (31.2–48 g kg −1)\nthan those of milk (32. 6 g kg −1). Even though protein intake\nis on average good in Western countries, some population\ngroups such as infants, children and elderly have higher\nprotein and amino acid needs and it is important to ensure\nbioavailability of amino acids with good protein quality (42,\n43). Indeed, quality of plant proteins is often reduced relatively\nto animal proteins due to poorer digestibility, occurrence of\nanti-nutritional factors, lower essential amino acid content\n(especially leucine), and deﬁciency in other essential amino\nacids such as sulfur amino acids or lysine (44, 45). The\nDigestible Indispensable Amino Acid Score (DIAAS) method,\nbased on the ileal digestibility of individual indispensable\namino acids in relation to the amino acid reference pattern\nfor human requirements, is nowadays seen as a standard\nfor protein quality determination as recommended by FAO\n(21, 46, 47). The DIAAS also considers the eﬀect of anti-\nnutritive compounds that interfere with digestion, such as\nphytic acid, polyphenols, and protease inhibitors. Even if\nclinical evidence linking DIAAS with clinical health outcomes\nremains in development, consumption of proteins with low\nDIAASs was associated with lower muscle protein synthesis\n(44). Our data show superior protein quality as measured\nwith DIAAS as well as higher contents of essential amino\nacids (including lysine and methionine) and essential to total\namino acid ratio of milk relatively to plant-based drinks\nexcept for soy drinks for the 0 to 6 month age group\n(Supplementary Tables 3, 4). Literature on DIAAS from plant-\nbased beverages is scarce and limited to original protein sources\nas opposed to ﬁnal processed products (12). Thus, DIAASs\nfrom cow’s milk protein (1.18/1.16), soy (0.90/0.91/0.89), rice\n(0.59/0.49), oat (0.54/0.57), hemp (0.54), and almond proteins\n(0.40) were published (48–50). Whereas our DIAASs data\nfor milk (1.24), soy drinks (0.92), and oat drinks (0.50) are\ncongruent with literature for the same age group (0.5-to 3.0-\nyear-old children), values for rice (0.36), almond (0.33), and\nhemp drinks (0.47) appeared lower than the ones previously\nreported (48–50). No comparative DIAAS values for coconuts\nand spelt proteins could be found and to our knowledge\nonly a value < 50% was indicated for coconut drinks\n(16).\nNot surprisingly, fatty acid proﬁles from plant-based\ndrinks show higher contents of mono-and poly-unsaturated\nfatty acids relatively to milk, except for coconut beverages.\nMilk is particularly rich in saturated fatty acids and concerns\nwere raised about how its high consumption could associate\nwith cardiometabolic health and diabetes (51–53). Nowadays,\nnational and international recommendations to regulate total\nand saturated fat consumptions are available (54, 55) and\ncausality between total fat, saturated fatty acids, or dairy\nproducts and cardiometabolic health remains unestablished\n(52, 53, 56). Milk also contains 0.31–0.38 g of conjugated\nlinoleic acid per 100 g fat that is reported with positive\neﬀects on health (57). The omega-3 fatty acids, especially\nthose originating from seafood and plants are reported\nwith beneﬁcial and anti-inﬂammatory eﬀects (52, 58). In\nparticular, alpha linolenic acid (essential omega-3 fatty\nacid) owns capacity for enzymatic conversion to beneﬁcial\neicosapentaenoic and docosahexaenoic acids. As the pro-\ninﬂammatory omega-6 fatty acids compete for the same\nenzyme system as omega-3 fatty acids, the lowest possible\nratio of omega-6 to omega-3 is reported advantageous (58).\nAccording to our calculation, the lowest ratio was obtained\nfor milk at (2 to 3):1, followed by the soy (7 to 8):1 and\ncoconut drinks (11 to 18):1 ( Table 2). All other drinks\nprovided much higher ratios ranging from 30:1 (hemp)\nto 127 to 235:1 (almond) ( Table 2). One can hypothesize\nthat the addition of sunﬂower oil to plant-based drinks\ncontributes to the increase of omega-6 to omega-3 ratio\n(59).\nLastly about macronutrients, key advantage of plant-based\ndrinks relies with the absence of lactose making them suitable\nwhen in presence of lactose intolerance (12). Nevertheless,\nprocessing solution exists to eliminate lactose from cow’s\nmilk. In Western diets, excessive consumption of simple\nsugars (glucose, sucrose) with high glycaemic index (GI) link\nwith increased risks of obesity, cardiovascular disease, and\ntype 2 diabetes over time (60). Schwingshackl and Hoﬀmann\nrecommended to limit the intake of high GI foods (with\nGI > 70) not only in diabetic or prediabetic individuals\nbut also for prevention (61). Jeske et al. determined the\nglycaemic index (GI) of 17 plant-based drinks and milk\n(40). Whereas milk was assigned a GI of 46.93, plant-\nbased alternatives exhibited variable GI ranging from 47.53\nto 99.96. Our data show that sucrose was the main sugar\nin the plant-based drinks with a GI of 61 exceeding then\nthe milk lactose GI of 46 (62). The variability of sucrose\nlevel in plant-based drinks was also noticeable with 0.2 g\nkg−1 (rice drink) up to 33.5 g kg −1 (coconut drink).\nFurthermore, several plant-based drinks have high starch\ncontents (rice and cashew drinks), which contributes to\nincreasing GI due to hydrolysis into glucose by digestive\nenzymes (63). Despite the generally lower total carbohydrate\ncontent in plant-based drinks (except some rice and oat\ndrinks), milk consumption appears therefore more favorable\nin terms of GI. Regarding the ﬁbers that were not reported\nFrontiers in Nutrition 12 frontiersin.org",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "8caef913-9338-486a-9207-7039d2b2c81b",
+        "embedding": null,
+        "metadata": {
+            "page_label": "13",
+            "file_name": "fnut-09-988707.pdf",
+            "file_path": "../data/raw/fnut-09-988707.pdf",
+            "file_type": "application/pdf",
+            "file_size": 697596,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "fnut-09-988707 October 22, 2022 Time: 11:58 # 13\nWalther et al. 10.3389/fnut.2022.988707\nin this study, oat-based drink is likely to have the highest\ncontents with reported up to 0.5 g/100 mL (64). By\ncontrast, milk contains only trace amounts of oligosaccharides,\nwhich might provide a prebiotic function (65). Two rice\ndrinks were described as fermented, which might have\nchanged carbohydrate composition and possibly increased\nglucose levels. It would be interesting to check whether\nthese products were processed with enzymatic treatment or\nfermented with bacteria.\nMicronutrient proﬁle\nWhile milk provides the full range of vitamins, vitamins C,\nA, and K 2 could not be detected in the measured plant-based\ndrinks. It is worth mentioning that carotenoids (provitamin A),\nnaturally occurring in plants, were not included in our analyses\nand therefore our results might underestimate contribution of\nplant-based drinks to vitamin A status (66). Several vitamins\nincluding B 2, B 12, E, and D 2 were added in plant-based\ndrinks with B 2, B 12, and D 2 almost absent in non-fortiﬁed\nproducts ( Table 4and Supplementary Table 1). As expected,\nthe vitamin E contents of most plant-based beverages were\nhigher than those of cow’s milk, with the soy and almond\ndrinks providing the highest contributions to the RDA for\nthis vitamin reaching up to 47% of RDA ( Supplementary\nTable 7). Both almond and soy are naturally high in vitamin\nE (34, 67). The vitamin E concentrations in the rice, oat,\nand spelt drinks might have beneﬁted from the addition of\nsunﬂower oil that is known to be naturally rich in vitamin\nE (34). Furthermore, the soy and cashew drinks provided\nsigniﬁcant concentrations of vitamin K 1 (phylloquinone) but\nvitamin K 2 (menaquinone) could only be measured in cow’s\nmilk, which was in agreement with earlier results (68). It was\nreported that intake of menaquinone, even in small amounts,\ncan signiﬁcantly contribute to vitamin K status thanks to higher\nbioavailability versus phylloquinone (69). It is important to\nnote that food processing conditions for the production of\nplant-based drinks may reduce vitamin concentrations and\nparticularly the levels of the heat-sensitive vitamins C, B 1, and\nA (70–72).\nThe analysis of minerals and trace elements also reveals\nseveral peculiarities of plant-based drinks versus cow’s milk.\nMilk is a well-known natural source of calcium and 13 out\nof 27 plant-based beverages were fortiﬁed in this element\neither using (tri)calcium phosphate or L. calcareum (red\nalgae) (Supplementary Table 1). However, the bioavailability of\ntricalcium phosphate was shown to be 25% less in a soy-based\nbeverage relatively to milk calcium (73). Furthermore, the use\nof red algae that shows similar properties as calcium carbonate\nraises discussions about its ecological impact (74). The calcium-\nto-phosphorous ratio for the non-fortiﬁed beverages were quite\nlow compared with cow’s milk and high calcium-to-phosphate\nratios are better for bone health (75, 76). Plant-based drinks\nnaturally contain phytic acid as main source of phosphorous,\nand require thus calcium fortiﬁcation (for example tricalcium\nphosphate) to increase the ratio (77). However, phytic acid\nis a known antinutrient able to chelate micronutrients such\nas calcium, zinc, magnesium and iron preventing mucosal\nabsorption and therefore limiting the bioavailability of these\nminerals. Within plant-based drinks, soy drinks exhibited\nhighest levels of several minerals delivering on average\n21.3% (copper), 13.4% (magnesium), 12.3% (manganese), 8.2%\n(potassium), 8.5% (zinc), and 7.9% (iron) of the RDA per\nportion, respectively ( Supplementary Table 7). In contrast to\nan earlier analysis, our analysis did not detect iron, copper, and\nmanganese in milk (78). The cashew-based drink showed the\nhigher values for selenium accounting for 3.7–10.3% of RDA\nversus 4.5–6.3% of RDA per portion for milk ( Table 5 and\nSupplementary Table 7). Milk and cashew beverages may thus\ncontribute to increasing dietary selenium intake in countries\nwhere soil selenium content is reduced such as Switzerland. As\nexpected, milk represents a good source of iodine (82–150 µg\nkg−1) achieving 10.9 to 20.0% of RDA per portion ( Table 5\nand Supplementary Table 7). Milk is thus an interesting\npopularly positioned product that helps achieving adequate\niodine status of the population. This becomes particularly\nrelevant in countries with poor iodine resources such as\nSwitzerland and for population groups exposed to higher risk\nof iodine deﬁciency such as pregnant and lactating women as\nwell as young children (79). Signiﬁcant levels of iodine were\nfound in 1 soy (76.6 µg kg −1), 3 rice (21.9–39.4 µg kg −1),\nand 1 oat (43.9 µg kg −1) plant-based drinks, likely resulting\nfrom red algae addition that is known to increase iodine\nvalues (80, 81).\nGlyphosate, aminomethylphosphonic\nacid, and arsenic residues\nAll measured samples showed very low levels of glyphosate\nand AMPA (with the sum of glyphosate and AMPA < 2 ng\nmL−1), and therefore are well below the acceptable daily intake\nand acute reference dose (0.5 mg kg −1 of body weight per\nday) under conceivable consumption scenarios (82). However,\nif such chemical exposure doesn’t seem to raise safety concerns\nfor adults, they might still be considered for speciﬁc groups\nsuch as infants and children. Rice drinks showed arsenic\nresidues between 10.2 and 12.4 µg kg −1 and knowing that\nalmost 80% of total arsenic is in its toxic inorganic form\n(iAs), we estimated that a consumption of three portions\na day (0.6 L) of the tested rice drinks would correspond\nto an intake of approximately 6.5 µg of iAs (based on\naverage arsenic concentration of 10.92 µg kg −1 in the ﬁve\ntested rice drinks) (83). This level of iAs exposure is not\nnegligible as the mean intake for the Swiss population was\nFrontiers in Nutrition 13 frontiersin.org",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "7b857afb-516f-4fc8-90a9-020d99e1c94a",
+        "embedding": null,
+        "metadata": {
+            "page_label": "14",
+            "file_name": "fnut-09-988707.pdf",
+            "file_path": "../data/raw/fnut-09-988707.pdf",
+            "file_type": "application/pdf",
+            "file_size": 697596,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "fnut-09-988707 October 22, 2022 Time: 11:58 # 14\nWalther et al. 10.3389/fnut.2022.988707\nrecently estimated to be 0.029 µg kg −1 bw per day for\nadults and at 0.044 µg kg −1 bw for toddlers (1 to 3 years\nof age) (84). Although a benchmark dose lower conﬁdence\nlimit (BMDL01) as low as 0.3 µg kg −1 bw per day was\ndeﬁned, arsenic exposure should be kept as low as possible\n(85). It appears then that regular consumption of rice drinks\ncould signiﬁcantly contribute to arsenic exposure. One should\nalso mention that these levels of arsenic were still within\nthe range of the maximum value for drinking water that\napplies in Switzerland and the European Union (86, 87).\nFurthermore, the arsenic content of the red algae used for\ncalcium fortiﬁcation should also be monitored because of\npossible arsenic accumulations (88).\nAdvantages, limits, and outlook for\nplant-based drinks\nOne portion (200 mL) of cow’s milk contributes for\nmore than 10% of the RDA for biotin, pantothenic acid,\nvitamin B 2, phosphorus, calcium and iodine ( Supplementary\nTable 7). It can provide also a signiﬁcant proportion of the\ndaily requirement of proteins with high nutritional quality for\nhumans. Another advantage for milk relies with the relative\nhigher stability of its nutrient composition with the exception\nof iodine content that can vary depending on the season\nand feeding habits (89). Cow’s milk is also a good vector\nof fatty acids, with an interesting omega 6 to omega 3 ratio\nbut still with a signiﬁcant dominance of saturated fatty acids\nand a contribution to the intake of trans fatty acids. Plant-\nbased drinks are clearly advantaged by their higher proportions\nof monounsaturated and polyunsaturated fatty acids except\nfor coconut drink. Plant-based drinks and particularly soy-\nbased drinks and products such as infant formulas are\nwell indicated in cases of allergy and intolerance to cow’s\nmilk proteins, hereditary lactase deﬁciency and galactosemia.\nHowever, the digestibility and nutritional performance of\nplant-based proteins is reduced by the natural occurrence\nof antinutrients and often limitations for speciﬁc essential\namino acids (41). Whereas cow’s milk lactose is an issue\nin situation of lactose intolerance, soy is also known to bring\nraﬃnose and stachyose that can cause digestive discomfort.\nPhytic acid in plant-based products should also be taken\ninto account as it can potentially limit the bioavailability of\nessential minerals even when such minerals are present in\nthe products. Therefore, the anti-nutrient proﬁle of plant-\nbased products should be more frequently measured and\ncommunicated to consumers. Without fortiﬁcation, plant-\nbased drinks are limited in their ability to provide signiﬁcant\namounts of micronutrients unlike cow’s milk that is a richer\nsource (e.g., vitamin B12, iodine) (90, 91). Amongst the\ntested plant-based drinks, soy-based drinks appear to have\nthe closest nutritional characteristics to milk in terms of\ncontributions to RDAs but still particular attention is needed\nbefore proceeding with total milk substitution. Moreover, it is\nworth mentioning that the long-term eﬀect of regular intake of\nsoy phytoestrogens idaidzein, genistein, glycitein), particularly\nin children, on endocrine functions and the reproductive\nsystem later in life requires more scientiﬁc evidence (41). In\nfuture, nutritional quality of plant-based drinks with science-\nproven nutrient and micronutrient bioavailability should be\nequally considered and communicated than sustainability\ngoals (92). Practical solutions to mitigate nutritional gaps\nof speciﬁc plant-based drinks could be to opt, whenever\npossible, for a combination of plant-based alternatives as\npart of a balanced diet to ensure adequate fulﬁlment of\nnutrient and micronutrient needs. Finally, real innovation\nopportunities exist on evolving conventional and ultra-\nprocessing food manufacturing techniques, generally required\nin the manufacturing of plant-based products, toward simpliﬁed\nand/or natural processes such as microbial fermentation that\ncan reduce antinutritional characteristics of foods/ingredients,\nimprove protein digestibility and produce additional micro-\nor phytonutrients.\nStrength and limits\nOur study shows a comprehensive laboratory analysis of the\nnutrient composition of plant-based products actually available\nin the Swiss Market. Not only the amount but also the quality\nof macronutrients was assessed. In addition, glyphosate and\narsenic levels were determined to enable a risk assessment.\nWe did not discriminate between enriched and non-enriched\nproducts to have a general overview.\nHowever, this might be a limitation for the interpretation\nof some results. Furthermore, we did not analyze ﬁber and\noligosaccharides, so the total amount of carbohydrates might be\nunderestimated. For ﬁber we only added information from the\nliterature. We did not detect the trace elements manganese and\ncopper and discussed the possible reasons. Carotenoids, usually\npresent in the form of vitamin A in plants, were not analyzed.\nAs plant-based drinks are a growing and highly volatile\nmarket, there are currently only a few diﬀerent products\navailable in each category. Statistical statements are therefore\nonly possible to a limited extent.\nConclusion\nOur ﬁndings show that the analyzed plant-based beverages\nsigniﬁcantly diﬀered in their nutrient composition, not only\ncompared with cow’s milk but also between the drinks\nthemselves. They were based on diﬀerent food sources and\nFrontiers in Nutrition 14 frontiersin.org",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "e071b206-aed2-45b5-a043-fe7c69e557ac",
+        "embedding": null,
+        "metadata": {
+            "page_label": "15",
+            "file_name": "fnut-09-988707.pdf",
+            "file_path": "../data/raw/fnut-09-988707.pdf",
+            "file_type": "application/pdf",
+            "file_size": 697596,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "fnut-09-988707 October 22, 2022 Time: 11:58 # 15\nWalther et al. 10.3389/fnut.2022.988707\nprovided diﬀerent nutrient amounts and calories. Over years,\nthe most important reasons for adding milk to our diet relies\nwith its high nutrient density and quality, especially for protein\nand calcium. Only the soy-based beverages reached similar\nprotein amounts but had lower protein quality, as assessed on\nthe basis of the DIAAS. In addition, milk is a signiﬁcantly\nricher dietary source of micronutrients such as calcium, iodine,\nvitamin B 2, pantothenic acid, and biotin than plant-based\ndrinks, which, by contrast, provide higher amounts of vitamin\nE and manganese, depending on the source. The measured\nnutrient values showed that the plant-based beverages cannot,\nas they stand, be considered nutritionally equivalent to cow’s\nmilk and that their long-term consumption may require dietary\nadjustments to fully meet nutritional needs. In the case of\nfortiﬁed drinks, the question arises as to how the bioavailability\nof these added minerals and vitamins compares with milk.\nStudies on the digestibility and absorption of these drinks\nand their ingredients would provide further insights into their\ncomparability with milk. Our results show that either the\nnext generation of plant-based beverages must be optimized in\nnutrient proﬁles or combined with dietary adjustments if milk is\nto be fully substituted by plant-based drinks.\nData availability statement\nThe original contributions presented in this study are\nincluded in the article/ Supplementary material , further\ninquiries can be directed to the corresponding author.\nAuthor contributions\nBW and KK-B created the conception and design of the\nstudy. RB, LE, RP , SD, MH, OZ, PR, and RV performed the\nanalysis and measurements. BW, KK-B, and DG analyzed the\ndata. DG carried out the statistics and produced the graphics.\nBW, KK-B, and SR wrote the manuscript. All authors read and\napproved the ﬁnal manuscript.\nAcknowledgments\nWe thank the laboratory staﬀ for their careful analyses of the\nsample material and Kathryn Pimentel Burton for reviewing and\ncorrecting the manuscript.\nConﬂict of interest\nThe authors declare that the research was conducted in the\nabsence of any commercial or ﬁnancial relationships that could\nbe construed as a potential conﬂict of interest.\nPublisher’s note\nAll claims expressed in this article are solely those of the\nauthors and do not necessarily represent those of their aﬃliated\norganizations, or those of the publisher, the editors and the\nreviewers. Any product that may be evaluated in this article, or\nclaim that may be made by its manufacturer, is not guaranteed\nor endorsed by the publisher.\nSupplementary material\nThe Supplementary Material for this article can be\nfound online at: https://www.frontiersin.org/articles/10.3389/\nfnut.2022.988707/full#supplementary-material\nReferences\n1. Porzi M, Burton-Pimentel KJ, Walther B, Vergères G. Development\nof personalized nutrition: applications in lactose intolerance diagnosis and\nmanagement. Nutrients. (2021) 13:1503. doi: 10.3390/nu13051503\n2. Comerford KB, Miller GD, Boileau AC, Masiello Schuette SN, Giddens\nJC, Brown KA. Global review of dairy recommendations in food-based dietary\nguidelines. Front Nutr. (2021) 8:671999. doi: 10.3389/fnut.2021.67\\break1999 doi:\n10.3389/fnut.2021.671999\n3. OECD/FAO. OECD-FAO Agricultural Outlook 2018-2027 Dairy and Dairy\nProducts. Rome: FAO (2018).\n4. TSM Treuhand GMbH, Swissmilk, Switzerland Cheese Marketing,\nBranchenorganisation Milch, Agristat. Dairy statistics Switzerland 2019 . Brugg:\nBranchenorganisation Milch (2020).\n5. Chatelan A, Beer-Borst S, Randriamiharisoa A, Pasquier J, Blanco JM,\nSiegenthaler S, et al. Major diﬀerences in diet across three linguistic regions of\nswitzerland: results from the ﬁrst national nutrition survey menuCH. Nutrients.\n(2017) 9:1–17. doi: 10.3390/nu9111163\n6. United Nations and Department of Economic Social Aﬀairs. The Sustainable\nDevelopment Goals Report 2020 . New York, NY: United Nations and Department\nof Economic Social Aﬀairs (2020).\n7. Obermayer-Pietsch BM, Bonelli CM, Walter DE, Kuhn RJ, Fahrleitner-\nPammer A, Berghold A, et al. Genetic predisposition for adult lactose intolerance\nand relation to diet, bone density, and bone fractures. J Bone Miner Res. (2004)\n19:42–7. doi: 10.1359/jbmr.0301207\n8. Vojdani A, Turnpaugh C, Vojdani E. Immune reactivity against a variety of\nmammalian milks and plant-based milk substitutes. J Dairy Res. (2018) 85:358–65.\ndoi: 10.1017/S0022029918000523\n9. Beacom E, Bogue J, Repar L. Market-oriented development of plant-based food\nand beverage products: a usage segmentation approach.J Food Prod Market.(2021)\n27:204–22. doi: 10.1080/10454446.2021.1955799\n10. Jeske S, Zannini E, Arendt EK. Past, present and future: the strength of plant-\nbased dairy substitutes based on gluten-free raw materials. Food Res Int. (2018)\n110:42–51. doi: 10.1016/j.foodres.2017.03.045\nFrontiers in Nutrition 15 frontiersin.org",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "33155ffe-0a57-444e-a9e7-2b37b95a9a82",
+        "embedding": null,
+        "metadata": {
+            "page_label": "16",
+            "file_name": "fnut-09-988707.pdf",
+            "file_path": "../data/raw/fnut-09-988707.pdf",
+            "file_type": "application/pdf",
+            "file_size": 697596,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "fnut-09-988707 October 22, 2022 Time: 11:58 # 16\nWalther et al. 10.3389/fnut.2022.988707\n11. McCarthy KS, Parker M, Ameerally A, Drake SL, Drake MA. Drivers of choice\nfor ﬂuid milk versus plant-based alternatives: What are consumer perceptions of\nﬂuid milk? J Dairy Sci. (2017) 100:6125–38. doi: 10.3168/jds.2016-12519\n12. Sousa A, Kopf-Bolanz KA. Nutritional implications of an increasing\nconsumption of non-dairy plant-based beverages instead of cow’s milk\nin Switzerland. Adv Dairy Res. (2017) 5:1–7. doi: 10.4172/2329-888X.100\n0197\n13. Vanga SK, Raghavan V. How well do plant based alternatives fare\nnutritionally compared to cow’s milk? J Food Sci Technol. (2018) 55:10–20. doi:\n10.1007/s13197-017-2915-y\n14. Paul AA, Kumar S, Kumar V , Sharma R. Milk Analog: Plant based alternatives\nto conventional milk, production, potential and health concerns. Crit Rev Food Sci\nNutr. (2019) 60:3005–23. doi: 10.1080/10408398.2019.1674243\n15. Scholz-Ahrens KE, Ahrens F , Barth CA. Nutritional and health attributes of\nmilk and milk imitations. Eur J Nutr. (2019) 59:19–34. doi: 10.1007/s00394-019-\n01936-3\n16. Angelino D, Rosi A, Vici G, Dello Russo M, Pellegrini N, Martini D.\nNutritional quality of plant-based drinks sold in italy: the Food Labelling of Italian\nProducts (FLIP) study. Foods. (2020) 9:682. doi: 10.3390/foods9050682\n17. Clegg ME, Tarrado Ribes A, Reynolds R, Kliem K, Stergiadis S. A\ncomparative assessment of the nutritional composition of dairy and plant-based\ndairy alternatives available for sale in the UK and the implications for consumers’\ndietary intakes. Food Res Int. (2021) 148:110586. doi: 10.1016/j.foodres.2021.\n110586\n18. IDF [International Dairy Federation]. International Standard ISO 6731\nIDF 21: determination of total solids content. Milk, cream and evaporated milk,\nInternational Dairy Federation. Geneva: ISO Standard (2010).\n19. Mariotti F , Tomé D, Mirand PP. Converting nitrogen into protein–beyond\n6.25 and Jones’ factors. Crit Rev Food Sci Nutr. (2008) 48:177–84. doi: 10.1080/\n10408390701279749\n20. Jaudzems G, Guthrie J, Lahrichi S, Fuerer C. Total amino acids by UHPLC-\nUV in infant formulas and adult nutritionals, ﬁrst action 2018.06. J AOAC Int.\n(2019) 102:1574–88. doi: 10.5740/jaoacint.19-0036\n21. FAO. Dietary protein quality evaluation in human nutrition.Report of an FAO\nExpert Consultation. Rome: Food and Agriculture Organization (2013).\n22. IDF [International Dairy Federation]. ISO 8262-2, Milk products and milk-\nbased foods −Determination of fat content by the Weibull-Berntrop gravimetric\nmethod (Reference method). Geneva: ISO Standard (2005).\n23. Guggisberg D, Burton-Pimentel KJ, Walther B, Badertscher R, Blaser C,\nPortmann R, et al. Molecular eﬀects of the consumption of margarine and butter\nvarying in trans fat composition: a parallel human intervention study.Lipids Health\nDis. (2022) 21:74. doi: 10.1186/s12944-022-01675-1\n24. Bui MH. A microbiological assay on microtitre plates of thiamine in\nbiological ﬂuids and foods. Int J Vit Nutr Res. (1999) 69:362–6.\n25. Latimer GW. Oﬃcial methods of analysis of AOAC International .\nGaithersburg, MA: AOAC International (2019). doi: 10.1093/9780197610138.\n001.0001\n26. Tsuda H, Matsumoto T, Ishimi Y. Biotin, niacin, and pantothenic acid assay\nusing lyophilized Lactobacillus plantarum ATCC 8014. J Nutr Sci Vitaminol.(2011)\n57:437–40. doi: 10.3177/jnsv.57.437\n27. DeVries JW, Rader JI, Keagy PM, Hudson CA, Arcot J. Microbiological assay-\ntrienzyme procedure for total folates in cereals and cereal foods: collaborative study.\nJ AOAC Int. (2019) 88:5–15. doi: 10.1093/jaoac/88.1.5\n28. Bui-Nguyên MH. Application of high-performance liquid chromatography\nto the separation of ascorbic acid from isoascorbic acid. J Chromatogr A. (1980)\n196:163–5. doi: 10.1016/S0021-9673(00)80371-4\n29. Schierle J, Pietsch B, Ceresa A, Fizet C, Waysek EH. Method for the\ndetermination of β-carotene in supplements and raw materials by reversed-phase\nliquid chromatography: single laboratory validation. J AOAC Int. (2019) 87:1070–\n82. doi: 10.1093/jaoac/87.5.1070\n30. Indyk HE, Woollard DC. Determination of vitamin K in milk and infant\nformulas by liquid chromatography: collaborative study. J AOAC Int. (2000)\n83:121–30. doi: 10.1093/jaoac/83.1.121\n31. van der Reijden OL, Galetti V , Hulmann M, Krzystek A, Haldimann M,\nSchlegel P , et al. The main determinants of iodine in cows’ milk in Switzerland are\nfarm type, season and teat dipping. Br J Nutr. (2018) 119:559–69. doi: 10.1017/\nS0007114517003798\n32. Zoller O, Rhyn P , Rupp H, Zarn JA, Geiser C. Glyphosate residues in\nSwiss market foods: monitoring and risk evaluation. Food Add Contam B. (2018)\n11:83–91. doi: 10.1080/19393210.2017.1419509\n33. Deutsche Gesellschaft für Ernährung, Österreichische Gesellschaft für\nErnährung, Schweizerische Gesellschaft für Ernährungsforschung, Schweizerische\nVereinigung für Ernährung. Referenzwerte für die Nährstoﬀzufuhr . Frankfurt:\nNeuer Umschau Buchverlag (2015).\n34. FSVO [Federal Food Safety and Veterinary Oﬃce]. Swiss Food Composition\nDatabase. Bern: FSVO (2019).\n35. D’Auria E, Borsani B, Pendezza E, Bosetti A, Paradiso L, Zuccotti GV , et al.\nComplementary feeding: pitfalls for health outcomes. Int J Environ Res Public\nHealth. (2020) 17:1–19. doi: 10.3390/ijerph17217931\n36. Høst A. Frequency of cow’s milk allergy in childhood. Ann Allergy Asthma\nImmunol. (2002) 89:33–7. doi: 10.1016/S1081-1206(10)62120-5\n37. Burney PG, Potts J, Kummeling I, Mills EN, Clausen M, Dubakiene R, et al.\nThe prevalence and distribution of food sensitization in European adults. Allergy.\n(2014) 69:365–71. doi: 10.1111/all.12341\n38. Schoemaker AA, Sprikkelman AB, Grimshaw KE, Roberts G, Grabenhenrich\nL, Rosenfeld L, et al. Incidence and natural history of challenge-proven cow’s milk\nallergy in European children–EuroPrevall birth cohort. Allergy. (2015) 70:963–72.\ndoi: 10.1111/all.12630\n39. Flom JD, Sicherer SH. Epidemiology of cow’s milk allergy. Nutrients. (2019)\n11:1051. doi: 10.3390/nu11051051\n40. Jeske S, Zannini E, Arendt EK. Evaluation of physicochemical and glycaemic\nproperties of commercial plant-based milk substitutes. Plant Foods Hum Nutr.\n(2017) 72:26–33. doi: 10.1007/s11130-016-0583-0\n41. Verduci E, D’Elios S, Cerrato L, Comberiati P , Calvani M, Palazzo S, et al.\nCow’s milk substitutes for children: nutritional aspects of milk from diﬀerent\nmammalian species, special formula and plant-based beverages. Nutrients. (2019)\n11:1739. doi: 10.3390/nu11081739\n42. Kopf-Bolanz K, Walther B. Proteinkonsum in der Schweiz - Auswertung des\nmenuCH Datensatzes. Zürich: Schweizer Ernährungsbulletin (2021).\n43. Rojas Conzuelo Z, Bez NS, Theobald S, Kopf-Bolanz KA. Protein quality\nchanges of vegan day menus with diﬀerent plant protein source compositions.\nNutrients. (2022) 14:1088. doi: 10.3390/nu14051088\n44. Berrazaga I, Micard V , Gueugneau M, Walrand S. The role of the anabolic\nproperties of plant- versus animal-based protein sources in supporting muscle mass\nmaintenance: a critical review.Nutrients. (2019) 11:1825. doi: 10.3390/nu11081825\n45. Park S, Church DD, Schutzler SE, Azhar G, Kim IY , Ferrando AA, et al.\nmetabolic evaluation of the dietary guidelines’ ounce equivalents of protein food\nsources in young adults: a randomized controlled trial. J Nutr. (2021) 151:1190–6.\ndoi: 10.1093/jn/nxaa401\n46. Sarwar Gilani G, Wu Xiao C, Cockell KA. Impact of antinutritional factors\nin food proteins on the digestibility of protein and the bioavailability of amino\nacids and on protein quality. Br J Nutr. (2012) 108(Suppl. 2):S315–32. doi: 10.1017/\nS0007114512002371\n47. Schaafsma G. Advantages and limitations of the protein digestibility-\ncorrected amino acid score (PDCAAS) as a method for evaluating protein\nquality in human diets. Br J Nutr. (2012) 108(Suppl. 2):S333–6. doi: 10.1017/\nS0007114512002541\n48. Rutherfurd SM, Fanning AC, Miller BJ, Moughan PJ. Protein digestibility-\ncorrected amino acid scores and digestible indispensable amino acid scores\ndiﬀerentially describe protein quality in growing male rats. J Nutr. (2015) 145:372–\n9. doi: 10.3945/jn.114.195438\n49. Burd NA, Beals JW, Martinez IG, Salvador AF , Skinner SK. Food-ﬁrst\napproach to enhance the regulation of post-exercise skeletal muscle protein\nsynthesis and remodeling. Sports Med. (2019) 49:59–68. doi: 10.1007/s40279-018-\n1009-y\n50. Herreman L, Nommensen P , Pennings B, Laus MC. Comprehensive overview\nof the quality of plant- And animal-sourced proteins based on the digestible\nindispensable amino acid score. Food Sci Nutr. (2020) 8:5379–91. doi: 10.1002/\nfsn3.1809\n51. Dehghan M, Mente A, Rangarajan S, Sheridan P , Mohan V , Iqbal R, et al.\nAssociation of dairy intake with cardiovascular disease and mortality in 21\ncountries from ﬁve continents (PURE): a prospective cohort study. Lancet. (2018)\n392:2288–97. doi: 10.1016/S0140-6736(18)31812-9\n52. Mozaﬀarian D. Dietary and policy priorities for cardiovascular disease.\ndiabetes, and obesity: a comprehensive review. Circulation. (2016) 133:187–225.\n53. Praagman J, Beulens JW, Alssema M, Zock PL, Wanders AJ, Sluijs I, et al.\nThe association between dietary saturated fatty acids and ischemic heart disease\ndepends on the type and source of fatty acid in the European Prospective\nInvestigation into Cancer and Nutrition-Netherlands cohort. Am J Clin Nutr.\n(2016) 103:356–65. doi: 10.3945/ajcn.115.122671\nFrontiers in Nutrition 16 frontiersin.org",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "96167bae-a33f-4a8d-a170-cdd234e3e7a5",
+        "embedding": null,
+        "metadata": {
+            "page_label": "17",
+            "file_name": "fnut-09-988707.pdf",
+            "file_path": "../data/raw/fnut-09-988707.pdf",
+            "file_type": "application/pdf",
+            "file_size": 697596,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "fnut-09-988707 October 22, 2022 Time: 11:58 # 17\nWalther et al. 10.3389/fnut.2022.988707\n54. Sacks FM, Lichtenstein AH, Wu JHY , Appel LJ, Creager MA, Kris-Etherton\nPM, et al. Dietary Fats and Cardiovascular Disease: A Presidential Advisory From\nthe American Heart Association. Circulation. (2017) 136:e1–23. doi: 10.1161/CIR.\n0000000000000510\n55. EC [European Commission]. Food-Based Dietary Guidelines in Europe -\nSummary of FBDG recommendations for oil and fats for the the EU . Reykjavík:\nEuropean Commission (2022).\n56. Haug A, Høstmark AT, Harstad OM. Bovine milk in human nutrition–a\nreview. Lipids Health Dis. (2007) 6:25. doi: 10.1186/1476-511X-6-25\n57. Koba K, Y anagita T. Health beneﬁts of conjugated linoleic acid (CLA). Obes\nRes Clin Pract. (2014) 8:e525–32. doi: 10.1016/j.orcp.2013.10.001\n58. Araujo P , Belghit I, Aarsaether N, Espe M, Lucena E, Holen E. The eﬀect\nof Omega-3 and Omega-6 polyunsaturated fatty acids on the production of\ncyclooxygenase and lipoxygenase metabolites by human umbilical vein endothelial\ncells. Nutrients. (2019) 11:966. doi: 10.3390/nu11050966\n59. Dubois V , Breton S, Linder M, Fanni J, Parmentier M. Fatty acid proﬁles of\n80 vegetable oils with regard to their nutritional potential. Eur J Lipid Sci Technol.\n(2007) 109:710–32. doi: 10.1002/ejlt.200700040\n60. WHO [World Health Organization]. Guideline: Sugars Intake for Adults and\nChildren. Geneva: World Health Organization (2015).\n61. Schwingshackl L, Hoﬀmann G. Long-term eﬀects of low glycemic index/load\nvs. high glycemic index/load diets on parameters of obesity and obesity-associated\nrisks: a systematic review and meta-analysis. Nutr Metab Cardiovasc Dis. (2013)\n23:699–706. doi: 10.1016/j.numecd.2013.04.008\n62. Foster-Powell K, Holt SH, Brand-Miller JC. International table of glycemic\nindex and glycemic load values: 2002. Am J Clin Nutr. (2002) 76:5–56. doi: 10.\n1093/ajcn/76.1.5\n63. Quezada-Calvillo R, Robayo-Torres CC, Ao Z, Hamaker BR, Quaroni A,\nBrayer GD, et al. Luminal substrate brake on mucosal maltase-glucoamylase activity\nregulates total rate of starch digestion to glucose. J Pediatr Gastroenterol Nutr.\n(2007) 45:32–43. doi: 10.1097/MPG.0b013e31804216fc\n64. Onning G, Wallmark A, Persson M, Akesson B, Elmståhl S, Oste R.\nConsumption of oat milk for 5 weeks lowers serum cholesterol and LDL cholesterol\nin free-living men with moderate hypercholesterolemia. Ann Nutr Metab. (1999)\n43:301–9. doi: 10.1159/000012798\n65. Zivkovic AM, Barile D. Bovine milk as a source of functional oligosaccharides\nfor improving human health.Adv Nutr.(2011) 2:284–9. doi: 10.3945/an.111.000455\n66. Gilbert C. What is vitamin A and why do we need it? Commun Eye Health.\n(2013) 26:65.\n67. Ghosh S, Zhang S, Azam M, Gebregziabher BS, Abdelghany AM, Shaibu AS,\net al. Natural variation of seed tocopherol composition in diverse world soybean\naccessions from maturity group 0 to VI grown in China. Plants. (2022) 11:2.\ndoi: 10.3390/plants11020206\n68. Manna P , Kalita J. Beneﬁcial role of vitamin K supplementation on insulin\nsensitivity, glucose metabolism, and the reduced risk of type 2 diabetes: a review.\nNutrition. (2016) 32:732–9. doi: 10.1016/j.nut.2016.01.011\n69. Halder M, Petsophonsakul P , Akbulut AC, Pavlic A, Bohan F , Anderson\nE, et al. Vitamin K: double bonds beyond coagulation insights into diﬀerences\nbetween Vitamin K1 and K2 in health and disease. Int J Mol Sci. (2019) 20:896.\ndoi: 10.3390/ijms20040896\n70. Valencia-Flores DC, Hernández-Herrero M, Guamis B, Ferragut V.\nComparing the eﬀects of ultra-high-pressure homogenization and conventional\nthermal treatments on the microbiological, physical, and chemical quality of\nalmond beverages. J Food Sci. (2013) 78:E199–205. doi: 10.1111/1750-3841.12029\n71. Lešková E, Kubíková J, Ková ˇciková E, Košická M, Porubská J, Hol ˇcíková K.\nVitamin losses: Retention during heat treatment and continual changes expressed\nby mathematical models. J Food Compos Anal. (2006) 19:252–76. doi: 10.1016/j.\njfca.2005.04.014\n72. Riaz MN, Asif M, Ali R. Stability of vitamins during extrusion. Crit Rev Food\nSci Nutr. (2009) 49:361–8. doi: 10.1080/10408390802067290\n73. Heaney RP , Raﬀerty K, Dowell MS, Bierman J. Calcium fortiﬁcation systems\ndiﬀer in bioavailability. J Am Diet Assoc.(2005) 105:807–9. doi: 10.1016/j.jada.2005.\n02.012\n74. Schlegel P , Gutzwiller A. Eﬀect of dietary calcium level and source on mineral\nutilisation by piglets fed diets containing exogenous phytase. J Anim Physiol Anim\nNutr. (2017) 101:e165–74. doi: 10.1111/jpn.12582\n75. Straub DA. Calcium supplementation in clinical practice: a review of\nforms, doses, and indications. Nutr Clin Pract. (2007) 22:286–96. doi: 10.1177/\n0115426507022003286\n76. van den Heuvel E, Steijns J. Dairy products and bone health: how strong is\nthe scientiﬁc evidence? Nutr Res Rev. (2018) 31:164–78.\n77. Uribarri J, Calvo MS. Dietary phosphorus intake and health1-3. Am J Clin\nNutr. (2014) 99:247–8. doi: 10.3945/ajcn.113.080259\n78. Sieber R. Zusammensetzung von Milch und Milchprodukten Schweizerischer\nHerkunft. Bern: Forschungsanstalt Agroscope Liebefeld (2011).\n79. FCN [Federal Commission of Nutrition]. Iodine supply in Switzerland\n[Online]. Baltimore: Federal Commission of Nutrition (2013).\n80. Bath SC, Hill S, Infante HG, Elghul S, Nezianya CJ, Rayman MP. Iodine\nconcentration of milk-alternative drinks available in the UK in comparison with\ncows’ milk.Br J Nutr. (2017) 118:525–32. doi: 10.1017/S0007114517002136\n81. Infanger E, Haldimann M. Report on the composition of prevalent salt\nvarieties. Bern: Federal Food Safety and Veterinary Oﬃce (2016).\n82. EFSA [European Food Safety Authority]. Conclusion on the peer review of\nthe pesticide risk assessment of the active substance glyphosate. EFSA J. (2015)\n13:4302. doi: 10.2903/j.efsa.2015.4302\n83. Guillod-Magnin R, Brüschweiler BJ, Aubert R, Haldimann M. Arsenic species\nin rice and rice-based products consumed by toddlers in Switzerland. Food Add\nContam A. (2018) 35:1164–78. doi: 10.1080/19440049.2018.1440641\n84. Guillod-Magnin R, Brüschweiler BJ. Durch den Konsum von Reis und\nReisprodukten bedingte Exposition der Schweizer Bevölkerung gegenüber Arsen .\nZürich: Schweizer Ernährungsbulletin (2019).\n85. EFSA CONTAM Panel. Scientiﬁc opinion on arsenic in food. EFSA J. (2009)\n7:1351. doi: 10.2903/j.efsa.2009.1351\n86. Swiss Confederation. Verordnung des EDI vom 16. Dezember 2016 über\nTrinkwasser sowie Wasser in öﬀentlich zugänglichen Bädern und Duschanlagen\n(TBDV). Bern: Swiss Confederation (2016).\n87. EU [European Union]. Directive (EU) 2020/2184 of the European Parliament\nand of the Council of 16 December 2020 on the quality of water intended for human\nconsumption (recast). Luxembourg: European Union (2020).\n88. Circuncisão AR, Catarino MD, Cardoso SM, Silva AMS. Minerals from\nmacroalgae origin: health beneﬁts and risks for consumers. Mar Drugs. (2018)\n16:400. doi: 10.3390/md16110400\n89. Walther B, Wechsler D, Schlegel P , Haldimann M. Iodine in Swiss milk\ndepending on production (conventional versus organic) and on processing (raw\nversus UHT) and the contribution of milk to the human iodine supply. J Trace\nElem Med Biol. (2018) 46:138–43. doi: 10.1016/j.jtemb.2017.12.004\n90. Bakaloudi, DR, Halloran A, Rippin HL, Oikonomidou AC, Dardavesis TI,\nWilliams J, et al. Intake and adequacy of the vegan diet. a systematic review of the\nevidence. Clin Nutr. (2021) 40:3503–21. doi: 10.1016/j.clnu.2020.11.035\n91. Dineva M, Rayman MP , Bath SC. Iodine status of consumers of milk-\nalternative drinks v. cows’ milk: data from the UK National Diet and Nutrition\nSurvey. Br J Nutr. (2021) 126:28–36. doi: 10.1017/S0007114520003876\n92. WHO [World Health Organization]. Plant-based diets and their impact on\nhealth, sustainability and the environment: a review of the evidence: WHO European\nOﬃce for the Prevention and Control of Noncommunicable Diseases . Copenhagen:\nWorld Health Organization (2021).\nFrontiers in Nutrition 17 frontiersin.org",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    }
+]

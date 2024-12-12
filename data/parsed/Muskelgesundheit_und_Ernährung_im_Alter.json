@@ -1,0 +1,150 @@
+[
+    {
+        "id_": "bbe5c867-f595-4cdf-9ea5-9bbe748d3e01",
+        "embedding": null,
+        "metadata": {
+            "page_label": "103",
+            "file_name": "Muskelgesundheit_und_Ernährung_im_Alter.pdf",
+            "file_path": "../data/raw/Muskelgesundheit_und_Ernährung_im_Alter.pdf",
+            "file_type": "application/pdf",
+            "file_size": 1085631,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Originalien\nUrol.Prax.2023·25:103–106\nhttps://doi.org/10.1007/s41973-023-00228-y\nAngenommen:18.August2023\nOnlinepubliziert:20.September2023\n©TheAuthor(s)2023\nMuskelgesundheit und\nErnährung im Alter\nRetoW.Kressig\nUniversitätBasel&UniversitäreAltersmedizinFELIXPLATTER,Basel,Schweiz\nQR-Codescannen&Beitragonlinelesen\nZusammenfassung\nDie Forschung der letzten Jahre bestätigte: Ähnlich wie der Knochen ist der\nMuskel durch den physiologischen Alterungsprozess von einem Abbau betroﬀen,\nder rund 1/3 der initialen Muskelmasse ausmacht. Hat der damit verbundene\nKraftabbau funktionelle Konsequenzen auf den Alltag (z.B. stark eingeschränkte\nGehgeschwindigkeit: ≤0,8m/s), spricht man von Sarkopenie. Der Erhalt der\nMuskelgesundheit im Alter ist möglich durch regelmässiges Krafttraining und\nproteinreiche Ernährung. Neueste Leitlinien empfehlen deutlich höhere tägliche\nProteinmengen für Senioren (1,0–1,5g/kg Körpergewicht) als bei jüngeren\nErwachsenen(0,8g).NeuesteklinischeStudienergaben,dassmitLeucinangereicherte\nMolkenproteine in der Lage sind, Muskelmasse und Muskelfunktion im Alter zu\nsteigern, auch wenn kein begleitendes Krafttraining durchgeführt werden kann.\nDies hatinsbesondere fürdie Prävention vonMuskelabbaubei Bettlägerigkeit und\nSedentarismus grosses Potenzial. Neben den Proteinen sind im Alter Vitamin D3,\nKreatin und Omega-3-Fettsäuren massgeblich an der Unterstützung einer guten\nMuskelfunktionbeteiligt.\nSchlüsselwörter\nSarkopenie·Molkenprotein·Leucin·VitaminD·Kreatin\nErhöhter Proteinbedarf im Alter\nObwohl der tägliche Gesamtkalorienbe-\ndarf im Alter ab 65 J. um rund 25% klei-\nner ist als in jüngeren Lebensjahren (am\nbesten durch eine verminderte Kohlenhy-\ndratzufuhr zu erreichen), ist zum Erhalt\nder Muskelgesundheit, aber auch zur Be-\nkämpfungderimAlterhäuﬁgeninﬂamma-\ntorischen undkatabolen ProzesseimRah-\nmenchronischerErkrankungen,einedeut-\nlichhöheretäglicheProteinzufuhrnotwen-\ndig (. Tab. 1). Die europäische Geriatrie-\ngesellschaftEUGMS(EuropeanUnionGer-\niatric Medicine Society) beauftragte des-\nhalbeine internationale Spezialistengrup-\npe (PROT-AGE Study Group), evidenzba-\nsierteEmpfehlungenfürdieoptimaletäg-\nlicheProteinzufuhr bei Senioren ≥65J.zu\nmachen [1]. Die PROT-AGE Study Group\nempﬁehlt eine tägliche durchschnittliche\nProteinzufuhr von mindestens 1,0–1,2g\nProteinprokgKörpergewicht(KG).Fürkör-\nperlich aktive und/oder trainierende Se-\nnioren wird eine höhere tägliche Protein-\nzufuhr ≥1,2g/kgKG empfohlen. Die Syn-\nergie von Proteinen, aber auch anderen\nNährstoﬀen und Training ist in. Abb. 1\naufgezeigt.\nTab. 1 EmpfohlenetäglicheProteinmen-\ngenabeinemAltervon65Jahren\nPROT-AGE [1]\n1,0–1,2g/kgKörpergewichtbeigesunden\nSenioren\n1,2–1,5g/kgKörpergewichtbeichronisch\nkrankenSenioren\n>2,0g/kgKörpergewichtbeiMalnutrition\noderschwerenVerletzungen/Erkrankungen\nESPEN Expert Group [2]\n1,0–1,5g/kgKörpergewichtproTag\nSchweizerische Gesellschaft für Ernährung\n(SGE)\nSpeziﬁscheEmpfehlungenfürSeniorenak-\ntuellinErarbeitungbeiderEidgenössischen\nErnährungskommission:\nAllgemein:0,8g/kgKörpergewichtproTag\nfüralleErwachsenen\nUrologieinderPraxis3·2023 103",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "33520deb-19c6-46b2-afb5-028b6ff3a690",
+        "embedding": null,
+        "metadata": {
+            "page_label": "104",
+            "file_name": "Muskelgesundheit_und_Ernährung_im_Alter.pdf",
+            "file_path": "../data/raw/Muskelgesundheit_und_Ernährung_im_Alter.pdf",
+            "file_type": "application/pdf",
+            "file_size": 1085631,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Originalien\nAbb. 1 8 OptimaleProteinaufteilungaufTagesmahlzeitenimAlter.(Adaptiertnach[ 3])\nLeucine ‘threshold‘\n(elderly)\n42 g whey\nAbb. 2 9 Kritische\nLeucinschwelle,die\nbeiälterenMen-\nschenzueinerro-\nbustenSteigerung\nderMuskelneusyn-\ntheseführt.(Mod.\nnach[7])\nEine Mehrheit älterer Menschen mit\nakuten oder chronischen Erkrankungen\nbraucht sogar noch mehr Proteine mit\neinem Tagesbedarf von 1,2–1,5g/kgKG.\nDie Empfehlungen der europäischen Ge-\nsellschaftfür Stoﬀwechsel und Ernährung\n(ESPEN) liegen ebenfalls in einem Be-\nreich von 1,0–1,5g/kgKG pro Tag [2]. Die\nSchweizerischeGesellschaftfürErnährung\n(SGE)empﬁehltimMomentfürErwachse-\nne generell noch 0,8g/kgKGpro Tag, eine\naltersspeziﬁsche EmpfehlungfürSenioren\nist im Moment bei der Eidgenössischen\nErnährungskommission in Bearbeitung.\nÜ b e r s e t z tm a nd i ea k t u e l l e nE m p f e h -\nlungen für einen gesunden, 75kg schwe-\nren Senior in den Ernährungsalltag, be-\ndeutet dies, dass die tägliche Proteinzu-\nfuhrrund90g(1,2g/kgKG)betragensollte,\nwasz.B.einemÄquivalentvonknapp500g\nmageremrotemFleischproTagentspricht.\nDiese im Alltag eher unrealistische Emp-\nfehlung kann ohne weiteres auch mittels\nanderengleich-odersogarhöherwertigen\nProteinquellenumgesetztwerden.ImVer-\ngleichzu Fleisch-undFischproteinen sind\nz.B. die Proteine aus Milchprodukten und\nEiernimKörperbiszu20%besserverwert-\nbar.VorallembeimFrühstücklohntessich\ndeshalb für Senioren, Eier, Käse und Jo-\nghurt/MilchaufdemSpeiseplanzuhaben.\nBei einem Proteingehalt von rund 5g pro\nmittelgrosses Ei kann z.B. fast die Hälf-\nte des Frühstückproteinbedarfs mit 2–3\nEiern(z.B.inFormeiner Omeletteoderei-\nnes Rühreis) abgedeckt werden. Dass Eier\ndenCholesterinspiegelinkeinerWeisebe-\neinﬂussen,mussindiesemKontextimmer\nwieder betont werden, dadiese Assoziati-\noninden1980er-Jahrenfälschlicherweise\nsehr weit verbreitet wurde und z. T. im-\nmernochindenKöpfengewisserSenioren\nsteckt.\nOptimale Proteinmenge pro\nHauptmahlzeit\nIm Vergleich zu jüngeren Erwachsenen\nbrauchenErwachseneüber65J.zurStimu-\nlation der eigenen Muskelproteinsynthe-\nsedeutlich mehr Proteine proEinzelporti-\non.Seit 5Jahrenwirddeshalbempfohlen,\nden täglichen Proteinbedarf gleichmässig\na u fd i e3H a u p t m a h l z e i t e nz uv e r t e i l e n\n[3],wobeiproEinzelportioneinminimaler\nProteingehalt von 25g nicht unterschrit-\nten werden soll (. Abb. 1). Neuere Da-\nten zeigen, dass die optimale, aufs Mal\nverabreichte Proteinmenge wohl noch et-\nwas höher liegt. Zur maximalen Steige-\nrung der myoﬁbrillären Proteinsynthese-\nratebenötigenältereMenschenmind.40g\nschnellverdauliches, L-Leucin-reiches Pro-\ntein (Molkenprotein, [4]). Alternativ sind\ndabei auch kleinere Mengen an Molken-\nprotein möglich, die allerdings mit L-Leu-\ncin angereichert werden müssen [5].Dass\neine Supplementierung von L-Leucin an-\ngereicherter Molke zusammen mit Vita-\nmin D3 bei Pﬂegeheimbewohnern einen\nsigniﬁkanten Beneﬁt für Muskelkraft und\nFunktion der unteren Extremität bewirkt,\nwurde eindrücklich in der randomisierten\nplacebokontrollierten PROVIDE-Multizen-\ntrumsstudie in Deutschland gezeigt. Be-\neindruckend war hier insbesondere, dass\ndie muskulären Verbesserungen ohne zu-\nsätzliches Training erreicht wurden [6].\n104 UrologieinderPraxis3·2023",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "ac69d695-2f23-4a8e-89ef-abc00cfbf503",
+        "embedding": null,
+        "metadata": {
+            "page_label": "105",
+            "file_name": "Muskelgesundheit_und_Ernährung_im_Alter.pdf",
+            "file_path": "../data/raw/Muskelgesundheit_und_Ernährung_im_Alter.pdf",
+            "file_type": "application/pdf",
+            "file_size": 1085631,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "Abb. 3 9 Muskelaufbau\nund-abbauinSynergieund\nAbhängigkeitvonNähr-\nstoﬀenundMuskeltraining\nAnaboler Effekt\n/g110/g3Proteinsynthese\n/g110/g3Muskelzellwachstum\n/g110/g3Anzahl Typ II\n/g3/g3Muskelfasern\n/g110/g3Grösse Typ II\n/g3/g3Muskelfasern\nMetabolischer Effekt\n/g110/g3Genetische Protein-\n/g3/g3expression\n/g110/g3Calcium-Metabolismus\n/g110/g3IGF-BP Metabolismus\nAnti-inflammatorischer Effekt\n/g112/g3Zytokine\n/g112/g3Andere Entzündungsmarker\nAbb. 4 8 RollevonVitaminD 3fürdenMuskelstoﬀwechsel.(Mod.nach[ 11])\nOptimale Proteinzusammen-\nsetzung und -menge nach dem\nTraining\nZur Steigerung der myoﬁbrillären Pro-\nteinsyntheserate benötigen ältere Men-\nschen mindestens 40g schnellverdauli-\nches, L-Leucin-reiches Protein (Molken-\nprotein, [5]). Auch bei älteren Menschen\nexistiert eine Obergrenze (Steigerung der\nProteinoxidation). Diese liegt allerdings\nbei mindestens 40g pro Portion. Alterna-\ntiv und anstelle von 40g Molkenprotein\nkönnen auch kleinere Mengen an Mol-\nkenprotein verwendet werden, allerdings\nmüssen diese mit L-Leucin angereichert\n(sog. Molkeäquivalente) werden. Gene-\nrell wird die Leucinschwelle durch den\nAlterungsprozess und körperliche Akti-\nvität erhöht. Um die leucinspeziﬁsche\nSchwelle für Muskelneusynthese im Alter\nzu erreichen, braucht es entweder 42g\nMolkenprotein oder 6,25gMolkenprotein\nmit 5g Leucin ([7]; . Abb. 2).\nDieZufuhrvonKohlenhydratenzurAk-\ntivierung der muskelanabolen Insulinpro-\nduktion (. Abb. 3) ist für jüngere Erwach-\nsene nach dem Training kalorisch kein\nProblem. Für ältere Menschen mit einem\num 25% reduzierten kalorischen Tages-\nbedarf (bedingt durch die altersassoziiert\nverminderte Muskelmasse) sind Kohlen-\nhydrate nach Krafttraining kalorisch eher\nunerwünscht. Hier gibt es Daten, dass bei\ngenügend Proteingabe (mindestens 25g)\n–selbstbeileerenGlykogenspeichernund\nminimalemInsulinspiegel–optimaleMus-\nkelneusyntheseraten erreicht werden und\naufdieEinnahmevonzusätzlichenKohlen-\nhydraten verzichtet werden kann [8]. Die\nfür ältere Menschen optimale Proteinsup-\nplementierung nach Muskeltraining sollte\ndeshalb idealerweise zuckerarm sein und\naus L-Leucin angereicherten Molkenpro-\nteinen bestehen, die mengenmässig die\nin. Abb. 2 fürs höhere Alter angegebene\nkritische Leucinschwelle überschreiten.\nOmega-3-Fettsäuren, Kreatin, Vit-\namin D3 und Muskelmetabolismus\nim Alter\nOmega-3-Fettsäuren (3,9g n-3-PUFA pro\nTag) haben eine stimulierende Wirkung\nauf den Muskelproteinmetabolismus und\ndie mitochondriale Bioenergetik im Alter\nund erhöhen die anabole Muskelantwort\naufTraining ([9];. Abb. 3).AuchbeiKrea-\ntin gibt es Evidenz für positive Wirkun-\ngen auf die Muskelgesundheit im Alter,\ninsbesonderezurschnellerenHeilungvon\nMuskelverletzungen, aber auch für eine\nbessere Muskelrobustheit bei starker Be-\nanspruchung. Hier verwendete Dosierung\ngehen bis zu 30g/Tag über 5 Jahre, was\nauch im Alter bzgl. Sicherheit kein Prob-\nlem darstellt [10]. Die Wirkungen von Vit-\namin D3 auf den Muskelstoﬀwechsel sind\nmultipel und reichen von anabolen, me-\ntabolen bis zu antiinﬂammatorischen Ef-\nfekten (. Abb. 4;[ 11]). Die internationa-\nle Dosissubstitutionsempfehlung von Vit-\namin D3im Alter liegt bei 800IE/Tag.Dies\nwirdgrundsätzlichdurcheineneuereStu-\ndie bei älteren Menschen mit Sturz im\nVorjahr (Durchschnittsalter 78 Jahre) be-\nstätigt, welche die Wirksamkeit und Si-\ncherheit der monatlichen Referenzdosie-\nUrologieinderPraxis3·2023 105",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "740855da-a63e-41c9-a4b4-34073c0625f0",
+        "embedding": null,
+        "metadata": {
+            "page_label": "106",
+            "file_name": "Muskelgesundheit_und_Ernährung_im_Alter.pdf",
+            "file_path": "../data/raw/Muskelgesundheit_und_Ernährung_im_Alter.pdf",
+            "file_type": "application/pdf",
+            "file_size": 1085631,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "rung von 24.000IE Vitamin D bezüglich\nKorrekturdesVitamin-D-Mangels, Verbes-\nserungderBeinfunktionundSenkungdes\nSturzrisikoszeigte[ 12]Höheremonatliche\nVitamin-D-GabenverglichenzurReferenz-\ndosisvon24.000IE/Monatbrachtenkeinen\nVorteilbezüglichBeinfunktionundtrugen\nzu einem erhöhten Sturzrisiko bei.\nKorrespondenzadresse\nProf. Dr. med. Reto W. Kressig\nUniversitätBasel&UniversitäreAltersmedizin\nFELIXPLATTER\nBurgfelderstr.101,4055Basel,Schweiz\nretow.kressig@felixplatter.ch\nFunding. OpenaccessfundingprovidedbyUniver-\nsityofBasel\nEinhaltung ethischer Richtlinien\nInteressenkonﬂikt. R.W.Kressiggibtan,dasskein\nInteressenkonﬂiktbesteht.\nFürdiesenBeitragwurdenvomAutorkeineStudien\nanMenschenoderTierendurchgeführt.Fürdieaufge-\nführtenStudiengeltendiejeweilsdortangegebenen\nethischenRichtlinien.\nOpen Access. DieserArtikelwirdunterderCreative\nCommonsNamensnennung4.0InternationalLizenz\nveröﬀentlicht,welchedieNutzung,Vervielfältigung,\nBearbeitung,VerbreitungundWiedergabeinjegli-\nchemMediumundFormaterlaubt,sofernSieden/die\nursprünglichenAutor(en)unddieQuelleordnungsge-\nmäßnennen,einenLinkzurCreativeCommonsLizenz\nbeifügenundangeben,obÄnderungenvorgenom-\nmenwurden.\nDieindiesemArtikelenthaltenenBilderundsonstiges\nDrittmaterialunterliegenebenfallsdergenannten\nCreativeCommonsLizenz,sofernsichausderAbbil-\ndungslegendenichtsanderesergibt.Soferndasbe-\ntreﬀendeMaterialnichtunterdergenanntenCreative\nCommonsLizenzstehtunddiebetreﬀendeHandlung\nnichtnachgesetzlichenVorschriftenerlaubtist,istfür\ndieobenaufgeführtenWeiterverwendungendesMa-\nterialsdieEinwilligungdesjeweiligenRechteinhabers\neinzuholen.\nWeitereDetailszurLizenzentnehmenSiebitteder\nLizenzinformationauf http://creativecommons.org/\nlicenses/by/4.0/deed.de.\nLiteratur\n1 .B a u e rJ ,B i o l oG ,C e d e r h o l mT ,C e s a r iM ,C r u z -\nJentoftAJ,MorleyJE,PhillipsS,SieberC,StehleP,\nTeta D, Visvanathan R, Volpi E, Boirie Y (2013)\nEvidence-based recommendations for optimal\ndietaryproteinintakeinolderpeople:aposition\npaperfromthePROT-AGEStudyGroup.JAmMed\nDirAssoc14(8):542–559.https://doi.org/10.1016/\nj.jamda.2013.05.021\nRésumé\nSanté des muscles et nutrition au grand âge\nLarecherche desdernièresannées l’aconﬁrmé:defaçonsimilaireauxos,lesmuscles\nsontsoumisàun processusphysiologiquedevieillissement quientraîne laperte\nd’environ1/3delamassemusculaireinitiale. Silaperte deforcequienrésulteades\nconséquencesfonctionnelles danslavie detous lesjours(p.ex.vitesse demarche\nfortement réduite: ≤0,8m/s),onparled’unesarcopénie. Ilestpossibledepréserver\nlasanté musculaireaugrandâgepardesexercicesréguliers demusculationetune\nalimentation riche en protéines. Lestoutes dernières directives recommandent un\napportprotéiquenettement plusélevéchezlespersonnesâgées(1,0à1,5gparkgde\npoidscorporel)quechezlesjeunesadultes(0,8g).Lesdernières étudescliniquesont\nmontréquedesprotéinesdepetit-laitenrichies deleucinesontenmesured’accroître\nlamasseetlafonctionmusculaireschezlessujetsâgés,mêmes’ellesnepeuventpas\nêtre accompagnéesdesexercicesdemusculation.Celaprésente ungrandpotentiel\npourlapréventiondeladégradationmusculaire, notammentencasd’alitement et\ndesédentarisme.. Àcôtédesprotéines, lav itamineD3,lacréatineetlesacidesgras\noméga3jouentunrôleimportantdanslesoutiend’unebonnefonctionmusculaireau\ngrandâge.\nMots clés\nSarcopénie·Protéinesdupetit-lait·Lactosérum·VitamineD·Créatine\n2. Deutz NE, Bauer JM, Barazzoni R, Biolo G,\nBoirie Y, Bosy-Westphal A, Cederholm T, Cruz-\nJentoft A, Krznariç Z, Nair KS, Singer P, Teta D,\nTipton K, Calder PC (2014) Protein intake and\nexerciseforoptimalmusclefunctionwithaging:\nrecommendationsfromtheESPENExpertGroup.\nClinNutr33(6):929–936. https://doi.org/10.1016/\nj.clnu.2014.04.007\n3. Paddon-Jones D, Campbell WW, Jacques PF,\nKritchevsky SB, Moore LL, Rodriguez NR, van\nLoon LJ (2015)Protein and healthy aging.Am J\nClinNutr101(6):1339S–1345S.https://doi.org/10.\n3945/ajcn.114.084061\n4.WitardOC,JackmanSR,BreenL,SmithK,SelbyA,\nTipton KD (2014) Myoﬁbrillar muscle protein\nsynthesisratessubsequenttoamealinresponseto\nincreasingdosesofwheyproteinatrestandafter\nresistance exercise. Am J Clin Nutr 99(1):86–95.\nhttps://doi.org/10.3945/ajcn.112.055517\n5. Churchward-VenneTA,HolwerdaAM,PhillipsSM,\nvanLoon LJ(2016)Whatisthe optimal amount\nof protein to support post-exercise skeletal\nmusclereconditioningintheolderadult?Sports\nMed 46(9):1205–1212.https://doi.org/10.1007/\ns40279-016-0504-2\n6. Bauer JM, Verlaan S, Bautmans I, Brandt K,\nD o n i n iL M ,M a g g i oM ,M c M u r d oM E ,M e t sT ,\nSealC,WijersSL,Ceda GP,De VitoG, DondersG,\nDreyM,GreigC,HolmbäckU,NariciM,McPheeJ,\nPoggiogalle E, Power D, Scafoglieri A, Schultz R,\nSieberCC,CederholmT(2015)Eﬀectsofavitamin\nDandleucine-enrichedwheyproteinnutritional\nsupplementon measuresofsarcopeniain older\nadults,thePROVIDEstudy:arandomized,double-\nblind,placebo-controlledtrial.JAmMedDirAssoc\n16(9):740–747. https://doi.org/10.1016/j.jamda.\n2015.05.021\n7. Devries MC, Phillips SM (2015) Supplemental\nprotein in support of muscle mass and health:\nadvantagewhey.JFoodSci80(Suppl1):A8–A15.\nhttps://doi.org/10.1111/1750-3841.12802\n8. Morton RW, McGlory C, Phillips SM (2015)\nNutritional interventionsto augmentresistance\ntraining-induced skeletal muscle hypertrophy.\nFront Physiol 6:245.https://doi.org/10.3389/\nfphys.2015.00245\n9. LaliaAZ,DasariS,RobinsonMM,AbidH,MorseDM,\nKlaus KA, Lanza IR (2017) Inﬂuence of omega-3\nfattyacidsonskeletalmuscleproteinmetabolism\nandmitochondrialbioenergeticsinolderadults.\nAging9(4):1096–1129. https://doi.org/10.18632/\naging.101210\n10. KreiderRB,KalmanDS,AntonioJ,ZiegenfussTN,\nWildman R, Collins R, Candow DG, Kleiner SM,\nAlmadaAL,LopezHL(2017)InternationalSociety\nof Sports Nutrition position stand: safety and\neﬃcacyofcreatinesupplementationinexercise,\nsport,andmedicine.JIntSocSportsNutr14:18.\nhttps://doi.org/10.1186/s12970-017-0173-z\n1 1 .B a r i l l a r oC ,L i p e r o t iR ,M a r t o n eA M ,O n d e rG ,\nLandiF(2013)Thenewmetabolictreatmentsfor\nsarcopenia. Aging Clin Exp Res 25(2):119–127.\nhttps://doi.org/10.1007/s40520-013-0030-0\n12. Bischoﬀ-Ferrari HA, Dawson-Hughes B, Orav EJ,\nStaehelin HB, Meyer OW, Theiler R, Dick W,\nWillett WC, Egli A (2016) Monthly High-Dose\nVitamin D Treatment for the Prevention of\nFunctional Decline: A Randomized Clinical Trial.\nJAMAInternMed176(2):175–183. https://doi.org/\n10.1001/jamainternmed.2015.7148\nHinweis des Verlags. DerVerlagbleibtinHinblick\naufgeograﬁscheZuordnungenundGebietsbezeich-\nnungeninveröﬀentlichtenKartenundInstituts-\nadressenneutral.\n106 UrologieinderPraxis3·2023",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    }
+]

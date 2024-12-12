@@ -36,15 +36,15 @@
             <v-card class="chat-container">
                 <v-card-text>
                     <div v-for="(message, index) in chatMessages" :key="index" class="message-container">
-                      <div :class="message.role === 'user' ? 'user-message' : 'bot-message'">
-                        <span v-if="message.temporary">
-                          Schreibt... <v-progress-circular indeterminate color="#9EBF74" size="20"></v-progress-circular> 
-                        </span>
-                        <span v-else>
-                          {{ message.text }}
-                        </span>
+                        <div :class="message.role === 'user' ? 'user-message' : 'bot-message'">
+                          <span v-if="message.temporary">
+                            Schreibt... <v-progress-circular indeterminate color="#9EBF74" size="20"></v-progress-circular> 
+                          </span>
+                          <span v-else>
+                            <div v-html="message.text"></div>
+                          </span>
+                        </div>
                       </div>
-                    </div>
                   </v-card-text>                  
             </v-card>
           </v-col>

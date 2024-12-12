@@ -1,0 +1,233 @@
+[
+    {
+        "section": 1,
+        "content": "Die Ernährung zielt bei Menschen mit Typ-2-Diabetes mellitus (T2DM) nicht ausschließlich auf eine ausreichende Nährstoffversorgung, sondern stellt darüber hinaus, gemeinsam mit Bewegung, die Therapiegrundlage dar. Dabei werden meist umfangreiche Empfehlungen bezüglich der Makronährstoffe gegeben, während Mikronährstoffe häufig weniger Beachtung finden. Es gibt Hinweise, dass ein schlecht eingestellter T2DM mit einer Unterversorgung an Mikronährstoffen einhergehen könnte, was wiederum mit diabetischen Folgeerkrankungen in Verbindung gebracht wird. Zudem nehmen Mikronährstoffe verschiedenste Aufgaben hinsichtlich der Glukosehomöostase ein und können an unterschiedlicher Stelle im komplexen Krankheitsgeschehen beteiligt sein. Des Weiteren ist die Mehrzahl der Menschen mit T2DM übergewichtig, während Adipositas oftmals mit einer Mangelernährung einhergeht und weitere Komorbiditäten fördert. Bei Übergewicht erfolgt die erhöhte Energieaufnahme nicht selten über Nahrungsmittel mit unzureichender ernährungsphysiologischer Qualität, die den Mikronährstoffbedarf nicht decken. Während sich die Zufuhrempfehlungen für Menschen mit T2DM bislang nicht von denen für die Allgemeinbevölkerung unterscheiden, wird in vielen Studien untersucht, inwiefern mithilfe einzelner Mikronährstoffe der Krankheitsverlauf positiv beeinflusst werden kann und welche Effekte einzelne Nährstoffe auf das Krankheitsgeschehen haben. Studien dieser Art unterliegen häufig Schwierigkeiten bei der Durchführung und Ergebnisinterpretation.",
+        "tags": [
+            "Ernährung",
+            "Diabetes",
+            "Mikronährstoffe",
+            "Typ-2-Diabetes",
+            "Gesundheit"
+        ]
+    },
+    {
+        "section": 2,
+        "content": "Zink ist als essenzielles Spurenelement mit der Insulinsynthese sowie der Speicherung von Insulin in Verbindung zu bringen. Darüber hinaus nimmt es Einfluss auf die Insulinsensitivität. Dabei werden Zink sowie dessen Transportproteine, wie ZIP7, in Verbindung mit oxidativem Stress gebracht. Eine gestörte Funktion von ZIP7 führt zu einem beeinträchtigten Zinkfluss und Stress des endoplasmatischen Retikulums (ER-Stress), was wiederum eine Insulinresistenz begünstigen könnte. Studien zeigten eine Verbindung zwischen einer unzureichenden Zinkaufnahme und dem Risiko für Typ-2-Diabetes mellitus (T2DM) sowie erhöhten Blutglukosewerten. Es fehlen signifikante Ergebnisse für evidenzbasierte Empfehlungen bezüglich der Zinkaufnahme bei T2DM.",
+        "tags": [
+            "Zink",
+            "Insulinsynthese",
+            "Insulinsensitivität",
+            "T2DM",
+            "Ernährung"
+        ]
+    },
+    {
+        "section": 3,
+        "content": "Ein akuter Chrommangel soll durch eine hierdurch entstehende Insulinresistenz den Glukosestoffwechsel negativ beeinflussen können. Das essenzielle Spurenelement aktiviert in Form von Chromodulin die Insulinrezeptoren, bindet an diese und aktiviert wiederum die Insulinrezeptor-Tyrosinkinase. Dies fördert die Insulinempfindlichkeit, während durch Chrom außerdem die Sensibilität der pankreatischen β-Zellen erhöht wird. Natürliche Nahrungsquellen für Chrom sind unter anderem Leber, Eier, Vollkornprodukte und Brokkoli. Daneben stehen verschiedene chromhaltige Supplemente zur Verfügung wie Chromchlorid oder Chrompicolinat. Da ein Chrommangel in Zusammenhang mit einer gestörten Glukosetoleranz gebracht wird, wurde der Effekt einer Supplementierung in diversen Studien untersucht. Zwar konnten vereinzelt niedrigere Nüchternblutzuckerwerte und HbA1c-Spiegel festgestellt werden, doch im Allgemeinen bestehen uneinheitliche Ergebnisse mit unzureichender Evidenz. Demzufolge kann keine Empfehlung zur Nahrungsergänzung mit Chromsupplementen zur Unterstützung des Glukosestoffwechsels ausgesprochen werden.",
+        "tags": [
+            "Chrom",
+            "Insulinresistenz",
+            "Glukosestoffwechsel",
+            "Nahrungsergänzung",
+            "T2DM"
+        ]
+    },
+    {
+        "section": 4,
+        "content": "Sobczak et al. wiesen in einer Studie Veränderungen der Selen- und Kupferkonzentrationen im Plasma bei Vorliegen eines T2DM nach. Dabei hatten hohe Selen- und Kupferwerte einen höheren HbA1c-Spiegel zur Folge. Ursächlich dafür könnte unter anderem eine Störung der Insulinsignaltransduktion durch insulinähnliche Wirkungen von Selenoproteinen sein. Eine angemessene Selenzufuhr liegt bei 60 bzw. 70 µg am Tag. Dies kann durch selenreiche Lebensmittel leicht erreicht werden, wie z. B. durch Schweinefleisch, Hühnerfleisch und Eier. Es gilt, eine angemessene Zufuhr zu erreichen und dabei eine Überdosierung zu vermeiden, die toxisch wirken kann. Im Falle einer Supplementierung ist die Dosierung mit über 1 µg Selen pro kg Körpergewicht am Tag nicht empfehlenswert. Bezüglich der Entstehung eines Typ-2-Diabetes nach Supplementierung gibt es bislang keinen Nachweis.",
+        "tags": [
+            "Selen",
+            "Kupfer",
+            "HbA1c",
+            "Insulinsignaltransduktion",
+            "Ernährung"
+        ]
+    },
+    {
+        "section": 5,
+        "content": "Inwiefern ein Eisenmangel sowie eine daraus resultierende Anämie Einfluss auf die Glukosehomöostase nimmt, ist bislang nicht ausreichend geklärt. Reduzierte Eisenspeicher sollen jedoch ursächlich für erhöhte HbA1c-Spiegel sein, weshalb vor der Beurteilung dieses Parameters eine Eisenmangelanämie ausgeschlossen werden sollte. Über eine Eisenersatztherapie soll dieser Effekt ausgleichbar sein und des Weiteren Komplikationen vermieden werden können. Hingegen berichten Zhou et al. über einen schädigenden Effekt hoher Eisenspiegel auf das Pankreas sowie eine begünstigte Insulinresistenz und einen Anstieg der Blutglukosewerte. Eine Supplementierung von Eisen bei T2DM ist nur bei nachgewiesenem Mangel angebracht.",
+        "tags": [
+            "Eisen",
+            "Anämie",
+            "Glukosehomöostase",
+            "HbA1c",
+            "Insulinresistenz"
+        ]
+    },
+    {
+        "section": 6,
+        "content": "Natrium steht in Zusammenhang mit Hypertonie und kardiovaskulären Risikofaktoren, weswegen auch für Menschen mit T2DM eine Reduktion der Natriumaufnahme auf unter 2300 mg pro Tag zu empfehlen ist. Bei gleichzeitigem Bestehen einer Hypertonie kann eine weitere Einschränkung der Zufuhr sinnvoll sein. Dadurch kann – bestätigt anhand Ergebnissen eines Reviews – eine Blutdrucksenkung erreicht werden. Eine angemessene Kontrolle der Natriumaufnahme ist wichtig, um das Risiko für kardiovaskuläre Erkrankungen zu minimieren und die allgemeine Gesundheit zu fördern.",
+        "tags": [
+            "Natrium",
+            "Hypertonie",
+            "kardiovaskuläre Risikofaktoren",
+            "Blutdrucksenkung",
+            "T2DM"
+        ]
+    },
+    {
+        "section": 7,
+        "content": "senkung sowie die Verbesserung kardiovaskulärer Risiken erreicht werden. Micha et al. konnten in einer US-amerikanischen Studie nachweisen, dass Ernährungsfaktoren häufig ursächlich für Todesfälle nach Herzinfarkt, Schlaganfall und T2DM sind. Eine hohe Natriumzufuhr nahm hierbei den bedeutendsten Einfluss. \n\nPRAXISTIPP\nVerringerung der Natriumzufuhr\nZur Natriumreduktion eignen sich unter anderem: \n ▪ Einsparen von Speisesalz bei der Zubereitung\n ▪ Einschränkung natriumreicher Lebensmittel, wie etwa\n – Fertiggerichte,\n – Gemüsekonserven,\n – gepökelte Lebensmittel,\n – diverse Käse- und Wurstsorten,\n – Knabberwaren sowie\n – natriumreiche Mineralwässer.",
+        "tags": [
+            "Natriumreduktion",
+            "Ernährungsfaktoren",
+            "Herzinfarkt",
+            "Schlaganfall",
+            "T2DM"
+        ]
+    },
+    {
+        "section": 8,
+        "content": "Magnesium, Kalium und Kalzium\n\nBei T2DM kann es gehäuft zu einem Magnesiumdefizit kommen, wofür unter anderem renale Verluste verantwortlich sind. Dabei bewirken hohe Blutzuckerwerte eine geringere Reabsorption von Magnesium aus dem Urin. Geringe Magnesiumspiegel stehen in Zusammenhang mit Insulinresistenz, da der Mineralstoff beispielsweise an der Signalübertragung am Insulinrezeptor beteiligt ist, etwa als Kofaktor der Tyrosinkinase. Daneben beeinflusst Magnesium auch die Insulinsekretion und die postrezeptorielle Insulinwirkung. Oxidativer Stress sowie Entzündungen können zusätzlich mit einem Magnesiummangel assoziiert sein und die Insulinresistenz begünstigen. Ein Ausgleich der Magnesiumdefizite vermag die Insulinsensitivität zu steigern sowie die glykämische Situation und den Entzündungsstatus zu verbessern. Ob eine Supplementierung bei T2DM empfehlenswert ist, muss aufgrund uneindeutiger Studienergebnisse zukünftig geklärt werden.\n\nNeben Magnesium nehmen auch Kalium und Kalzium einen wichtigen Einfluss auf den Glukosestoffwechsel. So kann etwa über die Regulation spannungsabhängiger Kalium- und Kalziumkanäle im Pankreas bei steigenden Glukosewerten die Insulinfreisetzung gesteuert werden. Aufgrund dieser Funktionen wird eine ausreichende oder aber erhöhte Aufnahme von Kalium und Kalzium mit einem geringeren Erkrankungsrisiko für T2DM in Verbindung gebracht. In Studien konnte hierunter außerdem eine erhöhte Insulinsensitivität gezeigt werden. Nicht auszuschließen ist dabei jedoch der förderliche Einfluss einer gesteigerten Magnesiumaufnahme, welche häufig mit der Zufuhr von Kalzium einhergeht.",
+        "tags": [
+            "Magnesium",
+            "Kalium",
+            "Kalzium",
+            "Insulinresistenz",
+            "Glukosestoffwechsel"
+        ]
+    },
+    {
+        "section": 9,
+        "content": "Vitamin D\n\nFür die Aktivierung der Kalziumkanäle der pankreatischen Betazellen wird Vitamin D benötigt. Ein Mangel des Vitamins kann mit einer unzureichenden Kalziumresorption einhergehen und folglich zu einem Kalziummangel führen, mit nachfolgenden Störungen bei der Stimulierung der Insulinsekretion. Daneben nimmt Vitamin D unter anderem Einfluss auf die Immunantwort und kann systemische Entzündungsreaktionen vermindern. In Beobachtungsstudien war ein positiver Zusammenhang zwischen einem Vitamin-D-Mangel und dem Auftreten sowie Voranschreiten makrovaskulärer Ereignisse feststellbar. Vitamin D nimmt zudem Einfluss auf die Insulinsensitivität, etwa über die Aktivierung des Peroxisom-Proliferator-aktivierten Rezeptors (PPAR). Metaanalysen zeigen, dass mit der oralen Supplementierung von Vitamin D bei Patienten mit Typ-2-Diabetes eine Verbesserung der Insulinresistenz sowie des HbA1c-Spiegels erreicht werden konnte, während Nüchternglukosewerte unbeeinflusst blieben. Dabei erscheint eine kurzfristige Vitamin-D-Einnahme mit hoher Dosierung am gewinnbringendsten. Andere Studien konnten zu keinen signifikanten Ergebnissen gelangen, sodass evidenzbasierte Empfehlungen fehlen. Zwar sehen Hu et al. in der Vitamin-D-Einnahme in Kombination mit anderen Behandlungsmaßnahmen einen möglichen therapeutischen Nutzen, dennoch besteht bislang keine Empfehlung zur Supplementierung.",
+        "tags": [
+            "Vitamin D",
+            "Insulinsensitivität",
+            "Kalziumkanäle",
+            "Insulinsekretion",
+            "Supplementierung"
+        ]
+    },
+    {
+        "section": 10,
+        "content": "Vitamin B12\n\nMetformin gilt als das zu bevorzugende orale Antidiabetikum, das nach der Modifizierung von Ernährung und Bewegung als nächster Therapieschritt bei der Behandlung des T2DM infrage kommt. Mit der Metformineinnahme geht häufig ein Vitamin-B12-Mangel einher. Dabei konnte mittels einer Metaanalyse eine positive Korrelation zwischen der eingenommenen Dosis und dem Ausmaß des Vitaminmangels nachgewiesen werden. Nach der Bindung des Vitamin B12 an den intrinsischen Faktor kann der Komplex im terminalen Ileum resorbiert werden. Dabei ist eine kalziumabhängige Bindung an den ilealen Cubilinrezeptor nötig. Mit der Metformineinnahme wird die Darmschleimhaut positiv geladen und...",
+        "tags": [
+            "Vitamin B12",
+            "Metformin",
+            "T2DM",
+            "Vitaminmangel",
+            "Darmschleimhaut"
+        ]
+    },
+    {
+        "section": 11,
+        "content": "Die Einnahme von Metformin führt dazu, dass die Darmschleimhaut positiv geladen wird, was die Abstoßung von Kalziumkationen zur Folge hat. Diese Abstoßung behindert die Bindung an den Cubilinrezeptor, was zu Malabsorption führen kann. Daher ist es wichtig, bei einer Dauermedikation mit Metformin regelmäßig die Vitamin-B12-Spiegel zu kontrollieren. Bei einem bestehenden Mangel sollte ein Ausgleich stattfinden, um mögliche gesundheitliche Folgen zu vermeiden. \n\nTags: Metformin, Vitamin B12, Malabsorption, Gesundheit, Diabetes",
+        "tags": [
+            "Metformin",
+            "Vitamin B12",
+            "Malabsorption",
+            "Gesundheit",
+            "Diabetes"
+        ]
+    },
+    {
+        "section": 12,
+        "content": "Vitamin E, A und C spielen eine wichtige Rolle in der Ernährung von Menschen mit Diabetes. Diese Vitamine sowie β-Carotin werden mit der Verbesserung der Immunfunktion in Verbindung gebracht. Bei Diabetes mellitus, insbesondere bei schlecht eingestellter Stoffwechsellage, ist der oxidativen Stress erhöht, was die Frage aufwirft, ob eine gesteigerte Zufuhr von Antioxidanzien vorteilhaft sein könnte. \n\nLangfristige Supplementierung von Vitamin E und C scheint die Glykierung von Hämoglobin zu verringern, jedoch besteht auch das Risiko negativer Folgen durch die Einnahme von Antioxidanzien. Der Nutzen für den Glukosestoffwechsel ist insgesamt eingeschränkt, weshalb eine Supplementierung nicht empfohlen werden kann. \n\nTags: Vitamin E, Vitamin C, Antioxidanzien, Immunfunktion, Glukosestoffwechsel",
+        "tags": [
+            "Vitamin E",
+            "Vitamin C",
+            "Antioxidanzien",
+            "Immunfunktion",
+            "Glukosestoffwechsel"
+        ]
+    },
+    {
+        "section": 13,
+        "content": "Die Entstehung und der Verlauf des Typ-2-Diabetes mellitus sind komplexe Prozesse, die durch verschiedene Ursachen sowie Neben- und Folgeerkrankungen beeinflusst werden. Der Glukosestoffwechsel wird durch zahlreiche physiologische Prozesse gesteuert, an denen Mikronährstoffe beteiligt sind. Ein Ungleichgewicht von Vitaminen, Mineralstoffen und Spurenelementen kann zu Störungen der Stoffwechselfunktionen führen und die adäquate Therapie des Typ-2-Diabetes mellitus erschweren. \n\nDer Erkrankungszustand selbst, einschließlich Hyperglykämie und -insulinämie, hat ebenfalls Einfluss auf die Plasma-Konzentrationen von Mikronährstoffen. Es besteht der Verdacht, dass eine ausreichende Versorgung mit Mikronährstoffen therapeutische Vorteile bringen und Risiken für Folgekomplikationen reduzieren kann. \n\nTags: Typ-2-Diabetes, Mikronährstoffe, Stoffwechsel, Therapie, Gesundheit",
+        "tags": [
+            "Typ-2-Diabetes",
+            "Mikronährstoffe",
+            "Stoffwechsel",
+            "Therapie",
+            "Gesundheit"
+        ]
+    },
+    {
+        "section": 14,
+        "content": "Die individuelle Ernährungsweise sollte den Bedarf an Vitaminen, Mineralstoffen und Spurenelementen decken, weshalb die Lebensmittelauswahl entsprechend angepasst werden sollte. Zudem ist es möglich, den individuellen Versorgungsstatus mit Mikronährstoffen durch Blut- und Urinanalysen zu bestimmen. Diese Analysen können Aufschluss darüber geben, ob ein Mangel vorliegt, der durch Supplemente ausgeglichen werden sollte. \n\nAktuelle Studien zeigen jedoch, dass die Vorteile von Mikronährstoffergänzungen über Supplemente nicht ausreichend abgesichert sind. Die Auswirkungen der Nährstoffaufnahme werden oft nur geringfügig im Vergleich zu den Wirkungen von Medikamenten gemessen und unterliegen erheblichen Einflüssen auf die Messergebnisse. \n\nTags: Ernährung, Mikronährstoffe, Blutanalysen, Supplemente, Gesundheit",
+        "tags": [
+            "Ernährung",
+            "Mikronährstoffe",
+            "Blutanalysen",
+            "Supplemente",
+            "Gesundheit"
+        ]
+    },
+    {
+        "section": 15,
+        "content": "Es besteht weiterer Forschungsbedarf, um komplexe Wirkweisen einzelner Mikronährstoffe, aber auch deren Wechselbeziehungen weiter zu erforschen und um zu evidenzbasierten Empfehlungen zu gelangen. Werden zukünftig Supplementierungen von Vitaminen, Mineralstoffen und Spurenelementen durch eindeutige Forschungsergebnisse empfehlenswert, hätte dies deutliche Auswirkungen auf die Therapie des Typ-2-Diabetes. Bedeutsam ist stets die Berücksichtigung der individuellen Gesamtsituation, sodass sich etwa bei einer fortgeschrittenen Nephropathie auch die Zufuhrempfehlung für Natrium, Kalium, Phosphat, aber auch Kalzium ändert. Daneben ist die Einnahme von Nährstoffsupplementen für einige Patientengruppen mit T2DM bereits empfehlenswert, wozu Immunsupprimierte, Schwangere, Stillende oder geriatrische Menschen zählen.",
+        "tags": [
+            "Forschung",
+            "Mikronährstoffe",
+            "Typ-2-Diabetes",
+            "Supplementierung",
+            "Gesundheit"
+        ]
+    },
+    {
+        "section": 16,
+        "content": "Da T2DM häufig im Zuge des metabolischen Syndroms mit Adipositas, Hypertonie und Dyslipidämie auftritt, ist eine Veränderung des Lebensstils hinsichtlich einer ausgewogenen Ernährung und gesteigerter körperlicher Aktivität mit vielerlei Vorteilen verbunden. Durch damit einhergehende Veränderungen kann bereits eine Modifikation der Mikronährstoffaufnahme erreicht werden. Ursächlich für das metabolische Syndrom kann unter anderem eine Überernährung mit energiedichten Nahrungsmitteln sein, die häufig viel Fett und niedermolekulare Kohlenhydrate enthalten. Werden solche Lebensmittel gegen eine abwechslungsreiche Speisenauswahl aus allen Lebensmittelgruppen mit viel Gemüse, Obst und Vollkornprodukten ersetzt, kann neben einer geringeren Energiezufuhr gleichzeitig die Mikronährstoffaufnahme verbessert werden. Dies lässt sich beispielsweise mit einer energiereduzierten Mischkost oder aber der Mittelmeerdiät erreichen.",
+        "tags": [
+            "Lebensstil",
+            "Ernährung",
+            "Metabolisches Syndrom",
+            "Mikronährstoffaufnahme",
+            "Diabetes"
+        ]
+    },
+    {
+        "section": 17,
+        "content": "Bei einer Ernährungsanpassung, welche die Energiezufuhr auf weniger als 1200 kcal pro Tag einschränkt, ist eine ausreichende Versorgung mit Mikronährstoffen jedoch nicht gegeben. Höfler und Sprengart weisen zudem darauf hin, dass bei Adipösen oftmals ein Mikronährstoffmangel vorliegt und eine Supplementierung dennoch nur bei stark ausgeprägten Mängeln oder einseitiger Ernährungsweise erfolgen sollte. Ebenso wird die Aufnahme von Mikronährstoffen über Nahrungsergänzungsmittel bei Menschen mit Diabetes ohne zugrunde liegenden Mangel nicht empfohlen.",
+        "tags": [
+            "Ernährungsanpassung",
+            "Mikronährstoffmangel",
+            "Adipositas",
+            "Nahrungsergänzungsmittel",
+            "Diabetes"
+        ]
+    },
+    {
+        "section": 18,
+        "content": "Die Autorin erklärt, dass kein Interessenkonflikt besteht. Ute Fiederling, Jahrgang 1994, ist Angestellte der Diabetesberatung in der Diabetes-Klinik Bad Mergentheim. Mit der Ausbildung zur Diätassistentin an der Berufsfachschule für Diätassistenten am Uniklinikum Würzburg belegte sie den dualen Studiengang Diätetik an der Hochschule Fulda. Schon während der Ausbildung lag das Interesse verstärkt auf dem Krankheitsbild Diabetes mellitus. Nach erfolgreichem Abschluss arbeitete sie zunächst bei den Neckar-Odenwald-Kliniken in Mosbach, seit Februar 2019 ist sie in der Diabetes-Klinik Bad Mergentheim tätig.",
+        "tags": [
+            "Autorin",
+            "Diabetesberatung",
+            "Diätassistentin",
+            "Berufserfahrung",
+            "Diabetes"
+        ]
+    },
+    {
+        "section": 19,
+        "content": "Die Ernährung spielt eine entscheidende Rolle bei der Behandlung von Diabetes. Verschiedene Nährstoffe, wie Chrom, Selen, Eisen und Magnesium, haben einen signifikanten Einfluss auf den Blutzuckerspiegel und die allgemeine Gesundheit von Diabetikern. Studien zeigen, dass Chrompräparate die glykierte Hämoglobinwerte und den Nüchternblutzucker bei Diabetes mellitus-Patienten verbessern können. Selen wird ebenfalls als wichtig für die Prävention von Typ-2-Diabetes angesehen, wobei eine angemessene Zufuhr empfohlen wird. Eisenmangelanämie kann die Glukosemetabolismus beeinflussen, was für Diabetiker von Bedeutung ist. Es ist wichtig, die Wechselwirkungen zwischen diesen Nährstoffen und der Diabetesbehandlung zu verstehen, um eine optimale Ernährungstherapie zu gewährleisten.",
+        "tags": [
+            "Ernährung",
+            "Diabetes",
+            "Nährstoffe",
+            "Chrom",
+            "Selen"
+        ]
+    },
+    {
+        "section": 20,
+        "content": "Die Rolle von Vitamin D in der Diabetesbehandlung wird zunehmend untersucht. Mehrere Studien haben gezeigt, dass eine Vitamin D-Supplementierung positive Effekte auf die glykämische Kontrolle bei Patienten mit Typ-2-Diabetes haben kann. Eine systematische Überprüfung und Meta-Analyse hat die Wirksamkeit von Vitamin D bei der Verbesserung des Blutzuckerspiegels belegt. Darüber hinaus wird die Beziehung zwischen Metformin und einem möglichen Vitamin B12-Mangel diskutiert, was für Patienten, die Metformin zur Behandlung von Diabetes einnehmen, von Bedeutung ist. Die Überwachung des Vitamin B12-Spiegels ist daher wichtig, um Mangelerscheinungen zu vermeiden und die Behandlung zu optimieren.",
+        "tags": [
+            "Vitamin D",
+            "Diabetes",
+            "Metformin",
+            "Vitamin B12",
+            "glykämische Kontrolle"
+        ]
+    },
+    {
+        "section": 21,
+        "content": "Die Deutsche Gesellschaft für Ernährung (DGE) hat Richtlinien zur angemessenen Zufuhr von Nährstoffen veröffentlicht, die für die Prävention und Behandlung von Diabetes relevant sind. Diese Richtlinien betonen die Bedeutung einer ausgewogenen Ernährung, die reich an Vitaminen und Mineralstoffen ist, um das Risiko für die Entwicklung von Diabetes zu senken. Es wird darauf hingewiesen, dass Deutschland kein Vitaminmangelland ist, jedoch sollten Diabetiker besonders auf ihre Nährstoffzufuhr achten, um ihre Gesundheit zu fördern und Komplikationen zu vermeiden. Die praktische Diätetik bietet Grundlagen und Ziele für die Ernährungstherapie, die auf die individuellen Bedürfnisse von Diabetikern abgestimmt sind.",
+        "tags": [
+            "DGE",
+            "Ernährungsrichtlinien",
+            "Diabetes",
+            "Nährstoffzufuhr",
+            "Diätetik"
+        ]
+    }
+]

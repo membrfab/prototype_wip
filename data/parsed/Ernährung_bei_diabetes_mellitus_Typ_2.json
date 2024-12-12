@@ -1,0 +1,224 @@
+[
+    {
+        "id_": "163a2fc1-8e30-4fa4-a422-5ff073df9a7b",
+        "embedding": null,
+        "metadata": {
+            "page_label": "184",
+            "file_name": "Ernährung_bei_diabetes_mellitus_Typ_2.pdf",
+            "file_path": "../data/raw/Ernährung_bei_diabetes_mellitus_Typ_2.pdf",
+            "file_type": "application/pdf",
+            "file_size": 888259,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "184 Fiederling U. Ernährung bei Diabetes   ... Ernährung & Medizin 2019; 34: 184–189\nPraxis\nTherapiebaustein Ernährung: Bei Typ-2-Diabetes sind neben den Makronährstoffen auch die Mikronährstoffe wichtig für die \nKrankheitskontrolle. Foto: freshidea/Adobe Stock\nErnährung bei Diabetes \n mellitus Typ 2\nMikronährstoffe\nUte Fiederling\nDie Ernährung zielt bei Menschen mit Typ-2-Diabetes mellitus (T2DM) nicht ausschließlich \nauf eine ausreichende Nährstoffversorgung, sondern stellt darüber hinaus, gemeinsam \nmit Bewegung, die Therapiegrundlage dar [1]. Dabei werden meist umfangreiche \nEmpfehlungen bezüglich der Makronährstoffe gegeben (s. Heft 3–2019), während \nMikronährstoffe häufig weniger Beachtung finden.\nEinleitung\nEs gibt Hinweise, dass ein schlecht eingestellter T2DM mit \neiner Unterversorgung an Mikronährstoffen einhergehen \nkönnte, was wiederum mit diabetischen Folgeerkrankun-\ngen in Verbindung gebracht wird [2]. Zudem nehmen Mi-\nkronährstoffe verschiedenste Aufgaben hinsichtlich der \nGlukosehomöostase ein und können an unterschiedlicher \nStelle im komplexen Krankheitsgeschehen beteiligt sein \n[3][4]. Des Weiteren ist die Mehrzahl der Menschen mit \nT2DM übergewichtig, während Adipositas wiederum oft-\nmals mit einer Mangelernährung einhergeht und weitere \nKomorbiditäten fördert.\nMerke\nBei Übergewicht erfolgt die erhöhte Energieaufnahme \nnicht selten über Nahrungsmittel mit unzureichender \nernährungsphysiologischer Qualität, die den Mikro -\nnährstoffbedarf nicht decken [5].\nWährend sich die Zufuhrempfehlungen für Menschen mit \nT2DM bislang nicht von denen für die Allgemeinbevölke -\nrung unterscheiden [6], wird in vielen Studien untersucht, \ninwiefern mithilfe einzelner Mikronährstoffe der Krank-\nheitsverlauf positiv beeinflusst werden kann und welche \nEffekte einzelne Nährstoffe auf das Krankheitsgeschehen \nhaben. Studien dieser Art unterliegen häufig Schwierig -\nHeruntergeladen von: Zürcher Hochschule für Angewandte Wissenschaften. Urheberrechtlich geschützt.\nArtikel online veröffentlicht: 04.12.2019",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "001b3649-97f2-4a05-8f9d-b36d990d28bf",
+        "embedding": null,
+        "metadata": {
+            "page_label": "185",
+            "file_name": "Ernährung_bei_diabetes_mellitus_Typ_2.pdf",
+            "file_path": "../data/raw/Ernährung_bei_diabetes_mellitus_Typ_2.pdf",
+            "file_type": "application/pdf",
+            "file_size": 888259,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "185Fiederling U. Ernährung bei Diabetes   ... Ernährung & Medizin 2019; 34: 184–189\nkeiten bei der Durchführung und Ergebnisinterpretation, \netwa aufgrund der vielfältigen Aufgaben einzelner Nähr-\nstoffe im menschlichen Körper und deren schwieriger Er-\nfassung, genauso wie ein oftmals nur geringer messba -\nrer Effekt [7]. Zwar sind die Studienergebnisse häufig un -\neinheitlich, doch ergeben sich Hinweise auf Wirkungen, \ndie zukünftig von therapeutischem Nutzen sein könnten.\nZink\nZink ist als essenzielles Spurenelement mit der Insulinsyn-\nthese sowie der Speicherung von Insulin in Verbindung zu \nbringen. Darüber hinaus nimmt es Einfluss auf die Insulin-\nsensitivität [8]. Dabei werden Zink sowie dessen Transport-\nproteine, wie ZIP7, in Verbindung mit oxidativem Stress \ngebracht. Eine gestörte Funktion von ZIP7 führt zu einem \nbeeinträchtigten Zinkfluss und Stress des endoplasmati -\nschen Retikulums (ER-Stress), was wiederum eine Insulin-\nresistenz begünstigen könnte [3]. Studien zeigten eine \nVerbindung zwischen einer unzureichenden Zinkaufnah -\nme und dem Risiko für T2DM sowie erhöhten Blutgluko -\nsewerten [8].\nMerke\nEs fehlen signifikante Ergebnisse für evidenzbasierte \nEmpfehlungen bezüglich der Zinkaufnahme bei T2DM \n[6][9].\nChrom\nEin akuter Chrommangel soll durch eine hierdurch entste-\nhende Insulinresistenz den Glukosestoffwechsel negativ \nbeeinflussen können [7]. Das essenzielle Spurenelement \naktiviert in Form von Chromodulin die Insulinrezeptoren, \nbindet an diese und aktiviert wiederum die Insulinrezep -\ntor-Tyrosinkinase [4][7][10]. Dies fördert die Insulinemp -\nfindlichkeit, während durch Chrom außerdem die Sensi -\nbilität der pankreatischen β-Zellen erhöht wird [4][10].\nNatürliche Nahrungsquellen für Chrom sind unter ande -\nrem Leber, Eier, Vollkornprodukte und Brokkoli [4][10]. \nDaneben stehen verschiedene chromhaltige Supplemen -\nte zur Verfügung wie Chromchlorid oder Chrompicolinat \n[10]. Da ein Chrommangel in Zusammenhang mit einer \ngestörten Glukosetoleranz gebracht wird, wurde der Ef -\nfekt einer Supplementierung in diversen Studien unter-\nsucht. Zwar konnten vereinzelt niedrigere Nüchternblut-\nzuckerwerte und HbA1c-Spiegel festgestellt werden, doch \nim Allgemeinen bestehen uneinheitliche Ergebnisse mit \nunzureichender Evidenz [6][7]. Dabei bleibt zudem unklar, \nmit welchem Chromsupplement die größten Erfolge er-\nzielt werden könnten [4]. Demzufolge kann keine Emp -\nfehlung zur Nahrungsergänzung mit Chromsupplemen -\nten zur Unterstützung des Glukosestoffwechsels ausge -\nsprochen werden [7].\nSelen und Kupfer\nSobczak et al. wiesen in einer Studie Veränderungen der \nSelen- und Kupferkonzentrationen im Plasma bei Vorliegen \neines T2DM nach. Dabei hatten hohe Selen- und Kupfer-\nwerte einen höheren HbA 1c-Spiegel zur Folge. Ursächlich \ndafür könnte unter anderem eine Störung der Insulinsig -\nnalkaskade durch insulinähnliche Wirkungen von Seleno -\nproteinen sein [9][11].\nSELENZUFUHR\nEine angemessene Selenzufuhr liegt bei 60 bzw. \n70 µg am Tag [12]. Dies kann durch selenreiche \nLebensmittel leicht erreicht werden, wie z. B. durch \nSchweinefleisch, Hühnerfleisch und Eier [13].\nEs gilt, eine angemessene Zufuhr zu erreichen und dabei \neine Überdosierung zu vermeiden, die toxisch wirken kann.\nVorsicht\nIm Falle einer Supplementierung ist die Dosierung mit \nüber 1 µg Selen pro kg Körpergewicht am Tag nicht \nempfehlenswert [13].\nBezüglich der Entstehung eines Typ-2-Diabetes nach Sup-\nplementierung gibt es bislang keinen Nachweis [11].\nEisen\nInwiefern ein Eisenmangel sowie eine daraus resultieren -\nde Anämie Einfluss auf die Glukosehomöostase nimmt, ist \nbislang nicht ausreichend geklärt [14]. Reduzierte Eisen -\nspeicher sollen jedoch ursächlich für erhöhte HbA1c-Spie-\ngel sein, weshalb vor der Beurteilung dieses Parameters \neine Eisenmangelanämie ausgeschlossen werden sollte \n[14][15]. Über eine Eisenersatztherapie soll dieser Effekt \nausgleichbar sein und des Weiteren Komplikationen ver -\nmieden werden können [14]. Hingegen berichten Zhou et \nal. über einen schädigenden Effekt hoher Eisenspiegel auf \ndas Pankreas sowie eine begünstigte Insulinresistenz und \nein Anstieg der Blutglukosewerte [16].\nMerke\nEine Supplementierung von Eisen bei T2DM ist nur bei \nnachgewiesenem Mangel angebracht.\nNatrium\nNatrium steht in Zusammenhang mit Hypertonie und kar-\ndiovaskulären Risikofaktoren, weswegen auch für Men -\nschen mit T2DM eine Reduktion der Natriumaufnahme \nauf unter 2300 mg pro Tag zu empfehlen ist. Bei gleichzei-\ntigem Bestehen einer Hypertonie kann eine weitere Ein -\nschränkung der Zufuhr sinnvoll sein. Dadurch kann – be-\nstätigt anhand Ergebnissen eines Reviews – eine Blutdruck-\nHeruntergeladen von: Zürcher Hochschule für Angewandte Wissenschaften. Urheberrechtlich geschützt.\n",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "199e5ed6-75ba-432c-b99c-23f3b647c39c",
+        "embedding": null,
+        "metadata": {
+            "page_label": "186",
+            "file_name": "Ernährung_bei_diabetes_mellitus_Typ_2.pdf",
+            "file_path": "../data/raw/Ernährung_bei_diabetes_mellitus_Typ_2.pdf",
+            "file_type": "application/pdf",
+            "file_size": 888259,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "186 Fiederling U. Ernährung bei Diabetes   ... Ernährung & Medizin 2019; 34: 184–189\nPraxis\nsenkung sowie die Verbesserung kardiovaskulärer Risiken \nerreicht werden [17].\nMicha et al. konnten in einer US-amerikanischen Studie \nnachweisen, dass Ernährungsfaktoren häufig ursächlich \nfür Todesfälle nach Herzinfarkt, Schlaganfall und T2DM \nsind. Eine hohe Natriumzufuhr nahm hierbei den bedeu -\ntendsten Einfluss [18].\nPRAXISTIPP\nVerringerung der Natriumzufuhr\nZur Natriumreduktion eignen sich unter anderem:\n ▪ Einsparen von Speisesalz bei der Zubereitung\n ▪ Einschränkung natriumreicher Lebensmittel, wie \netwa\n – Fertiggerichte,\n – Gemüsekonserven,\n – gepökelte Lebensmittel,\n – diverse Käse- und Wurstsorten,\n – Knabberwaren sowie\n – natriumreiche Mineralwässer [19].\nMagnesium, Kalium und Kalzium\nMagnesium\nBei T2DM kann es gehäuft zu einem Magnesiumdefizit \nkommen, wofür unter anderem renale Verluste verant -\nwortlich sind. Dabei bewirken hohe Blutzuckerwerte eine \ngeringere Reabsorption von Magnesium aus dem Urin. Ge-\nringe Magnesiumspiegel stehen in Zusammenhang mit \nInsulinresistenz, da der Mineralstoff beispielsweise an der \nSignalübertragung am Insulinrezeptor beteiligt ist, etwa \nals Kofaktor der Tyrosinkinase. Daneben beeinflusst Mag-\nnesium auch die Insulinsekretion und die postrezeptoriel-\nle Insulinwirkung. Oxidativer Stress sowie Entzündungen \nkönnen zusätzlich mit einem Magnesiummangel assoziiert \nsein und die Insulinresistenz begünstigen [8][20].\nEin Ausgleich der Magnesiumdefizite vermag die Insulin -\nsensitivität zu steigern sowie die glykämische Situation \nund den Entzündungsstatus zu verbessern. Ob eine Sup -\nplementierung bei T2DM empfehlenswert ist, muss auf -\ngrund uneindeutiger Studienergebnisse zukünftig geklärt \nwerden [8][20].\nKalium und Kalzium\nNeben Magnesium nehmen auch Kalium und Kalzium \neinen wichtigen Einfluss auf den Glukosestoffwechsel [8]. \nSo kann etwa über die Regulation spannungsabhängiger \nKalium- und Kalziumkanäle im Pankreas bei steigenden \nGlukosewerten die Insulinfreisetzung gesteuert werden \n[8]. Aufgrund dieser Funktionen wird eine ausreichende \noder aber erhöhte Aufnahme von Kalium und Kalzium mit \neinem geringeren Erkrankungsrisiko für T2DM in Verbin -\ndung gebracht. In Studien konnte hierunter außerdem \neine erhöhte Insulinsensitivität gezeigt werden. Nicht aus-\nzuschließen ist dabei jedoch der förderliche Einfluss einer \ngesteigerten Magnesiumaufnahme, welche häufig mit der \nZufuhr von Kalzium einhergeht.\nDaneben hat sich in Untersuchungen gezeigt, dass durch \ndas Zusammenspiel von Kalzium und Vitamin D das Risi -\nko für T2DM reduziert und Insulinspiegel sowie der HbA1c-\nWert gesenkt werden können. Insgesamt ist die Evidenz \nunzureichend für eindeutige Empfehlungen zur Aufnahme \nder genannten Mineralstoffe [6][8].\nVitamin D\nFür die Aktivierung der Kalziumkanäle der pankreatischen \nBetazellen wird Vitamin D benötigt. Ein Mangel des Vita-\nmins kann mit einer unzureichenden Kalziumresorption \neinhergehen und folglich zu einem Kalziummangel füh-\nren, mit nachfolgenden Störungen bei der Stimulierung \nder Insulinsekretion [21]. Daneben nimmt Vitamin D unter \nanderem Einfluss auf die Immunantwort und kann syste -\nmische Entzündungsreaktionen vermindern. In Beobach -\ntungsstudien war ein positiver Zusammenhang zwischen \neinem Vitamin-D-Mangel und dem Auftreten sowie Vo -\nranschreiten makrovaskulärer Ereignisse feststellbar [22].\nVitamin D nimmt zudem Einfluss auf die Insulinsensitivität, \netwa über die Aktivierung des Peroxisom-Proliferator-akti-\nvierten Rezeptors (PPAR) [21]. Metaanalysen zeigen, dass \nmit der oralen Supplementierung von Vitamin D bei Pa-\ntienten mit Typ-2-Diabetes eine Verbesserung der Insulin-\nresistenz sowie des HbA1c-Spiegels erreicht werden konn-\nte, während Nüchternglukosewerte unbeeinflusst blieben. \nDabei erscheint eine kurzfristige Vitamin-D-Einnahme mit \nhoher Dosierung am gewinnbringendsten. Andere Studien \nkonnten zu keinen signifikanten Ergebnissen gelangen, so-\ndass evidenzbasierte Empfehlungen fehlen [21][22]. Zwar \nsehen Hu et al. in der Vitamin-D-Einnahme in Kombina-\ntion mit anderen Behandlungsmaßnahmen einen mögli -\nchen therapeutischen Nutzen [21], dennoch besteht bis -\nlang keine Empfehlung zur Supplementierung.\nVitamin B12\nMetformin gilt als das zu bevorzugende orale Antidiabeti-\nkum, das nach der Modifizierung von Ernährung und Be -\nwegung als nächster Therapieschritt bei der Behandlung \ndes T2DM infrage kommt [1]. Mit der Metformineinnahme \ngeht häufig ein Vitamin-B12-Mangel einher. Dabei konnte \nmittels einer Metaanalyse eine positive Korrelation zwi -\nschen der eingenommenen Dosis und dem Ausmaß des \nVitaminmangels nachgewiesen werden [23][24].\nNach der Bindung des Vitamin B 12 an den intrinsischen \nFaktor kann der Komplex im terminalen Ileum resor-\nbiert werden. Dabei ist eine kalziumabhängige Bindung \nan den ilealen Cubilinrezeptor nötig. Mit der Metformin -\nHeruntergeladen von: Zürcher Hochschule für Angewandte Wissenschaften. Urheberrechtlich geschützt.\n",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "44cfcfbe-7234-4c35-b10c-b62117a7cba6",
+        "embedding": null,
+        "metadata": {
+            "page_label": "187",
+            "file_name": "Ernährung_bei_diabetes_mellitus_Typ_2.pdf",
+            "file_path": "../data/raw/Ernährung_bei_diabetes_mellitus_Typ_2.pdf",
+            "file_type": "application/pdf",
+            "file_size": 888259,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "187Fiederling U. Ernährung bei Diabetes   ... Ernährung & Medizin 2019; 34: 184–189\neinnahme wird die Darmschleimhaut positiv geladen und \nKalziumkat ionen werden abgestoßen. Dies behindert die \nBindung an den Cubilinrezeptor und es kommt zur Mal -\nabsorption [23].\nMerke\nBei Dauermedikation mit Metformin sollte eine re -\ngelmäßige Kontrolle der Vitamin-B 12-Spiegel durch-\ngeführt werden und bei bestehendem Mangel ein \nAusgleich stattfinden [24].\nVitamin E, A und C\nVitamin E und C sowie β-Carotin werden in Verbindung \nmit Wirkungen zur Verbesserung der Immunfunktion ge-\nbracht [2]. Aufgrund von erhöhtem oxidativem Stress bei \nDiabetes mellitus, im Besonderen bei schlecht eingestell-\nter Stoffwechsellage, stellt sich die Frage, inwiefern eine \ngesteigerte Zufuhr von Antioxidanzien sich vorteilhaft aus-\nwirken kann [20].\nWenngleich eine langfristige Supplementierung von Vi -\ntamin E und C die Glykierung von Hämoglobin zu verrin -\ngern scheint [25], besteht ebenso das Risiko für negative \nFolgen durch die Supplementierung mit Antioxidanzien. \nInsgesamt scheint der Nutzen bezüglich des Glukosestoff-\nwechsels eingeschränkt und eine Supplementierung kann \nnicht empfohlen werden [6][17].\nSchlussfolgerungen\nDie Entstehung und der Verlauf des Typ-2-Diabetes melli-\ntus beschreiben einen vielschichtigen Krankheitsprozess \naus einem Komplex verschiedener Ursachen sowie Neben- \nund Folgeerkrankungen mit Auswirkungen auf eine indi -\nviduelle Erkrankungssituation [13].\nDer Glukosestoffwechsel wird durch eine Vielzahl phy-\nsiologischer Prozesse gesteuert [13], an denen in un -\nterschiedlicher Weise Mikronährstoffe beteiligt sind. \nEin Ungleichgewicht von Vitaminen, Mineralstoffen und \nSpurenelementen kann zusätzlich zu Störungen der Stoff-\nwechselfunktionen führen und die adäquate Therapie des \nT2DM weiter erschweren sowie Komplikationen verursa -\nchen. Dabei nimmt auch der Erkrankungszustand selbst, \nmit Hyperglykämie und -insulinämie, Einfluss auf Plasma-\nkonzentrationen von Mikronährstoffen [9].\nFolglich besteht ein begründeter Verdacht, wonach mit-\ntels einer ausreichenden Versorgung mit Mikronährstoffen \ntherapeutische Vorteile erzielt und Risiken für Folgekom -\nplikationen reduziert werden können. Dabei sollte die in -\ndividuelle Ernährungsweise den Bedarf an Vitaminen, Mi -\nneralstoffen sowie Spurenelementen decken, weshalb die \nLebensmittelauswahl entsprechend modifiziert werden \nsollte [6]. Darüber hinaus ist es möglich, den individuellen \nVersorgungsstatus mit Mikronährstoffen über Blut- und \nUrinanalysen zu bestimmen und Ableitungen zu treffen, \nob ein Mangel vorliegt, welcher durch Supplemente aus -\ngeglichen werden sollte [26].\nDie Vorteile von Mikronährstoffergänzungen über Supple-\nmente sind derzeit über Studien nicht ausreichend abge -\nsichert [17]. Studien, die Auswirkungen der Nährstoffauf-\nnahme überprüfen, haben im Vergleich zu Medikamen -\ntenwirkungen häufig nur einen geringen messbaren Effekt \nund unterliegen erheblichen Einflüssen auf das Messer-\ngebnis [7]. Dabei sind untersuchte Stichproben teilweise \nRegelmäßige Kontrollen empfohlen: Patienten mit Typ-2-Diabetes sollten unter einer Therapie mit Metformin eventuell Vitamin \nB12 supplementieren. Foto: bit24/Adobe Stock\nHeruntergeladen von: Zürcher Hochschule für Angewandte Wissenschaften. Urheberrechtlich geschützt.\n",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "7c42be85-f491-4833-be43-1e02b66ce528",
+        "embedding": null,
+        "metadata": {
+            "page_label": "188",
+            "file_name": "Ernährung_bei_diabetes_mellitus_Typ_2.pdf",
+            "file_path": "../data/raw/Ernährung_bei_diabetes_mellitus_Typ_2.pdf",
+            "file_type": "application/pdf",
+            "file_size": 888259,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "188 Fiederling U. Ernährung bei Diabetes   ... Ernährung & Medizin 2019; 34: 184–189\nPraxis\nauch dem Einfluss der Basistherapie sowie oraler Antidia -\nbetika unterworfen, was die Ergebnisinterpretation wei -\nter erschwert [7].\nEs besteht weiterer Forschungsbedarf, um komplexe Wirk-\nweisen einzelner Mikronährstoffe, aber auch deren Wech-\nselbeziehungen weiter zu erforschen und um zu evidenz -\nbasierten Empfehlungen zu gelangen.\nWerden zukünftig Supplementierungen von Vitaminen, \nMineralstoffen und Spurenelementen durch eindeutige \nForschungsergebnisse empfehlenswert, hätte dies deutli-\nche Auswirkungen auf die Therapie des Typ-2-Diabetes [2].\nBedeutsam ist stets die Berücksichtigung der individuellen \nGesamtsituation, sodass sich etwa bei einer fortgeschrit-\ntenen Nephropathie auch die Zufuhrempfehlung für Na -\ntrium, Kalium, Phosphat, aber auch Kalzium ändert [1]. \nDaneben ist die Einnahme von Nährstoffsupplementen für \neinige Patientengruppen mit T2DM bereits empfehlens -\nwert, wozu Immunsupprimierte, Schwangere, Stillende \noder geriatrische Menschen zählen [6][17].\nDa T2DM häufig im Zuge des metabolischen Syndroms mit \nAdipositas, Hypertonie und Dyslipidämie auftritt, ist eine \nVeränderung des Lebensstils hinsichtlich einer ausgewo -\ngenen Ernährung und gesteigerter körperlicher Aktivität \nmit vielerlei Vorteilen verbunden [13]. Durch damit ein-\nhergehende Veränderungen kann bereits eine Modifikati-\non der Mikronährstoffaufnahme erreicht werden. Ursäch-\nlich für das metabolische Syndrom kann unter anderem \neine Überernährung mit energiedichten Nahrungsmitteln \nsein, die häufig viel Fett und niedermolekulare Kohlenhy-\ndrate enthalten. Werden solche Lebensmittel gegen eine \nabwechslungsreiche Speisenauswahl aus allen Lebensmit-\ntelgruppen mit viel Gemüse, Obst und Vollkornproduk-\nten ersetzt, kann neben einer geringeren Energiezufuhr \ngleichzeitig die Mikronährstoffaufnahme verbessert wer-\nden. Dies lässt sich beispielsweise mit einer energieredu-\nzierten Mischkost oder aber der Mittelmeerdiät erreichen. \nBei einer Ernährungsanpassung, welche die Energiezufuhr \nauf weniger als 1200 kcal pro Tag einschränkt, ist eine aus-\nreichende Versorgung mit Mikronährstoffen jedoch nicht \ngegeben [19]. Höfler und Sprengart weisen zudem darauf \nhin, dass bei Adipösen oftmals ein Mikronährstoffmangel \nvorliegt und eine Supplementierung dennoch nur bei stark \nausgeprägten Mängeln oder einseitiger Ernährungsweise \nerfolgen sollte [19]. Ebenso wird die Aufnahme von Mi -\nkronährstoffen über Nahrungsergänzungsmittel bei Men-\nschen mit Diabetes ohne zugrunde liegenden Mangel nicht \nempfohlen [17].\nInteressenkonflikt\nDie Autorin erklärt, dass kein Interessenkonflikt besteht.\nAutorin\nUte Fiederling\nUte Fiederling, Jahrgang 1994, ist Angestellte \nder Diabetesberatung in der Diabetes-Klinik \nBad Mergentheim. Mit der Ausbildung zur \nDiätassistentin an der Berufsfachschule für \nDiätassistenten am Uniklinikum Würzburg \nbelegte sie den dualen Studiengang Diätetik \nan der Hochschule Fulda. Schon während der Ausbildung lag \ndas Interesse verstärkt auf dem Krankheitsbild Diabetes \nmellitus. Nach erfolgreichem Abschluss arbeitete sie zunächst \nbei den Neckar-Odenwald-Kliniken in Mosbach, seit Februar \n2019 ist sie in der Diabetes-Klinik Bad Mergentheim tätig.\nKorrespondenzadresse\nUte Fiederling\nDiabetes-Klinik Bad Mergentheim\nTheodor-Klotzbücher-Straße 12\n97980 Bad Mergentheim\nE-Mail: diabetesberater@diabetes-zentrum.de\nLiteratur\n[1] Bundesärztekammer (BÄK), Kassenärztliche Bundesver -\neinigung (KBV), Arbeitsgemeinschaft der Wissenschaftlichen \nMedizinischen Fachgesellschaften (AWMF) (2014). Nationale \nVersorgungsLeitlinie Therapie des Typ-2-Diabetes – Lang-\nfassung, 1. Auflage. Version 4. 2013, zuletzt geändert: \nNovember 2014. Im Internet: www.dm-therapie.versor -\ngungsleitlinien.de; zuletzt eingesehen am 14.10.2019\n[2] Gariballa S, Afandi B, Haltem MA et al. Effect of antioxidants \nand B-group vitamins on risk of infections in patients with \ntype 2 diabetes mellitus. Nutrients 2013; 5: 711–724\n[3] Adulcikas J, Sonda S, Norouzi S et al. Targeting the zinc trans -\nporter ZIP7 in the treatment of insulin resistance and type 2 \ndiabetes. Nutrients 2019; 11: E408\n[4] Weser G. Ernährungsmedizin bei Typ-2-Diabetes – die \naktuelle Studienlage. Weit mehr als eine Versorgung des \nKörpers mit Nährstoffen. Diabetes Aktuell 2015; 13: 27–30\n[5] Schneider A. Mangelernährung bei Adipositas. Epidemiolo -\ngie, Diagnostik und Therapie. Aktuelle Ernährungsmed 2008; \n33: 280–283\n[6] Schindler K, Ludvik B. Ernährungsempfehlungen bei Diabetes \nmellitus. Österreichische Diabetes Gesellschaft, Hrsg. Dia-\nbetes mellitus – Anleitungen für die Praxis. Überarbeitete \nund erweiterte Fassung 2012. Wien: Klin Wochenschr 2012; \n124 (Suppl 2): 79–83\n[7] Costello RB, Dwyer JT, Bailey RL. Chromium supplements \nfor glycemic control in type 2 diabetes: limited evidence of \neffectiveness. Nutrition Reviews 2016; 74: 455–468\n[8] Brandão-Lima PN, Barbosa de Carvalho G, Fonseca Santos RK \net al. Intakes of zinc, potassium, calcium, and magnesium of \nindividuals with type 2 diabetes mellitus and the relationship \nwith glycemic control. Nutrients 2018; 10: 1948\n[9] Sobczak AIS, Stefanowicz F, Pitt SJ et al. Total plasma mag -\nnesium, zinc, copper and selenium concentrations in type-I \nand type-II diabetes. Biometals 2019; 32: 123–138\nHeruntergeladen von: Zürcher Hochschule für Angewandte Wissenschaften. Urheberrechtlich geschützt.\n",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    },
+    {
+        "id_": "00556266-2118-4d98-b65c-6fe15315a70b",
+        "embedding": null,
+        "metadata": {
+            "page_label": "189",
+            "file_name": "Ernährung_bei_diabetes_mellitus_Typ_2.pdf",
+            "file_path": "../data/raw/Ernährung_bei_diabetes_mellitus_Typ_2.pdf",
+            "file_type": "application/pdf",
+            "file_size": 888259,
+            "creation_date": "2024-12-12",
+            "last_modified_date": "2024-12-12"
+        },
+        "excluded_embed_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "excluded_llm_metadata_keys": [
+            "file_name",
+            "file_type",
+            "file_size",
+            "creation_date",
+            "last_modified_date",
+            "last_accessed_date"
+        ],
+        "relationships": {},
+        "text": "189Fiederling U .  Er nährung bei Diabetes   ...  Er nährung & Medizin 2019; 34: 184–189\n[10] Y in RV, Phung OJ. Effect of chromium supplementation on \nglycated hemoglobin and fasting plasma glucose in patients \nwith diabetes mellitus. Nutrition Journal 2015; 14: 14\n[11] K\nohler LN, Foote J, Kelley CP et al. Selenium and type 2 dia -\nbetes: Systematic review. Nutrients 2018; 10: 1924\n[12] D\neutsche Gesellschaft für Ernährung e.\n V\n. (DGE). Selen. \nSchätzwerte für eine an-gemessene Zufuhr. Im Internet: \nhttps://www.dge.de/wissenschaft/referenzwerte/selen/; \nzuletzt eingesehen am 13.10.2019\n[13] K\nasper H, Burghardt W. Ernährungsmedizin und Diätetik. \n12.\n A\nufl. München: Urban\n &\n F\nischer; 2014: 75ff., 304ff.\n[14] S\noliman AT, De Sanctis V, Yassin M, Soliman N. Iron \ndeficiency anemia and glucose metabolism. Acta Biomed\n2017; 88: 112–118\n[15] Chr\nisty AL, Manjrekar PA, Babu RP et al. Influence of iron \ndeficiency anemia on hemoglobin A1C levels in diabetic \nindividuals with controlled plasma glucose levels. Iranian \nBiomed J 2014; 18: 88–93\n[16] Zhou Q, Guo W\n, Jia Y, Xu J. Comparison of chromium and \niron distribution in serum and urine among healthy people \nand prediabetes and diabetes patients. BioMed Research Int\n2019 (3801639): 1–8\n[17] E\nvert AB, Boucher JL, Cypress M et al. Nutrition Therapy \nRecommendations for the Management of Adults With Dia -\nbetes. Diabetes Care 2014; 37: S120–S143\n[18]\n Mic\nha R, Peñalvo JL, Cudhea F et al. Association between die-\ntary factors and mortality from heart disease, stroke, and type \n2 di\nabetes in the United States. JAMA 2017; 317: 912–924\n[19] Hö\nfler E, Sprengart P. Praktische Diätetik. Grundlagen, Ziele \nund Umsetzung der Ernährungstherapie. 2.\n A\nufl. Stuttgart: \nWissenschaftliche Verlagsgesellschaft; 2018: 344ff., 366, \n427ff., 592ff\n[20] Bar\nbagallo M, Dominguez LJ. Magnesium and type 2 dia -\nbetes. World J Diabetes 2015; 6: 1152–1157\n[21] Hu Z\n, Chern J, Sun X et al. Efficacy of vitamin D supplementa -\ntion on glycemic control in type 2 diabetes patients. A meta-\nanal\nysis of interventional studies. Medicine 2019; 98: 1–7\n[22] Li X\n, Liu Y, Zheng Y et al. The effect of vitamin D supple -\nmentation on glycemic control in type 2 diabetes patients: \nA s\nystematic review and meta-analysis. Nutrients 2018; 10:\n375\n[23] Ahmed M\nA. Metformin and vitamin B 12 deficiency: Where do\nwe stand? J Pharm Pharm Sci 2016; 19: 382–398\n[24] H\nasan NU, Makki MU, Abid I, Abid Butt MUR. Association of \nvitamin B12 deficiency with intake of oral met-formin in dia -\nbetic patients. J Ayub Med Coll Abbottabad 2019; 31: 72–75\n[25] R\noden M. Diabetes mellitus\n \n–\n \nDefinition, Klassifikation und \nDiagnose. In: Österreichische Diabetes Gesellschaft, Hrsg. \nDiabetes mellitus\n \n–\n \nAnleitungen für die Praxis. Überarbeitete \nund erweiterte Fassung 2012.\n W\nien: Klin Wochenschr 2012; \n124 (Suppl 2): 1-–3\n[26] D\neutsche Gesellschaft für Ernährung e.\n V\n. (DGE) (2012). \nDeutschland ist kein Vitaminmangelland. Im Internet: \nhttps://www.dge.de/uploads/media/DGE-Pressemeldung-\nAdW-02-2012-Stellungnahme-Vitaminversorgung.pdf, \nzuletzt eingesehen am 20.10.2019\nHeruntergeladen von: Zürcher Hochschule für Angewandte Wissenschaften. Urheberrechtlich geschützt.\n",
+        "mimetype": "text/plain",
+        "start_char_idx": null,
+        "end_char_idx": null,
+        "text_template": "{metadata_str}\n\n{content}",
+        "metadata_template": "{key}: {value}",
+        "metadata_seperator": "\n"
+    }
+]

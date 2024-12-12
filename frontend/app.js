@@ -52,7 +52,7 @@ createApp({
         });
 
         const data = await res.json();
-
+        
         // Temporäre Nachricht entfernen
         chatMessages.value = chatMessages.value.filter(msg => !msg.temporary);
 
