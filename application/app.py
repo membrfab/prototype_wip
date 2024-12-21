@@ -12,7 +12,7 @@ openAIclient, chromaDBclient, model, parser, pdf_path, json_path, collection_nam
 ######################
 # Flask-App initialisieren
 app = Flask(__name__)
-CORS(app)
+CORS(app, origins=["http://nutribot.membrino.ch"])
 
 # Endpoint für Benutzerabfragen
 @app.route('/query', methods=['POST'])
