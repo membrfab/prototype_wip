@@ -13,7 +13,7 @@ openAIclient, chromaDBclient, model, parser, pdf_path, json_path, collection_nam
 ######################
 # Flask-App initialisieren
 app = Flask(__name__)
-CORS(app, origins=["https://nutribot.membrino.ch"])
+CORS(app, origins=["https://nutribot.membrino.ch"], methods=["GET", "POST", "OPTIONS"], allow_headers=["Content-Type", "Authorization"])
 
 # Endpoint für Benutzerabfragen
 @app.route('/query', methods=['POST'])
@@ -25,7 +25,7 @@ def query_endpoint():
         return jsonify({"error": "Die Anfrage darf nicht leer sein"}), 400
 
     # Benutzeranfrage verarbeiten
-    response, sources = process_user_query(user_query, chromaDBclient, openAIclient, collection_name, user_id=2)
+    response, sources = process_user_query(user_query, chromaDBclient, openAIclient, collection_name, user_id=1)
 
     # Antwort und Quellen zurückgeben
     return jsonify({
