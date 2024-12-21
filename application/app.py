@@ -3,16 +3,23 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 from config import config
 from service.user_query import process_user_query
+from database.store import setup_collection, store_documents
 
 # Initialisierung
 print("Initialisiere Clients & Starte Webserver...")
 openAIclient, chromaDBclient, model, parser, pdf_path, json_path, collection_name, sections_path = config()
+
+# ChromaDB-Collection initialisieren
+setup_collection(chromaDBclient, collection_name, model)
+store_documents(sections_path, pdf_path, model, chromaDBclient.get_collection(collection_name))
+print("Dokumente erfolgreich in ChromaDB gespeichert.")
 
 ######################
 ### Flask-Server  ###
 ######################
 # Flask-App initialisieren
 app = Flask(__name__)
+#CORS(app)
 CORS(app, origins=["https://nutribot.membrino.ch"], methods=["GET", "POST", "OPTIONS"], allow_headers=["Content-Type", "Authorization"])
 
 # Endpoint für Benutzerabfragen
@@ -39,5 +46,5 @@ def home():
 
 # Flask-Server starten
 if __name__ == '__main__':
-    port = int(os.environ.get('PORT', 5000))
-    app.run(host='0.0.0.0', port=port)
+    port = int(os.environ.get('PORT', 5001))
+    app.run(host='0.0.0.0', port=port, debug=True)

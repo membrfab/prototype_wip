@@ -21,10 +21,10 @@ def config():
     )
 
     # Pfade definieren
-    pdf_path = "../data/raw"
-    json_path = "../data/parsed"
-    embeddings_path = "../data/embeddings"
-    sections_path = "../data/sections"
+    pdf_path = "data/raw"
+    json_path = "data/parsed"
+    embeddings_path = "data/embeddings"
+    sections_path = "data/sections"
 
     # ChromaDB-Client initialisieren
     collection_name = "nutrition_papers"

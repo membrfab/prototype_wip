@@ -6,7 +6,7 @@ from service.user_data import get_user_data
 def process_user_query(user_query, chromaDBclient, openAIclient, collection_name, user_id):
 
     # Benutzerdaten laden
-    user_data = get_user_data("../data/users/users.json", user_id)
+    user_data = get_user_data("data/users/users.json", user_id)
 
     # ChromaDB abfragen
     results = query_chromadb(user_query, chromaDBclient, collection_name, user_data)
