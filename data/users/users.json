@@ -19,7 +19,6 @@
         "weight_kg": 92,
         "fitness_goal": "Muskelaufbau",
         "allergies": ["Laktose"],
-        "medical_conditions": ["Bluthochdruck", "Diabetes"]
+        "medical_conditions": ["Bluthochdruck"]
     }
 ]
-

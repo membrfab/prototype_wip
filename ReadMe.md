@@ -1,0 +1,5 @@
+- Das Projekt wurde mit Python 3.11 aufgebaut und läuft in einer Virtuellen Umgebung
+- Die Datenverarbeitung wird via Jupyter-Notebook processing.ipynb durchgeführt
+- Die API wird über die Konsole mit dem Befehl "python application/app.py" gestartet
+- Das Frontend wird gestartet, in dem man die Datei "index.html" im Browser öffnet
+- Der PC muss mit dem Internet verbunden sein, damit das Frontend funktioniert
