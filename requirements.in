@@ -8,3 +8,4 @@ pip-tools
 flask
 flask_cors
 markdown
+Gunicorn
