@@ -1,4 +1,4 @@
-def query_chromadb(query_text, chromaDBclient, collection_name, user_data, n_results=5):
+def query_chromadb(query_text, chromaDBclient, collection_name, user_data, n_results=8):
     try:
         # Benutzerinformationen in den Abfragetext einbinden
         user_context = (
@@ -7,10 +7,11 @@ def query_chromadb(query_text, chromaDBclient, collection_name, user_data, n_res
             f"Erkrankungen: {', '.join(user_data['medical_conditions'])}.\n\n"
         )
         query_text = f"Frage: {query_text} Benutzerinformationen: {user_context}"
-        
+
         # ChromaDB-Abfrage ausführen
         collection = chromaDBclient.get_collection(collection_name)
         results = collection.query(query_texts=[query_text], n_results=n_results)
+
         return results
     except Exception as e:
         print(f"Fehler bei der Abfrage von ChromaDB: {e}")

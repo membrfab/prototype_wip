@@ -9,18 +9,18 @@ from database.store import setup_collection, store_documents
 print("Initialisiere Clients & Starte Webserver...")
 openAIclient, chromaDBclient, model, parser, pdf_path, json_path, collection_name, sections_path = config()
 
-# ChromaDB-Collection initialisieren
+# Dokumente in ChromaDB speichern
 setup_collection(chromaDBclient, collection_name, model)
 store_documents(sections_path, pdf_path, model, chromaDBclient.get_collection(collection_name))
 print("Dokumente erfolgreich in ChromaDB gespeichert.")
+print("\nDokumente erfolgreich verarbeitet.")
 
 ######################
 ### Flask-Server  ###
 ######################
 # Flask-App initialisieren
 app = Flask(__name__)
-#CORS(app)
-CORS(app, origins=["https://nutribot.membrino.ch"], methods=["GET", "POST", "OPTIONS"], allow_headers=["Content-Type", "Authorization"])
+CORS(app)
 
 # Endpoint für Benutzerabfragen
 @app.route('/query', methods=['POST'])
@@ -46,6 +46,6 @@ def home():
 
 # Flask-Server starten
 if __name__ == '__main__':
-    port = int(os.environ.get('PORT', 5000))
+    port = int(os.environ.get('PORT', 5001))
     print(f"Starting Flask server on port {port}")
     app.run(host='0.0.0.0', port=port)

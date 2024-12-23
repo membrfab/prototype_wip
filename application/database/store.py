@@ -5,15 +5,19 @@ from service.chunking import split_document
 
 ### Sammlung löschen und neu erstellen
 def setup_collection(chromaDBclient, collection_name, model):
-    # Liste vorhandener Collections abrufen
     collections = chromaDBclient.list_collections()
     collection_names = [coll.name for coll in collections]
     
-    # Collection löschen, falls vorhanden
-    if collection_name in collection_names:
-        print(f"Lösche bestehende Collection: {collection_name}...")
-        chromaDBclient.delete_collection(collection_name)
-        print(f"Collection '{collection_name}' erfolgreich gelöscht.")
+    # Collection nur erstellen, wenn sie nicht existiert
+    if collection_name not in collection_names:
+        print(f"Erstelle neue Collection: '{collection_name}'...")
+        collection = chromaDBclient.create_collection(name=collection_name)
+        print(f"Neue Collection '{collection_name}' wurde erfolgreich erstellt.")
+    else:
+        print(f"Collection '{collection_name}' existiert bereits. Kein erneutes Erstellen erforderlich.")
+        collection = chromaDBclient.get_collection(collection_name)
+
+    return collection
     
     # Überprüfen der Embedding-Dimension des Modells
     embedding_dim = len(model.encode("Test"))
